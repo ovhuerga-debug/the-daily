@@ -236,6 +236,28 @@ AGENDA_QUERIES=[
  ("Cine","Madrid festivales cine ciclos especiales filmoteca when:14d"),
 ]
 
+
+# Madrid POP: editorial discovery only for events in the Community of Madrid.
+# These are news announcements, not assertions of ticket availability.
+MADRID_POP_QUERIES=[
+ ("Conciertos","Madrid conciertos nueva fecha gira entradas preventa anunciados when:7d"),
+ ("Conciertos","Madrid festival música cartel anunciado entradas venta when:14d"),
+ ("Teatro y musicales","Madrid estreno teatro musical entradas nueva temporada when:10d"),
+ ("Exposiciones","Madrid exposición museo inauguración próximas fechas when:10d"),
+ ("Cine y estrenos","Madrid festival cine preestreno filmoteca programación when:10d"),
+ ("Arte y cultura","Comunidad de Madrid agenda cultura nuevas actividades when:7d"),
+ ("Entradas a la venta","Madrid entradas salen a la venta preventa concierto musical exposición when:10d"),
+ ("Planes futuros","Alcorcón Móstoles Getafe Leganés Alcalá de Henares cultura conciertos exposiciones when:14d"),
+]
+MADRID_POP_TERMS=("madrid","madrileñ","alcorcón","mostoles","móstoles","getafe","leganés","fuenlabrada","alcobendas","san sebastián de los reyes","san sebastian de los reyes","pozuelo","majadahonda","torrejón","torrejon","alcalá de henares","alcala de henares","aranjuez","chinchón","chinchon","collado villalba","las rozas","villaviciosa de odón","villaviciosa de odon","rivas vaciamadrid","navalcarnero")
+MADRID_POP_EVENT_TERMS=("concierto","festival","exposición","exposicion","museo","musical","teatro","estreno","entradas","preventa","gira","actuación","actuacion","espectáculo","espectaculo","recital","inaugura","programación","programacion","agenda","actuará","actuara","visita guiada","cine","ópera","opera","danza")
+def madrid_pop_relevant(story):
+ title=(story.get("title") or "").lower()
+ summary=(story.get("summary") or "").lower()
+ text=title+" "+summary
+ # An explicit regional reference and event context are required.
+ return any(t in text for t in MADRID_POP_TERMS) and any(t in text for t in MADRID_POP_EVENT_TERMS)
+
 def main():
  now=dt.datetime.now(dt.timezone.utc)
  hour=int(os.environ.get("EDITION_HOUR", "8"))
@@ -338,6 +360,24 @@ def main():
    story["region"]=story.get("region") or culture_region(story)
    story["cultureView"]=story.get("cultureView") or culture_view(story)
    story.pop("agendaSource",None)
+ # Discover Madrid-only cultural announcements and upcoming ticket releases.
+ madrid_pop_seen=set()
+ for topic,query in MADRID_POP_QUERIES:
+  try:
+   candidates=fetch("eventos","Madrid POP",google_news(query,"es"),"es",topic)
+   count=0
+   for story in candidates:
+    if count>=8:break
+    if not madrid_pop_relevant(story):continue
+    key=story["sources"][0]["url"].split("?")[0]
+    if key in madrid_pop_seen:continue
+    madrid_pop_seen.add(key)
+    story["region"]="Madrid"
+    story.pop("_sort",None)
+    allstories.append(story)
+    count+=1
+   print("Madrid POP",topic,count)
+  except Exception as e:print("Madrid POP unavailable:",topic,str(e)[:120])
  # Fill missing photos using the original publisher's OG image, with a strict
  # request budget. Google News links are skipped because they are not article URLs.
  photo_budget=45
