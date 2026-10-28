@@ -71,6 +71,7 @@ body.television input,body.television select{color:#202020}
 @media(max-width:520px){header{padding:18px 12px 12px}.brand{font-size:32px}nav{position:static}nav button{flex:1 1 30%;min-width:0;padding:12px 5px;font-size:11px}.tools{flex-wrap:wrap}.tools input{flex-basis:100%;font-size:16px}.tools select{width:100%;font-size:16px}main{padding:14px 16px 90px}.section{font-size:30px}h2{font-size:23px}.source-button{min-height:44px}.subnav button{min-height:42px}}
 @media(min-width:700px){.brand{font-size:52px}h2{font-size:30px}main{padding:35px}}
 
+.culture-mode{display:flex;gap:9px;flex-wrap:wrap;width:100%;margin:10px 0 15px;padding:7px;background:#ede5ef;border-radius:15px}.culture-mode button{flex:1;min-width:150px;border:0!important;border-radius:11px!important;padding:14px 16px!important;font-size:14px;font-weight:700;background:transparent!important}.culture-mode button.selected{background:#873b92!important;color:#fff!important;box-shadow:0 3px 12px #873b9230}.culture-mode button:not(.selected){color:#583761!important}
 /* THE DAILY · Editorial redesign */
 :root{font-family:Inter,"Helvetica Neue",Arial,sans-serif;font-synthesis:none}
 body{background:#f3f0e9;color:#1c2428}
@@ -174,7 +175,7 @@ const demo=[
 ];
 
 let active="espana";
-let categoryFilter="all";let regionFilter="all";
+let categoryFilter="all";let regionFilter="all";let cultureMode="noticias";
 let languageFilter="all";
 let stories=demo;
 let translationCache={};
@@ -195,7 +196,7 @@ const bilingual=true;
 const regionChoices=[["all","🌍 Todas las zonas"],["Madrid","📍 Madrid"],["España","🇪🇸 España"],["Internacional","🌐 Internacional"]];
 const categories=["all","Música","Cine","Teatro","Cultura general"];
 $("categories").style.display=categorized?"flex":"none";
-$("categories").innerHTML=categorized?`<div class="culture-filter-label">Temas</div><div class="culture-filter-row">${categories.map(c=>`<button data-category="${c}" class="${categoryFilter===c?"selected":""}">${c==="all"?"Todas":c}</button>`).join("")}</div><div class="culture-filter-label">Ubicación · primero Madrid, después España</div><div class="culture-filter-row">${regionChoices.map(([id,name])=>`<button data-region="${id}" class="${regionFilter===id?"selected":""}">${name}</button>`).join("")}</div>`:"";
+$("categories").innerHTML=categorized?`<div class="culture-mode"><button data-culture-mode="noticias" class="${cultureMode==="noticias"?"selected":""}">Actualidad cultural</button><button data-culture-mode="agenda" class="${cultureMode==="agenda"?"selected":""}">Agenda · Qué hacer</button></div><div class="culture-filter-label">Temas</div><div class="culture-filter-row">${categories.map(c=>`<button data-category="${c}" class="${categoryFilter===c?"selected":""}">${c==="all"?"Todas":c}</button>`).join("")}</div><div class="culture-filter-label">Ubicación · primero Madrid, después España</div><div class="culture-filter-row">${regionChoices.map(([id,name])=>`<button data-region="${id}" class="${regionFilter===id?"selected":""}">${name}</button>`).join("")}</div>`:"";
 $("languages").style.display=bilingual?"flex":"none";
 $("languages").innerHTML=bilingual?[["all","Ambos idiomas"],["es","En español"],["en","In English"]].map(([id,name])=>`<button data-lang="${id}" class="${languageFilter===id?"selected":""}">${name}</button>`).join(""):"";
 let s=sections.find(x=>x.id===active);
@@ -208,6 +209,7 @@ $("notice").style.display=live?"none":"block";
 let q=$("search").value.toLocaleLowerCase("es");
 let items=stories.filter(n=>n.section===active)
 .filter(n=>(n.title+" "+n.summary+" "+(n.translationEs||"")+" "+n.category).toLocaleLowerCase("es").includes(q))
+.filter(n=>!categorized||(n.cultureView||"noticias")===cultureMode)
 .filter(n=>!categorized||categoryFilter==="all"||n.topic===categoryFilter)
 .filter(n=>!categorized||regionFilter==="all"||(n.region||"Internacional")===regionFilter)
 .filter(n=>!bilingual||languageFilter==="all"||(n.language||"es")===languageFilter)
@@ -236,9 +238,10 @@ ${n.section==="viral"&&n.videoUrl&&validUrl(n.videoUrl)?`<a class="video-link" t
 }
 $("tabs").addEventListener("click",e=>{
 let b=e.target.closest("[data-tab]");
-if(b){active=b.dataset.tab;categoryFilter="all";regionFilter="all";languageFilter="all";$("search").value="";render()}
+if(b){active=b.dataset.tab;categoryFilter="all";regionFilter="all";cultureMode="noticias";languageFilter="all";$("search").value="";render()}
 });
 $("categories").addEventListener("click",e=>{let b=e.target.closest("[data-category]");if(b){categoryFilter=b.dataset.category;render()}});
+$("categories").addEventListener("click",e=>{let mode=e.target.closest("[data-culture-mode]");if(mode){cultureMode=mode.dataset.cultureMode;render()}});
 $("categories").addEventListener("click",e=>{let b=e.target.closest("[data-region]");if(b){regionFilter=b.dataset.region;render()}});
 $("languages").addEventListener("click",e=>{let b=e.target.closest("[data-lang]");if(b){languageFilter=b.dataset.lang;render()}});
 $("articles").addEventListener("click",async e=>{
