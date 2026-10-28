@@ -112,6 +112,24 @@ def child(el,names):
   v=el.findtext(name)
   if v:return v
  return ""
+def story_image(item):
+ # Only publisher-provided RSS imagery; never use a generic unrelated photo.
+ candidates=[]
+ for element in item.iter():
+  tag=element.tag.rsplit("}",1)[-1].lower()
+  if tag in ("thumbnail","content","enclosure","image"):
+   u=element.attrib.get("url","") or element.attrib.get("href","")
+   mime=element.attrib.get("type","")
+   if u and (tag!="enclosure" or mime.startswith("image/")):
+    candidates.append(u)
+  if tag=="image":
+   v=element.findtext("url")
+   if v:candidates.append(v)
+ for u in candidates:
+  if u.startswith("https://") or u.startswith("http://"):
+   if not re.search(r"\\.(svg|gif)(?:[?#]|$)",u,re.I):return u
+ return ""
+
 def dateparse(s):
  try:
   d=email.utils.parsedate_to_datetime(s)
@@ -148,6 +166,7 @@ def fetch(section,source,url,language=None,topic=None):
   published=dateparse(child(item,["pubDate","a:updated","a:published","{http://purl.org/dc/elements/1.1/}date"]))
   result.append({"id":section+"|"+link,"section":section,"category":source,"title":title[:250],
    "summary":(excerpt[:360].rstrip()+"…" if len(excerpt)>360 else excerpt) or "Lee la noticia completa en la fuente original.",
+   "image":story_image(item),
    "publishedAt":published[:16].replace("T"," ")+" UTC" if published else "",
    "_sort":published,"language":language,"topic":topic,"verification":"fuente identificada; no contrastada independientemente","sources":[{"name":source,"url":link}]})
  return result
