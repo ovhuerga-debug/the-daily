@@ -72,6 +72,7 @@ EXTRA_FEEDS={
 CURATED_SOURCES={
  "espana":[
  ("Agencia EFE","efe.com","es"),("La Vanguardia","lavanguardia.com","es"),
+ ("La Razón","larazon.es","es"),
  ("20minutos","20minutos.es","es"),("El Español","elespanol.com","es"),
  ("Cinco Días","cincodias.elpais.com","es")],
  "mundo":[
