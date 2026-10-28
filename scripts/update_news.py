@@ -462,28 +462,35 @@ def main():
  # Verified upcoming programme highlights from the Madrid tourism calendar.
  # Only include while the dated event has not passed; official calendar is the source.
  OFFICIAL_FUTURE_EVENTS=[
-  ("Duran Duran en concierto","2026-11-06","Movistar Arena","Conciertos"),
-  ("Bryan Adams en Madrid","2026-11-10","Movistar Arena","Conciertos"),
-  ("Vetusta Morla: gira de vuelta","2026-11-19","Movistar Arena","Conciertos"),
-  ("75 aniversario de Camarón","2026-12-01","Movistar Arena","Conciertos"),
-  ("Mon Laferte: Femme Fatale","2027-01-13","Movistar Arena","Conciertos"),
-  ("Muse en Madrid","2027-01-19","Movistar Arena","Conciertos"),
-  ("Sara Baras: Infinita","2027-02-04","Teatro Gran Vía","Teatro y musicales"),
-  ("Siloé en concierto","2027-03-12","Movistar Arena","Conciertos"),
-  ("La Casa Azul en concierto","2027-03-05","Movistar Arena","Conciertos"),
-  ("7 minutos, con Blanca Portillo","2027-03-18","Teatro Español","Teatro y musicales"),
-  ("The World of Hans Zimmer","2027-05-14","Movistar Arena","Conciertos"),
-  ("Karol G en Madrid","2027-06-24","Estadio Metropolitano","Conciertos"),
+  ("Carolina Durante","2027-01-08","Movistar Arena","Conciertos","https://www.movistararena.es/programacion/"),
+  ("Mon Laferte: Femme Fatale","2027-01-13","Movistar Arena","Conciertos","https://www.movistararena.es/programacion/"),
+  ("Duncan Dhu","2027-01-16","Movistar Arena","Conciertos","https://www.movistararena.es/programacion/"),
+  ("Muse: The Wow! Signal Europa Tour","2027-01-19","Movistar Arena · también 20 enero","Conciertos","https://www.movistararena.es/programacion/"),
+  ("Tini","2027-01-26","Movistar Arena · también 27 y 28 enero","Conciertos","https://www.movistararena.es/programacion/"),
+  ("Sara Baras: Infinita","2027-02-04","Teatro Gran Vía · temporada hasta junio","Teatro y musicales","https://www.esmadrid.com/calendario-eventos-madrid"),
+  ("Alcalá Norte","2027-02-20","Movistar Arena","Conciertos","https://www.movistararena.es/programacion/"),
+  ("Kase.O: Camisa de Fuerza","2027-02-27","Movistar Arena","Conciertos","https://movistararena.es/noticias/kase-o-anuncia-concierto-en-el-movistar-arena-de-madrid-con-su-gira-camisa-de-fuerza-entradas-a-la-venta-el-12-de-junio"),
+  ("La Casa Azul","2027-03-05","Movistar Arena","Conciertos","https://www.movistararena.es/programacion/"),
+  ("Siloé","2027-03-12","Movistar Arena · también 13 marzo","Conciertos","https://www.movistararena.es/programacion/"),
+  ("Tash Sultana","2027-03-31","Movistar Arena","Conciertos","https://www.movistararena.es/programacion/"),
+  ("Simple Minds","2027-04-07","Movistar Arena","Conciertos","https://www.movistararena.es/programacion/"),
+  ("Thirty Seconds to Mars","2027-04-08","Movistar Arena","Conciertos","https://www.movistararena.es/programacion/"),
+  ("Quevedo: El Baifo Tour","2027-04-09","Movistar Arena · varias fechas en abril","Conciertos","https://www.movistararena.es/noticias/quevedo-volvera-al-movistar-arena-de-madrid-en-2027-con-dos-conciertos-para-presentar-el-baifo"),
+  ("Hilary Duff","2027-05-07","Movistar Arena","Conciertos","https://www.movistararena.es/programacion/"),
+  ("The World of Hans Zimmer","2027-05-14","Movistar Arena","Conciertos","https://www.movistararena.es/programacion/"),
+  ("Tannhäuser","2027-05-18","Teatro Real · varias fechas hasta junio","Teatro y musicales","https://www.esmadrid.com/calendario-eventos-madrid"),
+  ("La gaviota","2027-05-18","Teatro Español · hasta julio","Teatro y musicales","https://www.esmadrid.com/calendario-eventos-madrid"),
+  ("Tanztheater Wuppertal Pina Bausch","2027-06-11","Teatro Real · varias funciones","Teatro y musicales","https://www.esmadrid.com/calendario-eventos-madrid"),
+  ("PHotoESPAÑA 2027","2027-05-01","Varios espacios · mayo a septiembre; día exacto por confirmar","Exposiciones","https://www.esmadrid.com/calendario-eventos-madrid"),
  ]
- for name,date,venue,topic in OFFICIAL_FUTURE_EVENTS:
+ for name,date,venue,topic,link in OFFICIAL_FUTURE_EVENTS:
   if date<now.date().isoformat():continue
-  link="https://www.esmadrid.com/calendario-eventos-madrid"
   allstories.append({"id":"eventos|oficial|"+name,"section":"eventos","category":"Agenda oficial Madrid","title":name,
-   "summary":"Fecha anunciada: "+date+" · "+venue+". Consulta la programación oficial para horarios, cambios y disponibilidad de entradas.",
+   "summary":"Programación anunciada · "+venue+". Consulta la ficha oficial para horarios, cambios y disponibilidad de entradas.",
    "image":"","publishedAt":"","language":"es","topic":topic,"region":"Madrid",
    "eventDate":date,"eventVenue":venue,"popHorizon":"futuro",
-   "verification":"Programación publicada por Turismo Madrid; disponibilidad no verificada",
-   "sources":[{"name":"Turismo Madrid · calendario oficial","url":link}]})
+   "verification":"Fuente oficial; disponibilidad de entradas no verificada",
+   "sources":[{"name":"Programación oficial","url":link}]})
  # Editorial horizons: announcement status, not a verified event calendar.
  for story in allstories:
   if story["section"]!="eventos":continue
