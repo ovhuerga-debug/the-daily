@@ -469,7 +469,7 @@ const demo=[
 {section:"television",category:"Formatos",title:"Los nuevos formatos que viajan por el mundo",summary:"La sección seguirá lanzamientos de concursos, realities y dating shows, sus mecánicas, adaptaciones internacionales y tendencias de producción.",sources:[{name:"C21Media",url:"https://www.c21media.net/"},{name:"Realscreen",url:"https://realscreen.com/"}]}
 ];
 
-let active="espana";
+let active=new URLSearchParams(location.search).get("section")==="eventos"?"eventos":"espana";
 let categoryFilter="all";let regionFilter="all";let cultureMode="noticias";
 let languageFilter="all";
 let stories=demo;
@@ -497,6 +497,7 @@ $("languages").innerHTML=bilingual?[["all","Ambos idiomas"],["es","En español"]
 let s=sections.find(x=>x.id===active);
 document.body.className=active;
 $("tabs").innerHTML=sections.map(x=>`<button class="${x.id===active?"active":""}" data-tab="${x.id}">${x.name}</button>`).join("");
+if(active==="eventos" && !$("tabs").dataset.popShown){$("tabs").dataset.popShown="1";requestAnimationFrame(()=>document.querySelector('[data-tab="eventos"]')?.scrollIntoView({block:"nearest",inline:"center"}));}
 $("section").textContent=s.name;
 $("intro").textContent=s.desc+(s.target?" Objetivo editorial: "+s.target+" noticias.":"");
 $("edition").textContent=editionName;
