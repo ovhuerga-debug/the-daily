@@ -1,0 +1,31 @@
+name: Actualizar THE DAILY
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 8 * * *'
+      timezone: 'Europe/Madrid'
+    - cron: '0 21 * * *'
+      timezone: 'Europe/Madrid'
+permissions:
+  contents: write
+jobs:
+  edition:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generar edición RSS
+        env:
+          EDITION_HOUR: ${{ github.event.schedule == '0 21 * * *' && '21' || '8' }}
+        run: python scripts/update_news.py
+      - name: Publicar edición
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add editions/latest.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Actualizar edición THE DAILY"
+            git push
+          fi
