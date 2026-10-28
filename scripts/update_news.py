@@ -249,6 +249,21 @@ MADRID_POP_QUERIES=[
  ("Entradas a la venta","Madrid entradas salen a la venta preventa concierto musical exposición when:10d"),
  ("Planes futuros","Alcorcón Móstoles Getafe Leganés Alcalá de Henares cultura conciertos exposiciones when:14d"),
 ]
+# Specialist Madrid guides and cultural venues: source-specific Google News feeds.
+MADRID_POP_GUIDES=[
+ ("Time Out Madrid","timeout.es/madrid","Planes y ocio"),
+ ("Guía del Ocio","guiadelocio.com","Planes y ocio"),
+ ("Madrid Secreto","madridsecreto.co","Planes y ocio"),
+ ("El Oso","eloso.es","Planes y ocio"),
+ ("Teatros Madrid","teatrosmadrid.com","Teatro y musicales"),
+ ("Madrid Destino","madrid-destino.com","Arte y cultura"),
+ ("Comunidad de Madrid","comunidad.madrid","Arte y cultura"),
+ ("Matadero Madrid","mataderomadrid.org","Exposiciones"),
+ ("La Casa Encendida","lacasaencendida.es","Exposiciones"),
+ ("Museo Reina Sofía","museoreinasofia.es","Exposiciones"),
+ ("CaixaForum Madrid","caixaforum.org/es/madrid","Exposiciones"),
+ ("Movistar Arena Madrid","movistararena.es","Conciertos"),
+]
 MADRID_POP_TERMS=("madrid","madrileñ","alcorcón","mostoles","móstoles","getafe","leganés","fuenlabrada","alcobendas","san sebastián de los reyes","san sebastian de los reyes","pozuelo","majadahonda","torrejón","torrejon","alcalá de henares","alcala de henares","aranjuez","chinchón","chinchon","collado villalba","las rozas","villaviciosa de odón","villaviciosa de odon","rivas vaciamadrid","navalcarnero")
 MADRID_POP_EVENT_TERMS=("concierto","festival","exposición","exposicion","museo","musical","teatro","estreno","entradas","preventa","gira","actuación","actuacion","espectáculo","espectaculo","recital","inaugura","programación","programacion","agenda","actuará","actuara","visita guiada","cine","ópera","opera","danza")
 def madrid_pop_relevant(story):
@@ -378,6 +393,24 @@ def main():
     count+=1
    print("Madrid POP",topic,count)
   except Exception as e:print("Madrid POP unavailable:",topic,str(e)[:120])
+ # Specialist guides: keep their original source links and event announcements.
+ for guide,domain,topic in MADRID_POP_GUIDES:
+  try:
+   query="site:"+domain+" (Madrid OR concierto OR exposición OR teatro OR entradas OR planes) when:21d"
+   candidates=fetch("eventos",guide,google_news(query,"es"),"es",topic)
+   count=0
+   for story in candidates:
+    if count>=6:break
+    if not madrid_pop_relevant(story):continue
+    link=story["sources"][0]["url"].split("?")[0]
+    if link in madrid_pop_seen:continue
+    madrid_pop_seen.add(link)
+    story["region"]="Madrid"
+    story.pop("_sort",None)
+    allstories.append(story)
+    count+=1
+   print("Madrid POP guide",guide,count)
+  except Exception as e:print("Madrid POP guide unavailable:",guide,str(e)[:100])
  # Supplement Madrid POP with Madrid-focused cultural coverage already collected.
  # This also helps when Google News RSS discovery has very few matches.
  for story in list(allstories):
