@@ -250,6 +250,9 @@ MADRID_POP_QUERIES=[
  ("Planes futuros","Alcorcón Móstoles Getafe Leganés Alcalá de Henares cultura conciertos exposiciones when:30d"),
  ("Planes futuros","Madrid programación 2027 conciertos musicales exposiciones festivales when:60d"),
  ("Entradas a la venta","Madrid 2027 venta entradas nueva fecha gira festival when:30d"),
+ ("Planes futuros","site:movistararena.es Madrid agenda conciertos 2027"),
+ ("Planes futuros","site:ticketmaster.es Madrid conciertos 2027 entradas"),
+ ("Planes futuros","site:ticketmaster.es Madrid musicales espectáculos 2027"),
 ]
 # Specialist Madrid guides and cultural venues: source-specific Google News feeds.
 MADRID_POP_GUIDES=[
@@ -282,6 +285,8 @@ MADRID_POP_GUIDES=[
  ("IFEMA Madrid","ifema.es","Conciertos"),
  ("Entradas.com","entradas.com","Entradas a la venta"),
  ("Ticketmaster España","ticketmaster.es","Entradas a la venta"),
+ ("Ticketmaster Agenda Madrid","ticketmaster.es","Planes futuros"),
+ ("Movistar Arena Agenda","movistararena.es","Planes futuros"),
 ]
 MADRID_POP_TERMS=("madrid","madrileñ","alcorcón","mostoles","móstoles","getafe","leganés","fuenlabrada","alcobendas","san sebastián de los reyes","san sebastian de los reyes","pozuelo","majadahonda","torrejón","torrejon","alcalá de henares","alcala de henares","aranjuez","chinchón","chinchon","collado villalba","las rozas","villaviciosa de odón","villaviciosa de odon","rivas vaciamadrid","navalcarnero")
 MADRID_POP_EVENT_TERMS=("concierto","festival","exposición","exposicion","museo","musical","teatro","estreno","entradas","preventa","gira","actuación","actuacion","espectáculo","espectaculo","recital","inaugura","programación","programacion","agenda","actuará","actuara","visita guiada","cine","ópera","opera","danza")
@@ -415,7 +420,7 @@ def main():
  # Specialist guides: keep their original source links and event announcements.
  for guide,domain,topic in MADRID_POP_GUIDES:
   try:
-   query="site:"+domain+" (Madrid OR concierto OR exposición OR teatro OR entradas OR planes OR programación OR 2027) when:45d"
+   query=("site:"+domain+" (Madrid OR conciertos OR espectáculos OR 2027 OR agenda)" if guide in ("Movistar Arena Madrid","Movistar Arena Agenda","Ticketmaster España","Ticketmaster Agenda Madrid") else "site:"+domain+" (Madrid OR concierto OR exposición OR teatro OR entradas OR planes OR programación OR 2027) when:45d")
    candidates=fetch("eventos",guide,google_news(query,"es"),"es",topic)
    count=0
    for story in candidates:
