@@ -595,6 +595,7 @@ ${n.section==="viral"&&n.videoUrl&&validUrl(n.videoUrl)?`<a class="video-link" t
 <button class="save" data-save="${escapeHTML(id)}">${saved.includes(id)?"★ Guardada":"☆ Guardar"}</button>
 </div></article>`;
 }).join(""):`<div class="empty">No hay noticias para esta selección.</div>`);
+if(active==="television"&&window.twttr&&window.twttr.widgets){window.twttr.widgets.load($("articles"));}
 }
 $("tabs").addEventListener("click",e=>{
 let b=e.target.closest("[data-tab]");
