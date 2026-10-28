@@ -247,7 +247,9 @@ MADRID_POP_QUERIES=[
  ("Cine y estrenos","Madrid festival cine preestreno filmoteca programación when:10d"),
  ("Arte y cultura","Comunidad de Madrid agenda cultura nuevas actividades when:7d"),
  ("Entradas a la venta","Madrid entradas salen a la venta preventa concierto musical exposición when:10d"),
- ("Planes futuros","Alcorcón Móstoles Getafe Leganés Alcalá de Henares cultura conciertos exposiciones when:14d"),
+ ("Planes futuros","Alcorcón Móstoles Getafe Leganés Alcalá de Henares cultura conciertos exposiciones when:30d"),
+ ("Planes futuros","Madrid programación 2027 conciertos musicales exposiciones festivales when:60d"),
+ ("Entradas a la venta","Madrid 2027 venta entradas nueva fecha gira festival when:30d"),
 ]
 # Specialist Madrid guides and cultural venues: source-specific Google News feeds.
 MADRID_POP_GUIDES=[
@@ -263,6 +265,23 @@ MADRID_POP_GUIDES=[
  ("Museo Reina Sofía","museoreinasofia.es","Exposiciones"),
  ("CaixaForum Madrid","caixaforum.org/es/madrid","Exposiciones"),
  ("Movistar Arena Madrid","movistararena.es","Conciertos"),
+ ("VisitMadrid Agenda","visitmadrid.es","Planes futuros"),
+ ("esMadrid Agenda","esmadrid.com","Planes futuros"),
+ ("Agenda Ayuntamiento Madrid","madrid.es","Planes y ocio"),
+ ("Agenda Ministerio Cultura","agendacultural.cultura.gob.es","Planes futuros"),
+ ("Condeduque Madrid","condeduquemadrid.es","Teatro y musicales"),
+ ("Teatros del Canal","teatroscanal.com","Teatro y musicales"),
+ ("Teatro Real","teatroreal.es","Teatro y musicales"),
+ ("Teatro Fernán Gómez","teatrofernangomez.es","Teatro y musicales"),
+ ("Circo Price","teatrocircoprice.es","Teatro y musicales"),
+ ("CentroCentro","centrocentro.org","Exposiciones"),
+ ("Fundación Canal","fundacioncanal.com","Exposiciones"),
+ ("Museo Thyssen","museothyssen.org","Exposiciones"),
+ ("Fundación Mapfre Cultura","fundacionmapfre.org","Exposiciones"),
+ ("Sala La Riviera","salariviera.com","Conciertos"),
+ ("IFEMA Madrid","ifema.es","Conciertos"),
+ ("Entradas.com","entradas.com","Entradas a la venta"),
+ ("Ticketmaster España","ticketmaster.es","Entradas a la venta"),
 ]
 MADRID_POP_TERMS=("madrid","madrileñ","alcorcón","mostoles","móstoles","getafe","leganés","fuenlabrada","alcobendas","san sebastián de los reyes","san sebastian de los reyes","pozuelo","majadahonda","torrejón","torrejon","alcalá de henares","alcala de henares","aranjuez","chinchón","chinchon","collado villalba","las rozas","villaviciosa de odón","villaviciosa de odon","rivas vaciamadrid","navalcarnero")
 MADRID_POP_EVENT_TERMS=("concierto","festival","exposición","exposicion","museo","musical","teatro","estreno","entradas","preventa","gira","actuación","actuacion","espectáculo","espectaculo","recital","inaugura","programación","programacion","agenda","actuará","actuara","visita guiada","cine","ópera","opera","danza")
@@ -396,12 +415,12 @@ def main():
  # Specialist guides: keep their original source links and event announcements.
  for guide,domain,topic in MADRID_POP_GUIDES:
   try:
-   query="site:"+domain+" (Madrid OR concierto OR exposición OR teatro OR entradas OR planes) when:21d"
+   query="site:"+domain+" (Madrid OR concierto OR exposición OR teatro OR entradas OR planes OR programación OR 2027) when:45d"
    candidates=fetch("eventos",guide,google_news(query,"es"),"es",topic)
    count=0
    for story in candidates:
     if count>=6:break
-    if not madrid_pop_relevant(story):continue
+    if not madrid_pop_relevant(story) and not (domain in ("visitmadrid.es","esmadrid.com","agendacultural.cultura.gob.es","condeduquemadrid.es","teatroscanal.com","teatroreal.es","teatrofernangomez.es") and any(t in (story["title"]+" "+story.get("summary","")).lower() for t in MADRID_POP_EVENT_TERMS)):continue
     link=story["sources"][0]["url"].split("?")[0]
     if link in madrid_pop_seen:continue
     madrid_pop_seen.add(link)
