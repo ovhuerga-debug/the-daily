@@ -57,6 +57,50 @@ EXTRA_FEEDS={
  "television":[("Televisión España", "es", google_news("audiencias televisión estrenos formatos televisión when:3d","es"))]
 }
 
+# Curated sources from the reader's preferred publications. Site-scoped Google News RSS
+# is used when no confirmed free publisher RSS is available.
+CURATED_SOURCES={
+ "espana":[
+ ("El Español","elespanol.com","es"),("NIUS","niusdiario.es","es"),
+ ("La Vanguardia","lavanguardia.com","es"),("20minutos","20minutos.es","es"),
+ ("CNN en Español","cnnespanol.cnn.com","es"),("OKDIARIO","okdiario.com","es"),
+ ("Noticias.com","noticias.com","es"),("La Información","lainformacion.com","es"),
+ ("Qué! Madrid","que.madrid","es"),("El Confidencial Digital","elconfidencialdigital.com","es")],
+ "television":[
+ ("Yotele","elperiodico.com/es/yotele/","es"),("Bluper","elespanol.com/bluper/","es"),
+ ("El Televisero","eltelevisero.com","es"),("Vaya Tele","vayatele.com","es"),
+ ("TodoTVNews","todotvnews.com","es"),("Audiovisual451","audiovisual451.com","es"),
+ ("Objetivo TV","objetivotv.com","es"),("Telemanía","telecinco.es","es"),
+ ("TV by the Numbers","tvbythenumbers.com","en"),("DavideMaggio","davidemaggio.it","it"),
+ ("JustWatch","justwatch.com","es"),("Cveintiuno","cveintiuno.com","es"),
+ ("Entertainment Weekly","ew.com","en"),("TV Insider","tvinsider.com","en"),
+ ("BroadcastPro ME","broadcastprome.com","en"),("Screen Daily","screendaily.com","en"),
+ ("The Hollywood Reporter","hollywoodreporter.com","en"),
+ ("Digital Spy","digitalspy.com","en"),("Media Play News","mediaplaynews.com","en"),
+ ("Broadband TV News","broadbandtvnews.com","en")],
+ "tecnologia":[
+ ("Applesfera","applesfera.com","es"),("Xataka","xataka.com","es"),
+ ("Xataka Móvil","xatakamovil.com","es"),("Apple Newsroom","apple.com/es/newsroom/","es"),
+ ("MacRumors","macrumors.com","en"),("iPhone Diario","iphonediario.com","es"),
+ ("Hoy iPad","hoyipad.com","es"),("AppleWeblog","hipertextual.com","es")],
+ "estilo":[
+ ("Men's Health España","menshealth.com/es/","es"),("MADMENMAG","madmenmag.com","es"),
+ ("Tendencias Hombre","tendenciashombre.com","es"),("Hombres con estilo","hombresconestilo.com","es"),
+ ("FashionBeans","fashionbeans.com","en"),("Mens and Beauty","mensandbeauty.com","en"),
+ ("Gafas Amarillas","gafasamarillas.com","es")],
+ "cultura":[
+ ("Espinof","espinof.com","es","Cine"),("Los Lunes Seriéfilos","loslunesseriefilos.com","es","Cine"),
+ ("Series Adictos","seriesadictos.com","es","Cine"),("SensaCine","sensacine.com","es","Cine"),
+ ("El Blog de Cine Español","elblogdecineespanol.com","es","Cine"),
+ ("Cinemanía","20minutos.es/cinemania/","es","Cine"),("Serielizados","serielizados.com","es","Cine"),
+ ("Kinótico","kinotico.es","es","Cine"),
+ ("Indie Rocks!","indierocks.mx","es","Música"),("Jenesaispop","jenesaispop.com","es","Música"),
+ ("La Fonoteca","lafonoteca.net","es","Música"),("Música Crónica","musicacronica.com","es","Música"),
+ ("MondoSonoro","mondosonoro.com","es","Música"),
+ ("Hipersonica","hipersonica.com","es","Música"),("El Remix","elremix.com","es","Música"),
+ ("Dentro Música","dentrodemusica.com","es","Música")]
+}
+
 NS={"a":"http://www.w3.org/2005/Atom"}
 def clean(value):
  value=re.sub(r"<[^>]*>"," ",value or "")
@@ -96,7 +140,7 @@ def fetch(section,source,url,language=None,topic=None):
   if atom:
    link=next((e.attrib.get("href","") for e in item.findall("a:link",NS) if e.attrib.get("rel","alternate")=="alternate"),"") or next((e.attrib.get("href","") for e in item.findall("a:link",NS)),"")
   if not title or not link.startswith(("https://","http://")):continue
-  if "news.google.com/rss/search" in url and not approved_aggregated_title(title):
+  if "news.google.com/rss/search" in url and "site%3A" not in url and not approved_aggregated_title(title):
    continue
   excerpt=clean(child(item,["description","a:summary","a:content","{http://purl.org/rss/1.0/modules/content/}encoded"]))
   published=dateparse(child(item,["pubDate","a:updated","a:published","{http://purl.org/dc/elements/1.1/}date"]))
@@ -173,6 +217,40 @@ def main():
     if section=="viral" and any(marker in url.lower() for marker in ["youtube.com/watch","youtu.be/","tiktok.com/","instagram.com/reel/"]):
      story["videoUrl"]=url
     allstories.append(story)
+ # Add a small, balanced selection from the preferred outlets without letting
+ # any single publisher overwhelm the section.
+ for section,sources in CURATED_SOURCES.items():
+  for entry in sources:
+   name,domain,language=entry[:3]
+   topic=entry[3] if len(entry)>3 else None
+   if language=="it":continue # Italian-language feeds are not part of the ES/EN UI.
+   query="site:"+domain+" when:7d"
+   if section=="cultura" and topic=="Cine" and language=="es":
+    query+=" (España OR español OR Madrid OR Goya OR Málaga OR San Sebastián)"
+   try:
+    items=fetch(section,name,google_news(query,language),language,topic)
+   except Exception as e:
+    print("Curated source unavailable:",name,str(e)[:120])
+    continue
+   count=0
+   for story in items:
+    if section=="cultura" and topic=="Cine" and language=="es" and not spanish_cinema_relevant(story):continue
+    if section=="cultura":story["region"]=culture_region(story)
+    story.pop("_sort",None)
+    allstories.append(story)
+    count+=1
+    if count>=3:break
+   print("Curated",name,count)
+ # Avoid duplicate articles when a publication also appears in another feed.
+ seen_links=set()
+ unique=[]
+ for story in allstories:
+  link=story["sources"][0]["url"]
+  key=link.split("?")[0].rstrip("/")
+  if key in seen_links:continue
+  seen_links.add(key)
+  unique.append(story)
+ allstories=unique
  culture=[story for story in allstories if story["section"]=="cultura"]
  other=[story for story in allstories if story["section"]!="cultura"]
  rank={"Madrid":0,"España":1,"Internacional":2}
