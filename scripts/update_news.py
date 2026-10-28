@@ -63,7 +63,8 @@ SPECIAL_LIMITS={"cultura":5,"viral":12,"tecnologia":12,"estilo":8}
 EXTRA_FEEDS={
  "espana":[("English coverage", "en", google_news("Spain politics economy news when:3d","en"))],
  "mundo":[("Noticias internacionales", "es", google_news("noticias internacionales mundo actualidad when:2d","es"))],
- "television":[("Televisión España", "es", google_news("audiencias televisión estrenos formatos televisión when:3d","es"))]
+ "television":[("Televisión España", "es", google_news("audiencias televisión estrenos formatos televisión when:3d","es")),
+ ("Actualidad TV española", "es", google_news("televisión española audiencias reality entretenimiento concursos programas when:2d","es"))]
 }
 
 # Curated sources from the reader's preferred publications. Site-scoped Google News RSS
@@ -78,6 +79,8 @@ CURATED_SOURCES={
  ("France 24","france24.com","en"),("Al Jazeera","aljazeera.com","en")],
  "television":[
  ("Bluper","elespanol.com/bluper/","es"),("El Televisero","eltelevisero.com","es"),
+ ("FormulaTV","formulatv.com","es"),("Poco Pasa TV","pocopasatv.com","es"),
+ ("TVienes","tvienes.com","es"),("Teleprograma","teleprograma.es","es"),
  ("Yotele","elperiodico.com/es/yotele/","es"),("Cveintiuno","cveintiuno.com","es"),
  ("TodoTVNews","todotvnews.com","es"),("Audiovisual451","audiovisual451.com","es"),
  ("The Hollywood Reporter","hollywoodreporter.com","en"),("Broadcast","broadcastnow.co.uk","en"),
