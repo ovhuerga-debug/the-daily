@@ -519,7 +519,7 @@ try{let x=new URL(u);return ["https:","http:"].includes(x.protocol)?x.href:null}
 function render(){
 const categorized=active==="cultura";
 const pop=active==="eventos";
-const bilingual=true;
+const bilingual=!pop;
 const regionChoices=[["all","🌍 Todas las zonas"],["Madrid","📍 Madrid"],["España","🇪🇸 España"],["Internacional","🌐 Internacional"]];
 const categories=["all","Música","Cine","Teatro","Cultura general"];
 $("categories").style.display=categorized||pop?"flex":"none";
@@ -538,7 +538,7 @@ let q=$("search").value.toLocaleLowerCase("es");
 let items=stories.filter(n=>n.section===active)
 .filter(n=>(n.title+" "+n.summary+" "+(n.translationEs||"")+" "+n.category).toLocaleLowerCase("es").includes(q))
 .filter(n=>!categorized||(n.cultureView||"noticias")===cultureMode)
-.filter(n=>!categorized||categoryFilter==="all"||n.topic===categoryFilter)
+.filter(n=>!(categorized||pop)||categoryFilter==="all"||n.topic===categoryFilter)
 .filter(n=>!categorized||regionFilter==="all"||(n.region||"Internacional")===regionFilter)
 .filter(n=>!bilingual||languageFilter==="all"||(n.language||"es")===languageFilter)
 .filter(n=>$("filter").value!=="saved"||saved.includes(storyId(n)));
