@@ -395,6 +395,28 @@ body.television #articles article:first-child h2{font-size:clamp(34px,4.2vw,53px
  body.television #articles article:first-child h2{font-size:clamp(31px,8vw,40px);line-height:1.11}
 }
 
+
+/* MADRID POP — original pop-art-inspired editorial identity */
+body.eventos{--accent:#ec255a;background:#fff3a5;color:#191919}
+body.eventos header,body.eventos nav{background:#ffe44c;border-color:#171717}
+body.eventos .brand{font-family:Impact,"Arial Black",sans-serif;letter-spacing:-.065em;text-shadow:3px 3px 0 #ec255a}
+body.eventos .section{font-family:Impact,"Arial Black",sans-serif;text-transform:uppercase;letter-spacing:-.035em;line-height:.93;color:#111;text-shadow:5px 5px 0 #ff5d8e}
+body.eventos .intro{font-weight:700;color:#242424;max-width:780px}
+body.eventos main{position:relative}
+body.eventos main:before{content:"★  MADRID  ★  POP  ★";display:block;background:#00c6e9;border:3px solid #171717;box-shadow:7px 7px 0 #171717;padding:10px 16px;margin:0 0 22px;font-family:Impact,"Arial Black",sans-serif;font-size:clamp(21px,4vw,39px);letter-spacing:.09em;transform:rotate(-1deg);text-align:center}
+body.eventos #articles article{background:#fff;border:3px solid #191919;border-radius:0;box-shadow:7px 7px 0 #191919;transform:none}
+body.eventos #articles article:nth-child(3n+2){background:#f5dcff}
+body.eventos #articles article:nth-child(3n+3){background:#baf9e4}
+body.eventos #articles article:hover{transform:translate(-2px,-2px);box-shadow:9px 9px 0 #191919}
+body.eventos #articles h2{font-family:Impact,"Arial Black",sans-serif;letter-spacing:0;line-height:1.09;text-transform:uppercase}
+body.eventos #articles .tag{display:inline-block;background:#ffe44c;color:#111;border:2px solid #111;padding:5px 9px;letter-spacing:.07em}
+body.eventos #articles .source-button{background:#ec255a;color:white!important;border:2px solid #111;border-radius:0;box-shadow:3px 3px 0 #111}
+body.eventos .tools{background:#fff;border:3px solid #111;border-radius:0;box-shadow:4px 4px 0 #111}
+body.eventos .subnav button{background:#fff;border:2px solid #111;border-radius:0;font-weight:800}
+body.eventos .subnav button.selected{background:#ec255a;color:#fff}
+body.eventos footer{background:#ffe44c;border-top:3px solid #111}
+@media(max-width:700px){body.eventos main:before{font-size:23px;box-shadow:4px 4px 0 #111}body.eventos #articles article{box-shadow:4px 4px 0 #111}}
+
 </style>
 </head>
 <body class="espana">
@@ -432,6 +454,7 @@ const sections=[
 {id:"television",name:"Televisión",target:null,desc:"Audiencias, estrenos y formatos internacionales."},
 {id:"tecnologia",name:"Tecnología",target:null,desc:"Innovación, dispositivos, inteligencia artificial y ciencia aplicada."},
 {id:"estilo",name:"Estilo",target:null,desc:"Moda masculina, tendencias, grooming, relojes y estilo de vida en español e inglés."},
+{id:"eventos",name:"Madrid POP",target:null,desc:"Estrenos, conciertos, exposiciones y entradas: la agenda cultural de toda la Comunidad de Madrid."},
 {id:"viral",name:"Lo más viral",target:null,desc:"Vídeos y noticias que circulan por internet, con fuentes en español e inglés."}
 ];
 
