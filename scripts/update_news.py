@@ -26,9 +26,11 @@ SPECIAL={
 "cultura":[
 ("Música","es","Música ES",google_news("Madrid conciertos festivales música artistas when:7d","es")),
 ("Música","es","Música España",google_news("España música conciertos artistas discos when:5d","es")),
+("Música","es","MondoSonoro",google_news("site:mondosonoro.com when:14d","es")),
 ("Música","en","Music EN","https://www.theguardian.com/music/rss"),
 ("Cine","es","Cine ES",google_news("Madrid cine estrenos películas tráiler directores festivales when:7d","es")),
 ("Cine","es","Cine España",google_news("España estreno películas tráiler cine premios festivales when:5d","es")),
+("Cine","es","Kinótico",google_news("site:kinotico.es when:14d","es")),
 ("Cine","en","Film EN","https://www.theguardian.com/film/rss"),
 ("Teatro","es","Teatro ES",google_news("Madrid teatro musicales estrenos cartelera when:7d","es")),
 ("Teatro","es","Teatro España",google_news("España teatro musicales estrenos when:5d","es")),
