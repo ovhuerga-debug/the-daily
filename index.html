@@ -70,6 +70,58 @@ body.television .notice{background:#363941;color:#fff}
 body.television input,body.television select{color:#202020}
 @media(max-width:520px){header{padding:18px 12px 12px}.brand{font-size:32px}nav{position:static}nav button{flex:1 1 30%;min-width:0;padding:12px 5px;font-size:11px}.tools{flex-wrap:wrap}.tools input{flex-basis:100%;font-size:16px}.tools select{width:100%;font-size:16px}main{padding:14px 16px 90px}.section{font-size:30px}h2{font-size:23px}.source-button{min-height:44px}.subnav button{min-height:42px}}
 @media(min-width:700px){.brand{font-size:52px}h2{font-size:30px}main{padding:35px}}
+
+/* THE DAILY · Editorial redesign */
+:root{font-family:Inter,"Helvetica Neue",Arial,sans-serif;font-synthesis:none}
+body{background:#f3f0e9;color:#1c2428}
+header{padding:30px 20px 23px;background:#fdfbf7;border-bottom:1px solid #dedbd4}
+.brand{font-family:Georgia,"Times New Roman",serif;font-size:clamp(46px,8vw,94px);font-weight:900;letter-spacing:-.085em;line-height:.95}
+.subtitle{font-size:11px;letter-spacing:.35em;font-weight:700;color:#846e59;margin-top:13px}
+.edition{font-size:12px;letter-spacing:.03em;color:#777;margin-top:18px}
+nav{justify-content:center;gap:4px;padding:9px 16px;background:#fdfbf7;box-shadow:0 3px 15px #1616160a}
+nav button{flex:0 1 auto;min-width:auto;padding:12px 16px;border-radius:30px;font-size:12px;letter-spacing:.025em;transition:background .2s,color .2s}
+nav button:hover{background:#e9e5dd}
+nav button.active{background:var(--accent);color:white;border-bottom:0}
+main{max-width:1180px;padding:32px 26px 85px}
+.section{font-family:Georgia,serif;font-size:clamp(44px,6vw,74px);font-weight:700;letter-spacing:-.055em;line-height:1.05;margin:15px 0 8px}
+.intro{max-width:660px;font-size:16px;line-height:1.6;margin-bottom:25px}
+.tools{background:#ffffffb8;padding:12px;border:1px solid #e4dfd6;border-radius:15px;margin-bottom:20px}
+input,select{border-color:#e3ded7}
+#articles{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;align-items:stretch}
+#articles article{background:#fffdf9;border:1px solid #e9e4dc;border-radius:18px;padding:26px;box-shadow:0 6px 24px #29231a0b;display:flex;flex-direction:column;min-width:0;transition:transform .18s,box-shadow .18s}
+#articles article:hover{transform:translateY(-3px);box-shadow:0 12px 30px #29231a18}
+#articles article:first-child{grid-column:1/-1;background:#fff;position:relative;padding:clamp(28px,5vw,54px);border-top:6px solid var(--accent)}
+#articles article:first-child h2{font-size:clamp(32px,4vw,52px);max-width:850px;letter-spacing:-.035em}
+#articles article:first-child p{max-width:830px;font-size:17px}
+#articles h2{font-family:Georgia,serif;font-size:clamp(23px,2.6vw,32px);letter-spacing:-.025em;line-height:1.16}
+#articles p{font-size:14px;line-height:1.65}
+#articles .tag{font-size:11px;letter-spacing:.14em}
+#articles .meta{font-size:12px;margin:8px 0}
+#articles .actions{margin-top:auto;padding-top:20px}
+#articles .source-button{font-size:12px;border-radius:30px;padding:11px 17px}
+.subnav{gap:9px}
+.subnav button{background:#fff8;border-color:#d9d2c9}
+footer{border-top:1px solid #ddd4ca;background:#fdfbf7;font-size:12px;letter-spacing:.08em}
+body.mundo #articles article,body.television #articles article{background:#2c3540;border-color:#47505a}
+body.mundo #articles article:first-child,body.television #articles article:first-child{background:#303e4c}
+body.mundo #articles p,body.television #articles p{color:#d1d7dc}
+body.mundo .tools,body.television .tools{background:#ffffff10;border-color:#ffffff30}
+body.mundo nav,body.television nav{box-shadow:none}
+@media(max-width:700px){
+ header{padding:24px 12px 19px}.brand{font-size:clamp(47px,11vw,75px)}
+ nav{display:flex;flex-wrap:nowrap;justify-content:flex-start;overflow-x:auto;padding:9px 10px;gap:5px;scrollbar-width:none;position:sticky;top:0}
+ nav::-webkit-scrollbar{display:none}
+ nav button{flex:0 0 auto;min-width:auto;padding:11px 14px;font-size:12px}
+ main{padding:22px 14px 65px}
+ .section{font-size:49px}
+ #articles{grid-template-columns:1fr;gap:12px}
+ #articles article,#articles article:first-child{grid-column:1;padding:22px;border-radius:15px}
+ #articles article:first-child{padding:27px 22px}
+ #articles article:first-child h2{font-size:33px}
+ #articles article:first-child p{font-size:15px}
+ #articles h2{font-size:25px}
+}
+
 </style>
 </head>
 <body class="espana">
