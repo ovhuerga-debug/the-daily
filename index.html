@@ -229,12 +229,20 @@ $("search").addEventListener("input",render);
 $("filter").addEventListener("change",render);
 async function loadEdition(){
 try{
-let response=await fetch("./editions/latest.json?ts="+Date.now(),{cache:"no-store"});
-if(!response.ok)throw Error("No edition");
-let data=await response.json();
-if(!Array.isArray(data.stories))throw Error("Invalid edition");
+// Prefer the freshest valid edition: GitHub Pages can lag behind the repository.
+const urls=[
+ "./editions/latest.json?ts="+Date.now(),
+ "https://raw.githubusercontent.com/ovhuerga-debug/the-daily/main/editions/latest.json?ts="+Date.now()
+];
+const editions=await Promise.all(urls.map(async url=>{
+ try{const response=await fetch(url,{cache:"no-store"});if(!response.ok)throw Error("HTTP "+response.status);const data=await response.json();return Array.isArray(data.stories)?data:null}catch(e){return null}
+}));
+const valid=editions.filter(Boolean);
+if(!valid.length)throw Error("No edition");
+valid.sort((a,b)=>(Date.parse(b.generatedAt)||0)-(Date.parse(a.generatedAt)||0));
+const data=valid[0];
 stories=data.stories.filter(n=>sections.some(s=>s.id===n.section)&&n.title&&n.summary);
-editionName=data.edition||"Última edición";
+editionName=(data.edition||"Última edición")+" · "+stories.filter(n=>n.section==="estilo").length+" noticias de Estilo";
 live=true;
 }catch(e){live=false}
 render();
