@@ -2,26 +2,32 @@ name: Actualizar THE DAILY
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 8 * * *'
-      timezone: 'Europe/Madrid'
-    - cron: '0 21 * * *'
-      timezone: 'Europe/Madrid'
+    - cron: '7 * * * *'
 permissions:
   contents: write
+concurrency:
+  group: actualizar-the-daily
+  cancel-in-progress: false
 jobs:
   edition:
     runs-on: ubuntu-latest
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Publicar edición
+      - name: Recopilar noticias de todas las secciones
+        run: python scripts/update_news.py
+      - name: Guardar nueva edición
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add editions/latest.json
           if ! git diff --cached --quiet; then
             git commit -m "Actualizar edición THE DAILY"
-            git push
+            git pull --rebase origin main
+            git push origin HEAD:main
           fi
