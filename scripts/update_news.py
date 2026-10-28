@@ -44,9 +44,9 @@ SPECIAL={
 ("Tecnología","en","Tech EN","https://www.theguardian.com/technology/rss"),
 ("Tecnología","en","TechCrunch EN","https://techcrunch.com/feed/")],
 "estilo":[
-("Moda","es","GQ España",google_news("site:revistagq.com moda masculina tendencias when:7d","es")),
-("Moda","es","Esquire España",google_news("site:esquire.com/es moda hombre estilo when:7d","es")),
-("Cuidado personal","es","Mensencia",google_news("site:mensencia.com estilo hombre moda belleza when:14d","es")),
+("Moda","es","GQ España",google_news("site:revistagq.com moda masculina when:14d","es")),
+("Moda","es","Esquire España",google_news("site:esquire.com/es moda hombre when:14d","es")),
+("Cuidado personal","es","Mensencia",google_news("site:mensencia.com moda belleza hombre when:30d","es")),
 ("Estilo de vida","es","GQ España Lifestyle",google_news("site:revistagq.com estilo de vida relojes when:7d","es")),
 ("Moda","en","GQ EN",google_news("site:gq.com menswear style trends when:7d","en")),
 ("Estilo de vida","en","Esquire EN",google_news("site:esquire.com style menswear grooming when:7d","en")),
@@ -87,10 +87,9 @@ CURATED_SOURCES={
  ("MacRumors","macrumors.com","en"),("iPhone Diario","iphonediario.com","es"),
  ("Hoy iPad","hoyipad.com","es"),("AppleWeblog","hipertextual.com","es")],
  "estilo":[
- ("Men's Health España","menshealth.com/es/","es"),("MADMENMAG","madmenmag.com","es"),
- ("Tendencias Hombre","tendenciashombre.com","es"),("Hombres con estilo","hombresconestilo.com","es"),
- ("FashionBeans","fashionbeans.com","en"),("Mens and Beauty","mensandbeauty.com","en"),
- ("Gafas Amarillas","gafasamarillas.com","es")],
+ ("Men's Health España","menshealth.com/es/","es"),
+ ("MADMENMAG","madmenmag.com","es"),
+ ("FashionBeans","fashionbeans.com","en")],
  "cultura":[
  ("Espinof","espinof.com","es","Cine"),("Los Lunes Seriéfilos","loslunesseriefilos.com","es","Cine"),
  ("Series Adictos","seriesadictos.com","es","Cine"),("SensaCine","sensacine.com","es","Cine"),
@@ -143,7 +142,7 @@ def fetch(section,source,url,language=None,topic=None):
   if atom:
    link=next((e.attrib.get("href","") for e in item.findall("a:link",NS) if e.attrib.get("rel","alternate")=="alternate"),"") or next((e.attrib.get("href","") for e in item.findall("a:link",NS)),"")
   if not title or not link.startswith(("https://","http://")):continue
-  if "news.google.com/rss/search" in url and "site%3A" not in url and section!="estilo" and not approved_aggregated_title(title):
+  if "news.google.com/rss/search" in url and section!="estilo" and "site%3A" not in url and not approved_aggregated_title(title):
    continue
   excerpt=clean(child(item,["description","a:summary","a:content","{http://purl.org/rss/1.0/modules/content/}encoded"]))
   published=dateparse(child(item,["pubDate","a:updated","a:published","{http://purl.org/dc/elements/1.1/}date"]))
