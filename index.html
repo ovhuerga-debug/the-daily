@@ -339,6 +339,50 @@ body.viral #articles article:nth-child(4){grid-column:span 12}
 }
 @media(prefers-reduced-motion:reduce){#articles article,#articles article .article-image img{transition:none!important}}
 
+
+/* THE DAILY: expressive typography system, distinct for each editorial desk */
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700;800;900&family=DM+Sans:wght@400;500;600;700;800&family=DM+Serif+Display:ital@0;1&family=IBM+Plex+Mono:wght@400;500;600;700&family=Inter:wght@400;500;600;700;800;900&family=Manrope:wght@400;500;600;700;800&family=Oswald:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;0,700;0,800;1,500;1,600&family=Space+Grotesk:wght@400;500;600;700&display=swap');
+:root{--type-display:Georgia,serif;--type-head:Georgia,serif;--type-body:Arial,sans-serif;--type-meta:Arial,sans-serif}
+body{font-family:var(--type-body)}
+.section{font-family:var(--type-display)!important}
+#articles article h2{font-family:var(--type-head)!important}
+#articles article p{font-family:var(--type-body)}
+#articles article .tag,#articles article .meta,.section:before{font-family:var(--type-meta)}
+nav button{font-family:var(--type-body);font-weight:800}
+body.espana{--type-display:"Playfair Display",Georgia,serif;--type-head:"Playfair Display",Georgia,serif;--type-body:"DM Sans",Arial,sans-serif;--type-meta:"DM Sans",Arial,sans-serif}
+body.espana .section{font-weight:800;font-style:normal;letter-spacing:-.055em}
+body.espana #articles article h2{font-weight:700;letter-spacing:-.045em}
+body.mundo{--type-display:"DM Serif Display",Georgia,serif;--type-head:"DM Serif Display",Georgia,serif;--type-body:"Inter",Arial,sans-serif;--type-meta:"IBM Plex Mono",monospace}
+body.mundo .section{font-style:italic;font-weight:400;letter-spacing:-.04em}
+body.mundo #articles article h2{font-weight:400;letter-spacing:-.02em}
+body.mundo .tag{letter-spacing:.08em}
+body.cultura{--type-display:"DM Serif Display",Georgia,serif;--type-head:"Playfair Display",Georgia,serif;--type-body:"DM Sans",Arial,sans-serif;--type-meta:"DM Sans",Arial,sans-serif}
+body.cultura .section{font-style:italic;font-weight:400}
+body.cultura #articles article h2{font-weight:600;letter-spacing:-.035em}
+body.television{--type-display:"Barlow Condensed","Arial Narrow",Arial,sans-serif;--type-head:"Barlow Condensed","Arial Narrow",Arial,sans-serif;--type-body:"Inter",Arial,sans-serif;--type-meta:"IBM Plex Mono",monospace}
+body.television .section{font-weight:900;font-size:clamp(65px,10vw,125px);line-height:.85;letter-spacing:-.02em}
+body.television #articles article h2{font-weight:800;font-size:clamp(32px,3.4vw,46px);line-height:.99;letter-spacing:0}
+body.television #articles article:first-child h2{font-size:clamp(48px,6vw,76px)}
+body.tecnologia{--type-display:"Space Grotesk",Arial,sans-serif;--type-head:"Space Grotesk",Arial,sans-serif;--type-body:"Manrope",Arial,sans-serif;--type-meta:"IBM Plex Mono",monospace}
+body.tecnologia .section{font-weight:700;letter-spacing:-.08em}
+body.tecnologia #articles article h2{font-weight:700;letter-spacing:-.045em}
+body.estilo{--type-display:"Oswald","Arial Narrow",Arial,sans-serif;--type-head:"Playfair Display",Georgia,serif;--type-body:"DM Sans",Arial,sans-serif;--type-meta:"DM Sans",Arial,sans-serif}
+body.estilo .section{font-size:clamp(76px,12vw,150px);line-height:.85;letter-spacing:-.035em;font-weight:700}
+body.estilo #articles article h2{font-weight:500;letter-spacing:-.045em}
+body.estilo #articles article:first-child h2{font-size:clamp(44px,5.5vw,75px)}
+body.viral{--type-display:"Barlow Condensed",Impact,Arial,sans-serif;--type-head:"Barlow Condensed",Impact,Arial,sans-serif;--type-body:"DM Sans",Arial,sans-serif;--type-meta:"IBM Plex Mono",monospace}
+body.viral .section{font-size:clamp(72px,11vw,135px);font-weight:900;line-height:.84;letter-spacing:-.035em}
+body.viral #articles article h2{font-weight:900;font-size:clamp(33px,4vw,53px);line-height:.97;letter-spacing:-.01em}
+body.viral #articles article:first-child h2{font-size:clamp(48px,6vw,78px)}
+@media(max-width:700px){
+ body.television .section,body.viral .section{font-size:clamp(58px,15vw,90px);line-height:.9}
+ body.estilo .section{font-size:clamp(72px,19vw,105px);line-height:.87}
+ body.television #articles article h2,body.viral #articles article h2{font-size:clamp(31px,8vw,40px)}
+ body.television #articles article:first-child h2,body.viral #articles article:first-child h2{font-size:clamp(42px,11vw,59px)}
+ body.estilo #articles article:first-child h2{font-size:clamp(38px,10vw,52px)}
+ .section{overflow-wrap:anywhere}
+}
+
 </style>
 </head>
 <body class="espana">
