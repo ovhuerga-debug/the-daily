@@ -14,8 +14,8 @@ header{padding:25px 18px 15px;text-align:center;background:#fff;border-bottom:1p
 .brand{font-family:Georgia,serif;font-size:35px;letter-spacing:-2px;font-weight:bold}
 .subtitle{font-size:10px;letter-spacing:3px;color:#777;margin-top:5px}
 .edition{font-size:12px;color:#666;margin-top:14px}
-nav{display:flex;overflow-x:auto;background:#fff;border-bottom:1px solid #ddd;position:sticky;top:0;z-index:2}
-nav button{flex:1;min-width:85px;border:0;background:transparent;padding:17px 9px;font-size:12px;font-weight:bold;color:#777;cursor:pointer}
+nav{display:flex;flex-wrap:wrap;background:#fff;border-bottom:1px solid #ddd;position:sticky;top:0;z-index:2}
+nav button{flex:1 1 auto;min-width:85px;border:0;background:transparent;padding:17px 9px;font-size:12px;font-weight:bold;color:#777;cursor:pointer}
 nav button.active{color:var(--accent);border-bottom:3px solid var(--accent)}
 main{max-width:850px;margin:auto;padding:20px 16px 60px}
 .section{font-family:Georgia,serif;font-size:35px;margin:15px 0 5px}
@@ -62,7 +62,7 @@ body.television article{border-color:#494b50}
 body.television p,body.television .intro,body.television .meta{color:#ccc}
 body.television .notice{background:#363941;color:#fff}
 body.television input,body.television select{color:#202020}
-@media(min-width:700px){.brand{font-size:52px}h2{font-size:30px}main{padding:35px}}
+@media(max-width:520px){nav button{flex:1 1 30%;min-width:0;padding:11px 5px;font-size:11px}}\n@media(min-width:700px){.brand{font-size:52px}h2{font-size:30px}main{padding:35px}}
 </style>
 </head>
 <body class="espana">
