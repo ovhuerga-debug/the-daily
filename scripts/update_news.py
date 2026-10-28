@@ -13,10 +13,33 @@ from pathlib import Path
 FEEDS = {
  "espana":[("RTVE","https://www.rtve.es/rss/portada.xml"),("El País","https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada"),("Europa Press","https://www.europapress.es/rss/rss.aspx")],
  "mundo":[("BBC World","https://feeds.bbci.co.uk/news/world/rss.xml"),("The Guardian World","https://www.theguardian.com/world/rss"),("ABC Australia","https://www.abc.net.au/news/feed/51120/rss.xml"),("DW","https://rss.dw.com/rdf/rss-en-world"),("NPR World","https://feeds.npr.org/1004/rss.xml")],
- "cultura":[("The Guardian Culture","https://www.theguardian.com/culture/rss"),("The Guardian Books","https://www.theguardian.com/books/rss"),("The Guardian Film","https://www.theguardian.com/film/rss"),("The Guardian Stage","https://www.theguardian.com/stage/rss")],
  "television":[("Variety TV","https://variety.com/v/tv/feed/"),("Deadline TV","https://deadline.com/category/tv/feed/"),("The Guardian Television","https://www.theguardian.com/tv-and-radio/rss")]
 }
-LIMITS={"espana":20,"mundo":30,"cultura":40,"television":30}
+LIMITS={"espana":20,"mundo":30,"television":30}
+
+from urllib.parse import quote
+def google_news(query,lang):
+ country="ES" if lang=="es" else "US"
+ return "https://news.google.com/rss/search?q="+quote(query)+"&hl="+lang+"&gl="+country+"&ceid="+country+":"+lang
+SPECIAL={
+"cultura":[
+("Música","es","Música ES",google_news("música conciertos discos artistas when:3d","es")),
+("Música","en","Music EN","https://www.theguardian.com/music/rss"),
+("Cine","es","Cine ES",google_news("cine estrenos películas festivales when:3d","es")),
+("Cine","en","Film EN","https://www.theguardian.com/film/rss"),
+("Teatro","es","Teatro ES",google_news("teatro musicales estrenos artes escénicas when:5d","es")),
+("Teatro","en","Stage EN","https://www.theguardian.com/stage/rss"),
+("Cultura general","es","Cultura ES",google_news("cultura exposiciones libros museos when:3d","es")),
+("Cultura general","en","Culture EN","https://www.theguardian.com/culture/rss")],
+"viral":[
+("Tendencias","es","Viral ES",google_news("vídeo viral redes sociales tendencia internet when:2d","es")),
+("Tendencias","en","Viral EN",google_news("viral video internet social media trending when:2d","en"))],
+"tecnologia":[
+("Tecnología","es","Tecnología ES",google_news("tecnología inteligencia artificial móviles innovación when:2d","es")),
+("Tecnología","en","Tech EN","https://www.theguardian.com/technology/rss"),
+("Tecnología","en","TechCrunch EN","https://techcrunch.com/feed/")]}
+SPECIAL_LIMITS={"cultura":5,"viral":12,"tecnologia":12}
+
 NS={"a":"http://www.w3.org/2005/Atom"}
 def clean(value):
  value=re.sub(r"<[^>]*>"," ",value or "")
@@ -33,7 +56,7 @@ def dateparse(s):
  except Exception:
   try:return dt.datetime.fromisoformat(s.replace("Z","+00:00")).isoformat()
   except Exception:return ""
-def fetch(section,source,url):
+def fetch(section,source,url,language=None,topic=None):
  req=urllib.request.Request(url,headers={"User-Agent":"TheDailyReader/0.1 (RSS aggregation; contact via repository)","Accept":"application/rss+xml,application/atom+xml,application/xml,text/xml"})
  with urllib.request.urlopen(req,timeout=16) as response:
   xml=response.read(3_000_000)
@@ -55,7 +78,7 @@ def fetch(section,source,url):
   result.append({"id":section+"|"+link,"section":section,"category":source,"title":title[:250],
    "summary":(excerpt[:360].rstrip()+"…" if len(excerpt)>360 else excerpt) or "Lee la noticia completa en la fuente original.",
    "publishedAt":published[:16].replace("T"," ")+" UTC" if published else "",
-   "_sort":published,"sources":[{"name":source,"url":link}]})
+   "_sort":published,"language":language,"topic":topic,"sources":[{"name":source,"url":link}]})
  return result
 def main():
  now=dt.datetime.now(dt.timezone.utc)
@@ -79,6 +102,20 @@ def main():
    selected.append(story)
    if len(selected)>=LIMITS[section]:break
   allstories.extend(selected)
+ for section,feeds in SPECIAL.items():
+  for topic,language,source,url in feeds:
+   try:
+    pool=fetch(section,source,url,language,topic)
+    print(source,len(pool))
+   except Exception as e:
+    print("Feed unavailable:",source,str(e)[:180])
+    pool=[]
+   for story in sorted(pool,key=lambda x:x["_sort"],reverse=True)[:SPECIAL_LIMITS[section]]:
+    story.pop("_sort",None)
+    url=story["sources"][0]["url"]
+    if section=="viral" and any(marker in url.lower() for marker in ["youtube.com/watch","youtu.be/","tiktok.com/","instagram.com/reel/"]):
+     story["videoUrl"]=url
+    allstories.append(story)
  if not allstories:
   raise RuntimeError("No feeds available; keeping previous edition unchanged")
  local=now.astimezone(__import__("zoneinfo").ZoneInfo("Europe/Madrid"))
