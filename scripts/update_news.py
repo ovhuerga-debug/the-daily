@@ -143,13 +143,22 @@ def article_og_image(url):
   with urllib.request.urlopen(req,timeout=5) as response:
    if "text/html" not in response.headers.get("Content-Type",""):return ""
    page=response.read(110_000).decode("utf-8","ignore")
-  for tag in re.findall(r'<meta\\s+[^>]*>',page,re.I):
-   if not re.search(r'(?:og:image|twitter:image)',tag,re.I):continue
-   match=re.search(r'content=["]([^"]+)["]',tag,re.I)
-   if match:
-    from urllib.parse import urljoin
-    image=urljoin(url,html.unescape(match.group(1)))
-    if image.startswith(("https://","http://")):return image
+  from html.parser import HTMLParser
+  class MetaImageParser(HTMLParser):
+   def __init__(self):
+    super().__init__()
+    self.image=""
+   def handle_starttag(self,tag,attrs):
+    if tag.lower()!="meta" or self.image:return
+    attrs=dict(attrs)
+    if (attrs.get("property") or attrs.get("name") or "").lower() in ("og:image","og:image:secure_url","twitter:image"):
+     self.image=attrs.get("content","")
+  parser=MetaImageParser()
+  parser.feed(page)
+  if parser.image:
+   from urllib.parse import urljoin
+   image=urljoin(url,html.unescape(parser.image))
+   if image.startswith(("https://","http://")):return image
  except Exception:pass
  return ""
 
