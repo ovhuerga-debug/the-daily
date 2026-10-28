@@ -126,11 +126,11 @@ def story_image(item):
  for field in ("description","{http://purl.org/rss/1.0/modules/content/}encoded","{http://www.w3.org/2005/Atom}content"):
   raw=item.findtext(field) or ""
   raw=html.unescape(raw)
-  for match in re.finditer(r'<img\\b[^>]*?\\b(?:src|data-src|data-original)\\s*=\\s*["\\\']([^"\\\']+)["\\\']',raw,re.I):
+  for match in re.finditer(r'<img\b[^>]*?\b(?:src|data-src|data-original)\s*=\s*["\\\']([^"\\\']+)["\\\']',raw,re.I):
    candidates.append(html.unescape(match.group(1)))
  for u in candidates:
   if not u.startswith(("https://","http://")):continue
-  if re.search(r"\\.(?:svg|gif)(?:[?#]|$)",u,re.I):continue
+  if re.search(r"\.(?:svg|gif)(?:[?#]|$)",u,re.I):continue
   if any(t in u.lower() for t in ("pixel","tracking","spacer","1x1","favicon","logo")):continue
   return u
  return ""
