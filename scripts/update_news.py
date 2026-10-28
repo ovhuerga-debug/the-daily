@@ -68,43 +68,35 @@ EXTRA_FEEDS={
 # is used when no confirmed free publisher RSS is available.
 CURATED_SOURCES={
  "espana":[
- ("El Español","elespanol.com","es"),("NIUS","niusdiario.es","es"),
- ("La Vanguardia","lavanguardia.com","es"),("20minutos","20minutos.es","es"),
- ("CNN en Español","cnnespanol.cnn.com","es"),("OKDIARIO","okdiario.com","es"),
- ("Noticias.com","noticias.com","es"),("La Información","lainformacion.com","es"),
- ("Qué! Madrid","que.madrid","es"),("El Confidencial Digital","elconfidencialdigital.com","es")],
+ ("Agencia EFE","efe.com","es"),("La Vanguardia","lavanguardia.com","es"),
+ ("20minutos","20minutos.es","es"),("El Español","elespanol.com","es"),
+ ("Cinco Días","cincodias.elpais.com","es")],
+ "mundo":[
+ ("Reuters","reuters.com","en"),("AP News","apnews.com","en"),
+ ("France 24","france24.com","en"),("Al Jazeera","aljazeera.com","en")],
  "television":[
- ("Yotele","elperiodico.com/es/yotele/","es"),("Bluper","elespanol.com/bluper/","es"),
- ("El Televisero","eltelevisero.com","es"),("Vaya Tele","vayatele.com","es"),
+ ("Bluper","elespanol.com/bluper/","es"),("El Televisero","eltelevisero.com","es"),
+ ("Yotele","elperiodico.com/es/yotele/","es"),("Cveintiuno","cveintiuno.com","es"),
  ("TodoTVNews","todotvnews.com","es"),("Audiovisual451","audiovisual451.com","es"),
- ("Objetivo TV","objetivotv.com","es"),("Telemanía","telecinco.es","es"),
- ("TV by the Numbers","tvbythenumbers.com","en"),("DavideMaggio","davidemaggio.it","it"),
- ("JustWatch","justwatch.com","es"),("Cveintiuno","cveintiuno.com","es"),
- ("Entertainment Weekly","ew.com","en"),("TV Insider","tvinsider.com","en"),
- ("BroadcastPro ME","broadcastprome.com","en"),("Screen Daily","screendaily.com","en"),
- ("The Hollywood Reporter","hollywoodreporter.com","en"),
- ("Digital Spy","digitalspy.com","en"),("Media Play News","mediaplaynews.com","en"),
- ("Broadband TV News","broadbandtvnews.com","en")],
+ ("The Hollywood Reporter","hollywoodreporter.com","en"),("Broadcast","broadcastnow.co.uk","en"),
+ ("Screen Daily","screendaily.com","en")],
  "tecnologia":[
- ("Applesfera","applesfera.com","es"),("Xataka","xataka.com","es"),
- ("Xataka Móvil","xatakamovil.com","es"),("Apple Newsroom","apple.com/es/newsroom/","es"),
- ("MacRumors","macrumors.com","en"),("iPhone Diario","iphonediario.com","es"),
- ("Hoy iPad","hoyipad.com","es"),("AppleWeblog","hipertextual.com","es")],
+ ("Xataka","xataka.com","es"),("Applesfera","applesfera.com","es"),
+ ("Apple Newsroom","apple.com/es/newsroom/","es"),("MacRumors","macrumors.com","en"),
+ ("The Verge","theverge.com","en"),("Wired","wired.com","en")],
  "estilo":[
- ("Men's Health España","menshealth.com/es/","es"),
- ("MADMENMAG","madmenmag.com","es"),
- ("FashionBeans","fashionbeans.com","en")],
+ ("GQ España","revistagq.com","es"),("Esquire España","esquire.com/es","es"),
+ ("Men's Health España","menshealth.com/es/","es"),("Vogue España","vogue.es","es"),
+ ("GQ","gq.com","en"),("FashionBeans","fashionbeans.com","en")],
  "cultura":[
- ("Espinof","espinof.com","es","Cine"),("Los Lunes Seriéfilos","loslunesseriefilos.com","es","Cine"),
- ("Series Adictos","seriesadictos.com","es","Cine"),("SensaCine","sensacine.com","es","Cine"),
- ("El Blog de Cine Español","elblogdecineespanol.com","es","Cine"),
- ("Cinemanía","20minutos.es/cinemania/","es","Cine"),("Serielizados","serielizados.com","es","Cine"),
- ("Kinótico","kinotico.es","es","Cine"),
- ("Indie Rocks!","indierocks.mx","es","Música"),("Jenesaispop","jenesaispop.com","es","Música"),
- ("La Fonoteca","lafonoteca.net","es","Música"),("Música Crónica","musicacronica.com","es","Música"),
- ("MondoSonoro","mondosonoro.com","es","Música"),
- ("Hipersonica","hipersonica.com","es","Música"),("El Remix","elremix.com","es","Música"),
- ("Dentro Música","dentrodemusica.com","es","Música")]
+ ("SensaCine","sensacine.com","es","Cine"),("Cinemanía","20minutos.es/cinemania/","es","Cine"),
+ ("Kinótico","kinotico.es","es","Cine"),("Espinof","espinof.com","es","Cine"),
+ ("Jenesaispop","jenesaispop.com","es","Música"),("MondoSonoro","mondosonoro.com","es","Música"),
+ ("Teatros del Canal","teatroscanal.com","es","Teatro"),("Museo del Prado","museodelprado.es","es","Cultura general"),
+ ("Time Out Madrid","timeout.es/madrid","es","Cultura general")],
+ "viral":[
+ ("20minutos","20minutos.es","es"),("Antena 3 Noticias","antena3.com/noticias","es"),
+ ("BBC News","bbc.com/news","en"),("The Guardian","theguardian.com","en")]
 }
 
 NS={"a":"http://www.w3.org/2005/Atom"}
@@ -164,7 +156,7 @@ def fetch(section,source,url,language=None,topic=None):
   if atom:
    link=next((e.attrib.get("href","") for e in item.findall("a:link",NS) if e.attrib.get("rel","alternate")=="alternate"),"") or next((e.attrib.get("href","") for e in item.findall("a:link",NS)),"")
   if not title or not link.startswith(("https://","http://")):continue
-  if "news.google.com/rss/search" in url and section not in ("estilo","viral") and "site%3A" not in url and not approved_aggregated_title(title):
+  if "news.google.com/rss/search" in url and "site%3A" not in url and not approved_aggregated_title(title):
    continue
   excerpt=clean(child(item,["description","a:summary","a:content","{http://purl.org/rss/1.0/modules/content/}encoded"]))
   published=dateparse(child(item,["pubDate","a:updated","a:published","{http://purl.org/dc/elements/1.1/}date"]))
@@ -250,6 +242,7 @@ def main():
    for story in sorted(pool,key=lambda x:x["_sort"],reverse=True):
     if accepted>=cap:break
     if section=="cultura" and language=="es" and topic=="Cine" and not spanish_cinema_relevant(story):continue
+    if section=="viral" and not any(term in (story["title"]+" "+story.get("summary","")).lower() for term in ("viral","vídeo","video","redes sociales","tiktok","instagram","youtube","meme","internet","tendencia","streamer")):continue
     if section=="viral" and story["_sort"]:
      try:
       age=dt.datetime.now(dt.timezone.utc)-dt.datetime.fromisoformat(story["_sort"])
@@ -270,9 +263,10 @@ def main():
    name,domain,language=entry[:3]
    topic=entry[3] if len(entry)>3 else None
    if language=="it":continue # Italian-language feeds are not part of the ES/EN UI.
-   query="site:"+domain+" when:7d"
+   query="site:"+domain+" when:5d"
    if section=="cultura" and topic=="Cine" and language=="es":
     query+=" (España OR español OR Madrid OR Goya OR Málaga OR San Sebastián)"
+   if section=="viral":query+=" (viral OR vídeo OR video OR redes sociales OR TikTok)"
    try:
     items=fetch(section,name,google_news(query,language),language,topic)
    except Exception as e:
@@ -281,11 +275,12 @@ def main():
    count=0
    for story in items:
     if section=="cultura" and topic=="Cine" and language=="es" and not spanish_cinema_relevant(story):continue
+    if section=="viral" and not any(term in story["title"].lower() for term in ("viral","vídeo","video","tiktok","instagram","meme","redes sociales")):continue
     if section=="cultura":story["region"]=culture_region(story)
     story.pop("_sort",None)
     allstories.append(story)
     count+=1
-    if count>=3:break
+    if count>=2:break
    print("Curated",name,count)
  # Curated Madrid agenda: retain source attribution, never invent dates or availability.
  for topic,query in AGENDA_QUERIES:
