@@ -1,0 +1,168 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#14283b">
+<title>THE DAILY — Tu mundo en perspectiva</title>
+<style>
+*{box-sizing:border-box}
+:root{font-family:Arial,Helvetica,sans-serif}
+body{margin:0;background:#f7f5f1;color:#202020}
+header{padding:25px 18px 15px;text-align:center;background:#fff;border-bottom:1px solid #ddd}
+.brand{font-family:Georgia,serif;font-size:35px;letter-spacing:-2px;font-weight:bold}
+.subtitle{font-size:10px;letter-spacing:3px;color:#777;margin-top:5px}
+.edition{font-size:12px;color:#666;margin-top:14px}
+nav{display:flex;overflow-x:auto;background:#fff;border-bottom:1px solid #ddd;position:sticky;top:0;z-index:2}
+nav button{flex:1;min-width:85px;border:0;background:transparent;padding:17px 9px;font-size:12px;font-weight:bold;color:#777;cursor:pointer}
+nav button.active{color:var(--accent);border-bottom:3px solid var(--accent)}
+main{max-width:850px;margin:auto;padding:20px 16px 60px}
+.section{font-family:Georgia,serif;font-size:35px;margin:15px 0 5px}
+.intro{color:#777;font-size:14px;margin-bottom:24px}
+.tools{display:flex;gap:8px;margin-bottom:20px}
+input,select{border:1px solid #ddd;border-radius:8px;padding:12px;background:white;min-width:0}
+input{flex:1}
+article{padding:22px 0;border-bottom:1px solid #ddd}
+.tag{font-size:10px;text-transform:uppercase;letter-spacing:2px;color:var(--accent);font-weight:bold}
+h2{font-family:Georgia,serif;font-size:24px;line-height:1.2;margin:10px 0}
+p{font-size:15px;line-height:1.65;color:#505050}
+.meta{font-size:12px;color:#777}
+.actions{display:flex;justify-content:space-between;align-items:center;margin-top:15px}
+.actions a{color:var(--accent);font-size:13px;font-weight:bold;text-decoration:none}
+.save{border:1px solid #ccc;border-radius:20px;background:transparent;padding:8px 13px;cursor:pointer}
+.notice{background:#fff8df;padding:14px;border-radius:9px;font-size:13px;line-height:1.5}
+.empty{text-align:center;padding:35px;color:#777}
+footer{text-align:center;padding:35px;color:#888;font-size:12px}
+body.espana{--accent:#a83b31;background:#f7f3ed}
+body.mundo{--accent:#8bbbe4;background:#14283b;color:#fff}
+body.mundo header,body.mundo nav{background:#14283b;border-color:#395066}
+body.mundo article{border-color:#395066}
+body.mundo p,body.mundo .intro,body.mundo .meta{color:#c2ceda}
+body.mundo input,body.mundo select{color:#202020}
+body.mundo .notice{background:#243e55;color:#fff}
+body.cultura{--accent:#873b92;background:#faf2fa}
+body.television{--accent:#d2a54d;background:#24262c;color:#fff}
+body.television header,body.television nav{background:#24262c;border-color:#494b50}
+body.television article{border-color:#494b50}
+body.television p,body.television .intro,body.television .meta{color:#ccc}
+body.television .notice{background:#363941;color:#fff}
+body.television input,body.television select{color:#202020}
+@media(min-width:700px){.brand{font-size:52px}h2{font-size:30px}main{padding:35px}}
+</style>
+</head>
+<body class="espana">
+<header>
+<div class="brand">THE DAILY</div>
+<div class="subtitle">TU MUNDO EN PERSPECTIVA</div>
+<div class="edition" id="edition">Edición de demostración</div>
+</header>
+<nav id="tabs"></nav>
+<main>
+<h1 class="section" id="section"></h1>
+<div class="intro" id="intro"></div>
+<div class="tools">
+<input id="search" placeholder="Buscar noticias...">
+<select id="filter">
+<option value="all">Todas</option>
+<option value="saved">Guardadas</option>
+</select>
+</div>
+<div id="notice" class="notice">
+Esta es una versión de demostración. Las noticias de ejemplo
+no son titulares actuales. Las ediciones reales se mostrarán
+cuando conectemos las fuentes y el sistema de publicación.
+</div>
+<div id="articles"></div>
+</main>
+<footer>THE DAILY · Información con contexto y fuentes</footer>
+<script>
+const sections=[
+{id:"espana",name:"España",target:20,desc:"Las noticias esenciales de España."},
+{id:"mundo",name:"Mundo",target:30,desc:"La actualidad internacional desde múltiples perspectivas."},
+{id:"cultura",name:"Cultura",target:40,desc:"Arte, libros, cine, música y artes escénicas."},
+{id:"television",name:"Televisión",target:null,desc:"Audiencias, estrenos y formatos internacionales."}
+];
+
+const demo=[
+{section:"espana",category:"Política y sociedad",title:"Cómo se construye una noticia contrastada",summary:"THE DAILY comparará la cobertura de distintos medios para separar los hechos confirmados de las interpretaciones. Las noticias importantes podrán reunir varias fuentes y explicar sus diferencias.",sources:[{name:"Agencia EFE",url:"https://efe.com/"},{name:"RTVE Noticias",url:"https://www.rtve.es/noticias/"}]},
+{section:"espana",category:"Economía",title:"Una mirada a la economía española",summary:"La sección de economía reunirá indicadores, decisiones empresariales y noticias que afecten a los ciudadanos, con contexto y enlaces a los medios originales.",sources:[{name:"Cinco Días",url:"https://cincodias.elpais.com/"}]},
+{section:"mundo",category:"Geopolítica",title:"El mundo contado desde distintas regiones",summary:"La cobertura internacional combinará medios de América, Europa, Asia y Oceanía. Evitaremos que la selección dependa exclusivamente de las portadas de Estados Unidos y Reino Unido.",sources:[{name:"Reuters",url:"https://www.reuters.com/"},{name:"BBC",url:"https://www.bbc.com/news"}]},
+{section:"mundo",category:"Asia y Oceanía",title:"Una ventana informativa hacia el Pacífico",summary:"La futura edición incorporará información de Japón, China, Corea, India, Australia y otros países relevantes de la región.",sources:[{name:"NHK",url:"https://www3.nhk.or.jp/nhkworld/"},{name:"ABC Australia",url:"https://www.abc.net.au/news"}]},
+{section:"cultura",category:"Exposiciones",title:"Una agenda internacional de arte y museos",summary:"Este espacio recogerá inauguraciones, exposiciones, bienales y grandes acontecimientos culturales, con especial atención a las fechas y ciudades donde pueden visitarse.",sources:[{name:"The Art Newspaper",url:"https://www.theartnewspaper.com/"}]},
+{section:"cultura",category:"Cine y teatro",title:"Estrenos, festivales y artes escénicas",summary:"Las noticias culturales reunirán cine, teatro, musicales, libros y música. Cada noticia explicará su relevancia y facilitará la consulta de la fuente original.",sources:[{name:"Variety",url:"https://variety.com/"},{name:"The Stage",url:"https://www.thestage.co.uk/"}]},
+{section:"television",category:"Audiencias",title:"El pulso de la televisión internacional",summary:"El radar de audiencias permitirá conocer resultados de programas y cadenas, distinguiendo entre espectadores, cuota de pantalla y consumo digital cuando existan datos comparables.",sources:[{name:"BARLOVENTO",url:"https://barloventocomunicacion.es/"}]},
+{section:"television",category:"Formatos",title:"Los nuevos formatos que viajan por el mundo",summary:"La sección seguirá lanzamientos de concursos, realities y dating shows, sus mecánicas, adaptaciones internacionales y tendencias de producción.",sources:[{name:"C21Media",url:"https://www.c21media.net/"},{name:"Realscreen",url:"https://realscreen.com/"}]}
+];
+
+let active="espana";
+let stories=demo;
+let live=false;
+let editionName="Demostración";
+let saved=[];
+try{saved=JSON.parse(localStorage.getItem("dailySaved")||"[]")}catch(e){saved=[]}
+const $=id=>document.getElementById(id);
+const escapeHTML=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const storyId=n=>n.id||n.section+"|"+n.title;
+function validUrl(u){
+try{let x=new URL(u);return ["https:","http:"].includes(x.protocol)?x.href:null}catch(e){return null}
+}
+function render(){
+let s=sections.find(x=>x.id===active);
+document.body.className=active;
+$("tabs").innerHTML=sections.map(x=>`<button class="${x.id===active?"active":""}" data-tab="${x.id}">${x.name}</button>`).join("");
+$("section").textContent=s.name;
+$("intro").textContent=s.desc+(s.target?" Objetivo editorial: "+s.target+" noticias.":"");
+$("edition").textContent=editionName;
+$("notice").style.display=live?"none":"block";
+let q=$("search").value.toLocaleLowerCase("es");
+let items=stories.filter(n=>n.section===active)
+.filter(n=>(n.title+" "+n.summary+" "+n.category).toLocaleLowerCase("es").includes(q))
+.filter(n=>$("filter").value!=="saved"||saved.includes(storyId(n)));
+$("articles").innerHTML=items.length?items.map(n=>{
+let id=storyId(n);
+let links=(n.sources||[]).map(x=>{
+let url=validUrl(x.url);
+return url?`<a href="${escapeHTML(url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(x.name||"Fuente")}</a>`:"";
+}).filter(Boolean).join(" · ");
+return `<article>
+<div class="tag">${escapeHTML(n.category||"Actualidad")}</div>
+<h2>${escapeHTML(n.title)}</h2>
+<div class="meta">${escapeHTML(n.region||"")} ${n.publishedAt?" · "+escapeHTML(n.publishedAt):""}</div>
+<p>${escapeHTML(n.summary)}</p>
+<div class="actions">
+<div class="meta">${links||"Fuente pendiente"}</div>
+<button class="save" data-save="${escapeHTML(id)}">${saved.includes(id)?"★ Guardada":"☆ Guardar"}</button>
+</div></article>`;
+}).join(""):`<div class="empty">No hay noticias para esta selección.</div>`;
+}
+$("tabs").addEventListener("click",e=>{
+let b=e.target.closest("[data-tab]");
+if(b){active=b.dataset.tab;$("search").value="";render()}
+});
+$("articles").addEventListener("click",e=>{
+let b=e.target.closest("[data-save]");
+if(!b)return;
+let id=b.dataset.save;
+saved=saved.includes(id)?saved.filter(x=>x!==id):[...saved,id];
+localStorage.setItem("dailySaved",JSON.stringify(saved));
+render();
+});
+$("search").addEventListener("input",render);
+$("filter").addEventListener("change",render);
+async function loadEdition(){
+try{
+let response=await fetch("./editions/latest.json?ts="+Date.now(),{cache:"no-store"});
+if(!response.ok)throw Error("No edition");
+let data=await response.json();
+if(!Array.isArray(data.stories))throw Error("Invalid edition");
+stories=data.stories.filter(n=>sections.some(s=>s.id===n.section)&&n.title&&n.summary);
+editionName=data.edition||"Última edición";
+live=true;
+}catch(e){live=false}
+render();
+}
+loadEdition();
+</script>
+</body>
+</html>
