@@ -7,7 +7,7 @@ on:
       - 'scripts/update_news.py'
       - '.github/workflows/update-news.yml'
   schedule:
-    - cron: '7,37 * * * *'
+    - cron: '7,22,37,52 * * * *'
 permissions:
   contents: write
 concurrency:
