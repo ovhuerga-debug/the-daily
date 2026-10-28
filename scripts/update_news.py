@@ -459,9 +459,36 @@ def main():
    pop_titles.add(normalized)
   deduped.append(story)
  allstories=deduped
+ # Verified upcoming programme highlights from the Madrid tourism calendar.
+ # Only include while the dated event has not passed; official calendar is the source.
+ OFFICIAL_FUTURE_EVENTS=[
+  ("Duran Duran en concierto","2026-11-06","Movistar Arena","Conciertos"),
+  ("Bryan Adams en Madrid","2026-11-10","Movistar Arena","Conciertos"),
+  ("Vetusta Morla: gira de vuelta","2026-11-19","Movistar Arena","Conciertos"),
+  ("75 aniversario de Camarón","2026-12-01","Movistar Arena","Conciertos"),
+  ("Mon Laferte: Femme Fatale","2027-01-13","Movistar Arena","Conciertos"),
+  ("Muse en Madrid","2027-01-19","Movistar Arena","Conciertos"),
+  ("Sara Baras: Infinita","2027-02-04","Teatro Gran Vía","Teatro y musicales"),
+  ("Siloé en concierto","2027-03-12","Movistar Arena","Conciertos"),
+  ("La Casa Azul en concierto","2027-03-05","Movistar Arena","Conciertos"),
+  ("7 minutos, con Blanca Portillo","2027-03-18","Teatro Español","Teatro y musicales"),
+  ("The World of Hans Zimmer","2027-05-14","Movistar Arena","Conciertos"),
+  ("Karol G en Madrid","2027-06-24","Estadio Metropolitano","Conciertos"),
+  ("Mad Cool Festival 2027","2027-07-01","Iberdrola Music (fechas por confirmar)","Conciertos"),
+ ]
+ for name,date,venue,topic in OFFICIAL_FUTURE_EVENTS:
+  if date<now.date().isoformat():continue
+  link="https://www.esmadrid.com/calendario-eventos-madrid"
+  allstories.append({"id":"eventos|oficial|"+name,"section":"eventos","category":"Agenda oficial Madrid","title":name,
+   "summary":"Fecha anunciada: "+date+" · "+venue+". Consulta la programación oficial para horarios, cambios y disponibilidad de entradas.",
+   "image":"","publishedAt":"","language":"es","topic":topic,"region":"Madrid",
+   "eventDate":date,"eventVenue":venue,"popHorizon":"futuro",
+   "verification":"Programación publicada por Turismo Madrid; disponibilidad no verificada",
+   "sources":[{"name":"Turismo Madrid · calendario oficial","url":link}]})
  # Editorial horizons: announcement status, not a verified event calendar.
  for story in allstories:
   if story["section"]!="eventos":continue
+  if story.get("eventDate"):continue
   title=(story.get("title") or "").lower()
   if any(t in title for t in ("entradas","preventa","a la venta","venta de entradas","agotad")):
    story["popHorizon"]="entradas"
