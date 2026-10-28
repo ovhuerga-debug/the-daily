@@ -105,6 +105,17 @@ def fetch(section,source,url,language=None,topic=None):
    "publishedAt":published[:16].replace("T"," ")+" UTC" if published else "",
    "_sort":published,"language":language,"topic":topic,"verification":"fuente identificada; no contrastada independientemente","sources":[{"name":source,"url":link}]})
  return result
+CULTURE_MADRID_TERMS=("madrid","madrileñ","matadero","teatros del canal","teatro real","filmoteca española","cineteca","cines princesa","festival de otoño","reina sofía","thyssen","museo del prado","caixaforum madrid","condeduque","la riviera","movistar arena","ifema","alcobendas","alcorcón")
+CULTURE_SPAIN_TERMS=("españa","español","española","españoles","españolas","nacional","premios goya","academia de cine","cine español","festival de san sebastián","festival de málaga","semana de cine de valladolid","sem inci","sem inci","barcelona","valencia","sevilla","bilbao","zaragoza","galicia","andalucía","cataluña","canarias","málaga","san sebastián","valladolid","almodóvar","bayona","sorogoyen","carla simón","isabel coixet","penélope cruz","javier bardem","blanca suárez","úrsula corberó")
+def culture_region(story):
+ text=(story.get("title","")+" "+story.get("summary","")).lower()
+ if any(term in text for term in CULTURE_MADRID_TERMS):return "Madrid"
+ if any(term in text for term in CULTURE_SPAIN_TERMS):return "España"
+ return "Internacional"
+def spanish_cinema_relevant(story):
+ # Exclude Spanish-language cinema coverage lacking a visible Spanish connection.
+ return culture_region(story)!="Internacional"
+
 def main():
  now=dt.datetime.now(dt.timezone.utc)
  hour=int(os.environ.get("EDITION_HOUR", "8"))
@@ -145,19 +156,28 @@ def main():
     print("Feed unavailable:",source,str(e)[:180])
     pool=[]
    cap=8 if section=="cultura" and language=="es" and source.endswith("ES") else SPECIAL_LIMITS[section]
-   for story in sorted(pool,key=lambda x:x["_sort"],reverse=True)[:cap]:
+   accepted=0
+   for story in sorted(pool,key=lambda x:x["_sort"],reverse=True):
+    if accepted>=cap:break
+    if section=="cultura" and language=="es" and topic=="Cine" and not spanish_cinema_relevant(story):continue
     if section=="viral" and story["_sort"]:
      try:
       age=dt.datetime.now(dt.timezone.utc)-dt.datetime.fromisoformat(story["_sort"])
       if age.total_seconds()>48*3600:continue
      except ValueError:pass
-    if section=="cultura" and language=="es":
-     story["region"]="España" if source.endswith("España") else "Madrid"
+    if section=="cultura":
+     story["region"]=culture_region(story)
+    accepted+=1
     story.pop("_sort",None)
     url=story["sources"][0]["url"]
     if section=="viral" and any(marker in url.lower() for marker in ["youtube.com/watch","youtu.be/","tiktok.com/","instagram.com/reel/"]):
      story["videoUrl"]=url
     allstories.append(story)
+ culture=[story for story in allstories if story["section"]=="cultura"]
+ other=[story for story in allstories if story["section"]!="cultura"]
+ rank={"Madrid":0,"España":1,"Internacional":2}
+ culture.sort(key=lambda story:(rank.get(story.get("region"),2),story.get("topic") or "",story.get("publishedAt") or ""),reverse=False)
+ allstories=other+culture
  if not allstories:
   raise RuntimeError("No feeds available; keeping previous edition unchanged")
  local=now.astimezone(__import__("zoneinfo").ZoneInfo("Europe/Madrid"))
