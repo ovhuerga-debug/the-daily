@@ -49,7 +49,10 @@ SPECIAL={
 ("Cuidado personal","es","Mensencia",google_news("site:mensencia.com estilo hombre moda belleza when:14d","es")),
 ("Estilo de vida","es","GQ España Lifestyle",google_news("site:revistagq.com estilo de vida relojes when:7d","es")),
 ("Moda","en","GQ EN",google_news("site:gq.com menswear style trends when:7d","en")),
-("Estilo de vida","en","Esquire EN",google_news("site:esquire.com style menswear grooming when:7d","en"))]}
+("Estilo de vida","en","Esquire EN",google_news("site:esquire.com style menswear grooming when:7d","en")),
+("Moda","es","Moda masculina España",google_news("moda masculina tendencias hombre GQ Esquire Mensencia when:7d","es")),
+("Cuidado personal","es","Grooming España",google_news("cuidado masculino belleza hombre perfume afeitado when:7d","es")),
+("Moda","en","Menswear International",google_news("menswear fashion men style grooming when:7d","en"))]}
 SPECIAL_LIMITS={"cultura":5,"viral":12,"tecnologia":12,"estilo":8}
 EXTRA_FEEDS={
  "espana":[("English coverage", "en", google_news("Spain politics economy news when:3d","en"))],
@@ -140,7 +143,7 @@ def fetch(section,source,url,language=None,topic=None):
   if atom:
    link=next((e.attrib.get("href","") for e in item.findall("a:link",NS) if e.attrib.get("rel","alternate")=="alternate"),"") or next((e.attrib.get("href","") for e in item.findall("a:link",NS)),"")
   if not title or not link.startswith(("https://","http://")):continue
-  if "news.google.com/rss/search" in url and "site%3A" not in url and not approved_aggregated_title(title):
+  if "news.google.com/rss/search" in url and "site%3A" not in url and section!="estilo" and not approved_aggregated_title(title):
    continue
   excerpt=clean(child(item,["description","a:summary","a:content","{http://purl.org/rss/1.0/modules/content/}encoded"]))
   published=dateparse(child(item,["pubDate","a:updated","a:published","{http://purl.org/dc/elements/1.1/}date"]))
