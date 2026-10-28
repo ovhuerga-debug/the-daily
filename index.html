@@ -448,6 +448,7 @@ body.eventos .subnav button.selected{background:#ff3e71;color:#fff}
 @media(max-width:950px){body.eventos #articles article{grid-column:span 6}body.eventos #articles article:first-child{grid-column:span 12}}
 @media(max-width:650px){body.eventos main{padding:18px 15px 55px}body.eventos main:before{font-size:20px;box-shadow:4px 4px 0 #111}body.eventos .section{font-size:clamp(60px,17vw,94px);text-shadow:4px 4px 0 #f6d322}body.eventos #articles{grid-template-columns:1fr;gap:17px;padding:8px 5px 25px}body.eventos #articles article,body.eventos #articles article:first-child{grid-column:1;box-shadow:4px 4px 0 #111}body.eventos #articles article:first-child h2{font-size:37px}body.eventos .intro{font-size:15px}}
 
+body.eventos .pop-date{display:inline-block;background:#111;color:#fff;font-weight:900;font-size:14px;letter-spacing:.02em;padding:9px 12px;margin:12px 0 4px;transform:rotate(-1deg)}
 </style>
 </head>
 <body class="espana">
@@ -545,7 +546,7 @@ let items=stories.filter(n=>n.section===active)
 .filter(n=>!bilingual||languageFilter==="all"||(n.language||"es")===languageFilter)
 .filter(n=>$("filter").value!=="saved"||saved.includes(storyId(n)));
 if(categorized)items.sort((a,b)=>({Madrid:0,"España":1,Internacional:2}[a.region||"Internacional"]??2)-({Madrid:0,"España":1,Internacional:2}[b.region||"Internacional"]??2)||(b.publishedAt||"").localeCompare(a.publishedAt||""));
-if(items.length)items=[...items].sort((a,b)=>Number(Boolean(b.image))-Number(Boolean(a.image)));
+if(items.length)items=[...items].sort((a,b)=>pop?(Number(Boolean(b.eventDate))-Number(Boolean(a.eventDate))||((a.eventDate||"9999").localeCompare(b.eventDate||"9999"))):Number(Boolean(b.image))-Number(Boolean(a.image)));
 $("articles").innerHTML=items.length?items.map(n=>{
 let id=storyId(n);
 if(translationCache[id]&&!n.translationEs)n.translationEs=translationCache[id];
@@ -555,6 +556,7 @@ return url?`<a href="${escapeHTML(url)}" target="_blank" rel="noopener noreferre
 }).filter(Boolean).join(" · ");
 return `<article class="${n.image&&validUrl(n.image)?"with-image":"text-only"}">
 ${n.image&&validUrl(n.image)?`<div class="article-image"><img src="${escapeHTML(validUrl(n.image))}" alt="" loading="lazy" referrerpolicy="no-referrer"></div>`:""}
+${pop&&n.eventDate?`<div class="pop-date">📅 ${escapeHTML(new Date(n.eventDate+"T12:00:00").toLocaleDateString("es-ES",{day:"numeric",month:"long",year:"numeric"}))} · ${escapeHTML(n.eventVenue||"Madrid")}</div>`:""}
 <div class="tag">${escapeHTML(n.topic||n.category||"Actualidad")} ${n.language==="en"?" · EN":n.language==="es"?" · ES":""}</div>
 <h2>${escapeHTML(n.title)}</h2>
 <div class="meta">${escapeHTML(n.region||"")} ${n.publishedAt?" · "+escapeHTML(n.publishedAt):""}</div>
@@ -563,7 +565,7 @@ ${n.language==="en"?`<div class="translation"><div class="translation-label">Tra
 ${n.summaryStatus==="excerpt"?'<div class="summary-note">Extracto disponible: faltan datos para elaborar un resumen más extenso.</div>':""}
 ${n.section==="viral"&&n.videoUrl&&validUrl(n.videoUrl)?`<a class="video-link" target="_blank" rel="noopener noreferrer" href="${escapeHTML(validUrl(n.videoUrl))}">▶ Ver vídeo original</a>`:""}
 <div class="actions">
-<div class="source-area">${(n.sources||[]).length&&validUrl(n.sources[0].url)?`<a class="source-button" href="${escapeHTML(validUrl(n.sources[0].url))}" target="_blank" rel="noopener noreferrer">↗ Leer noticia original</a>`:""}<div class="source-meta">Fuente: ${links||"Pendiente"}</div></div>
+<div class="source-area">${(n.sources||[]).length&&validUrl(n.sources[0].url)?`<a class="source-button" href="${escapeHTML(validUrl(n.sources[0].url))}" target="_blank" rel="noopener noreferrer">${n.eventDate?"↗ Consultar programación oficial":"↗ Leer noticia original"}</a>`:""}<div class="source-meta">Fuente: ${links||"Pendiente"}</div></div>
 <button class="save" data-save="${escapeHTML(id)}">${saved.includes(id)?"★ Guardada":"☆ Guardar"}</button>
 </div></article>`;
 }).join(""):`<div class="empty">No hay noticias para esta selección.</div>`;
