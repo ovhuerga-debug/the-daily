@@ -378,6 +378,30 @@ def main():
     count+=1
    print("Madrid POP",topic,count)
   except Exception as e:print("Madrid POP unavailable:",topic,str(e)[:120])
+ # Supplement Madrid POP with Madrid-focused cultural coverage already collected.
+ # This also helps when Google News RSS discovery has very few matches.
+ for story in list(allstories):
+  if story["section"]!="cultura":continue
+  if not madrid_pop_relevant(story):continue
+  if story.get("region") not in ("Madrid",None):continue
+  if not any(t in (story["title"] or "").lower() for t in MADRID_POP_EVENT_TERMS):continue
+  key=re.sub(r"[^a-z0-9áéíóúñ]+","",story["title"].lower())[:85]
+  if key in madrid_pop_seen:continue
+  madrid_pop_seen.add(key)
+  copy=dict(story)
+  copy["section"]="eventos"
+  copy["region"]="Madrid"
+  allstories.append(copy)
+ # Deduplicate Madrid POP headlines, including syndicated coverage with different URLs.
+ pop_titles=set()
+ deduped=[]
+ for story in allstories:
+  if story["section"]=="eventos":
+   normalized=re.sub(r"[^a-z0-9áéíóúñ]+","",story["title"].lower().split(" - ")[0])[:90]
+   if normalized in pop_titles:continue
+   pop_titles.add(normalized)
+  deduped.append(story)
+ allstories=deduped
  # Fill missing photos using the original publisher's OG image, with a strict
  # request budget. Google News links are skipped because they are not article URLs.
  photo_budget=45
