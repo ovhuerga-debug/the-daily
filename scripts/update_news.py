@@ -553,7 +553,23 @@ def main():
   raise RuntimeError("No feeds available; keeping previous edition unchanged")
  local=now.astimezone(__import__("zoneinfo").ZoneInfo("Europe/Madrid"))
  edition="THE DAILY · "+("Mañana" if hour==8 else "Noche")+" · "+local.strftime("%d/%m/%Y %H:%M")
- out={"edition":edition,"generatedAt":now.isoformat(),"mode":"rss-excerpts","stories":allstories}
+ # Last-hour headlines: verified publisher links from RSS, not X posts.
+ # Only genuinely timestamped stories from the last 24h; never fabricate social posts.
+ breaking={}
+ for section in ("espana","mundo","cultura","television","tecnologia","estilo","eventos","viral"):
+  recent=[]
+  for story in allstories:
+   if story.get("section")!=section or not story.get("publishedAt"):continue
+   try:
+    published=dt.datetime.strptime(story["publishedAt"],"%Y-%m-%d %H:%M UTC").replace(tzinfo=dt.timezone.utc)
+    if not dt.timedelta(0)<=now-published<=dt.timedelta(hours=24):continue
+   except (ValueError,TypeError):continue
+   recent.append(story)
+  recent.sort(key=lambda x:x.get("publishedAt",""),reverse=True)
+  breaking[section]=[{"title":x["title"],"publishedAt":x["publishedAt"],
+   "source":x.get("category","Medio"),"url":x["sources"][0]["url"]}
+   for x in recent[:15] if x.get("sources")]
+ out={"edition":edition,"generatedAt":now.isoformat(),"mode":"rss-excerpts","stories":allstories,"breaking":breaking}
  Path("editions").mkdir(exist_ok=True)
  Path("editions/latest.json").write_text(json.dumps(out,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
  print("Published",len(allstories),"stories")
