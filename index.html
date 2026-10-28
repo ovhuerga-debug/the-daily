@@ -417,6 +417,37 @@ body.eventos .subnav button.selected{background:#ec255a;color:#fff}
 body.eventos footer{background:#ffe44c;border-top:3px solid #111}
 @media(max-width:700px){body.eventos main:before{font-size:23px;box-shadow:4px 4px 0 #111}body.eventos #articles article{box-shadow:4px 4px 0 #111}}
 
+
+/* MADRID POP v2 — art-directed newspaper grid */
+body.eventos{background-color:#fff7d6;background-image:radial-gradient(#17171716 1px,transparent 1px);background-size:15px 15px}
+body.eventos header{background:#ffe642}
+body.eventos main{max-width:1320px}
+body.eventos main:before{content:"MADRID ★ POP ★ CULTURA";background:#ff3e71;color:#fff;font-size:clamp(20px,4vw,44px);letter-spacing:.04em;transform:rotate(-.6deg);box-shadow:8px 8px 0 #111;padding:14px 10px}
+body.eventos .section{font-size:clamp(60px,11vw,142px);color:#171717;text-shadow:7px 7px 0 #f6d322;margin:25px 0 14px}
+body.eventos .intro{background:#fff;border-left:10px solid #00c7de;padding:16px 20px;max-width:850px;font-size:17px}
+body.eventos #articles{display:grid;grid-template-columns:repeat(12,minmax(0,1fr));gap:24px;padding:8px 10px 30px}
+body.eventos #articles article{grid-column:span 4;min-width:0;background:#fff;border:3px solid #111;box-shadow:7px 7px 0 #111}
+body.eventos #articles article:first-child{grid-column:span 8;background:#ffef5d}
+body.eventos #articles article:nth-child(5n+2){background:#ffc9e5}
+body.eventos #articles article:nth-child(5n+3){background:#a6eae4}
+body.eventos #articles article:nth-child(5n+4){background:#fff}
+body.eventos #articles article:nth-child(5n){background:#d9c5ff}
+body.eventos #articles article .article-image{background:repeating-radial-gradient(circle at 40% 40%,#171717 0 1px,transparent 1px 9px),#ffd94e}
+body.eventos #articles article .article-image img{filter:saturate(1.18);mix-blend-mode:multiply}
+body.eventos #articles article:first-child .article-image{aspect-ratio:16/8}
+body.eventos #articles article:not(:first-child) .article-image{aspect-ratio:4/3}
+body.eventos #articles h2{font-family:Impact,"Arial Black",sans-serif;font-size:clamp(23px,2.3vw,36px);line-height:1.08;letter-spacing:.005em}
+body.eventos #articles article:first-child h2{font-size:clamp(34px,4.8vw,67px)}
+body.eventos #articles article p{color:#282828}
+body.eventos #articles .meta{color:#444}
+body.eventos #articles .source-button{background:#111;color:#fff!important;box-shadow:4px 4px 0 #ff3e71}
+body.eventos nav button.active{background:#111;color:#ffe642}
+body.eventos .subnav{margin:20px 0}
+body.eventos .subnav button{background:#fff;border:2px solid #111;padding:10px 14px;box-shadow:2px 2px 0 #111}
+body.eventos .subnav button.selected{background:#ff3e71;color:#fff}
+@media(max-width:950px){body.eventos #articles article{grid-column:span 6}body.eventos #articles article:first-child{grid-column:span 12}}
+@media(max-width:650px){body.eventos main{padding:18px 15px 55px}body.eventos main:before{font-size:20px;box-shadow:4px 4px 0 #111}body.eventos .section{font-size:clamp(60px,17vw,94px);text-shadow:4px 4px 0 #f6d322}body.eventos #articles{grid-template-columns:1fr;gap:17px;padding:8px 5px 25px}body.eventos #articles article,body.eventos #articles article:first-child{grid-column:1;box-shadow:4px 4px 0 #111}body.eventos #articles article:first-child h2{font-size:37px}body.eventos .intro{font-size:15px}}
+
 </style>
 </head>
 <body class="espana">
@@ -487,11 +518,12 @@ try{let x=new URL(u);return ["https:","http:"].includes(x.protocol)?x.href:null}
 }
 function render(){
 const categorized=active==="cultura";
+const pop=active==="eventos";
 const bilingual=true;
 const regionChoices=[["all","🌍 Todas las zonas"],["Madrid","📍 Madrid"],["España","🇪🇸 España"],["Internacional","🌐 Internacional"]];
 const categories=["all","Música","Cine","Teatro","Cultura general"];
-$("categories").style.display=categorized?"flex":"none";
-$("categories").innerHTML=categorized?`<div class="culture-mode"><button data-culture-mode="noticias" class="${cultureMode==="noticias"?"selected":""}">Actualidad cultural</button><button data-culture-mode="agenda" class="${cultureMode==="agenda"?"selected":""}">Agenda · Qué hacer</button></div><div class="culture-filter-label">Temas</div><div class="culture-filter-row">${categories.map(c=>`<button data-category="${c}" class="${categoryFilter===c?"selected":""}">${c==="all"?"Todas":c}</button>`).join("")}</div><div class="culture-filter-label">Ubicación · primero Madrid, después España</div><div class="culture-filter-row">${regionChoices.map(([id,name])=>`<button data-region="${id}" class="${regionFilter===id?"selected":""}">${name}</button>`).join("")}</div>`:"";
+$("categories").style.display=categorized||pop?"flex":"none";
+$("categories").innerHTML=pop?`<div class="culture-filter-label">Explora Madrid POP</div><div class="culture-filter-row">${[["all","Todo"],["Conciertos","🎵 Conciertos"],["Teatro y musicales","🎭 Teatro"],["Exposiciones","🎨 Exposiciones"],["Cine y estrenos","🎬 Cine"],["Entradas a la venta","🎟️ Entradas"],["Planes futuros","✨ Próximamente"]].map(([id,label])=>`<button data-category="${id}" class="${categoryFilter===id?"selected":""}">${label}</button>`).join("")}</div>`:categorized?`<div class="culture-mode"><button data-culture-mode="noticias" class="${cultureMode==="noticias"?"selected":""}">Actualidad cultural</button><button data-culture-mode="agenda" class="${cultureMode==="agenda"?"selected":""}">Agenda · Qué hacer</button></div><div class="culture-filter-label">Temas</div><div class="culture-filter-row">${categories.map(c=>`<button data-category="${c}" class="${categoryFilter===c?"selected":""}">${c==="all"?"Todas":c}</button>`).join("")}</div><div class="culture-filter-label">Ubicación · primero Madrid, después España</div><div class="culture-filter-row">${regionChoices.map(([id,name])=>`<button data-region="${id}" class="${regionFilter===id?"selected":""}">${name}</button>`).join("")}</div>`:"";
 $("languages").style.display=bilingual?"flex":"none";
 $("languages").innerHTML=bilingual?[["all","Ambos idiomas"],["es","En español"],["en","In English"]].map(([id,name])=>`<button data-lang="${id}" class="${languageFilter===id?"selected":""}">${name}</button>`).join(""):"";
 let s=sections.find(x=>x.id===active);
