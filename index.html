@@ -28,8 +28,12 @@ article{padding:22px 0;border-bottom:1px solid #ddd}
 h2{font-family:Georgia,serif;font-size:24px;line-height:1.2;margin:10px 0}
 p{font-size:15px;line-height:1.65;color:#505050}
 .meta{font-size:12px;color:#777}
-.actions{display:flex;justify-content:space-between;align-items:center;margin-top:15px}
+.actions{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;margin-top:15px;flex-wrap:wrap}
 .actions a{color:var(--accent);font-size:13px;font-weight:bold;text-decoration:none}
+.source-button{display:inline-block;background:var(--accent);color:#fff!important;border-radius:8px;padding:12px 16px;font-weight:bold;text-decoration:none;font-size:14px}
+.translation{border-left:3px solid var(--accent);padding:10px 15px;margin:16px 0;background:rgba(130,130,130,.08);border-radius:0 8px 8px 0}
+.translation-label{font-size:11px;letter-spacing:1px;text-transform:uppercase;font-weight:bold;color:var(--accent)}
+.translation p{margin:8px 0 0}.source-meta{font-size:12px;margin:8px 0}.summary-note{font-size:12px;opacity:.75}
 .save{border:1px solid #ccc;border-radius:20px;background:transparent;padding:8px 13px;cursor:pointer}
 .notice{background:#fff8df;padding:14px;border-radius:9px;font-size:13px;line-height:1.5}
 .empty{text-align:center;padding:35px;color:#777}
@@ -137,7 +141,7 @@ $("edition").textContent=editionName;
 $("notice").style.display=live?"none":"block";
 let q=$("search").value.toLocaleLowerCase("es");
 let items=stories.filter(n=>n.section===active)
-.filter(n=>(n.title+" "+n.summary+" "+n.category).toLocaleLowerCase("es").includes(q))
+.filter(n=>(n.title+" "+n.summary+" "+(n.translationEs||"")+" "+n.category).toLocaleLowerCase("es").includes(q))
 .filter(n=>!categorized||categoryFilter==="all"||n.topic===categoryFilter)
 .filter(n=>!bilingual||languageFilter==="all"||(n.language||"es")===languageFilter)
 .filter(n=>$("filter").value!=="saved"||saved.includes(storyId(n)));
@@ -152,9 +156,11 @@ return `<article>
 <h2>${escapeHTML(n.title)}</h2>
 <div class="meta">${escapeHTML(n.region||"")} ${n.publishedAt?" · "+escapeHTML(n.publishedAt):""}</div>
 <p>${escapeHTML(n.summary)}</p>
+${n.language==="en"?`<div class="translation"><div class="translation-label">Traducción al español</div><p>${n.translationEs?escapeHTML(n.translationEs):"Traducción pendiente de activar."}</p></div>`:""}
+${n.summaryStatus==="excerpt"?'<div class="summary-note">Extracto disponible: faltan datos para elaborar un resumen más extenso.</div>':""}
 ${n.section==="viral"&&n.videoUrl&&validUrl(n.videoUrl)?`<a class="video-link" target="_blank" rel="noopener noreferrer" href="${escapeHTML(validUrl(n.videoUrl))}">▶ Ver vídeo original</a>`:""}
 <div class="actions">
-<div class="meta">${links||"Fuente pendiente"}</div>
+<div class="source-area">${(n.sources||[]).length&&validUrl(n.sources[0].url)?`<a class="source-button" href="${escapeHTML(validUrl(n.sources[0].url))}" target="_blank" rel="noopener noreferrer">↗ Leer noticia original</a>`:""}<div class="source-meta">Fuente: ${links||"Pendiente"}</div></div>
 <button class="save" data-save="${escapeHTML(id)}">${saved.includes(id)?"★ Guardada":"☆ Guardar"}</button>
 </div></article>`;
 }).join(""):`<div class="empty">No hay noticias para esta selección.</div>`;
