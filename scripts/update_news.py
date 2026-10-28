@@ -12,9 +12,9 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 
 FEEDS = {
- "espana":[("RTVE","https://www.rtve.es/rss/portada.xml"),("El País","https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada"),("Europa Press","https://www.europapress.es/rss/rss.aspx")],
+ "espana":[("RTVE","https://www.rtve.es/rss/portada.xml"),("El País","https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada"),("Europa Press","https://www.europapress.es/rss/rss.aspx"),("El Mundo","https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml"),("ABC España","https://www.abc.es/rss/feeds/abcPortada.xml"),("El Confidencial","https://rss.elconfidencial.com/espana/")],
  "mundo":[("BBC World","https://feeds.bbci.co.uk/news/world/rss.xml"),("The Guardian World","https://www.theguardian.com/world/rss"),("ABC Australia","https://www.abc.net.au/news/feed/51120/rss.xml"),("DW","https://rss.dw.com/rdf/rss-en-world"),("NPR World","https://feeds.npr.org/1004/rss.xml")],
- "television":[("Variety TV","https://variety.com/v/tv/feed/"),("Deadline TV","https://deadline.com/category/tv/feed/"),("The Guardian Television","https://www.theguardian.com/tv-and-radio/rss")]
+ "television":[("Variety TV","https://variety.com/v/tv/feed/"),("Deadline TV","https://deadline.com/category/tv/feed/"),("The Guardian Television","https://www.theguardian.com/tv-and-radio/rss"),("FormulaTV","https://www.formulatv.com/rss/"),("Vertele","https://www.eldiario.es/vertele/rss/")]
 }
 LIMITS={"espana":20,"mundo":30,"television":30}
 
@@ -42,8 +42,15 @@ SPECIAL={
 "tecnologia":[
 ("Tecnología","es","Tecnología ES",google_news("tecnología inteligencia artificial móviles innovación when:2d","es")),
 ("Tecnología","en","Tech EN","https://www.theguardian.com/technology/rss"),
-("Tecnología","en","TechCrunch EN","https://techcrunch.com/feed/")]}
-SPECIAL_LIMITS={"cultura":5,"viral":12,"tecnologia":12}
+("Tecnología","en","TechCrunch EN","https://techcrunch.com/feed/")],
+"estilo":[
+("Moda","es","GQ España",google_news("site:revistagq.com moda masculina tendencias when:7d","es")),
+("Moda","es","Esquire España",google_news("site:esquire.com/es moda hombre estilo when:7d","es")),
+("Cuidado personal","es","Mensencia",google_news("site:mensencia.com estilo hombre moda belleza when:14d","es")),
+("Estilo de vida","es","GQ España Lifestyle",google_news("site:revistagq.com estilo de vida relojes when:7d","es")),
+("Moda","en","GQ EN",google_news("site:gq.com menswear style trends when:7d","en")),
+("Estilo de vida","en","Esquire EN",google_news("site:esquire.com style menswear grooming when:7d","en"))]}
+SPECIAL_LIMITS={"cultura":5,"viral":12,"tecnologia":12,"estilo":8}
 EXTRA_FEEDS={
  "espana":[("English coverage", "en", google_news("Spain politics economy news when:3d","en"))],
  "mundo":[("Noticias internacionales", "es", google_news("noticias internacionales mundo actualidad when:2d","es"))],
@@ -66,7 +73,7 @@ def dateparse(s):
  except Exception:
   try:return dt.datetime.fromisoformat(s.replace("Z","+00:00")).isoformat()
   except Exception:return ""
-TRUSTED_PUBLISHERS=("rtve","efe","europa press","el país","elpais","el mundo","abc","la vanguardia","eldiario.es","el confidencial","20minutos","cadena ser","cope","ondacero","bbc","reuters","associated press","ap news","the guardian","dw","npr","variety","deadline","techcrunch","timeout","time out","guía del ocio","madrid secreto","esmadrid","madrid.es","comunidad de madrid","museo del prado","teatros del canal")
+TRUSTED_PUBLISHERS=("rtve","efe","europa press","el país","elpais","el mundo","abc","la vanguardia","eldiario.es","el confidencial","elconfidencial","formulatv","formula tv","vertele","vértele","gq","gq españa","esquire","mensencia","20minutos","cadena ser","cope","ondacero","bbc","reuters","associated press","ap news","the guardian","dw","npr","variety","deadline","techcrunch","timeout","time out","guía del ocio","madrid secreto","esmadrid","madrid.es","comunidad de madrid","museo del prado","teatros del canal")
 def approved_aggregated_title(title):
  # Google News headlines generally end with ' - Publisher'.
  publisher=title.rsplit(" - ",1)[-1].strip().lower() if " - " in title else ""
