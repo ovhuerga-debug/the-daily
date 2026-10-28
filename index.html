@@ -501,6 +501,7 @@ const demo=[
 ];
 
 let active=new URLSearchParams(location.search).get("section")==="eventos"?"eventos":"espana";
+let popHorizon="all";
 let categoryFilter="all";let regionFilter="all";let cultureMode="noticias";
 let languageFilter="all";
 let stories=demo;
@@ -523,7 +524,7 @@ const bilingual=!pop;
 const regionChoices=[["all","🌍 Todas las zonas"],["Madrid","📍 Madrid"],["España","🇪🇸 España"],["Internacional","🌐 Internacional"]];
 const categories=["all","Música","Cine","Teatro","Cultura general"];
 $("categories").style.display=categorized||pop?"flex":"none";
-$("categories").innerHTML=pop?`<div class="culture-filter-label">Explora Madrid POP</div><div class="culture-filter-row">${[["all","Todo"],["Conciertos","🎵 Conciertos"],["Teatro y musicales","🎭 Teatro"],["Exposiciones","🎨 Exposiciones"],["Cine y estrenos","🎬 Cine"],["Entradas a la venta","🎟️ Entradas"],["Planes futuros","✨ Próximamente"]].map(([id,label])=>`<button data-category="${id}" class="${categoryFilter===id?"selected":""}">${label}</button>`).join("")}</div>`:categorized?`<div class="culture-mode"><button data-culture-mode="noticias" class="${cultureMode==="noticias"?"selected":""}">Actualidad cultural</button><button data-culture-mode="agenda" class="${cultureMode==="agenda"?"selected":""}">Agenda · Qué hacer</button></div><div class="culture-filter-label">Temas</div><div class="culture-filter-row">${categories.map(c=>`<button data-category="${c}" class="${categoryFilter===c?"selected":""}">${c==="all"?"Todas":c}</button>`).join("")}</div><div class="culture-filter-label">Ubicación · primero Madrid, después España</div><div class="culture-filter-row">${regionChoices.map(([id,name])=>`<button data-region="${id}" class="${regionFilter===id?"selected":""}">${name}</button>`).join("")}</div>`:"";
+$("categories").innerHTML=pop?`<div class="culture-filter-label">Cuándo quieres hacer el plan</div><div class="culture-filter-row">${[["all","★ Todo"],["ahora","📍 Ahora en Madrid"],["futuro","✨ Próximamente"],["entradas","🎟️ A la venta"]].map(([id,label])=>`<button data-pop-horizon="${id}" class="${popHorizon===id?"selected":""}">${label}</button>`).join("")}</div><div class="culture-filter-label">Explora Madrid POP</div><div class="culture-filter-row">${[["all","Todo"],["Conciertos","🎵 Conciertos"],["Teatro y musicales","🎭 Teatro"],["Exposiciones","🎨 Exposiciones"],["Cine y estrenos","🎬 Cine"],["Entradas a la venta","🎟️ Entradas"],["Planes futuros","✨ Próximamente"]].map(([id,label])=>`<button data-category="${id}" class="${categoryFilter===id?"selected":""}">${label}</button>`).join("")}</div>`:categorized?`<div class="culture-mode"><button data-culture-mode="noticias" class="${cultureMode==="noticias"?"selected":""}">Actualidad cultural</button><button data-culture-mode="agenda" class="${cultureMode==="agenda"?"selected":""}">Agenda · Qué hacer</button></div><div class="culture-filter-label">Temas</div><div class="culture-filter-row">${categories.map(c=>`<button data-category="${c}" class="${categoryFilter===c?"selected":""}">${c==="all"?"Todas":c}</button>`).join("")}</div><div class="culture-filter-label">Ubicación · primero Madrid, después España</div><div class="culture-filter-row">${regionChoices.map(([id,name])=>`<button data-region="${id}" class="${regionFilter===id?"selected":""}">${name}</button>`).join("")}</div>`:"";
 $("languages").style.display=bilingual?"flex":"none";
 $("languages").innerHTML=bilingual?[["all","Ambos idiomas"],["es","En español"],["en","In English"]].map(([id,name])=>`<button data-lang="${id}" class="${languageFilter===id?"selected":""}">${name}</button>`).join(""):"";
 let s=sections.find(x=>x.id===active);
@@ -538,6 +539,7 @@ let q=$("search").value.toLocaleLowerCase("es");
 let items=stories.filter(n=>n.section===active)
 .filter(n=>(n.title+" "+n.summary+" "+(n.translationEs||"")+" "+n.category).toLocaleLowerCase("es").includes(q))
 .filter(n=>!categorized||(n.cultureView||"noticias")===cultureMode)
+.filter(n=>!pop||popHorizon==="all"||(n.popHorizon||"ahora")===popHorizon)
 .filter(n=>!(categorized||pop)||categoryFilter==="all"||n.topic===categoryFilter)
 .filter(n=>!categorized||regionFilter==="all"||(n.region||"Internacional")===regionFilter)
 .filter(n=>!bilingual||languageFilter==="all"||(n.language||"es")===languageFilter)
