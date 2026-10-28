@@ -568,7 +568,7 @@ def main():
   recent.sort(key=lambda x:x.get("publishedAt",""),reverse=True)
   breaking[section]=[{"title":x["title"],"publishedAt":x["publishedAt"],
    "source":x.get("category","Medio"),"url":x["sources"][0]["url"]}
-   for x in recent[:15] if x.get("sources")]
+   for x in recent[:10] if x.get("sources")]
  out={"edition":edition,"generatedAt":now.isoformat(),"mode":"rss-excerpts","stories":allstories,"breaking":breaking}
  Path("editions").mkdir(exist_ok=True)
  Path("editions/latest.json").write_text(json.dumps(out,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
