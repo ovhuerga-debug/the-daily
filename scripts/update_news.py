@@ -23,13 +23,17 @@ def google_news(query,lang):
  return "https://news.google.com/rss/search?q="+quote(query)+"&hl="+lang+"&gl="+country+"&ceid="+country+":"+lang
 SPECIAL={
 "cultura":[
-("Música","es","Música ES",google_news("música conciertos discos artistas when:3d","es")),
+("Música","es","Música ES",google_news("Madrid conciertos festivales música artistas when:7d","es")),
+("Música","es","Música España",google_news("España música conciertos artistas discos when:5d","es")),
 ("Música","en","Music EN","https://www.theguardian.com/music/rss"),
-("Cine","es","Cine ES",google_news("cine estrenos películas festivales when:3d","es")),
+("Cine","es","Cine ES",google_news("Madrid cine estrenos festivales películas when:7d","es")),
+("Cine","es","Cine España",google_news("España cine estrenos películas festivales when:5d","es")),
 ("Cine","en","Film EN","https://www.theguardian.com/film/rss"),
-("Teatro","es","Teatro ES",google_news("teatro musicales estrenos artes escénicas when:5d","es")),
+("Teatro","es","Teatro ES",google_news("Madrid teatro musicales estrenos cartelera when:7d","es")),
+("Teatro","es","Teatro España",google_news("España teatro musicales estrenos when:5d","es")),
 ("Teatro","en","Stage EN","https://www.theguardian.com/stage/rss"),
-("Cultura general","es","Cultura ES",google_news("cultura exposiciones libros museos when:3d","es")),
+("Cultura general","es","Cultura ES",google_news("Madrid exposiciones museos cultura arte when:7d","es")),
+("Cultura general","es","Cultura España",google_news("España exposiciones libros museos arte when:5d","es")),
 ("Cultura general","en","Culture EN","https://www.theguardian.com/culture/rss")],
 "viral":[
 ("Tendencias","es","Viral ES",google_news("vídeo viral redes sociales tendencia internet when:2d","es")),
@@ -124,7 +128,10 @@ def main():
    except Exception as e:
     print("Feed unavailable:",source,str(e)[:180])
     pool=[]
-   for story in sorted(pool,key=lambda x:x["_sort"],reverse=True)[:SPECIAL_LIMITS[section]]:
+   cap=8 if section=="cultura" and language=="es" and source.endswith("ES") else SPECIAL_LIMITS[section]
+   for story in sorted(pool,key=lambda x:x["_sort"],reverse=True)[:cap]:
+    if section=="cultura" and language=="es":
+     story["region"]="España" if source.endswith("España") else "Madrid"
     story.pop("_sort",None)
     url=story["sources"][0]["url"]
     if section=="viral" and any(marker in url.lower() for marker in ["youtube.com/watch","youtu.be/","tiktok.com/","instagram.com/reel/"]):
