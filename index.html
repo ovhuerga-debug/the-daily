@@ -573,6 +573,7 @@ let b=e.target.closest("[data-tab]");
 if(b){active=b.dataset.tab;categoryFilter="all";regionFilter="all";cultureMode="noticias";languageFilter="all";$("search").value="";render()}
 });
 $("categories").addEventListener("click",e=>{let b=e.target.closest("[data-category]");if(b){categoryFilter=b.dataset.category;render()}});
+$("categories").addEventListener("click",e=>{let b=e.target.closest("[data-pop-horizon]");if(b){popHorizon=b.dataset.popHorizon;render()}});
 $("categories").addEventListener("click",e=>{let mode=e.target.closest("[data-culture-mode]");if(mode){cultureMode=mode.dataset.cultureMode;render()}});
 $("categories").addEventListener("click",e=>{let b=e.target.closest("[data-region]");if(b){regionFilter=b.dataset.region;render()}});
 $("languages").addEventListener("click",e=>{let b=e.target.closest("[data-lang]");if(b){languageFilter=b.dataset.lang;render()}});
