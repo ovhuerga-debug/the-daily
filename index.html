@@ -122,7 +122,7 @@ try{let x=new URL(u);return ["https:","http:"].includes(x.protocol)?x.href:null}
 }
 function render(){
 const categorized=active==="cultura";
-const bilingual=["cultura","viral","tecnologia"].includes(active);
+const bilingual=true;
 const categories=["all","Música","Cine","Teatro","Cultura general"];
 $("categories").style.display=categorized?"flex":"none";
 $("categories").innerHTML=categorized?categories.map(c=>`<button data-category="${c}" class="${categoryFilter===c?"selected":""}">${c==="all"?"Todas":c}</button>`).join(""):"";
@@ -139,7 +139,7 @@ let q=$("search").value.toLocaleLowerCase("es");
 let items=stories.filter(n=>n.section===active)
 .filter(n=>(n.title+" "+n.summary+" "+n.category).toLocaleLowerCase("es").includes(q))
 .filter(n=>!categorized||categoryFilter==="all"||n.topic===categoryFilter)
-.filter(n=>!bilingual||languageFilter==="all"||n.language===languageFilter)
+.filter(n=>!bilingual||languageFilter==="all"||(n.language||"es")===languageFilter)
 .filter(n=>$("filter").value!=="saved"||saved.includes(storyId(n)));
 $("articles").innerHTML=items.length?items.map(n=>{
 let id=storyId(n);
