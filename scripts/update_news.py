@@ -254,7 +254,8 @@ def main():
  culture=[story for story in allstories if story["section"]=="cultura"]
  other=[story for story in allstories if story["section"]!="cultura"]
  rank={"Madrid":0,"España":1,"Internacional":2}
- culture.sort(key=lambda story:(rank.get(story.get("region"),2),story.get("topic") or "",story.get("publishedAt") or ""),reverse=False)
+ culture.sort(key=lambda story:story.get("publishedAt") or "",reverse=True)
+ culture.sort(key=lambda story:rank.get(story.get("region"),2))
  allstories=other+culture
  if not allstories:
   raise RuntimeError("No feeds available; keeping previous edition unchanged")
