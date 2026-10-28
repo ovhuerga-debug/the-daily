@@ -39,6 +39,11 @@ SPECIAL={
 ("Tecnología","en","Tech EN","https://www.theguardian.com/technology/rss"),
 ("Tecnología","en","TechCrunch EN","https://techcrunch.com/feed/")]}
 SPECIAL_LIMITS={"cultura":5,"viral":12,"tecnologia":12}
+EXTRA_FEEDS={
+ "espana":[("English coverage", "en", google_news("Spain politics economy news when:3d","en"))],
+ "mundo":[("Noticias internacionales", "es", google_news("noticias internacionales mundo actualidad when:2d","es"))],
+ "television":[("Televisión España", "es", google_news("audiencias televisión estrenos formatos televisión when:3d","es"))]
+}
 
 NS={"a":"http://www.w3.org/2005/Atom"}
 def clean(value):
@@ -88,7 +93,8 @@ def main():
   pool=[]
   for source,url in feeds:
    try:
-    got=fetch(section,source,url)
+    language="en" if section=="mundo" or source in ("Variety TV","Deadline TV","The Guardian Television") else "es"
+    got=fetch(section,source,url,language)
     pool.extend(got)
     print(source,len(got))
    except Exception as e:print("Feed unavailable:",source,str(e)[:180])
@@ -102,6 +108,14 @@ def main():
    selected.append(story)
    if len(selected)>=LIMITS[section]:break
   allstories.extend(selected)
+ for section,feeds in EXTRA_FEEDS.items():
+  for source,language,url in feeds:
+   try:
+    more=fetch(section,source,url,language)
+    for story in more[:12]:
+     story.pop("_sort",None)
+     allstories.append(story)
+   except Exception as e:print("Feed unavailable:",source,str(e)[:180])
  for section,feeds in SPECIAL.items():
   for topic,language,source,url in feeds:
    try:
