@@ -162,6 +162,27 @@ def spanish_cinema_relevant(story):
  # Exclude Spanish-language cinema coverage lacking a visible Spanish connection.
  return culture_region(story)!="Internacional"
 
+
+# Agenda is a separate editorial view, not a claim that tickets or dates are verified.
+AGENDA_SIGNALS=("entradas","cartelera","programación","programacion","agenda","dónde ver","donde ver","cuándo","cuando","fechas","concierto","conciertos","exposición","exposicion","exposiciones","musical","musicales","festival","festivales","estreno","estrenos","recital","gira","teatro","museo","museos")
+def culture_view(story):
+ title=(story.get("title") or "").lower()
+ text=title+" "+(story.get("summary") or "").lower()
+ if story.get("agendaSource"):return "agenda"
+ # An article about an artist is not necessarily a plan; require event context.
+ if any(word in title for word in ("agenda","cartelera","entradas","dónde ver","donde ver","programación","programacion","exposición","exposicion","concierto","conciertos","musical","festival")):
+  return "agenda"
+ if any(word in title for word in ("estrena","estreno","estrenos","actuará","actuara","llega a madrid","en madrid")) and any(word in text for word in AGENDA_SIGNALS):
+  return "agenda"
+ return "noticias"
+
+AGENDA_QUERIES=[
+ ("Música","Madrid conciertos entradas fechas programación when:14d"),
+ ("Teatro","Madrid teatro musicales cartelera estrenos entradas when:14d"),
+ ("Cultura general","Madrid exposiciones museos agenda inauguraciones when:14d"),
+ ("Cine","Madrid festivales cine ciclos proyecciones cartelera when:14d"),
+]
+
 def main():
  now=dt.datetime.now(dt.timezone.utc)
  hour=int(os.environ.get("EDITION_HOUR", "8"))
@@ -243,6 +264,23 @@ def main():
     count+=1
     if count>=3:break
    print("Curated",name,count)
+ # Curated Madrid agenda: retain source attribution, never invent dates or availability.
+ for topic,query in AGENDA_QUERIES:
+  try:
+   candidates=fetch("cultura","Agenda Madrid",google_news(query,"es"),"es",topic)
+   for story in candidates[:8]:
+    if culture_region(story)!="Madrid":continue
+    story["region"]="Madrid"
+    story["agendaSource"]=True
+    story["cultureView"]="agenda"
+    story.pop("_sort",None)
+    allstories.append(story)
+  except Exception as e:print("Agenda unavailable:",topic,str(e)[:120])
+ for story in allstories:
+  if story["section"]=="cultura":
+   story["region"]=story.get("region") or culture_region(story)
+   story["cultureView"]=story.get("cultureView") or culture_view(story)
+   story.pop("agendaSource",None)
  # Avoid duplicate articles when a publication also appears in another feed.
  seen_links=set()
  unique=[]
