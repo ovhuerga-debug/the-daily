@@ -571,7 +571,7 @@ const recentHeadlines=(breakingBySection[active]||[]).slice(0,12);
 const isInternational=active==="mundo";
 const translateLink=(value)=>"https://translate.google.com/?sl=auto&tl=es&text="+encodeURIComponent(value.slice(0,1300))+"&op=translate";
 
-const breakingPanel=`<section class="breaking-panel">${active==="television"?`<div class="tv-x-feature"><strong>𝕏 PUBLICACIONES DE TELEVISIÓN EN ESPAÑOL</strong><p>Publicaciones públicas originales, insertadas directamente desde X. Las cronologías se actualizan desde X, no mediante nuestro RSS. Su visualización depende de X y de la configuración del navegador.</p><div class="tv-x-embeds">${(xMediaAccounts.television||[]).map(([name,handle])=>`<div class="tv-x-embed"><h3>${escapeHTML(name)} · @${escapeHTML(handle)}</h3><a class="twitter-timeline" data-height="420" data-theme="light" data-chrome="noheader nofooter" href="https://x.com/${encodeURIComponent(handle)}">Ver publicaciones de ${escapeHTML(name)} en X</a></div>`).join("")}</div></div>`:""}<div class="breaking-head"><span class="breaking-live">● ÚLTIMA HORA</span><strong>12 titulares recientes</strong><small>Revisión programada cada 15 min · fuentes periodísticas RSS, no publicaciones de X</small></div>${recentHeadlines.length?`<ol class="breaking-list">${recentHeadlines.map(n=>`<li><a href="${escapeHTML(validUrl(n.url)||"#")}" target="_blank" rel="noopener noreferrer"><span>${escapeHTML(n.title)}</span><small>${escapeHTML(n.source)} · ${escapeHTML(n.publishedAt)}</small></a>${isInternational?`<a class="breaking-translate" href="${escapeHTML(translateLink(n.title))}" target="_blank" rel="noopener noreferrer">🌐 Leer titular en español</a>`:""}</li>`).join("")}</ol>`:`<p class="breaking-empty">Todavía no hay titulares recientes verificados para esta sección. Se cargarán en la próxima actualización.</p>` }${active==="television"?"":`<div class="breaking-x-accounts"><span>𝕏 Consultar medios en X:</span>${xMediaLinks}</div>`}</section>`;
+const breakingPanel=`<section class="breaking-panel"><div class="breaking-head"><span class="breaking-live">● ÚLTIMA HORA</span><strong>12 titulares recientes</strong><small>Revisión programada cada 15 min · fuentes periodísticas RSS, no publicaciones de X</small></div>${recentHeadlines.length?`<ol class="breaking-list">${recentHeadlines.map(n=>`<li><a href="${escapeHTML(validUrl(n.url)||"#")}" target="_blank" rel="noopener noreferrer"><span>${escapeHTML(n.title)}</span><small>${escapeHTML(n.source)} · ${escapeHTML(n.publishedAt)}</small></a>${isInternational?`<a class="breaking-translate" href="${escapeHTML(translateLink(n.title))}" target="_blank" rel="noopener noreferrer">🌐 Leer titular en español</a>`:""}</li>`).join("")}</ol>`:`<p class="breaking-empty">Todavía no hay titulares recientes verificados para esta sección. Se cargarán en la próxima actualización.</p>` }${active==="television"?"":`<div class="breaking-x-accounts"><span>𝕏 Consultar medios en X:</span>${xMediaLinks}</div>`}</section>`;
 const socialRadar=pop?`<section class="pop-social-radar"><div class="pop-social-heading"><span>𝕏</span><div><strong>EN X SE ANUNCIA…</strong><p>Radar de publicaciones oficiales · enlaces a búsquedas en X, no tuits verificados ni un feed en directo.</p></div></div><div class="pop-social-links">${[["Movistar Arena","\"Movistar Arena\" Madrid conciertos"],["Ticketmaster","\"Ticketmaster España\" Madrid entradas"],["Teatros y musicales","Madrid estreno teatro musical entradas"],["Museos y exposiciones","Madrid museo exposición inauguración"],["Festivales","Madrid festival 2027 cartel entradas"]].map(([label,query])=>`<a href="https://x.com/search?q=${encodeURIComponent(query)}&f=live" target="_blank" rel="noopener noreferrer">𝕏 ${escapeHTML(label)} ↗</a>`).join("")}</div><p class="pop-social-note">Antes de comprar entradas, confirma fecha y disponibilidad en la web del organizador.</p></section>`:"";
 $("articles").innerHTML=breakingPanel+socialRadar+(items.length?items.map(n=>{
 let id=storyId(n);
@@ -595,7 +595,6 @@ ${n.section==="viral"&&n.videoUrl&&validUrl(n.videoUrl)?`<a class="video-link" t
 <button class="save" data-save="${escapeHTML(id)}">${saved.includes(id)?"★ Guardada":"☆ Guardar"}</button>
 </div></article>`;
 }).join(""):`<div class="empty">No hay noticias para esta selección.</div>`);
-if(active==="television"&&window.twttr&&window.twttr.widgets){window.twttr.widgets.load($("articles"));}
 }
 $("tabs").addEventListener("click",e=>{
 let b=e.target.closest("[data-tab]");
@@ -667,6 +666,6 @@ render();
 }
 loadEdition();
 </script>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 </body>
 </html>
