@@ -123,6 +123,34 @@ body.mundo nav,body.television nav{box-shadow:none}
  #articles h2{font-size:25px}
 }
 
+
+/* Photographic editorial magazine layout */
+#articles{grid-template-columns:repeat(12,minmax(0,1fr));gap:20px}
+#articles article{grid-column:span 6;overflow:hidden;padding:0;background:#fff;border-radius:5px;box-shadow:none}
+#articles article:first-child{grid-column:span 12;padding:0;border-top:0}
+#articles article .article-image{width:100%;aspect-ratio:16/10;overflow:hidden;background:#e8e4dd}
+#articles article:first-child .article-image{aspect-ratio:21/9}
+#articles article .article-image img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .5s ease}
+#articles article:hover .article-image img{transform:scale(1.035)}
+#articles article>.tag,#articles article>h2,#articles article>.meta,#articles article>p,#articles article>.translation,#articles article>.summary-note,#articles article>.video-link,#articles article>.actions{margin-left:25px;margin-right:25px}
+#articles article>.tag{margin-top:24px}
+#articles article>.actions{margin-bottom:25px}
+#articles article:first-child>.tag,#articles article:first-child>h2,#articles article:first-child>.meta,#articles article:first-child>p,#articles article:first-child>.translation,#articles article:first-child>.actions{margin-left:clamp(25px,5vw,55px);margin-right:clamp(25px,5vw,55px)}
+#articles article:first-child>.tag{margin-top:30px}
+#articles article:first-child>.actions{margin-bottom:30px}
+#articles article.text-only{border-top:4px solid var(--accent)}
+#articles article.text-only:first-child{border-top:6px solid var(--accent)}
+#articles article .tag{font-weight:900;letter-spacing:.16em}
+#articles article h2{line-height:1.12}
+@media(max-width:700px){
+ #articles{display:block}
+ #articles article,#articles article:first-child{margin-bottom:17px;padding:0;border-radius:5px}
+ #articles article:first-child .article-image{aspect-ratio:4/3}
+ #articles article .article-image{aspect-ratio:16/10}
+ #articles article>.tag,#articles article>h2,#articles article>.meta,#articles article>p,#articles article>.translation,#articles article>.actions,#articles article:first-child>.tag,#articles article:first-child>h2,#articles article:first-child>.meta,#articles article:first-child>p,#articles article:first-child>.translation,#articles article:first-child>.actions{margin-left:20px;margin-right:20px}
+ #articles article>.actions,#articles article:first-child>.actions{margin-bottom:22px}
+}
+
 </style>
 </head>
 <body class="espana">
@@ -215,6 +243,7 @@ let items=stories.filter(n=>n.section===active)
 .filter(n=>!bilingual||languageFilter==="all"||(n.language||"es")===languageFilter)
 .filter(n=>$("filter").value!=="saved"||saved.includes(storyId(n)));
 if(categorized)items.sort((a,b)=>({Madrid:0,"España":1,Internacional:2}[a.region||"Internacional"]??2)-({Madrid:0,"España":1,Internacional:2}[b.region||"Internacional"]??2)||(b.publishedAt||"").localeCompare(a.publishedAt||""));
+if(items.length)items=[...items].sort((a,b)=>Number(Boolean(b.image))-Number(Boolean(a.image)));
 $("articles").innerHTML=items.length?items.map(n=>{
 let id=storyId(n);
 if(translationCache[id]&&!n.translationEs)n.translationEs=translationCache[id];
@@ -222,7 +251,8 @@ let links=(n.sources||[]).map(x=>{
 let url=validUrl(x.url);
 return url?`<a href="${escapeHTML(url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(x.name||"Fuente")}</a>`:"";
 }).filter(Boolean).join(" · ");
-return `<article>
+return `<article class="${n.image&&validUrl(n.image)?"with-image":"text-only"}">
+${n.image&&validUrl(n.image)?`<div class="article-image"><img src="${escapeHTML(validUrl(n.image))}" alt="" loading="lazy" referrerpolicy="no-referrer"></div>`:""}
 <div class="tag">${escapeHTML(n.topic||n.category||"Actualidad")} ${n.language==="en"?" · EN":n.language==="es"?" · ES":""}</div>
 <h2>${escapeHTML(n.title)}</h2>
 <div class="meta">${escapeHTML(n.region||"")} ${n.publishedAt?" · "+escapeHTML(n.publishedAt):""}</div>
