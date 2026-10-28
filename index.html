@@ -252,6 +252,93 @@ body.viral #articles .tag{color:#c43a22}
  body.espana #articles article:first-child>.tag,body.espana #articles article:first-child>h2,body.espana #articles article:first-child>.meta,body.espana #articles article:first-child>p,body.espana #articles article:first-child>.actions{margin-left:0;margin-right:0}
 }
 
+
+/* Layout v4: distinctive editorial compositions and mobile-first behavior */
+#articles{grid-auto-flow:row dense}
+#articles article{min-width:0}
+#articles article h2{overflow-wrap:anywhere}
+#articles article .article-image{position:relative}
+#articles article .article-image img{max-width:100%}
+body.espana #articles{grid-template-columns:repeat(12,minmax(0,1fr));column-gap:26px}
+body.espana #articles article{grid-column:span 4}
+body.espana #articles article:first-child{grid-column:span 8;grid-row:span 2;border-right:1px solid #d6d0c8;padding-right:26px}
+body.espana #articles article:nth-child(2),body.espana #articles article:nth-child(3){grid-column:span 4}
+body.espana #articles article:nth-child(4){grid-column:span 12}
+body.espana #articles article:nth-child(4) h2{font-size:clamp(27px,3vw,39px)}
+body.espana #articles article:first-child .article-image{aspect-ratio:16/9}
+body.mundo #articles article:first-child{grid-column:span 8;grid-row:span 2}
+body.mundo #articles article:nth-child(2),body.mundo #articles article:nth-child(3){grid-column:span 4}
+body.mundo #articles article:nth-child(2) .article-image,body.mundo #articles article:nth-child(3) .article-image{display:none}
+body.mundo #articles article:nth-child(4){grid-column:span 12}
+body.cultura #articles article:first-child{grid-column:span 8;grid-row:span 2}
+body.cultura #articles article:nth-child(2),body.cultura #articles article:nth-child(3){grid-column:span 4}
+body.cultura #articles article:nth-child(2) .article-image{aspect-ratio:3/4}
+body.cultura #articles article:nth-child(4){grid-column:span 12}
+body.cultura:has(.culture-mode button[data-culture-mode="agenda"].selected) #articles{grid-template-columns:repeat(3,minmax(0,1fr))}
+body.cultura:has(.culture-mode button[data-culture-mode="agenda"].selected) #articles article{grid-column:span 1;grid-row:auto}
+body.cultura:has(.culture-mode button[data-culture-mode="agenda"].selected) #articles article:first-child{grid-column:span 2;grid-row:span 2}
+body.cultura:has(.culture-mode button[data-culture-mode="agenda"].selected) #articles article .article-image{aspect-ratio:4/3}
+body.cultura:has(.culture-mode button[data-culture-mode="agenda"].selected) #articles article:first-child .article-image{aspect-ratio:16/10}
+body.television #articles article:first-child{grid-column:span 8;grid-row:span 2}
+body.television #articles article:nth-child(2),body.television #articles article:nth-child(3){grid-column:span 4}
+body.television #articles article:nth-child(2) .article-image,body.television #articles article:nth-child(3) .article-image{display:none}
+body.television #articles article:nth-child(4){grid-column:span 12}
+body.tecnologia #articles article:first-child{grid-column:span 7;grid-row:span 2}
+body.tecnologia #articles article:nth-child(2),body.tecnologia #articles article:nth-child(3){grid-column:span 5}
+body.tecnologia #articles article:nth-child(4){grid-column:span 12}
+body.estilo #articles article:first-child{grid-column:span 7;grid-row:span 2}
+body.estilo #articles article:first-child .article-image{aspect-ratio:3/4;max-height:700px}
+body.estilo #articles article:nth-child(2),body.estilo #articles article:nth-child(3){grid-column:span 5}
+body.estilo #articles article:nth-child(2) .article-image{aspect-ratio:4/3}
+body.estilo #articles article:nth-child(4){grid-column:span 12}
+body.viral #articles article:first-child{grid-column:span 8;grid-row:span 2}
+body.viral #articles article:nth-child(2),body.viral #articles article:nth-child(3){grid-column:span 4}
+body.viral #articles article:nth-child(4){grid-column:span 12}
+@media(max-width:900px) and (min-width:701px){
+ body.espana #articles article:first-child,body.mundo #articles article:first-child,body.cultura #articles article:first-child,body.television #articles article:first-child,body.tecnologia #articles article:first-child,body.estilo #articles article:first-child,body.viral #articles article:first-child{grid-column:span 12;grid-row:auto}
+ body.espana #articles article,body.mundo #articles article,body.cultura #articles article,body.television #articles article,body.tecnologia #articles article,body.estilo #articles article,body.viral #articles article{grid-column:span 6;grid-row:auto}
+ body.cultura:has(.culture-mode button[data-culture-mode="agenda"].selected) #articles{grid-template-columns:repeat(2,minmax(0,1fr))}
+ body.cultura:has(.culture-mode button[data-culture-mode="agenda"].selected) #articles article:first-child{grid-column:span 2;grid-row:auto}
+}
+@media(max-width:700px){
+ html{-webkit-text-size-adjust:100%;scroll-padding-top:72px}
+ body{overflow-x:hidden}
+ header{padding:20px 15px 16px}
+ .brand{font-size:clamp(45px,11vw,66px);line-height:1}
+ .subtitle{font-size:9px;letter-spacing:.23em}
+ .edition{font-size:11px;line-height:1.5}
+ nav{position:sticky;top:0;z-index:20;overscroll-behavior-x:contain}
+ nav button{white-space:nowrap;min-height:44px}
+ main{width:100%;padding:20px 15px 70px}
+ .section{font-size:clamp(43px,11vw,60px);line-height:1.02;overflow-wrap:break-word}
+ .intro{font-size:14px;line-height:1.5}
+ .subnav{gap:6px}
+ .subnav button{min-height:42px}
+ .culture-mode{display:grid;grid-template-columns:1fr 1fr;gap:5px}
+ .culture-mode button{min-width:0!important;font-size:12px!important;padding:12px 6px!important}
+ .tools{display:grid;grid-template-columns:1fr;gap:8px}
+ .tools input,.tools select{width:100%;min-height:46px;font-size:16px}
+ #articles,body.espana #articles,body.mundo #articles,body.cultura #articles,body.television #articles,body.tecnologia #articles,body.estilo #articles,body.viral #articles,body.cultura:has(.culture-mode button[data-culture-mode="agenda"].selected) #articles{display:flex;flex-direction:column;gap:15px}
+ #articles article,body.espana #articles article,body.mundo #articles article,body.cultura #articles article,body.television #articles article,body.tecnologia #articles article,body.estilo #articles article,body.viral #articles article,body.cultura:has(.culture-mode button[data-culture-mode="agenda"].selected) #articles article{grid-column:auto;grid-row:auto;width:100%;min-width:0;flex:0 0 auto}
+ body.espana #articles article:first-child{padding:12px 0 22px;border-right:0;border-bottom:2px solid #333}
+ body.espana #articles article{padding:15px 0}
+ body.estilo #articles article:first-child .article-image{aspect-ratio:4/5;max-height:440px}
+ body.cultura #articles article:nth-child(2) .article-image{aspect-ratio:16/10}
+ #articles article:first-child .article-image{aspect-ratio:16/10}
+ #articles article h2{font-size:clamp(24px,6vw,29px)}
+ #articles article:first-child h2,body.estilo #articles article:first-child h2,body.espana #articles article:first-child h2{font-size:clamp(31px,8vw,40px)}
+ #articles article p{font-size:14px}
+ #articles article .actions{gap:9px}
+ #articles article .source-button{max-width:100%;white-space:normal;text-align:center}
+ footer{padding:26px 15px 40px}
+}
+@media(max-width:360px){
+ .brand{font-size:42px}
+ .section{font-size:40px}
+ #articles article>.tag,#articles article>h2,#articles article>.meta,#articles article>p,#articles article>.translation,#articles article>.actions,#articles article:first-child>.tag,#articles article:first-child>h2,#articles article:first-child>.meta,#articles article:first-child>p,#articles article:first-child>.translation,#articles article:first-child>.actions{margin-left:15px;margin-right:15px}
+}
+@media(prefers-reduced-motion:reduce){#articles article,#articles article .article-image img{transition:none!important}}
+
 </style>
 </head>
 <body class="espana">
