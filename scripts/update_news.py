@@ -95,7 +95,7 @@ CURATED_SOURCES={
  ("Kinótico","kinotico.es","es","Cine"),("Espinof","espinof.com","es","Cine"),
  ("Jenesaispop","jenesaispop.com","es","Música"),("MondoSonoro","mondosonoro.com","es","Música"),
  ("Teatros del Canal","teatroscanal.com","es","Teatro"),("Museo del Prado","museodelprado.es","es","Cultura general"),
- ("Time Out Madrid","timeout.es/madrid","es","Cultura general")],
+ ("Time Out Madrid","timeout.es/madrid/es","es","Cultura general")],
  "viral":[
  ("20minutos","20minutos.es","es"),("Antena 3 Noticias","antena3.com/noticias","es"),
  ("BBC News","bbc.com/news","en"),("The Guardian","theguardian.com","en")]
@@ -252,9 +252,9 @@ MADRID_POP_QUERIES=[
 # Specialist Madrid guides and cultural venues: source-specific Google News feeds.
 MADRID_POP_GUIDES=[
  ("Time Out Madrid","timeout.es/madrid","Planes y ocio"),
- ("Guía del Ocio","guiadelocio.com","Planes y ocio"),
+ ("Guía del Ocio","guiadelocio.es/madrid","Planes y ocio"),
  ("Madrid Secreto","madridsecreto.co","Planes y ocio"),
- ("El Oso","eloso.es","Planes y ocio"),
+ ("El Oso News","elosonews.com","Planes y ocio"),
  ("Teatros Madrid","teatrosmadrid.com","Teatro y musicales"),
  ("Madrid Destino","madrid-destino.com","Arte y cultura"),
  ("Comunidad de Madrid","comunidad.madrid","Arte y cultura"),
