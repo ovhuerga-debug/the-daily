@@ -27,8 +27,8 @@ SPECIAL={
 ("Música","es","Música ES",google_news("Madrid conciertos festivales música artistas when:7d","es")),
 ("Música","es","Música España",google_news("España música conciertos artistas discos when:5d","es")),
 ("Música","en","Music EN","https://www.theguardian.com/music/rss"),
-("Cine","es","Cine ES",google_news("Madrid cine estrenos festivales películas when:7d","es")),
-("Cine","es","Cine España",google_news("España cine estrenos películas festivales when:5d","es")),
+("Cine","es","Cine ES",google_news("Madrid festivales cine directores premios rodajes when:7d","es")),
+("Cine","es","Cine España",google_news("España cine festivales premios industria películas when:5d","es")),
 ("Cine","en","Film EN","https://www.theguardian.com/film/rss"),
 ("Teatro","es","Teatro ES",google_news("Madrid teatro musicales estrenos cartelera when:7d","es")),
 ("Teatro","es","Teatro España",google_news("España teatro musicales estrenos when:5d","es")),
@@ -89,7 +89,7 @@ CURATED_SOURCES={
  ("Men's Health España","menshealth.com/es/","es"),("Vogue España","vogue.es","es"),
  ("GQ","gq.com","en"),("FashionBeans","fashionbeans.com","en")],
  "cultura":[
- ("SensaCine","sensacine.com","es","Cine"),("Cinemanía","20minutos.es/cinemania/","es","Cine"),
+ ("Cinemanía","20minutos.es/cinemania/","es","Cine"),
  ("Kinótico","kinotico.es","es","Cine"),("Espinof","espinof.com","es","Cine"),
  ("Jenesaispop","jenesaispop.com","es","Música"),("MondoSonoro","mondosonoro.com","es","Música"),
  ("Teatros del Canal","teatroscanal.com","es","Teatro"),("Museo del Prado","museodelprado.es","es","Cultura general"),
@@ -195,7 +195,7 @@ AGENDA_QUERIES=[
  ("Música","Madrid conciertos entradas fechas programación when:14d"),
  ("Teatro","Madrid teatro musicales cartelera estrenos entradas when:14d"),
  ("Cultura general","Madrid exposiciones museos agenda inauguraciones when:14d"),
- ("Cine","Madrid festivales cine ciclos proyecciones cartelera when:14d"),
+ ("Cine","Madrid festivales cine ciclos especiales filmoteca when:14d"),
 ]
 
 def main():
@@ -242,6 +242,7 @@ def main():
    for story in sorted(pool,key=lambda x:x["_sort"],reverse=True):
     if accepted>=cap:break
     if section=="cultura" and language=="es" and topic=="Cine" and not spanish_cinema_relevant(story):continue
+    if section=="cultura" and topic=="Cine" and any(t in story["title"].lower() for t in ("cartelera de cine","estrenos de la semana","películas que se estrenan","qué ver en cines esta semana","que ver en cines esta semana")):continue
     if section=="viral" and not any(term in (story["title"]+" "+story.get("summary","")).lower() for term in ("viral","vídeo","video","redes sociales","tiktok","instagram","youtube","meme","internet","tendencia","streamer")):continue
     if section=="viral" and story["_sort"]:
      try:
