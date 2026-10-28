@@ -474,7 +474,6 @@ def main():
   ("7 minutos, con Blanca Portillo","2027-03-18","Teatro Español","Teatro y musicales"),
   ("The World of Hans Zimmer","2027-05-14","Movistar Arena","Conciertos"),
   ("Karol G en Madrid","2027-06-24","Estadio Metropolitano","Conciertos"),
-  ("Mad Cool Festival 2027","2027-07-01","Iberdrola Music (fechas por confirmar)","Conciertos"),
  ]
  for name,date,venue,topic in OFFICIAL_FUTURE_EVENTS:
   if date<now.date().isoformat():continue
@@ -532,7 +531,7 @@ def main():
  unique=[]
  for story in allstories:
   link=story["sources"][0]["url"]
-  key=link.split("?")[0].rstrip("/")
+  key=(story["id"] if story.get("eventDate") else link.split("?")[0].rstrip("/"))
   if key in seen_links:continue
   seen_links.add(key)
   unique.append(story)
