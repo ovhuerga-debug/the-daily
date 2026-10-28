@@ -27,8 +27,8 @@ SPECIAL={
 ("Música","es","Música ES",google_news("Madrid conciertos festivales música artistas when:7d","es")),
 ("Música","es","Música España",google_news("España música conciertos artistas discos when:5d","es")),
 ("Música","en","Music EN","https://www.theguardian.com/music/rss"),
-("Cine","es","Cine ES",google_news("Madrid festivales cine directores premios rodajes when:7d","es")),
-("Cine","es","Cine España",google_news("España cine festivales premios industria películas when:5d","es")),
+("Cine","es","Cine ES",google_news("Madrid cine estrenos películas tráiler directores festivales when:7d","es")),
+("Cine","es","Cine España",google_news("España estreno películas tráiler cine premios festivales when:5d","es")),
 ("Cine","en","Film EN","https://www.theguardian.com/film/rss"),
 ("Teatro","es","Teatro ES",google_news("Madrid teatro musicales estrenos cartelera when:7d","es")),
 ("Teatro","es","Teatro España",google_news("España teatro musicales estrenos when:5d","es")),
@@ -109,21 +109,30 @@ def child(el,names):
   if v:return v
  return ""
 def story_image(item):
- # Only publisher-provided RSS imagery; never use a generic unrelated photo.
+ # Prefer the actual article's media thumbnail/enclosure or embedded image.
  candidates=[]
  for element in item.iter():
   tag=element.tag.rsplit("}",1)[-1].lower()
   if tag in ("thumbnail","content","enclosure","image"):
    u=element.attrib.get("url","") or element.attrib.get("href","")
    mime=element.attrib.get("type","")
-   if u and (tag!="enclosure" or mime.startswith("image/")):
+   medium=element.attrib.get("medium","")
+   if u and (tag!="enclosure" or mime.startswith("image/")) and (tag!="content" or medium in ("","image") or mime.startswith("image/")):
     candidates.append(u)
   if tag=="image":
    v=element.findtext("url")
    if v:candidates.append(v)
+ # Many publisher RSS feeds place the photo only inside the HTML description.
+ for field in ("description","{http://purl.org/rss/1.0/modules/content/}encoded","{http://www.w3.org/2005/Atom}content"):
+  raw=item.findtext(field) or ""
+  raw=html.unescape(raw)
+  for match in re.finditer(r'<img\\b[^>]*?\\b(?:src|data-src|data-original)\\s*=\\s*["\\\']([^"\\\']+)["\\\']',raw,re.I):
+   candidates.append(html.unescape(match.group(1)))
  for u in candidates:
-  if u.startswith("https://") or u.startswith("http://"):
-   if not re.search(r"\\.(svg|gif)(?:[?#]|$)",u,re.I):return u
+  if not u.startswith(("https://","http://")):continue
+  if re.search(r"\\.(?:svg|gif)(?:[?#]|$)",u,re.I):continue
+  if any(t in u.lower() for t in ("pixel","tracking","spacer","1x1","favicon","logo")):continue
+  return u
  return ""
 
 def dateparse(s):
@@ -242,7 +251,7 @@ def main():
    for story in sorted(pool,key=lambda x:x["_sort"],reverse=True):
     if accepted>=cap:break
     if section=="cultura" and language=="es" and topic=="Cine" and not spanish_cinema_relevant(story):continue
-    if section=="cultura" and topic=="Cine" and any(t in story["title"].lower() for t in ("cartelera de cine","estrenos de la semana","películas que se estrenan","qué ver en cines esta semana","que ver en cines esta semana")):continue
+    if section=="cultura" and topic=="Cine" and any(t in story["title"].lower() for t in ("cartelera de cine","horarios de cine","sesiones de cine","dónde ver en cines","donde ver en cines")):continue
     if section=="viral" and not any(term in (story["title"]+" "+story.get("summary","")).lower() for term in ("viral","vídeo","video","redes sociales","tiktok","instagram","youtube","meme","internet","tendencia","streamer")):continue
     if section=="viral" and story["_sort"]:
      try:
