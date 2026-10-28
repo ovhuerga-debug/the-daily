@@ -151,6 +151,107 @@ body.mundo nav,body.television nav{box-shadow:none}
  #articles article>.actions,#articles article:first-child>.actions{margin-bottom:22px}
 }
 
+
+/* Seven distinct editorial art directions — 2026 */
+.section{position:relative}
+.section:before{content:"THE DAILY / EDICIÓN";display:block;font-family:Arial,sans-serif;font-size:10px;font-weight:800;letter-spacing:.23em;margin-bottom:15px;color:var(--accent)}
+#articles article{transition:transform .2s,box-shadow .2s}
+#articles article .article-image img{color:transparent}
+#articles article .article-image:has(img:not([src])){display:none}
+
+/* ESPAÑA — serious broadsheet, restrained photography */
+body.espana{--accent:#a52f2d;background:#f6f4ef}
+body.espana .section{font-size:clamp(52px,7vw,90px);border-bottom:3px double #252525;padding-bottom:16px}
+body.espana #articles{gap:0 24px}
+body.espana #articles article{background:transparent;border:0;border-bottom:1px solid #cfc9be;border-radius:0;box-shadow:none;padding:20px 0}
+body.espana #articles article:first-child{border-top:0;border-bottom:2px solid #333;padding:20px 0 34px}
+body.espana #articles article>.tag,body.espana #articles article>h2,body.espana #articles article>.meta,body.espana #articles article>p,body.espana #articles article>.actions{margin-left:0;margin-right:0}
+body.espana #articles article .article-image{border-radius:2px}
+body.espana #articles article:not(:first-child) .article-image{display:none}
+body.espana #articles article:nth-child(5n+2) .article-image{display:block;aspect-ratio:3/2}
+body.espana #articles h2{font-family:Georgia,serif;font-weight:700}
+body.espana #articles article:first-child h2{font-size:clamp(35px,5vw,62px)}
+
+/* MUNDO — midnight global briefing, serious and cinematic */
+body.mundo{--accent:#a7d5ff;background:#0e1926;color:#f6f6f4}
+body.mundo header,body.mundo nav{background:#101e2c}
+body.mundo .section{font-family:Georgia,serif;font-weight:400;font-style:italic}
+body.mundo #articles{gap:16px}
+body.mundo #articles article{background:#172638;border:1px solid #314459;border-radius:0}
+body.mundo #articles article:first-child{background:#1b3046;border-top:5px solid #a7d5ff}
+body.mundo #articles article:nth-child(3n) .article-image{display:none}
+body.mundo #articles article h2{font-weight:400}
+body.mundo #articles article .tag{color:#a7d5ff}
+
+/* CULTURA — creative arts journal, expressive mosaic */
+body.cultura{--accent:#7b339b;background:#f9f2f8}
+body.cultura .section{font-family:Georgia,serif;font-style:italic;letter-spacing:-.065em}
+body.cultura #articles{gap:20px}
+body.cultura #articles article{background:#fff;border:0;border-radius:2px}
+body.cultura #articles article:nth-child(5n+3){grid-column:span 4}
+body.cultura #articles article:nth-child(5n+4){grid-column:span 8;background:#efe1f0}
+body.cultura #articles article:nth-child(5n+3) .article-image{aspect-ratio:3/4}
+body.cultura #articles article:nth-child(5n+4) .article-image{aspect-ratio:16/9}
+body.cultura #articles article:first-child{grid-column:span 12;background:#fff;border-top:7px solid #7b339b}
+body.cultura #articles article h2{font-weight:600}
+
+/* TELEVISIÓN — entertainment trade magazine, on-air identity */
+body.television{--accent:#ffc452;background:#1b1b21}
+body.television header,body.television nav{background:#1b1b21}
+body.television .section{font-family:Arial,Helvetica,sans-serif;font-weight:950;text-transform:uppercase;letter-spacing:-.07em}
+body.television .section:before{content:"● EN ANTENA / INDUSTRIA Y FORMATOS";color:#ffc452}
+body.television #articles{gap:14px}
+body.television #articles article{background:#292933;border:1px solid #41414c;border-radius:3px}
+body.television #articles article:first-child{background:#33313b;border-top:7px solid #ffc452}
+body.television #articles h2{font-family:Arial,Helvetica,sans-serif;font-weight:900;letter-spacing:-.045em}
+body.television #articles article:nth-child(4n+3) .article-image{display:none}
+body.television #articles .tag{color:#ffc452}
+
+/* TECNOLOGÍA — clean futuristic product journal */
+body.tecnologia{--accent:#007b83;background:#eaf5f3}
+body.tecnologia .section{font-family:Arial,Helvetica,sans-serif;font-weight:900;letter-spacing:-.065em}
+body.tecnologia .section:before{content:"FUTURO / INNOVACIÓN / DIGITAL"}
+body.tecnologia #articles{gap:16px}
+body.tecnologia #articles article{background:#fff;border:1px solid #cbe1de;border-radius:17px;box-shadow:0 7px 22px #12534b0b}
+body.tecnologia #articles article:first-child{background:#e0f0ed;border-top:0}
+body.tecnologia #articles h2{font-family:Arial,Helvetica,sans-serif;font-weight:800}
+body.tecnologia #articles article:nth-child(4n+2) .article-image{display:none}
+body.tecnologia #articles .tag{color:#007b83}
+
+/* ESTILO — luxury fashion editorial, highly photographic */
+body.estilo{--accent:#8b4f2d;background:#ede8e0}
+body.estilo header,body.estilo nav{background:#f8f6f2}
+body.estilo .section{font-family:Georgia,serif;text-transform:uppercase;letter-spacing:-.075em;font-size:clamp(58px,8vw,100px)}
+body.estilo .section:before{content:"STYLE / MODA / PERSONAS / CULTURA";font-style:normal}
+body.estilo #articles{gap:22px}
+body.estilo #articles article{background:#fdfbf7;border:0;border-radius:0}
+body.estilo #articles article:first-child{background:#faf8f4;border:0}
+body.estilo #articles article:nth-child(4n+2){grid-column:span 5}
+body.estilo #articles article:nth-child(4n+3){grid-column:span 7}
+body.estilo #articles article:nth-child(4n+2) .article-image{aspect-ratio:3/4}
+body.estilo #articles article:nth-child(4n+3) .article-image{aspect-ratio:4/3}
+body.estilo #articles h2{font-family:Georgia,serif;font-weight:500}
+body.estilo #articles article:first-child h2{font-size:clamp(38px,5vw,64px)}
+
+/* VIRAL — playful digital culture, loud typographic rhythm */
+body.viral{--accent:#ef5435;background:#fff0db}
+body.viral .section{font-family:Arial,Helvetica,sans-serif;font-weight:950;text-transform:uppercase;letter-spacing:-.075em}
+body.viral .section:before{content:"⚡ INTERNET / TENDENCIAS / AHORA"}
+body.viral #articles{gap:16px}
+body.viral #articles article{background:#fffaf3;border:2px solid #28201b;border-radius:18px;box-shadow:6px 6px 0 #28201b}
+body.viral #articles article:first-child{background:#ffcf70;border:3px solid #28201b}
+body.viral #articles h2{font-family:Arial,Helvetica,sans-serif;font-weight:900;letter-spacing:-.04em}
+body.viral #articles article:nth-child(3n+2) .article-image{display:none}
+body.viral #articles .tag{color:#c43a22}
+@media(max-width:700px){
+ body.cultura #articles article,body.cultura #articles article:nth-child(5n+3),body.cultura #articles article:nth-child(5n+4),body.estilo #articles article,body.estilo #articles article:nth-child(4n+2),body.estilo #articles article:nth-child(4n+3){grid-column:auto}
+ body.espana .section,body.estilo .section{font-size:clamp(47px,12vw,65px)}
+ body.viral #articles article{box-shadow:4px 4px 0 #28201b}
+ body.espana #articles article:first-child{padding:15px 0 26px}
+ body.espana #articles article .article-image{margin-bottom:12px}
+ body.espana #articles article:first-child>.tag,body.espana #articles article:first-child>h2,body.espana #articles article:first-child>.meta,body.espana #articles article:first-child>p,body.espana #articles article:first-child>.actions{margin-left:0;margin-right:0}
+}
+
 </style>
 </head>
 <body class="espana">
