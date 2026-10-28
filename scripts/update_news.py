@@ -435,6 +435,16 @@ def main():
    pop_titles.add(normalized)
   deduped.append(story)
  allstories=deduped
+ # Editorial horizons: announcement status, not a verified event calendar.
+ for story in allstories:
+  if story["section"]!="eventos":continue
+  title=(story.get("title") or "").lower()
+  if any(t in title for t in ("entradas","preventa","a la venta","venta de entradas","agotad")):
+   story["popHorizon"]="entradas"
+  elif any(t in title for t in ("próxim","proxim","2027","2028","anuncia","anunciad","nueva fecha","llegará","llegara","presenta su gira","nueva temporada")):
+   story["popHorizon"]="futuro"
+  else:
+   story["popHorizon"]="ahora"
  # Fill missing photos using the original publisher's OG image, with a strict
  # request budget. Google News links are skipped because they are not article URLs.
  photo_budget=45
