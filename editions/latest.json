@@ -6586,28 +6586,6 @@
       "popHorizon": "entradas"
     },
     {
-      "id": "eventos|oficial|Duran Duran en concierto",
-      "section": "eventos",
-      "category": "Agenda oficial Madrid",
-      "title": "Duran Duran en concierto",
-      "summary": "Fecha anunciada: 2026-11-06 · Movistar Arena. Consulta la programación oficial para horarios, cambios y disponibilidad de entradas.",
-      "image": "https://estaticos.esmadrid.com/cdn/farfuture/i4dETkKS0QDWJ5eh9tgLsQpEwUjfv1cTAAZHdxjt9Q0/mtime:1652178002/sites/default/files/styles/content_type_full/public/recursosturisticos/infoturistica/cementerio_san_isidro_05_0.jpg?itok=6z4T26qW",
-      "publishedAt": "",
-      "language": "es",
-      "topic": "Conciertos",
-      "region": "Madrid",
-      "eventDate": "2026-11-06",
-      "eventVenue": "Movistar Arena",
-      "popHorizon": "futuro",
-      "verification": "Programación publicada por Turismo Madrid; disponibilidad no verificada",
-      "sources": [
-        {
-          "name": "Turismo Madrid · calendario oficial",
-          "url": "https://www.esmadrid.com/calendario-eventos-madrid"
-        }
-      ]
-    },
-    {
       "id": "cultura|https://news.google.com/rss/articles/CBMimwJBVV95cUxNU0NUa0tnYVhkd1cyRmk1TUhaVllNT1l3SG5FNzdwd0RNc1Q5LVhUUmE0elRLV3pENkFCdjdCcTVHcDZYZklrbWsxMjZXSGRRTVM1RFFCUFF4XzFhYnEwbzBrMTItdHhBSFJvdGdRQ0JnOTc0dFZ0ZmtpSVdQamxUWWxJb1ZpOXl5eHlhTnl2OW44YXRrYzcwdFlLR21XLUtJd3R0dF9uZHRxT3VDX0U0blBBS3NCNGh6YUx5Z2JHRFB3NGpWYWR6ZFF1d0dsRkwtb3I1c2ZGMDdyb2dVYl9XWTdWWXY5SlpteG9mQ1JkWGJqQTE1alN1ZVM0ay1uaU1kN2c3NkFjT1JKVDNDbjk4Q2pxclNkZlV3UWVZ?oc=5",
       "section": "cultura",
       "category": "Time Out Madrid",
@@ -7968,90 +7946,24 @@
       "cultureView": "noticias"
     },
     {
-      "id": "eventos|oficial|Duran Duran en concierto",
+      "id": "eventos|oficial|Carolina Durante",
       "section": "eventos",
       "category": "Agenda oficial Madrid",
-      "title": "Duran Duran en concierto",
-      "summary": "Fecha anunciada: 2026-11-06 · Movistar Arena. Consulta la programación oficial para horarios, cambios y disponibilidad de entradas.",
+      "title": "Carolina Durante",
+      "summary": "Programación anunciada · Movistar Arena. Consulta la ficha oficial para horarios, cambios y disponibilidad de entradas.",
       "image": "",
       "publishedAt": "",
       "language": "es",
       "topic": "Conciertos",
       "region": "Madrid",
-      "eventDate": "2026-11-06",
+      "eventDate": "2027-01-08",
       "eventVenue": "Movistar Arena",
       "popHorizon": "futuro",
-      "verification": "Programación publicada por Turismo Madrid; disponibilidad no verificada",
+      "verification": "Fuente oficial; disponibilidad de entradas no verificada",
       "sources": [
         {
-          "name": "Turismo Madrid · calendario oficial",
-          "url": "https://www.esmadrid.com/calendario-eventos-madrid"
-        }
-      ]
-    },
-    {
-      "id": "eventos|oficial|Bryan Adams en Madrid",
-      "section": "eventos",
-      "category": "Agenda oficial Madrid",
-      "title": "Bryan Adams en Madrid",
-      "summary": "Fecha anunciada: 2026-11-10 · Movistar Arena. Consulta la programación oficial para horarios, cambios y disponibilidad de entradas.",
-      "image": "",
-      "publishedAt": "",
-      "language": "es",
-      "topic": "Conciertos",
-      "region": "Madrid",
-      "eventDate": "2026-11-10",
-      "eventVenue": "Movistar Arena",
-      "popHorizon": "futuro",
-      "verification": "Programación publicada por Turismo Madrid; disponibilidad no verificada",
-      "sources": [
-        {
-          "name": "Turismo Madrid · calendario oficial",
-          "url": "https://www.esmadrid.com/calendario-eventos-madrid"
-        }
-      ]
-    },
-    {
-      "id": "eventos|oficial|Vetusta Morla: gira de vuelta",
-      "section": "eventos",
-      "category": "Agenda oficial Madrid",
-      "title": "Vetusta Morla: gira de vuelta",
-      "summary": "Fecha anunciada: 2026-11-19 · Movistar Arena. Consulta la programación oficial para horarios, cambios y disponibilidad de entradas.",
-      "image": "",
-      "publishedAt": "",
-      "language": "es",
-      "topic": "Conciertos",
-      "region": "Madrid",
-      "eventDate": "2026-11-19",
-      "eventVenue": "Movistar Arena",
-      "popHorizon": "futuro",
-      "verification": "Programación publicada por Turismo Madrid; disponibilidad no verificada",
-      "sources": [
-        {
-          "name": "Turismo Madrid · calendario oficial",
-          "url": "https://www.esmadrid.com/calendario-eventos-madrid"
-        }
-      ]
-    },
-    {
-      "id": "eventos|oficial|75 aniversario de Camarón",
-      "section": "eventos",
-      "category": "Agenda oficial Madrid",
-      "title": "75 aniversario de Camarón",
-      "summary": "Fecha anunciada: 2026-12-01 · Movistar Arena. Consulta la programación oficial para horarios, cambios y disponibilidad de entradas.",
-      "image": "",
-      "publishedAt": "",
-      "language": "es",
-      "topic": "Conciertos",
-      "region": "Madrid",
-      "eventDate": "2026-12-01",
-      "eventVenue": "Movistar Arena",
-      "popHorizon": "futuro",
-      "verification": "Programación publicada por Turismo Madrid; disponibilidad no verificada",
-      "sources": [
-        {
-          "name": "Turismo Madrid · calendario oficial",
-          "url": "https://www.esmadrid.com/calendario-eventos-madrid"
+          "name": "Programación oficial",
+          "url": "https://www.movistararena.es/programacion/"
         }
       ]
     },
@@ -8060,7 +7972,7 @@
       "section": "eventos",
       "category": "Agenda oficial Madrid",
       "title": "Mon Laferte: Femme Fatale",
-      "summary": "Fecha anunciada: 2027-01-13 · Movistar Arena. Consulta la programación oficial para horarios, cambios y disponibilidad de entradas.",
+      "summary": "Programación anunciada · Movistar Arena. Consulta la ficha oficial para horarios, cambios y disponibilidad de entradas.",
       "image": "",
       "publishedAt": "",
       "language": "es",
@@ -8069,33 +7981,77 @@
       "eventDate": "2027-01-13",
       "eventVenue": "Movistar Arena",
       "popHorizon": "futuro",
-      "verification": "Programación publicada por Turismo Madrid; disponibilidad no verificada",
+      "verification": "Fuente oficial; disponibilidad de entradas no verificada",
       "sources": [
         {
-          "name": "Turismo Madrid · calendario oficial",
-          "url": "https://www.esmadrid.com/calendario-eventos-madrid"
+          "name": "Programación oficial",
+          "url": "https://www.movistararena.es/programacion/"
         }
       ]
     },
     {
-      "id": "eventos|oficial|Muse en Madrid",
+      "id": "eventos|oficial|Duncan Dhu",
       "section": "eventos",
       "category": "Agenda oficial Madrid",
-      "title": "Muse en Madrid",
-      "summary": "Fecha anunciada: 2027-01-19 · Movistar Arena. Consulta la programación oficial para horarios, cambios y disponibilidad de entradas.",
+      "title": "Duncan Dhu",
+      "summary": "Programación anunciada · Movistar Arena. Consulta la ficha oficial para horarios, cambios y disponibilidad de entradas.",
+      "image": "",
+      "publishedAt": "",
+      "language": "es",
+      "topic": "Conciertos",
+      "region": "Madrid",
+      "eventDate": "2027-01-16",
+      "eventVenue": "Movistar Arena",
+      "popHorizon": "futuro",
+      "verification": "Fuente oficial; disponibilidad de entradas no verificada",
+      "sources": [
+        {
+          "name": "Programación oficial",
+          "url": "https://www.movistararena.es/programacion/"
+        }
+      ]
+    },
+    {
+      "id": "eventos|oficial|Muse: The Wow! Signal Europa Tour",
+      "section": "eventos",
+      "category": "Agenda oficial Madrid",
+      "title": "Muse: The Wow! Signal Europa Tour",
+      "summary": "Programación anunciada · Movistar Arena · también 20 enero. Consulta la ficha oficial para horarios, cambios y disponibilidad de entradas.",
       "image": "",
       "publishedAt": "",
       "language": "es",
       "topic": "Conciertos",
       "region": "Madrid",
       "eventDate": "2027-01-19",
-      "eventVenue": "Movistar Arena",
+      "eventVenue": "Movistar Arena · también 20 enero",
       "popHorizon": "futuro",
-      "verification": "Programación publicada por Turismo Madrid; disponibilidad no verificada",
+      "verification": "Fuente oficial; disponibilidad de entradas no verificada",
       "sources": [
         {
-          "name": "Turismo Madrid · calendario oficial",
-          "url": "https://www.esmadrid.com/calendario-eventos-madrid"
+          "name": "Programación oficial",
+          "url": "https://www.movistararena.es/programacion/"
+        }
+      ]
+    },
+    {
+      "id": "eventos|oficial|Tini",
+      "section": "eventos",
+      "category": "Agenda oficial Madrid",
+      "title": "Tini",
+      "summary": "Programación anunciada · Movistar Arena · también 27 y 28 enero. Consulta la ficha oficial para horarios, cambios y disponibilidad de entradas.",
+      "image": "",
+      "publishedAt": "",
+      "language": "es",
+      "topic": "Conciertos",
+      "region": "Madrid",
+      "eventDate": "2027-01-26",
+      "eventVenue": "Movistar Arena · también 27 y 28 enero",
+      "popHorizon": "futuro",
+      "verification": "Fuente oficial; disponibilidad de entradas no verificada",
+      "sources": [
+        {
+          "name": "Programación oficial",
+          "url": "https://www.movistararena.es/programacion/"
         }
       ]
     },
@@ -8104,29 +8060,73 @@
       "section": "eventos",
       "category": "Agenda oficial Madrid",
       "title": "Sara Baras: Infinita",
-      "summary": "Fecha anunciada: 2027-02-04 · Teatro Gran Vía. Consulta la programación oficial para horarios, cambios y disponibilidad de entradas.",
+      "summary": "Programación anunciada · Teatro Gran Vía · temporada hasta junio. Consulta la ficha oficial para horarios, cambios y disponibilidad de entradas.",
       "image": "",
       "publishedAt": "",
       "language": "es",
       "topic": "Teatro y musicales",
       "region": "Madrid",
       "eventDate": "2027-02-04",
-      "eventVenue": "Teatro Gran Vía",
+      "eventVenue": "Teatro Gran Vía · temporada hasta junio",
       "popHorizon": "futuro",
-      "verification": "Programación publicada por Turismo Madrid; disponibilidad no verificada",
+      "verification": "Fuente oficial; disponibilidad de entradas no verificada",
       "sources": [
         {
-          "name": "Turismo Madrid · calendario oficial",
+          "name": "Programación oficial",
           "url": "https://www.esmadrid.com/calendario-eventos-madrid"
         }
       ]
     },
     {
-      "id": "eventos|oficial|La Casa Azul en concierto",
+      "id": "eventos|oficial|Alcalá Norte",
       "section": "eventos",
       "category": "Agenda oficial Madrid",
-      "title": "La Casa Azul en concierto",
-      "summary": "Fecha anunciada: 2027-03-05 · Movistar Arena. Consulta la programación oficial para horarios, cambios y disponibilidad de entradas.",
+      "title": "Alcalá Norte",
+      "summary": "Programación anunciada · Movistar Arena. Consulta la ficha oficial para horarios, cambios y disponibilidad de entradas.",
+      "image": "",
+      "publishedAt": "",
+      "language": "es",
+      "topic": "Conciertos",
+      "region": "Madrid",
+      "eventDate": "2027-02-20",
+      "eventVenue": "Movistar Arena",
+      "popHorizon": "futuro",
+      "verification": "Fuente oficial; disponibilidad de entradas no verificada",
+      "sources": [
+        {
+          "name": "Programación oficial",
+          "url": "https://www.movistararena.es/programacion/"
+        }
+      ]
+    },
+    {
+      "id": "eventos|oficial|Kase.O: Camisa de Fuerza",
+      "section": "eventos",
+      "category": "Agenda oficial Madrid",
+      "title": "Kase.O: Camisa de Fuerza",
+      "summary": "Programación anunciada · Movistar Arena. Consulta la ficha oficial para horarios, cambios y disponibilidad de entradas.",
+      "image": "",
+      "publishedAt": "",
+      "language": "es",
+      "topic": "Conciertos",
+      "region": "Madrid",
+      "eventDate": "2027-02-27",
+      "eventVenue": "Movistar Arena",
+      "popHorizon": "futuro",
+      "verification": "Fuente oficial; disponibilidad de entradas no verificada",
+      "sources": [
+        {
+          "name": "Programación oficial",
+          "url": "https://movistararena.es/noticias/kase-o-anuncia-concierto-en-el-movistar-arena-de-madrid-con-su-gira-camisa-de-fuerza-entradas-a-la-venta-el-12-de-junio"
+        }
+      ]
+    },
+    {
+      "id": "eventos|oficial|La Casa Azul",
+      "section": "eventos",
+      "category": "Agenda oficial Madrid",
+      "title": "La Casa Azul",
+      "summary": "Programación anunciada · Movistar Arena. Consulta la ficha oficial para horarios, cambios y disponibilidad de entradas.",
       "image": "",
       "publishedAt": "",
       "language": "es",
@@ -8135,55 +8135,143 @@
       "eventDate": "2027-03-05",
       "eventVenue": "Movistar Arena",
       "popHorizon": "futuro",
-      "verification": "Programación publicada por Turismo Madrid; disponibilidad no verificada",
+      "verification": "Fuente oficial; disponibilidad de entradas no verificada",
       "sources": [
         {
-          "name": "Turismo Madrid · calendario oficial",
-          "url": "https://www.esmadrid.com/calendario-eventos-madrid"
+          "name": "Programación oficial",
+          "url": "https://www.movistararena.es/programacion/"
         }
       ]
     },
     {
-      "id": "eventos|oficial|Siloé en concierto",
+      "id": "eventos|oficial|Siloé",
       "section": "eventos",
       "category": "Agenda oficial Madrid",
-      "title": "Siloé en concierto",
-      "summary": "Fecha anunciada: 2027-03-12 · Movistar Arena. Consulta la programación oficial para horarios, cambios y disponibilidad de entradas.",
+      "title": "Siloé",
+      "summary": "Programación anunciada · Movistar Arena · también 13 marzo. Consulta la ficha oficial para horarios, cambios y disponibilidad de entradas.",
       "image": "",
       "publishedAt": "",
       "language": "es",
       "topic": "Conciertos",
       "region": "Madrid",
       "eventDate": "2027-03-12",
-      "eventVenue": "Movistar Arena",
+      "eventVenue": "Movistar Arena · también 13 marzo",
       "popHorizon": "futuro",
-      "verification": "Programación publicada por Turismo Madrid; disponibilidad no verificada",
+      "verification": "Fuente oficial; disponibilidad de entradas no verificada",
       "sources": [
         {
-          "name": "Turismo Madrid · calendario oficial",
-          "url": "https://www.esmadrid.com/calendario-eventos-madrid"
+          "name": "Programación oficial",
+          "url": "https://www.movistararena.es/programacion/"
         }
       ]
     },
     {
-      "id": "eventos|oficial|7 minutos, con Blanca Portillo",
+      "id": "eventos|oficial|Tash Sultana",
       "section": "eventos",
       "category": "Agenda oficial Madrid",
-      "title": "7 minutos, con Blanca Portillo",
-      "summary": "Fecha anunciada: 2027-03-18 · Teatro Español. Consulta la programación oficial para horarios, cambios y disponibilidad de entradas.",
+      "title": "Tash Sultana",
+      "summary": "Programación anunciada · Movistar Arena. Consulta la ficha oficial para horarios, cambios y disponibilidad de entradas.",
       "image": "",
       "publishedAt": "",
       "language": "es",
-      "topic": "Teatro y musicales",
+      "topic": "Conciertos",
       "region": "Madrid",
-      "eventDate": "2027-03-18",
-      "eventVenue": "Teatro Español",
+      "eventDate": "2027-03-31",
+      "eventVenue": "Movistar Arena",
       "popHorizon": "futuro",
-      "verification": "Programación publicada por Turismo Madrid; disponibilidad no verificada",
+      "verification": "Fuente oficial; disponibilidad de entradas no verificada",
       "sources": [
         {
-          "name": "Turismo Madrid · calendario oficial",
-          "url": "https://www.esmadrid.com/calendario-eventos-madrid"
+          "name": "Programación oficial",
+          "url": "https://www.movistararena.es/programacion/"
+        }
+      ]
+    },
+    {
+      "id": "eventos|oficial|Simple Minds",
+      "section": "eventos",
+      "category": "Agenda oficial Madrid",
+      "title": "Simple Minds",
+      "summary": "Programación anunciada · Movistar Arena. Consulta la ficha oficial para horarios, cambios y disponibilidad de entradas.",
+      "image": "",
+      "publishedAt": "",
+      "language": "es",
+      "topic": "Conciertos",
+      "region": "Madrid",
+      "eventDate": "2027-04-07",
+      "eventVenue": "Movistar Arena",
+      "popHorizon": "futuro",
+      "verification": "Fuente oficial; disponibilidad de entradas no verificada",
+      "sources": [
+        {
+          "name": "Programación oficial",
+          "url": "https://www.movistararena.es/programacion/"
+        }
+      ]
+    },
+    {
+      "id": "eventos|oficial|Thirty Seconds to Mars",
+      "section": "eventos",
+      "category": "Agenda oficial Madrid",
+      "title": "Thirty Seconds to Mars",
+      "summary": "Programación anunciada · Movistar Arena. Consulta la ficha oficial para horarios, cambios y disponibilidad de entradas.",
+      "image": "",
+      "publishedAt": "",
+      "language": "es",
+      "topic": "Conciertos",
+      "region": "Madrid",
+      "eventDate": "2027-04-08",
+      "eventVenue": "Movistar Arena",
+      "popHorizon": "futuro",
+      "verification": "Fuente oficial; disponibilidad de entradas no verificada",
+      "sources": [
+        {
+          "name": "Programación oficial",
+          "url": "https://www.movistararena.es/programacion/"
+        }
+      ]
+    },
+    {
+      "id": "eventos|oficial|Quevedo: El Baifo Tour",
+      "section": "eventos",
+      "category": "Agenda oficial Madrid",
+      "title": "Quevedo: El Baifo Tour",
+      "summary": "Programación anunciada · Movistar Arena · varias fechas en abril. Consulta la ficha oficial para horarios, cambios y disponibilidad de entradas.",
+      "image": "",
+      "publishedAt": "",
+      "language": "es",
+      "topic": "Conciertos",
+      "region": "Madrid",
+      "eventDate": "2027-04-09",
+      "eventVenue": "Movistar Arena · varias fechas en abril",
+      "popHorizon": "futuro",
+      "verification": "Fuente oficial; disponibilidad de entradas no verificada",
+      "sources": [
+        {
+          "name": "Programación oficial",
+          "url": "https://www.movistararena.es/noticias/quevedo-volvera-al-movistar-arena-de-madrid-en-2027-con-dos-conciertos-para-presentar-el-baifo"
+        }
+      ]
+    },
+    {
+      "id": "eventos|oficial|Hilary Duff",
+      "section": "eventos",
+      "category": "Agenda oficial Madrid",
+      "title": "Hilary Duff",
+      "summary": "Programación anunciada · Movistar Arena. Consulta la ficha oficial para horarios, cambios y disponibilidad de entradas.",
+      "image": "",
+      "publishedAt": "",
+      "language": "es",
+      "topic": "Conciertos",
+      "region": "Madrid",
+      "eventDate": "2027-05-07",
+      "eventVenue": "Movistar Arena",
+      "popHorizon": "futuro",
+      "verification": "Fuente oficial; disponibilidad de entradas no verificada",
+      "sources": [
+        {
+          "name": "Programación oficial",
+          "url": "https://www.movistararena.es/programacion/"
         }
       ]
     },
@@ -8192,7 +8280,7 @@
       "section": "eventos",
       "category": "Agenda oficial Madrid",
       "title": "The World of Hans Zimmer",
-      "summary": "Fecha anunciada: 2027-05-14 · Movistar Arena. Consulta la programación oficial para horarios, cambios y disponibilidad de entradas.",
+      "summary": "Programación anunciada · Movistar Arena. Consulta la ficha oficial para horarios, cambios y disponibilidad de entradas.",
       "image": "",
       "publishedAt": "",
       "language": "es",
@@ -8201,32 +8289,98 @@
       "eventDate": "2027-05-14",
       "eventVenue": "Movistar Arena",
       "popHorizon": "futuro",
-      "verification": "Programación publicada por Turismo Madrid; disponibilidad no verificada",
+      "verification": "Fuente oficial; disponibilidad de entradas no verificada",
       "sources": [
         {
-          "name": "Turismo Madrid · calendario oficial",
+          "name": "Programación oficial",
+          "url": "https://www.movistararena.es/programacion/"
+        }
+      ]
+    },
+    {
+      "id": "eventos|oficial|Tannhäuser",
+      "section": "eventos",
+      "category": "Agenda oficial Madrid",
+      "title": "Tannhäuser",
+      "summary": "Programación anunciada · Teatro Real · varias fechas hasta junio. Consulta la ficha oficial para horarios, cambios y disponibilidad de entradas.",
+      "image": "",
+      "publishedAt": "",
+      "language": "es",
+      "topic": "Teatro y musicales",
+      "region": "Madrid",
+      "eventDate": "2027-05-18",
+      "eventVenue": "Teatro Real · varias fechas hasta junio",
+      "popHorizon": "futuro",
+      "verification": "Fuente oficial; disponibilidad de entradas no verificada",
+      "sources": [
+        {
+          "name": "Programación oficial",
           "url": "https://www.esmadrid.com/calendario-eventos-madrid"
         }
       ]
     },
     {
-      "id": "eventos|oficial|Karol G en Madrid",
+      "id": "eventos|oficial|La gaviota",
       "section": "eventos",
       "category": "Agenda oficial Madrid",
-      "title": "Karol G en Madrid",
-      "summary": "Fecha anunciada: 2027-06-24 · Estadio Metropolitano. Consulta la programación oficial para horarios, cambios y disponibilidad de entradas.",
+      "title": "La gaviota",
+      "summary": "Programación anunciada · Teatro Español · hasta julio. Consulta la ficha oficial para horarios, cambios y disponibilidad de entradas.",
       "image": "",
       "publishedAt": "",
       "language": "es",
-      "topic": "Conciertos",
+      "topic": "Teatro y musicales",
       "region": "Madrid",
-      "eventDate": "2027-06-24",
-      "eventVenue": "Estadio Metropolitano",
+      "eventDate": "2027-05-18",
+      "eventVenue": "Teatro Español · hasta julio",
       "popHorizon": "futuro",
-      "verification": "Programación publicada por Turismo Madrid; disponibilidad no verificada",
+      "verification": "Fuente oficial; disponibilidad de entradas no verificada",
       "sources": [
         {
-          "name": "Turismo Madrid · calendario oficial",
+          "name": "Programación oficial",
+          "url": "https://www.esmadrid.com/calendario-eventos-madrid"
+        }
+      ]
+    },
+    {
+      "id": "eventos|oficial|Tanztheater Wuppertal Pina Bausch",
+      "section": "eventos",
+      "category": "Agenda oficial Madrid",
+      "title": "Tanztheater Wuppertal Pina Bausch",
+      "summary": "Programación anunciada · Teatro Real · varias funciones. Consulta la ficha oficial para horarios, cambios y disponibilidad de entradas.",
+      "image": "",
+      "publishedAt": "",
+      "language": "es",
+      "topic": "Teatro y musicales",
+      "region": "Madrid",
+      "eventDate": "2027-06-11",
+      "eventVenue": "Teatro Real · varias funciones",
+      "popHorizon": "futuro",
+      "verification": "Fuente oficial; disponibilidad de entradas no verificada",
+      "sources": [
+        {
+          "name": "Programación oficial",
+          "url": "https://www.esmadrid.com/calendario-eventos-madrid"
+        }
+      ]
+    },
+    {
+      "id": "eventos|oficial|PHotoESPAÑA 2027",
+      "section": "eventos",
+      "category": "Agenda oficial Madrid",
+      "title": "PHotoESPAÑA 2027",
+      "summary": "Programación anunciada · Varios espacios · mayo a septiembre; día exacto por confirmar. Consulta la ficha oficial para horarios, cambios y disponibilidad de entradas.",
+      "image": "",
+      "publishedAt": "",
+      "language": "es",
+      "topic": "Exposiciones",
+      "region": "Madrid",
+      "eventDate": "2027-05-01",
+      "eventVenue": "Varios espacios · mayo a septiembre; día exacto por confirmar",
+      "popHorizon": "futuro",
+      "verification": "Fuente oficial; disponibilidad de entradas no verificada",
+      "sources": [
+        {
+          "name": "Programación oficial",
           "url": "https://www.esmadrid.com/calendario-eventos-madrid"
         }
       ]
