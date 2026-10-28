@@ -6,6 +6,7 @@ import html
 import json
 import os
 import re
+from urllib.parse import urlparse
 import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
@@ -65,6 +66,12 @@ def dateparse(s):
  except Exception:
   try:return dt.datetime.fromisoformat(s.replace("Z","+00:00")).isoformat()
   except Exception:return ""
+TRUSTED_PUBLISHERS=("rtve","efe","europa press","el país","elpais","el mundo","abc","la vanguardia","eldiario.es","el confidencial","20minutos","cadena ser","cope","ondacero","bbc","reuters","associated press","ap news","the guardian","dw","npr","variety","deadline","techcrunch","timeout","time out","guía del ocio","madrid secreto","esmadrid","madrid.es","comunidad de madrid","museo del prado","teatros del canal")
+def approved_aggregated_title(title):
+ # Google News headlines generally end with ' - Publisher'.
+ publisher=title.rsplit(" - ",1)[-1].strip().lower() if " - " in title else ""
+ return bool(publisher and any(publisher==name or publisher.startswith(name+" ") for name in TRUSTED_PUBLISHERS))
+
 def fetch(section,source,url,language=None,topic=None):
  req=urllib.request.Request(url,headers={"User-Agent":"TheDailyReader/0.1 (RSS aggregation; contact via repository)","Accept":"application/rss+xml,application/atom+xml,application/xml,text/xml"})
  with urllib.request.urlopen(req,timeout=16) as response:
@@ -81,13 +88,15 @@ def fetch(section,source,url,language=None,topic=None):
   link=child(item,["link"])
   if atom:
    link=next((e.attrib.get("href","") for e in item.findall("a:link",NS) if e.attrib.get("rel","alternate")=="alternate"),"") or next((e.attrib.get("href","") for e in item.findall("a:link",NS)),"")
-  if not title or not link.startswith("https://") and not link.startswith("http://"):continue
+  if not title or not link.startswith(("https://","http://")):continue
+  if "news.google.com/rss/search" in url and not approved_aggregated_title(title):
+   continue
   excerpt=clean(child(item,["description","a:summary","a:content","{http://purl.org/rss/1.0/modules/content/}encoded"]))
   published=dateparse(child(item,["pubDate","a:updated","a:published","{http://purl.org/dc/elements/1.1/}date"]))
   result.append({"id":section+"|"+link,"section":section,"category":source,"title":title[:250],
    "summary":(excerpt[:360].rstrip()+"…" if len(excerpt)>360 else excerpt) or "Lee la noticia completa en la fuente original.",
    "publishedAt":published[:16].replace("T"," ")+" UTC" if published else "",
-   "_sort":published,"language":language,"topic":topic,"sources":[{"name":source,"url":link}]})
+   "_sort":published,"language":language,"topic":topic,"verification":"fuente identificada; no contrastada independientemente","sources":[{"name":source,"url":link}]})
  return result
 def main():
  now=dt.datetime.now(dt.timezone.utc)
@@ -130,6 +139,11 @@ def main():
     pool=[]
    cap=8 if section=="cultura" and language=="es" and source.endswith("ES") else SPECIAL_LIMITS[section]
    for story in sorted(pool,key=lambda x:x["_sort"],reverse=True)[:cap]:
+    if section=="viral" and story["_sort"]:
+     try:
+      age=dt.datetime.now(dt.timezone.utc)-dt.datetime.fromisoformat(story["_sort"])
+      if age.total_seconds()>48*3600:continue
+     except ValueError:pass
     if section=="cultura" and language=="es":
      story["region"]="España" if source.endswith("España") else "Madrid"
     story.pop("_sort",None)
