@@ -37,8 +37,12 @@ SPECIAL={
 ("Cultura general","es","Cultura España",google_news("España exposiciones libros museos arte when:5d","es")),
 ("Cultura general","en","Culture EN","https://www.theguardian.com/culture/rss")],
 "viral":[
-("Tendencias","es","Viral ES",google_news("vídeo viral redes sociales tendencia internet when:2d","es")),
-("Tendencias","en","Viral EN",google_news("viral video internet social media trending when:2d","en"))],
+("Tendencias","es","Viral ES",google_news("vídeo viral redes sociales tendencia internet when:3d","es")),
+("Tendencias","en","Viral EN",google_news("viral video internet social media trending when:3d","en")),
+("Tendencias","es","Viral medios ES",google_news("site:20minutos.es viral redes sociales when:5d","es")),
+("Tendencias","es","Viral actualidad ES",google_news("site:antena3.com/noticias/virales/ when:5d","es")),
+("Tendencias","en","Viral BBC",google_news("site:bbc.com/news viral social media video when:5d","en")),
+("Tendencias","en","Viral Guardian",google_news("site:theguardian.com viral video social media when:5d","en"))],
 "tecnologia":[
 ("Tecnología","es","Tecnología ES",google_news("tecnología inteligencia artificial móviles innovación when:2d","es")),
 ("Tecnología","en","Tech EN","https://www.theguardian.com/technology/rss"),
@@ -160,7 +164,7 @@ def fetch(section,source,url,language=None,topic=None):
   if atom:
    link=next((e.attrib.get("href","") for e in item.findall("a:link",NS) if e.attrib.get("rel","alternate")=="alternate"),"") or next((e.attrib.get("href","") for e in item.findall("a:link",NS)),"")
   if not title or not link.startswith(("https://","http://")):continue
-  if "news.google.com/rss/search" in url and section!="estilo" and "site%3A" not in url and not approved_aggregated_title(title):
+  if "news.google.com/rss/search" in url and section not in ("estilo","viral") and "site%3A" not in url and not approved_aggregated_title(title):
    continue
   excerpt=clean(child(item,["description","a:summary","a:content","{http://purl.org/rss/1.0/modules/content/}encoded"]))
   published=dateparse(child(item,["pubDate","a:updated","a:published","{http://purl.org/dc/elements/1.1/}date"]))
@@ -249,7 +253,7 @@ def main():
     if section=="viral" and story["_sort"]:
      try:
       age=dt.datetime.now(dt.timezone.utc)-dt.datetime.fromisoformat(story["_sort"])
-      if age.total_seconds()>48*3600:continue
+      if age.total_seconds()>5*24*3600:continue
      except ValueError:pass
     if section=="cultura":
      story["region"]=culture_region(story)
