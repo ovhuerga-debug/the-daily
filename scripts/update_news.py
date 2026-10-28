@@ -109,30 +109,48 @@ def child(el,names):
   if v:return v
  return ""
 def story_image(item):
- # Prefer the actual article's media thumbnail/enclosure or embedded image.
+ # Real photographs provided by the publisher's feed, not generic stock.
  candidates=[]
  for element in item.iter():
   tag=element.tag.rsplit("}",1)[-1].lower()
   if tag in ("thumbnail","content","enclosure","image"):
    u=element.attrib.get("url","") or element.attrib.get("href","")
    mime=element.attrib.get("type","")
-   medium=element.attrib.get("medium","")
-   if u and (tag!="enclosure" or mime.startswith("image/")) and (tag!="content" or medium in ("","image") or mime.startswith("image/")):
+   if u and (tag!="enclosure" or mime.startswith("image/")):
     candidates.append(u)
   if tag=="image":
-   v=element.findtext("url")
-   if v:candidates.append(v)
- # Many publisher RSS feeds place the photo only inside the HTML description.
+   u=element.findtext("url")
+   if u:candidates.append(u)
  for field in ("description","{http://purl.org/rss/1.0/modules/content/}encoded","{http://www.w3.org/2005/Atom}content"):
-  raw=item.findtext(field) or ""
-  raw=html.unescape(raw)
-  for match in re.finditer(r'<img\b[^>]*?\b(?:src|data-src|data-original)\s*=\s*["\\\']([^"\\\']+)["\\\']',raw,re.I):
-   candidates.append(html.unescape(match.group(1)))
+  raw=html.unescape(item.findtext(field) or "")
+  for match in re.finditer(r'<img[^>]+(?:src|data-src|data-original)=[^ >]+',raw,re.I):
+   fragment=match.group(0)
+   u=re.search(r'(?:src|data-src|data-original)=["]([^"]+)["]',fragment,re.I)
+   if u:candidates.append(html.unescape(u.group(1)))
  for u in candidates:
   if not u.startswith(("https://","http://")):continue
-  if re.search(r"\.(?:svg|gif)(?:[?#]|$)",u,re.I):continue
+  if any(u.lower().split("?")[0].endswith(ext) for ext in (".svg",".gif")):continue
   if any(t in u.lower() for t in ("pixel","tracking","spacer","1x1","favicon","logo")):continue
   return u
+ return ""
+
+def article_og_image(url):
+ # Publisher's own Open Graph image. Limited to direct publisher links.
+ host=urlparse(url).hostname or ""
+ if not host or host=="news.google.com" or host.endswith(".google.com"):return ""
+ try:
+  req=urllib.request.Request(url,headers={"User-Agent":"Mozilla/5.0 (compatible; TheDaily/1.0)","Accept":"text/html"})
+  with urllib.request.urlopen(req,timeout=5) as response:
+   if "text/html" not in response.headers.get("Content-Type",""):return ""
+   page=response.read(110_000).decode("utf-8","ignore")
+  for tag in re.findall(r'<meta\\s+[^>]*>',page,re.I):
+   if not re.search(r'(?:og:image|twitter:image)',tag,re.I):continue
+   match=re.search(r'content=["]([^"]+)["]',tag,re.I)
+   if match:
+    from urllib.parse import urljoin
+    image=urljoin(url,html.unescape(match.group(1)))
+    if image.startswith(("https://","http://")):return image
+ except Exception:pass
  return ""
 
 def dateparse(s):
@@ -165,7 +183,7 @@ def fetch(section,source,url,language=None,topic=None):
   if atom:
    link=next((e.attrib.get("href","") for e in item.findall("a:link",NS) if e.attrib.get("rel","alternate")=="alternate"),"") or next((e.attrib.get("href","") for e in item.findall("a:link",NS)),"")
   if not title or not link.startswith(("https://","http://")):continue
-  if "news.google.com/rss/search" in url and "site%3A" not in url and not approved_aggregated_title(title):
+  if "news.google.com/rss/search" in url and section not in ("viral","estilo") and "site%3A" not in url and not approved_aggregated_title(title):
    continue
   excerpt=clean(child(item,["description","a:summary","a:content","{http://purl.org/rss/1.0/modules/content/}encoded"]))
   published=dateparse(child(item,["pubDate","a:updated","a:published","{http://purl.org/dc/elements/1.1/}date"]))
@@ -309,6 +327,37 @@ def main():
    story["region"]=story.get("region") or culture_region(story)
    story["cultureView"]=story.get("cultureView") or culture_view(story)
    story.pop("agendaSource",None)
+ # Fill missing photos using the original publisher's OG image, with a strict
+ # request budget. Google News links are skipped because they are not article URLs.
+ photo_budget=45
+ for story in allstories:
+  if photo_budget<=0:break
+  if story.get("image"):continue
+  source_url=story["sources"][0]["url"]
+  if "news.google.com/" in source_url:continue
+  photo_budget-=1
+  story["image"]=article_og_image(source_url)
+ # Viral fallback: relevant, recent stories from established news feeds when
+ # Google News discovery returns no items. Keep attribution and original links.
+ if not any(story["section"]=="viral" for story in allstories):
+  for section,feeds in FEEDS.items():
+   if section not in ("espana","mundo"):continue
+   for source,url in feeds[:3]:
+    try:
+     for item in fetch("viral",source,url,"es" if section=="espana" else "en","Tendencias"):
+      title=item["title"].lower()
+      if not any(word in title for word in ("viral","vídeo","video","tiktok","instagram","meme","redes sociales")):continue
+      if item.get("_sort"):
+       age=now-dt.datetime.fromisoformat(item["_sort"])
+       if age.total_seconds()>5*86400:continue
+      item.pop("_sort",None)
+      allstories.append(item)
+      if sum(x["section"]=="viral" for x in allstories)>=12:break
+    except Exception as e:print("Viral fallback unavailable:",source,str(e)[:100])
+    if sum(x["section"]=="viral" for x in allstories)>=12:break
+   if any(x["section"]=="viral" for x in allstories):break
+ print("Photo coverage:",sum(bool(x.get("image")) for x in allstories),"/",len(allstories))
+ print("Viral stories:",sum(x["section"]=="viral" for x in allstories))
  # Avoid duplicate articles when a publication also appears in another feed.
  seen_links=set()
  unique=[]
