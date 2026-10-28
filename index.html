@@ -33,7 +33,9 @@ p{font-size:15px;line-height:1.65;color:#505050}
 .source-button{display:inline-block;background:var(--accent);color:#fff!important;border-radius:8px;padding:12px 16px;font-weight:bold;text-decoration:none;font-size:14px}
 .translation{border-left:3px solid var(--accent);padding:10px 15px;margin:16px 0;background:rgba(130,130,130,.08);border-radius:0 8px 8px 0}
 .translation-label{font-size:11px;letter-spacing:1px;text-transform:uppercase;font-weight:bold;color:var(--accent)}
-.translation p{margin:8px 0 0}.source-meta{font-size:12px;margin:8px 0}.summary-note{font-size:12px;opacity:.75}
+.translation p{margin:8px 0 0}
+.translate-button{border:1px solid var(--accent);background:transparent;color:inherit;border-radius:7px;padding:9px 12px;cursor:pointer;font-weight:bold}
+.translate-fallback{display:inline-block;margin-top:8px;color:var(--accent);font-weight:bold}.source-meta{font-size:12px;margin:8px 0}.summary-note{font-size:12px;opacity:.75}
 .save{border:1px solid #ccc;border-radius:20px;background:transparent;padding:8px 13px;cursor:pointer}
 .notice{background:#fff8df;padding:14px;border-radius:9px;font-size:13px;line-height:1.5}
 .empty{text-align:center;padding:35px;color:#777}
@@ -114,6 +116,8 @@ let active="espana";
 let categoryFilter="all";
 let languageFilter="all";
 let stories=demo;
+let translationCache={};
+try{translationCache=JSON.parse(localStorage.getItem("dailyTranslations")||"{}")}catch(e){translationCache={}}
 let live=false;
 let editionName="Demostración";
 let saved=[];
@@ -147,6 +151,7 @@ let items=stories.filter(n=>n.section===active)
 .filter(n=>$("filter").value!=="saved"||saved.includes(storyId(n)));
 $("articles").innerHTML=items.length?items.map(n=>{
 let id=storyId(n);
+if(translationCache[id]&&!n.translationEs)n.translationEs=translationCache[id];
 let links=(n.sources||[]).map(x=>{
 let url=validUrl(x.url);
 return url?`<a href="${escapeHTML(url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(x.name||"Fuente")}</a>`:"";
@@ -156,7 +161,7 @@ return `<article>
 <h2>${escapeHTML(n.title)}</h2>
 <div class="meta">${escapeHTML(n.region||"")} ${n.publishedAt?" · "+escapeHTML(n.publishedAt):""}</div>
 <p>${escapeHTML(n.summary)}</p>
-${n.language==="en"?`<div class="translation"><div class="translation-label">Traducción al español</div><p>${n.translationEs?escapeHTML(n.translationEs):"Traducción pendiente de activar."}</p></div>`:""}
+${n.language==="en"?`<div class="translation"><div class="translation-label">Traducción al español</div><p>${n.translationEs?escapeHTML(n.translationEs):`<button class="translate-button" data-translate="${escapeHTML(id)}">Traducir gratis al español</button><div class="translation-result" data-result="${escapeHTML(id)}"></div>`}</p></div>`:""}
 ${n.summaryStatus==="excerpt"?'<div class="summary-note">Extracto disponible: faltan datos para elaborar un resumen más extenso.</div>':""}
 ${n.section==="viral"&&n.videoUrl&&validUrl(n.videoUrl)?`<a class="video-link" target="_blank" rel="noopener noreferrer" href="${escapeHTML(validUrl(n.videoUrl))}">▶ Ver vídeo original</a>`:""}
 <div class="actions">
@@ -171,7 +176,35 @@ if(b){active=b.dataset.tab;categoryFilter="all";languageFilter="all";$("search")
 });
 $("categories").addEventListener("click",e=>{let b=e.target.closest("[data-category]");if(b){categoryFilter=b.dataset.category;render()}});
 $("languages").addEventListener("click",e=>{let b=e.target.closest("[data-lang]");if(b){languageFilter=b.dataset.lang;render()}});
-$("articles").addEventListener("click",e=>{
+$("articles").addEventListener("click",async e=>{
+let translate=e.target.closest("[data-translate]");
+if(translate){
+ const id=translate.dataset.translate;
+ const n=stories.find(x=>storyId(x)===id);
+ if(!n)return;
+ translate.disabled=true;
+ translate.textContent="Traduciendo…";
+ const result=$("articles").querySelector('[data-result="'+CSS.escape(id)+'"]');
+ const original=(n.title+". "+n.summary).slice(0,450);
+ const fallback="https://translate.google.com/?sl=en&tl=es&text="+encodeURIComponent(original)+"&op=translate";
+ try{
+  const url="https://api.mymemory.translated.net/get?q="+encodeURIComponent(original)+"&langpair=en%7Ces";
+  const response=await fetch(url);
+  if(!response.ok)throw Error("No disponible");
+  const data=await response.json();
+  const translated=data.responseData&&data.responseData.translatedText;
+  if(!translated||data.responseStatus!==200||/MYMEMORY WARNING|QUERY LENGTH LIMIT/i.test(translated))throw Error("Sin traducción");
+  n.translationEs=translated;
+  translationCache[id]=translated;
+  try{localStorage.setItem("dailyTranslations",JSON.stringify(translationCache))}catch(e){}
+  render();
+ }catch(err){
+  translate.textContent="No disponible ahora";
+  translate.disabled=false;
+  if(result)result.innerHTML='<a class="translate-fallback" target="_blank" rel="noopener noreferrer" href="'+escapeHTML(fallback)+'">Abrir traducción gratuita ↗</a>';
+ }
+ return;
+}
 let b=e.target.closest("[data-save]");
 if(!b)return;
 let id=b.dataset.save;
