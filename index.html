@@ -42,6 +42,13 @@ body.mundo p,body.mundo .intro,body.mundo .meta{color:#c2ceda}
 body.mundo input,body.mundo select{color:#202020}
 body.mundo .notice{background:#243e55;color:#fff}
 body.cultura{--accent:#873b92;background:#faf2fa}
+body.viral{--accent:#ed6b46;background:#fff5ec}
+body.tecnologia{--accent:#087f8c;background:#eef9fa}
+.subnav{display:flex;gap:7px;flex-wrap:wrap;margin:12px 0}
+.subnav button{background:transparent;border:1px solid #aaa;border-radius:20px;padding:8px 13px;color:inherit;cursor:pointer}
+.subnav button.selected{background:var(--accent);color:white;border-color:var(--accent)}
+body.mundo .subnav button,body.television .subnav button{border-color:#8c98a6}
+.video-link{display:inline-block;margin-top:8px;color:var(--accent);font-weight:bold;text-decoration:none}
 body.television{--accent:#d2a54d;background:#24262c;color:#fff}
 body.television header,body.television nav{background:#24262c;border-color:#494b50}
 body.television article{border-color:#494b50}
@@ -61,6 +68,8 @@ body.television input,body.television select{color:#202020}
 <main>
 <h1 class="section" id="section"></h1>
 <div class="intro" id="intro"></div>
+<div id="categories" class="subnav"></div>
+<div id="languages" class="subnav"></div>
 <div class="tools">
 <input id="search" placeholder="Buscar noticias...">
 <select id="filter">
@@ -81,7 +90,9 @@ const sections=[
 {id:"espana",name:"España",target:20,desc:"Las noticias esenciales de España."},
 {id:"mundo",name:"Mundo",target:30,desc:"La actualidad internacional desde múltiples perspectivas."},
 {id:"cultura",name:"Cultura",target:40,desc:"Arte, libros, cine, música y artes escénicas."},
-{id:"television",name:"Televisión",target:null,desc:"Audiencias, estrenos y formatos internacionales."}
+{id:"television",name:"Televisión",target:null,desc:"Audiencias, estrenos y formatos internacionales."},
+{id:"viral",name:"Lo más viral",target:null,desc:"Vídeos y noticias que circulan por internet, con fuentes en español e inglés."},
+{id:"tecnologia",name:"Tecnología",target:null,desc:"Innovación, dispositivos, inteligencia artificial y ciencia aplicada."}
 ];
 
 const demo=[
@@ -96,6 +107,8 @@ const demo=[
 ];
 
 let active="espana";
+let categoryFilter="all";
+let languageFilter="all";
 let stories=demo;
 let live=false;
 let editionName="Demostración";
@@ -108,6 +121,13 @@ function validUrl(u){
 try{let x=new URL(u);return ["https:","http:"].includes(x.protocol)?x.href:null}catch(e){return null}
 }
 function render(){
+const categorized=active==="cultura";
+const bilingual=["cultura","viral","tecnologia"].includes(active);
+const categories=["all","Música","Cine","Teatro","Cultura general"];
+$("categories").style.display=categorized?"flex":"none";
+$("categories").innerHTML=categorized?categories.map(c=>`<button data-category="${c}" class="${categoryFilter===c?"selected":""}">${c==="all"?"Todas":c}</button>`).join(""):"";
+$("languages").style.display=bilingual?"flex":"none";
+$("languages").innerHTML=bilingual?[["all","Ambos idiomas"],["es","En español"],["en","In English"]].map(([id,name])=>`<button data-lang="${id}" class="${languageFilter===id?"selected":""}">${name}</button>`).join(""):"";
 let s=sections.find(x=>x.id===active);
 document.body.className=active;
 $("tabs").innerHTML=sections.map(x=>`<button class="${x.id===active?"active":""}" data-tab="${x.id}">${x.name}</button>`).join("");
@@ -118,6 +138,8 @@ $("notice").style.display=live?"none":"block";
 let q=$("search").value.toLocaleLowerCase("es");
 let items=stories.filter(n=>n.section===active)
 .filter(n=>(n.title+" "+n.summary+" "+n.category).toLocaleLowerCase("es").includes(q))
+.filter(n=>!categorized||categoryFilter==="all"||n.topic===categoryFilter)
+.filter(n=>!bilingual||languageFilter==="all"||n.language===languageFilter)
 .filter(n=>$("filter").value!=="saved"||saved.includes(storyId(n)));
 $("articles").innerHTML=items.length?items.map(n=>{
 let id=storyId(n);
@@ -126,10 +148,11 @@ let url=validUrl(x.url);
 return url?`<a href="${escapeHTML(url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(x.name||"Fuente")}</a>`:"";
 }).filter(Boolean).join(" · ");
 return `<article>
-<div class="tag">${escapeHTML(n.category||"Actualidad")}</div>
+<div class="tag">${escapeHTML(n.topic||n.category||"Actualidad")} ${n.language==="en"?" · EN":n.language==="es"?" · ES":""}</div>
 <h2>${escapeHTML(n.title)}</h2>
 <div class="meta">${escapeHTML(n.region||"")} ${n.publishedAt?" · "+escapeHTML(n.publishedAt):""}</div>
 <p>${escapeHTML(n.summary)}</p>
+${n.section==="viral"&&n.videoUrl&&validUrl(n.videoUrl)?`<a class="video-link" target="_blank" rel="noopener noreferrer" href="${escapeHTML(validUrl(n.videoUrl))}">▶ Ver vídeo original</a>`:""}
 <div class="actions">
 <div class="meta">${links||"Fuente pendiente"}</div>
 <button class="save" data-save="${escapeHTML(id)}">${saved.includes(id)?"★ Guardada":"☆ Guardar"}</button>
@@ -138,8 +161,10 @@ return `<article>
 }
 $("tabs").addEventListener("click",e=>{
 let b=e.target.closest("[data-tab]");
-if(b){active=b.dataset.tab;$("search").value="";render()}
+if(b){active=b.dataset.tab;categoryFilter="all";languageFilter="all";$("search").value="";render()}
 });
+$("categories").addEventListener("click",e=>{let b=e.target.closest("[data-category]");if(b){categoryFilter=b.dataset.category;render()}});
+$("languages").addEventListener("click",e=>{let b=e.target.closest("[data-lang]");if(b){languageFilter=b.dataset.lang;render()}});
 $("articles").addEventListener("click",e=>{
 let b=e.target.closest("[data-save]");
 if(!b)return;
