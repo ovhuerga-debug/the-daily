@@ -1,16 +1,16 @@
 {
-  "edition": "THE DAILY · Mañana · 01/11/2026 17:21",
-  "generatedAt": "2026-11-01T16:21:57.725077+00:00",
+  "edition": "THE DAILY · Mañana · 01/11/2026 18:02",
+  "generatedAt": "2026-11-01T17:02:00.698717+00:00",
   "mode": "rss-excerpts",
   "stories": [
     {
       "id": "espana|https://elpais.com/deportes/futbol/2026-11-01/racing-real-madrid-en-directo-el-partido-de-la-liga-en-vivo.html",
       "section": "espana",
       "category": "El País",
-      "title": "Racing - Real Madrid en directo | El Madrid golea al Racing al descanso",
+      "title": "Racing - Real Madrid en directo | El Madrid aguanta la renta ante el empuje del Racing",
       "summary": "Mbappé adelantó a los blancos con un gol de penalti y Bellingham hizo el segundo y Diomande el tercero",
       "image": "https://imagenes.elpais.com/resizer/v2/4KZJ77T5O5IKDJ57F4OETFU46I.jpg?auth=fa9cdb75a7522b459895a4abe3138a1118b9abaac4f4acab45ee38d8cdee48b2",
-      "publishedAt": "2026-11-01 16:13 UTC",
+      "publishedAt": "2026-11-01 16:55 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
@@ -22,11 +22,47 @@
       ]
     },
     {
+      "id": "espana|https://www.elmundo.es/espana/2026/11/01/6ae75848e9cf4ad73e8b4578.html",
+      "section": "espana",
+      "category": "El Mundo",
+      "title": "Mueren cuatro miembros de una familia, dos adultos y dos menores, en un accidente de tráfico en Malva (Zamora)",
+      "summary": "Un coche se ha salido de la vía en un tramo recto de una carretera provincial y ha chocado contra una tajea de hormigón Leer",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/01/17935462937990.jpg",
+      "publishedAt": "2026-11-01 16:47 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "El Mundo",
+          "url": "https://www.elmundo.es/espana/2026/11/01/6ae75848e9cf4ad73e8b4578.html"
+        }
+      ]
+    },
+    {
+      "id": "espana|https://www.elmundo.es/economia/empresas/2026/11/01/6ae49e03e85ece7c2c8b4574.html",
+      "section": "espana",
+      "category": "El Mundo",
+      "title": "Cuando el 'seguro de los muertos' llama a tu puerta: uno de cada dos españoles tiene cubierto el coste de morirse",
+      "summary": "Cerca de 22 millones de españoles pagan periódicamente su cuota 'de los muertos' para cubrir su entierro. Es un seguro propio de la idiosincrasia de nuestro país, que se hereda de padres a hijos, aunque no suele ser rentable en condiciones normales Leer",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/30/17933675385353.jpg",
+      "publishedAt": "2026-11-01 16:41 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "El Mundo",
+          "url": "https://www.elmundo.es/economia/empresas/2026/11/01/6ae49e03e85ece7c2c8b4574.html"
+        }
+      ]
+    },
+    {
       "id": "espana|https://elpais.com/espana/2026-11-01/mueren-dos-adultos-y-dos-ninos-al-salirse-de-la-via-el-coche-en-el-que-viajaban-en-zamora.html",
       "section": "espana",
       "category": "El País",
       "title": "Mueren dos adultos y dos niños al salirse de la vía el coche en el que viajaban en Zamora",
-      "summary": "El accidente se ha producido en la tarde de este domingo en la localidad de Malva y aún no se sabe si eran familia",
+      "summary": "La Guardia Civil investiga la causa de la muerte que ha implicado a un hombre de 59 años, su hija de 29 y dos menores de dos y tres años",
       "image": "https://imagenes.elpais.com/resizer/v2/SBS66HSTPJIFBLYBKNLJMUQGOY.jpg?auth=aef134e847530b969d8c6f08ac15295409dc0f36ff1a904b63dd2e640934afec",
       "publishedAt": "2026-11-01 16:04 UTC",
       "language": "es",
@@ -36,24 +72,6 @@
         {
           "name": "El País",
           "url": "https://elpais.com/espana/2026-11-01/mueren-dos-adultos-y-dos-ninos-al-salirse-de-la-via-el-coche-en-el-que-viajaban-en-zamora.html"
-        }
-      ]
-    },
-    {
-      "id": "espana|https://www.elmundo.es/espana/2026/11/01/6ae75848e9cf4ad73e8b4578.html",
-      "section": "espana",
-      "category": "El Mundo",
-      "title": "Cuatro muertos, dos adultos y dos menores, en un accidente de tráfico en Malva (Zamora)",
-      "summary": "Un coche se ha salido de la vía en un tramo recto de una carretera provincial y ha chocado contra una tajea de hormigón Leer",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/01/17935462937990.jpg",
-      "publishedAt": "2026-11-01 15:56 UTC",
-      "language": "es",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "El Mundo",
-          "url": "https://www.elmundo.es/espana/2026/11/01/6ae75848e9cf4ad73e8b4578.html"
         }
       ]
     },
@@ -346,20 +364,56 @@
       ]
     },
     {
-      "id": "espana|https://www.elmundo.es/espana/2026/11/01/6ae73220fdddffea328b459a.html",
-      "section": "espana",
-      "category": "El Mundo",
-      "title": "El PP se personará en la causa por el accidente de Urda y exige al Gobierno que asuma responsabilidades",
-      "summary": "Considera incomprensible que no se hayan asumido responsabilidades políticas ante una tragedia que el presidente del Gobierno ha calificado de \"inasumible\" Leer",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/24/17928620656666.jpg",
-      "publishedAt": "2026-11-01 12:48 UTC",
-      "language": "es",
+      "id": "mundo|https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+      "section": "mundo",
+      "category": "BBC World",
+      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c922/live/4fe4c8d0-d5fa-11f1-a701-fddedf244c16.jpg",
+      "publishedAt": "2026-11-01 16:25 UTC",
+      "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "El Mundo",
-          "url": "https://www.elmundo.es/espana/2026/11/01/6ae73220fdddffea328b459a.html"
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://www.theguardian.com/world/2026/nov/01/petrol-bomb-thrown-at-french-riot-police",
+      "section": "mundo",
+      "category": "The Guardian World",
+      "title": "Attempted murder probe after petrol bomb thrown at French riot police",
+      "summary": "Youth-led protests end with street violence in cities across France, Germany, Switzerland, Portugal and Albania French officials have opened an investigation into the attempted murder of a police officer and Germany’s interior minister has called for harsh penalties after peaceful and mainly youth-led protests across Europe ended in violence. In Portugal, po…",
+      "image": "https://i.guim.co.uk/img/media/df3f3743b4671979d82ca8b7da82c0062c5f599e/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=d4cd675a4b9ee3f262ce88a8b0fd41e7",
+      "publishedAt": "2026-11-01 16:24 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/01/petrol-bomb-thrown-at-french-riot-police"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi",
+      "section": "mundo",
+      "category": "The Guardian World",
+      "title": "Tens of thousands protest against Narendra Modi regime in Delhi",
+      "summary": "Led by Congress party, India’s opposition alliance channels anger over removal of 130 million names from voter roll Thousands of opposition supporters have gathered in Delhi as protests against the Narendra Modi government continue to gather momentum. Led by the Congress party, India’s opposition alliance has brought together supporters from across the count…",
+      "image": "https://i.guim.co.uk/img/media/85ebfc268b05d8953c7e260e77d281e7aeb8c85e/0_0_3588_2871/master/3588.jpg?width=140&quality=85&auto=format&fit=max&s=b19e5e8c00516e63199f4a94c903727a",
+      "publishedAt": "2026-11-01 16:11 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi"
         }
       ]
     },
@@ -742,24 +796,6 @@
       ]
     },
     {
-      "id": "mundo|https://www.theguardian.com/society/2026/nov/01/english-childrens-homes-crisis-denmark-care-system-model",
-      "section": "mundo",
-      "category": "The Guardian World",
-      "title": "English children’s homes are in crisis. Does Denmark hold the answers?",
-      "summary": "UK children’s minister Josh MacAlister has travelled to Copenhagen to see what can be learned from Danish system In a quiet suburb on the outskirts of Copenhagen sits a large white house, set back from the road behind a purple-leaved plum tree. It looks much like the rest of the buildings on the street and there is little outward sign this is Josephine Schne…",
-      "image": "https://i.guim.co.uk/img/media/fbf0b64b0d536e59196798434b4f599630557418/959_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=37bea6f18db55d435e1d8086db5fda0f",
-      "publishedAt": "2026-11-01 08:00 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/society/2026/nov/01/english-childrens-homes-crisis-denmark-care-system-model"
-        }
-      ]
-    },
-    {
       "id": "mundo|https://www.abc.net.au/news/2026-11-01/australia-wales-womens-rugby-league-world-cup/107334088",
       "section": "mundo",
       "category": "ABC Australia",
@@ -814,24 +850,6 @@
       ]
     },
     {
-      "id": "mundo|https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi",
-      "section": "mundo",
-      "category": "The Guardian World",
-      "title": "Indian forces tighten security in Delhi ahead of big opposition protest",
-      "summary": "Opposition says hundreds of thousands of people expected to participate in march demanding election chief resign over voter list changes Indian security personnel carrying batons and shields and accompanied by riot control vehicles surrounded the site of a planned opposition ⁠protest in Delhi on Sunday that is set to demand the resignation of the country’s e…",
-      "image": "https://i.guim.co.uk/img/media/d60e9fd994f652f80f1c66f36e90440bb9f71ccd/1155_169_4342_3473/master/4342.jpg?width=140&quality=85&auto=format&fit=max&s=b73a2ea291bcceb40beaaad5fce8a873",
-      "publishedAt": "2026-11-01 06:20 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi"
-        }
-      ]
-    },
-    {
       "id": "mundo|https://www.abc.net.au/news/2026-11-01/lisa-phillips-epstein-survivor-message-for-young-australians/107328002",
       "section": "mundo",
       "category": "ABC Australia",
@@ -882,24 +900,6 @@
         {
           "name": "ABC Australia",
           "url": "https://www.abc.net.au/news/2026-11-01/suns-miss-top-four-by-a-whisker-despite-win-over-giants/107333824"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss",
-      "section": "mundo",
-      "category": "BBC World",
-      "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
-      "summary": "The supermodel and TV host provided a gory new shock at her New York event.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be5b/live/57cc5ff0-d5b3-11f1-93e1-3b657b665bcf.jpg",
-      "publishedAt": "2026-11-01 05:26 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -1480,20 +1480,38 @@
       ]
     },
     {
-      "id": "mundo|https://news.google.com/rss/articles/CBMigwFBVV95cUxNU092Y1RUZlQtS0pSZkVuTU9uVmo4YmtPMGtqUmFSRjBKT1pxaEVqXzEtMFlHczNvRnU5QTVHa2tNNGhUdHpRdS11WUUtOVRzSkN5cG0teEw0U3FBc2w0Uk5JWlhaR0otSk05MVRHd29qWVdyMVlQXzZFQWVYTlpIeWI0NNIBgwFBVV95cUxPRXRZTDNYWVo5VEVLYllXcW11dFpla3VOaFp0OEExWFBKNDlDTXA3SW9NakxELW1ua1czT09yUUNkZEI0VHRsZDhuaDhPSEJMRjN3d0pBcUh2NEdmRkI3cUJuMnBRclNXcnlCeVU1MnF5bmVtSGtiQllDRWFCeGI2UUFydw?oc=5",
+      "id": "mundo|https://news.google.com/rss/articles/CBMiXEFVX3lxTE4weEJvcVJmU2R0UWdfQ0lQdXllaWJULVZPRmtwNGxfZWpDaFBNcG9ZZXRSU2l5cEFqdzRXNnVsd1ByVzBhYlBQd0J1N19hbDF6SlhNWHhoVVBsZlZp0gFiQVVfeXFMT1VCc2xkXzRoSjJ5ekV2VHl2YnFldml5WHBjazNLWEl2clNnOXRxS3RLRXhqaHJxX19qeXBFLWt2cUV0NTZoLXNDUWZfUUU1NTkzRk12ejFxOHVRSmlxajRkaGc?oc=5",
       "section": "mundo",
       "category": "Noticias internacionales",
-      "title": "Escala la crisis en Polonia: la Policía se despliega en torno a la Corte Constitucional - El Mundo",
-      "summary": "Escala la crisis en Polonia: la Policía se despliega en torno a la Corte Constitucional El Mundo",
+      "title": "Las lecciones del estudio Milgram, el perturbador experimento sobre la obediencia ciega que se sigue replicando hoy en día - BBC",
+      "summary": "Las lecciones del estudio Milgram, el perturbador experimento sobre la obediencia ciega que se sigue replicando hoy en día BBC",
       "image": "",
-      "publishedAt": "2026-10-31 12:39 UTC",
+      "publishedAt": "2026-11-01 10:35 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Noticias internacionales",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU092Y1RUZlQtS0pSZkVuTU9uVmo4YmtPMGtqUmFSRjBKT1pxaEVqXzEtMFlHczNvRnU5QTVHa2tNNGhUdHpRdS11WUUtOVRzSkN5cG0teEw0U3FBc2w0Uk5JWlhaR0otSk05MVRHd29qWVdyMVlQXzZFQWVYTlpIeWI0NNIBgwFBVV95cUxPRXRZTDNYWVo5VEVLYllXcW11dFpla3VOaFp0OEExWFBKNDlDTXA3SW9NakxELW1ua1czT09yUUNkZEI0VHRsZDhuaDhPSEJMRjN3d0pBcUh2NEdmRkI3cUJuMnBRclNXcnlCeVU1MnF5bmVtSGtiQllDRWFCeGI2UUFydw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4weEJvcVJmU2R0UWdfQ0lQdXllaWJULVZPRmtwNGxfZWpDaFBNcG9ZZXRSU2l5cEFqdzRXNnVsd1ByVzBhYlBQd0J1N19hbDF6SlhNWHhoVVBsZlZp0gFiQVVfeXFMT1VCc2xkXzRoSjJ5ekV2VHl2YnFldml5WHBjazNLWEl2clNnOXRxS3RLRXhqaHJxX19qeXBFLWt2cUV0NTZoLXNDUWZfUUU1NTkzRk12ejFxOHVRSmlxajRkaGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://news.google.com/rss/articles/CBMizAFBVV95cUxOT1A4dFJmTm10ZUVJaWM1M3R3QkJWY254YzhmREY5UXFMd0hWMmZlUFpZV21MMXExV0FwYUVFekVmNzlJWjhGS0hMODBxTExSV29rSTNsQUttTjVPR3BFeXZ3QkwwUDlMaUhYaTl3eDQzRC1USUtwTjdKUWNtRWZNWFNvaHJIU18yT2s5eXFXa0NCc0p1WS1MR2F0NF90SGdKUHAwSHJBdTA1UkZFYmVsSlZwd1dQZ09GbWpiRnl4dGxoRDBqMWpzU2Z6Y3HSAeABQVVfeXFMTWJCcDBDQlVXWUE2YURCU0JYLTJqNmF6WUlmRXJOanFYV05fYlpKS0k2bVNfOWVUM0ZDOENvT0ZjTTRjbjFTdU1fX1VCcnNzV2ZUV2dfVGxTRjB3YnlKbDlFTllmV19yLXR5YkFhanNnQ2ktbU5WVEhMUHdRTTVwWWJIMmFEeTZzZVR0aHNUX1JHQnFLRnZlcWFEMVo2MUU5b3AyT3V5a2c2SWloMDlhNkdqQ0YzN2dSTVJVcnU1TDVJUl9pa2ZuaFBsYXVUSTBuS3p0QWhyNUkwV09nUWZ3MlU?oc=5",
+      "section": "mundo",
+      "category": "Noticias internacionales",
+      "title": "El ébola causa ya 5.000 muertos y 10.000 casos mientras el mundo mira para otro lado - EL PAÍS",
+      "summary": "El ébola causa ya 5.000 muertos y 10.000 casos mientras el mundo mira para otro lado EL PAÍS",
+      "image": "",
+      "publishedAt": "2026-10-31 08:34 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Noticias internacionales",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOT1A4dFJmTm10ZUVJaWM1M3R3QkJWY254YzhmREY5UXFMd0hWMmZlUFpZV21MMXExV0FwYUVFekVmNzlJWjhGS0hMODBxTExSV29rSTNsQUttTjVPR3BFeXZ3QkwwUDlMaUhYaTl3eDQzRC1USUtwTjdKUWNtRWZNWFNvaHJIU18yT2s5eXFXa0NCc0p1WS1MR2F0NF90SGdKUHAwSHJBdTA1UkZFYmVsSlZwd1dQZ09GbWpiRnl4dGxoRDBqMWpzU2Z6Y3HSAeABQVVfeXFMTWJCcDBDQlVXWUE2YURCU0JYLTJqNmF6WUlmRXJOanFYV05fYlpKS0k2bVNfOWVUM0ZDOENvT0ZjTTRjbjFTdU1fX1VCcnNzV2ZUV2dfVGxTRjB3YnlKbDlFTllmV19yLXR5YkFhanNnQ2ktbU5WVEhMUHdRTTVwWWJIMmFEeTZzZVR0aHNUX1JHQnFLRnZlcWFEMVo2MUU5b3AyT3V5a2c2SWloMDlhNkdqQ0YzN2dSTVJVcnU1TDVJUl9pa2ZuaFBsYXVUSTBuS3p0QWhyNUkwV09nUWZ3MlU?oc=5"
         }
       ]
     },
@@ -1516,6 +1534,24 @@
       ]
     },
     {
+      "id": "mundo|https://news.google.com/rss/articles/CBMiXEFVX3lxTE1renlEcHNPSHJmbFhnM29JVUdGZzR6c1BXMG12T1BURDVBaFh2ZWFVUEpxbE4xMU5odlh2UmYybXhkejlkZzcwOXV6SjZKQVNHSTFwZlIyNkY5OTNi0gFiQVVfeXFMUGxxTlowaXptMVkwMEd5SUtoU1FpWnJLTWdIZTZkMkUxLS1jcXpScWFOOXI1cmh2c2lTaHYwOFg2dmstTzAtaXVWVGNjOU40RGtvaVhEbGQ0OTY3cWN5S3NZMVE?oc=5",
+      "section": "mundo",
+      "category": "Noticias internacionales",
+      "title": "\"La pérdida de capacidad del Estado de bienestar en Europa es la clave para entender las protestas lideradas por los jóvenes\" - BBC",
+      "summary": "\"La pérdida de capacidad del Estado de bienestar en Europa es la clave para entender las protestas lideradas por los jóvenes\" BBC",
+      "image": "",
+      "publishedAt": "2026-11-01 03:14 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Noticias internacionales",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1renlEcHNPSHJmbFhnM29JVUdGZzR6c1BXMG12T1BURDVBaFh2ZWFVUEpxbE4xMU5odlh2UmYybXhkejlkZzcwOXV6SjZKQVNHSTFwZlIyNkY5OTNi0gFiQVVfeXFMUGxxTlowaXptMVkwMEd5SUtoU1FpWnJLTWdIZTZkMkUxLS1jcXpScWFOOXI1cmh2c2lTaHYwOFg2dmstTzAtaXVWVGNjOU40RGtvaVhEbGQ0OTY3cWN5S3NZMVE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "mundo|https://news.google.com/rss/articles/CBMipAFBVV95cUxQY2dNcmVtSUpKSF9SOFlGS0lNZE9KNlBEcmZlVzEtY2FrWklpaHdhV3JGUFc1NnNMQkxxUTgxZHhucXZCMU93UFBTdUNNbVJYNWJOQXItTGRQdzNFTEhMeEc4cV9MY0tTel83SGh3UzJ1NjRnOXJYbUdDM284bXhTZUs3NXNTNzFiMmFwYk5xU1VnN3AyM284Uk1reTlOZm8yS1EtX9IBuAFBVV95cUxOZHVCZldkcTdORlo5QmdqVTJVTDA4NDhabkhSMWNwUG9VRWhrMEVReENuZ1k1b2d3YzFpMEhvVkV6T2h5X1NJbnNuR192SllzQnpPdGFnR2FKUFhWbDUzc291S2tJRWxCT0FJby03Njd0NDlpX1VuUTduWEVwZGpuZzFtVV84clk2b0ltZGJKWEx1S2ZLQ1FnWjlRdFhPZHpQUVVGdDI3T2VTYVlCdmx6a0ZuZzVnVWJJ?oc=5",
       "section": "mundo",
       "category": "Noticias internacionales",
@@ -1534,20 +1570,74 @@
       ]
     },
     {
-      "id": "mundo|https://news.google.com/rss/articles/CBMizAFBVV95cUxOT1A4dFJmTm10ZUVJaWM1M3R3QkJWY254YzhmREY5UXFMd0hWMmZlUFpZV21MMXExV0FwYUVFekVmNzlJWjhGS0hMODBxTExSV29rSTNsQUttTjVPR3BFeXZ3QkwwUDlMaUhYaTl3eDQzRC1USUtwTjdKUWNtRWZNWFNvaHJIU18yT2s5eXFXa0NCc0p1WS1MR2F0NF90SGdKUHAwSHJBdTA1UkZFYmVsSlZwd1dQZ09GbWpiRnl4dGxoRDBqMWpzU2Z6Y3HSAeABQVVfeXFMTWJCcDBDQlVXWUE2YURCU0JYLTJqNmF6WUlmRXJOanFYV05fYlpKS0k2bVNfOWVUM0ZDOENvT0ZjTTRjbjFTdU1fX1VCcnNzV2ZUV2dfVGxTRjB3YnlKbDlFTllmV19yLXR5YkFhanNnQ2ktbU5WVEhMUHdRTTVwWWJIMmFEeTZzZVR0aHNUX1JHQnFLRnZlcWFEMVo2MUU5b3AyT3V5a2c2SWloMDlhNkdqQ0YzN2dSTVJVcnU1TDVJUl9pa2ZuaFBsYXVUSTBuS3p0QWhyNUkwV09nUWZ3MlU?oc=5",
+      "id": "mundo|https://news.google.com/rss/articles/CBMizgFBVV95cUxNX1lFTjkzMnVMekg2djYtZHRNZmVLcExDVFdqbW5KWl9JTWFhQlJVVHNnVUNYMF9remx3VkxIQ3pjT3IxUldEY0lQaHhUX1JyOUxBMU4tMTdmaTF4M0tWYnRfYjVHYWVkVHBGdWNoN3lMQWR2RmhjVFpkT0w3Ty1iNVRESExtUnhNVllFTmhVa05VdVViYmlWQXI2ejhCVmI5QmExYkthaFV3c2wybmUycm9BVzhNSFl0ay1sa0MzeVN5MGYxOC0xNllCZDNxQdIB0wFBVV95cUxQTHk0ODNoV0JzTUJSdXNfVFdSazBvRFZMNlBiSmF2MWExWVNOWTU1alNpMGlJb21hbHZPWTN4UXRTSW1TcTZKOWptcXlYc1J5bG93b2Fqb3BjdmhoQW92ZjIwVm5GZ3BpM2RpQVo2dW5Yb1pCUzZQU0xnUTg5OHFmSDBQQWQ3U0lXOVVPVjZOVjBQbThHTzRRa0cxd29PRFhaei13RklCMS04enFxYjdVdFZVQ0lzaWRjTm1aOGd5SVZVM0FvVkY0QS1WU2dCSGhrMk9V?oc=5",
       "section": "mundo",
       "category": "Noticias internacionales",
-      "title": "El ébola causa ya 5.000 muertos y 10.000 casos mientras el mundo mira para otro lado - EL PAÍS",
-      "summary": "El ébola causa ya 5.000 muertos y 10.000 casos mientras el mundo mira para otro lado EL PAÍS",
+      "title": "Una revolución sin líderes se extiende por Serbia: por qué el mundo debería prestar atención - elDiario.es",
+      "summary": "Una revolución sin líderes se extiende por Serbia: por qué el mundo debería prestar atención elDiario.es",
       "image": "",
-      "publishedAt": "2026-10-31 08:34 UTC",
+      "publishedAt": "2026-10-31 21:12 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Noticias internacionales",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOT1A4dFJmTm10ZUVJaWM1M3R3QkJWY254YzhmREY5UXFMd0hWMmZlUFpZV21MMXExV0FwYUVFekVmNzlJWjhGS0hMODBxTExSV29rSTNsQUttTjVPR3BFeXZ3QkwwUDlMaUhYaTl3eDQzRC1USUtwTjdKUWNtRWZNWFNvaHJIU18yT2s5eXFXa0NCc0p1WS1MR2F0NF90SGdKUHAwSHJBdTA1UkZFYmVsSlZwd1dQZ09GbWpiRnl4dGxoRDBqMWpzU2Z6Y3HSAeABQVVfeXFMTWJCcDBDQlVXWUE2YURCU0JYLTJqNmF6WUlmRXJOanFYV05fYlpKS0k2bVNfOWVUM0ZDOENvT0ZjTTRjbjFTdU1fX1VCcnNzV2ZUV2dfVGxTRjB3YnlKbDlFTllmV19yLXR5YkFhanNnQ2ktbU5WVEhMUHdRTTVwWWJIMmFEeTZzZVR0aHNUX1JHQnFLRnZlcWFEMVo2MUU5b3AyT3V5a2c2SWloMDlhNkdqQ0YzN2dSTVJVcnU1TDVJUl9pa2ZuaFBsYXVUSTBuS3p0QWhyNUkwV09nUWZ3MlU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX1lFTjkzMnVMekg2djYtZHRNZmVLcExDVFdqbW5KWl9JTWFhQlJVVHNnVUNYMF9remx3VkxIQ3pjT3IxUldEY0lQaHhUX1JyOUxBMU4tMTdmaTF4M0tWYnRfYjVHYWVkVHBGdWNoN3lMQWR2RmhjVFpkT0w3Ty1iNVRESExtUnhNVllFTmhVa05VdVViYmlWQXI2ejhCVmI5QmExYkthaFV3c2wybmUycm9BVzhNSFl0ay1sa0MzeVN5MGYxOC0xNllCZDNxQdIB0wFBVV95cUxQTHk0ODNoV0JzTUJSdXNfVFdSazBvRFZMNlBiSmF2MWExWVNOWTU1alNpMGlJb21hbHZPWTN4UXRTSW1TcTZKOWptcXlYc1J5bG93b2Fqb3BjdmhoQW92ZjIwVm5GZ3BpM2RpQVo2dW5Yb1pCUzZQU0xnUTg5OHFmSDBQQWQ3U0lXOVVPVjZOVjBQbThHTzRRa0cxd29PRFhaei13RklCMS04enFxYjdVdFZVQ0lzaWRjTm1aOGd5SVZVM0FvVkY0QS1WU2dCSGhrMk9V?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://news.google.com/rss/articles/CBMigwFBVV95cUxPQUFtMlNkbnU4MHhLLVBtOVJpV2Mxd1U2LVg0ZzBQXzJZZy1LaFBMNEJIaUdsNkJFbjhuNzRURF85cXRuOFQ0UjZzaGZLdU9tRm5VLUNkM3NpaW5Hemh3UGZzcTdaUi1BTFkxTmNIc2JsVDMxZnBjZUdNWHp1Z3RxbWNkSdIBgwFBVV95cUxQemdRdUwtU2xPLWgzLXk0QUNkUzhMdFlueVgyWlhJX1ZBQjhwdnplT29DdWc1WGZlbU5KWFJ3eFgtQUxyNXlRR0ZqbTFpQU1SRUh2UkpIMGVWMVdXZDBoYnh3Y2trRHdTV3RTajB2RjdHc212YWk3dEgwVG90bllwTklPRQ?oc=5",
+      "section": "mundo",
+      "category": "Noticias internacionales",
+      "title": "Putin amarga los planes de Mohamed VI sobre el Sáhara Occidental pero Marruecos celebra su primer Día de la Unidad finiquitando la misión de la Minurso - El Mundo",
+      "summary": "Putin amarga los planes de Mohamed VI sobre el Sáhara Occidental pero Marruecos celebra su primer Día de la Unidad finiquitando la misión de la Minurso El Mundo",
+      "image": "",
+      "publishedAt": "2026-10-31 11:10 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Noticias internacionales",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQUFtMlNkbnU4MHhLLVBtOVJpV2Mxd1U2LVg0ZzBQXzJZZy1LaFBMNEJIaUdsNkJFbjhuNzRURF85cXRuOFQ0UjZzaGZLdU9tRm5VLUNkM3NpaW5Hemh3UGZzcTdaUi1BTFkxTmNIc2JsVDMxZnBjZUdNWHp1Z3RxbWNkSdIBgwFBVV95cUxQemdRdUwtU2xPLWgzLXk0QUNkUzhMdFlueVgyWlhJX1ZBQjhwdnplT29DdWc1WGZlbU5KWFJ3eFgtQUxyNXlRR0ZqbTFpQU1SRUh2UkpIMGVWMVdXZDBoYnh3Y2trRHdTV3RTajB2RjdHc212YWk3dEgwVG90bllwTklPRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVng1OU56QzYtUFlQSUE2SVNMd3drazNkbk5ZSVlnMFpUTlVITEV5VGtlY1J4T1pEekNyNzJ2YVJEQWFtRndVdXl4YTVkc0VqNU9lOWhQNngtdDc2MFJTQ0lkNzlwT2RyNnNMOXFxM2VVbzdWR3hZam5SRk9Jem1ZUFpXUk5UTDBkczlRVXNPQWdZME1IV2NHT0hoS3pwcXlEZDM1R19pT0U5bVZzdkhHc2s0RWNuZFBSZ0d1TlBILWhvM0J1NFRsRDZyUzJjYUozVGdwNUVyZnAwSzhyajFob2I4czXSAfgBQVVfeXFMTUYwVWhhRzJ6YXYxNlhESDdzZGhORXlOQUVIT2FsS3VBcDNrNUhRWjdDMW1Xd3RKazQzTjhBODBualJnTTR6c2FrM1RXMHlVQUQtZXlUZHNBWTRwRlEtaldZVnVYOEc3Y0NqVG40QzhrNF96T3I3dmZRTnNUVWQwbkRNWDRzbmJlNWR5V2VEV2d3LWloUkFlREtIUzh6VDhYYW1nYkhFSjRJUWdRbG9tMVVCMDJPUzVLaHBuaU9FTnd1bEFXbmwtVkEwbVdsT194bm5obC1PRDZoT0JibEdaMUJOcV80VFlVNi0xTkhGRWdJZ3liQ053NGk?oc=5",
+      "section": "mundo",
+      "category": "Noticias internacionales",
+      "title": "España concentra el 54% de las víctimas mortales en los accidentes de la historia de la alta velocidad - EL PAÍS",
+      "summary": "España concentra el 54% de las víctimas mortales en los accidentes de la historia de la alta velocidad EL PAÍS",
+      "image": "",
+      "publishedAt": "2026-11-01 04:30 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Noticias internacionales",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVng1OU56QzYtUFlQSUE2SVNMd3drazNkbk5ZSVlnMFpUTlVITEV5VGtlY1J4T1pEekNyNzJ2YVJEQWFtRndVdXl4YTVkc0VqNU9lOWhQNngtdDc2MFJTQ0lkNzlwT2RyNnNMOXFxM2VVbzdWR3hZam5SRk9Jem1ZUFpXUk5UTDBkczlRVXNPQWdZME1IV2NHT0hoS3pwcXlEZDM1R19pT0U5bVZzdkhHc2s0RWNuZFBSZ0d1TlBILWhvM0J1NFRsRDZyUzJjYUozVGdwNUVyZnAwSzhyajFob2I4czXSAfgBQVVfeXFMTUYwVWhhRzJ6YXYxNlhESDdzZGhORXlOQUVIT2FsS3VBcDNrNUhRWjdDMW1Xd3RKazQzTjhBODBualJnTTR6c2FrM1RXMHlVQUQtZXlUZHNBWTRwRlEtaldZVnVYOEc3Y0NqVG40QzhrNF96T3I3dmZRTnNUVWQwbkRNWDRzbmJlNWR5V2VEV2d3LWloUkFlREtIUzh6VDhYYW1nYkhFSjRJUWdRbG9tMVVCMDJPUzVLaHBuaU9FTnd1bEFXbmwtVkEwbVdsT194bm5obC1PRDZoT0JibEdaMUJOcV80VFlVNi0xTkhGRWdJZ3liQ053NGk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM0pIOG1lWTdZalVFdU1SWnh3Wl9sT3lmbjRlN05WanRQamp1WlNsWjFzNU9xaFIwOEQtSDJLOGtUTHlKemE1THRrZDZCZkszRjQyUkkzVEVJUnh0WUVWaGRuNnNRUGhZQnlUWVVsWE9TY0ZCcFZJZ0ljUEZTbnRGaThGbWk5dEh60gGIAUFVX3lxTFBVS2R4ZExHaTdJUUtrblYtMlFXTEY2SzdJaDM1dzJRVXVlLS1ycldfMFpmTXZqdkN4a055TktHME9OSnhGclViazAzdm9sV3lUWFF5ajFOWEk5OFd3Z0o4a0NsMEdBVnhhNzBEeFhYQ0NxZGNYc2ZqcGdpN1lFc2dIeEdpX0VSb3M?oc=5",
+      "section": "mundo",
+      "category": "Noticias internacionales",
+      "title": "Portada de EL MUNDO del domingo 1 de noviembre de 2026 - El Mundo",
+      "summary": "Portada de EL MUNDO del domingo 1 de noviembre de 2026 El Mundo",
+      "image": "",
+      "publishedAt": "2026-10-31 22:32 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Noticias internacionales",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM0pIOG1lWTdZalVFdU1SWnh3Wl9sT3lmbjRlN05WanRQamp1WlNsWjFzNU9xaFIwOEQtSDJLOGtUTHlKemE1THRrZDZCZkszRjQyUkkzVEVJUnh0WUVWaGRuNnNRUGhZQnlUWVVsWE9TY0ZCcFZJZ0ljUEZTbnRGaThGbWk5dEh60gGIAUFVX3lxTFBVS2R4ZExHaTdJUUtrblYtMlFXTEY2SzdJaDM1dzJRVXVlLS1ycldfMFpmTXZqdkN4a055TktHME9OSnhGclViazAzdm9sV3lUWFF5ajFOWEk5OFd3Z0o4a0NsMEdBVnhhNzBEeFhYQ0NxZGNYc2ZqcGdpN1lFc2dIeEdpX0VSb3M?oc=5"
         }
       ]
     },
@@ -1768,6 +1858,24 @@
       ]
     },
     {
+      "id": "viral|https://news.google.com/rss/articles/CBMirwFBVV95cUxPMEtINTNGTm1ieUxPTDFNODM5TDZva2VETTNQMG5YTnBLc2xsOUladVBuME5qYlp5R1dfeXVhUmVrZTliREg4Qk5KenZ3ZmJfTm5KQVdYZ0RMczI3dGtFdExVQl9maDM0SzlZWEVGTXRrMGkxN2JQckM3RXY2M1NRaDUzLW4xTE9MelM5ak5NQkRfN0RZZkl0Yl85X1hOU3dfTkt5TlIyNmNPVGZGTFFF?oc=5",
+      "section": "viral",
+      "category": "Viral ES",
+      "title": "¡Es un papucho! Policía roba miradas y suspiros en plena detención (+VIDEO) - Azteca Veracruz",
+      "summary": "¡Es un papucho! Policía roba miradas y suspiros en plena detención (+VIDEO) Azteca Veracruz",
+      "image": "",
+      "publishedAt": "2026-10-31 22:08 UTC",
+      "language": "es",
+      "topic": "Tendencias",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Viral ES",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMEtINTNGTm1ieUxPTDFNODM5TDZva2VETTNQMG5YTnBLc2xsOUladVBuME5qYlp5R1dfeXVhUmVrZTliREg4Qk5KenZ3ZmJfTm5KQVdYZ0RMczI3dGtFdExVQl9maDM0SzlZWEVGTXRrMGkxN2JQckM3RXY2M1NRaDUzLW4xTE9MelM5ak5NQkRfN0RZZkl0Yl85X1hOU3dfTkt5TlIyNmNPVGZGTFFF?oc=5"
+        }
+      ]
+    },
+    {
       "id": "viral|https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZ0lFQXpuU2Z4OTYxUl9ZbFp6SXVLSUdkT0VvWnpsYjVCUEtuS3h5Y0pYLWI0QWkyTWdWWjkxOWZYejV0cnR0Z1lheW5ackJlZU0yMmdzcmpaNE1mN3B1R3NjUzhwaW9iWEhyQkpTZzllcW5vWGNFVkpEcHBoRnp5YzdmbWJvZk0weHVmcXZwbnBWR05nRDFxcUg2a0pRTTJPakZLOUlNWVN6V0Y2VEN0aDFYUUF4YmRYYXRBSW1MY1l3Q2JFT2I0WWk3bVhDYVRXMEQ3eF9HblU?oc=5",
       "section": "viral",
       "category": "Viral ES",
@@ -1818,24 +1926,6 @@
         {
           "name": "Viral ES",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQlExVW93R0VOV0JvU2pJWmhIMVl2bU9mY0o5dEtXQ2hfSmJDUXM5d3pxMVYzUm5JaENPOEJXQWE3dlotTGViYTlENlJUZ1l5QVhEV3ZOWEVUaUxpNWxjdnRJWTVpY0FvUHZGbXBVcVpQc1RENnNhYjdQUGtkRVVnNkxxZXF5ZUZSeTRCeGxabFdQVW5vXzltUjIxcW9aM2dpWFE3eS1aamtWaUM1Y3JTV29fTHgxaHNIeWZoWXlNTTktYjhJMFo4czJjZDRvYnl5SVpr0gHYAUFVX3lxTE5sd0lrTnRYNC1jdC1rMlVDTEZfUzJldm1pOUc3aGRDczZuRm1CQXQ5d2NKSlRRZWR4cjQ5ODA0UThObUItQ0h1VnJFem41V2JmYTFSREN1dFMxWnkzaHlBZ05kVEhyeXhUa281SEFQRDk5dzFSdFJrblRlNGtPWUh6a01uMk9JMjJEek81V1Z5eUJOM054azhvWExmcU5JRVk4RkxMc1c2VDZoZHI2U1BVbjJweV9Pbm1rZmh0WVZyWUkyNHdtRTFGTkpfZE83ODFJU1p0TVhPWg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "viral|https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb0RkZjNXUEtzUjBFVEc0RzFDcnBkN05Wam0tLVBSYlctaGMwSkpKU0Q0NnV5b0NFdnZ2NWFzWHBGRlhpT3NHLUoxSHlseERDYWNDbWVpbnl2YnU2RWx4RE1iMHQzUXZXTkZrNWQ5SUNLRmYtaU1hbXJtNFRoY0s0c3lFaUdRYUFNMHhLRzQtQ1FfbE4ySEVfOXJuQmx5dUJCSDFVZDNabUlaOUU?oc=5",
-      "section": "viral",
-      "category": "Viral ES",
-      "title": "VIDEO: Captan a hombre lanzando piedras contra un perrito - https://www.aztecamichoacan.com/",
-      "summary": "VIDEO: Captan a hombre lanzando piedras contra un perrito https://www.aztecamichoacan.com/",
-      "image": "",
-      "publishedAt": "2026-10-31 16:32 UTC",
-      "language": "es",
-      "topic": "Tendencias",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Viral ES",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb0RkZjNXUEtzUjBFVEc0RzFDcnBkN05Wam0tLVBSYlctaGMwSkpKU0Q0NnV5b0NFdnZ2NWFzWHBGRlhpT3NHLUoxSHlseERDYWNDbWVpbnl2YnU2RWx4RE1iMHQzUXZXTkZrNWQ5SUNLRmYtaU1hbXJtNFRoY0s0c3lFaUdRYUFNMHhLRzQtQ1FfbE4ySEVfOXJuQmx5dUJCSDFVZDNabUlaOUU?oc=5"
         }
       ]
     },
@@ -1966,24 +2056,6 @@
       ]
     },
     {
-      "id": "viral|https://news.google.com/rss/articles/CBMie0FVX3lxTFB0OFdna2RiNEpBSHVkVERtUnd0YWlsTk13aXZPSGl0bTFub3RLaGh2NGEyOGkxZlltRGl2YnphMXMtZDlqbFFKbjRDcGpud09nTlQ0VFBuOG1FbXpwWXhzSkZ2cjZGV2hVNXhLSmtzSUFrTFVVdjFoSHoyY9IBgAFBVV95cUxOTmFJYkpEbk5LMERSX3VJTm40QktsOTZNVGprd1paSkpsaVZUZ2dKRnBJOVI4aTQyZzI4QUw0c2Vsei1xV09NSi1Eb1MzRHp2YmdZaGlJei11ZGJhYTdXSDl0UHVaREVaai1oNFpoRTFRb0lqd1pKMFhLWnVQcTQtYw?oc=5",
-      "section": "viral",
-      "category": "Viral EN",
-      "title": "NeeDohs are the new viral toy: What to know - ABC News - Breaking News, Latest News and Videos",
-      "summary": "NeeDohs are the new viral toy: What to know ABC News - Breaking News, Latest News and Videos",
-      "image": "",
-      "publishedAt": "2026-10-31 14:47 UTC",
-      "language": "en",
-      "topic": "Tendencias",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Viral EN",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0OFdna2RiNEpBSHVkVERtUnd0YWlsTk13aXZPSGl0bTFub3RLaGh2NGEyOGkxZlltRGl2YnphMXMtZDlqbFFKbjRDcGpud09nTlQ0VFBuOG1FbXpwWXhzSkZ2cjZGV2hVNXhLSmtzSUFrTFVVdjFoSHoyY9IBgAFBVV95cUxOTmFJYkpEbk5LMERSX3VJTm40QktsOTZNVGprd1paSkpsaVZUZ2dKRnBJOVI4aTQyZzI4QUw0c2Vsei1xV09NSi1Eb1MzRHp2YmdZaGlJei11ZGJhYTdXSDl0UHVaREVaai1oNFpoRTFRb0lqd1pKMFhLWnVQcTQtYw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "viral|https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQV9hdDdPNXVGRjZZQjAtNFhsY0FBRkdOcmxBb0Q0Y1A5dXFSYnl4QkFWNk52T00xQ2FLRGhfalB6eUF5Mng2Z0FuODlrcVpHZ0k5eW9FZVVNRjNqYngxZHFDQ0tWMVhOMnJCQjZzQTVhVGdKU1gzMmhQSUgtNHM5OUdEOS00UGlNTGNSVjFsckxyYk9sM2dxTURBNGlJdnM3UFJvc1pKN3ZIbzFFcjRsQTI5OGNKT1lqcS15QVJ1ZUZIVXRDR3Fadm9RWUI5YmVuTXgyOGR2WDB5clJ0WmtLR2JBTljSAesBQVVfeXFMT0ZIT2pqZGRrQVhMQ09WOUtzYkFrajAxeDJ5VU8zUEFsV0pwbzQ2c25iVWZyRW1TdmZDSXVISHZVM0o3TEx0eENSRDdMbC0tUzhqZVIzOUxVQWM4QWY0RnlsTEc5ZFN2RnJ1VkRsQ2E3SHpLR01FaVV2QU5KTFVacks1cmwzSzQ3Q2k3Zi1QNDh0RVVJUjQ0YmI2cHlXeXpLZmE2QjJ2Y2p6NmtidmhwdVJoSTVwaXRTeHJzbVEtZXRXbEN2VTRYaTVCZlZBeUNfbUpVUnZ2MUJKU2dCek9qRGxfTmw0TFdrU213Zw?oc=5",
       "section": "viral",
       "category": "Viral EN",
@@ -2016,6 +2088,24 @@
         {
           "name": "Viral EN",
           "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNUXZ6eXhoajczNnlMNWE3aENNM3pUcTRMeUhDeXdUb2k4b1ZnVTJaR0xiVm1ybk8ycG9UT0dXdXpmd01vT1ltRGJPX1l2QjZRa3hOSlRnUU91TkpjU0FDSTE2X0t0STZ5bXQtOFAtcnFGREJsT0lMY09rSmZWM2xuT1pJSlVlM3V4bGtQNXUxMXFocllJZlZEWFZaNDgtM3hVRXY2d3dYai14eU4yS0FBbkc4Y1J3UHNsak5sOXJ3cVpaZENLYWg2VWJIaG1RdjBGUFhpQ2NCTm1pRi1ZSFloTUlRek1sRUZVWkliUW05bUQxV2YyV1FDdGNJME93SFRIQ3JqOFlDa9IBjAJBVV95cUxOdXlaMW9xeVBUZUJGeVYzSUktTUdoOUVOTEZGZEF3NXNMcnlQbTlOWlVRbTVGb0RBOHp5WUxjOG1jcmlFdWdRanczSHpRR0V0aFRpbWpBWmJtZFBWaWxkVWtINmhGcXc3VXBVN3hXVVh2bHJhQi03Q0pjbG42MjZPLTdobHZfT3RvU2VhR21kT01mT2hrUEZhQTNmSkd0UWZROHphWGx4SXdRdU9pV3RRb3pNQ08xVlNTRV85bTVLMHFlSkpnSFdfNlNfeU9oNFN6Znowdk01UlQ3bE5kZVFNZTJtcnVGQ2Jub3I0cEVDS0dwcFlUYTlNem5TQzAta0lLUGJRd2pENTFGMXh3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "viral|https://news.google.com/rss/articles/CBMie0FVX3lxTFB0OFdna2RiNEpBSHVkVERtUnd0YWlsTk13aXZPSGl0bTFub3RLaGh2NGEyOGkxZlltRGl2YnphMXMtZDlqbFFKbjRDcGpud09nTlQ0VFBuOG1FbXpwWXhzSkZ2cjZGV2hVNXhLSmtzSUFrTFVVdjFoSHoyY9IBgAFBVV95cUxOTmFJYkpEbk5LMERSX3VJTm40QktsOTZNVGprd1paSkpsaVZUZ2dKRnBJOVI4aTQyZzI4QUw0c2Vsei1xV09NSi1Eb1MzRHp2YmdZaGlJei11ZGJhYTdXSDl0UHVaREVaai1oNFpoRTFRb0lqd1pKMFhLWnVQcTQtYw?oc=5",
+      "section": "viral",
+      "category": "Viral EN",
+      "title": "NeeDohs are the new viral toy: What to know - ABC News - Breaking News, Latest News and Videos",
+      "summary": "NeeDohs are the new viral toy: What to know ABC News - Breaking News, Latest News and Videos",
+      "image": "",
+      "publishedAt": "2026-10-31 03:47 UTC",
+      "language": "en",
+      "topic": "Tendencias",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Viral EN",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0OFdna2RiNEpBSHVkVERtUnd0YWlsTk13aXZPSGl0bTFub3RLaGh2NGEyOGkxZlltRGl2YnphMXMtZDlqbFFKbjRDcGpud09nTlQ0VFBuOG1FbXpwWXhzSkZ2cjZGV2hVNXhLSmtzSUFrTFVVdjFoSHoyY9IBgAFBVV95cUxOTmFJYkpEbk5LMERSX3VJTm40QktsOTZNVGprd1paSkpsaVZUZ2dKRnBJOVI4aTQyZzI4QUw0c2Vsei1xV09NSi1Eb1MzRHp2YmdZaGlJei11ZGJhYTdXSDl0UHVaREVaai1oNFpoRTFRb0lqd1pKMFhLWnVQcTQtYw?oc=5"
         }
       ]
     },
@@ -2614,20 +2704,20 @@
       ]
     },
     {
-      "id": "estilo|https://news.google.com/rss/articles/CBMixwFBVV95cUxNOXFZdzcyNkt2NGJWcEJCMHZkNXRBVHE1dEFvdkVPYnRJM3puVDlEblFoVm5fU1VYQjFVLVAxTWt0VUNtQzlfc245bm1XdDh2aWhzVnhuV2h1RmkzUFUwb3ZzLWswZ1dzZ2pKc2tiM2Vnb19yb0pBRkhPMXdTdk1CRnItN2w3aWFfX3FoamktNkhiVVdPdlFIMVRkSGFqNFNFaFRXa0NVeFlkMWdCTFFIeGpvcVBNYkVrbVA2ZHRvYXRkRUxuellZ?oc=5",
+      "id": "estilo|https://news.google.com/rss/articles/CBMilwFBVV95cUxNaW9sOEtzaGJ2cnlUdzcxd1ZwdlUzQkktNUxuRW9sVk1rMTVBdGFyQW9ueEtpRzRTYjY3ZjJ5SDdlOWNnd3JKbzlObXlKX094c3hfV1JidnlVandjaDczYTdNVWVMN0duNzFUVUg0c2xOZDd6NlRDZm0tdm95YTlrMXE5MlN4NWVjNzlNaFdFM3k2R2hnUDBr?oc=5",
       "section": "estilo",
       "category": "GQ España",
-      "title": "Marriott Bonvoy, la NFL y el Bernabéu: el viaje ya no se hace por la ciudad, sino por el partido - GQ España",
-      "summary": "Marriott Bonvoy, la NFL y el Bernabéu: el viaje ya no se hace por la ciudad, sino por el partido GQ España",
+      "title": "Dockers: 40 años cambiando las reglas del armario masculino - GQ España",
+      "summary": "Dockers: 40 años cambiando las reglas del armario masculino GQ España",
       "image": "",
-      "publishedAt": "2026-11-01 07:29 UTC",
+      "publishedAt": "2026-10-31 12:38 UTC",
       "language": "es",
       "topic": "Moda",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "GQ España",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOXFZdzcyNkt2NGJWcEJCMHZkNXRBVHE1dEFvdkVPYnRJM3puVDlEblFoVm5fU1VYQjFVLVAxTWt0VUNtQzlfc245bm1XdDh2aWhzVnhuV2h1RmkzUFUwb3ZzLWswZ1dzZ2pKc2tiM2Vnb19yb0pBRkhPMXdTdk1CRnItN2w3aWFfX3FoamktNkhiVVdPdlFIMVRkSGFqNFNFaFRXa0NVeFlkMWdCTFFIeGpvcVBNYkVrbVA2ZHRvYXRkRUxuellZ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaW9sOEtzaGJ2cnlUdzcxd1ZwdlUzQkktNUxuRW9sVk1rMTVBdGFyQW9ueEtpRzRTYjY3ZjJ5SDdlOWNnd3JKbzlObXlKX094c3hfV1JidnlVandjaDczYTdNVWVMN0duNzFUVUg0c2xOZDd6NlRDZm0tdm95YTlrMXE5MlN4NWVjNzlNaFdFM3k2R2hnUDBr?oc=5"
         }
       ]
     },
@@ -2740,20 +2830,20 @@
       ]
     },
     {
-      "id": "estilo|https://news.google.com/rss/articles/CBMieEFVX3lxTFBpMy1EU3lTdm9hOGpGNm94Q2Z5SW94N29jZ0Iza3dxeTBFVEJabndPS3h3LV9EeTdJVjlUMkFIZmhOSkpMVTJTRDJMQTdsZU9JNFJfWWtzRWxiVFVqa2xtRkRwVlp1LWdSV1BjNHVjZEl6TElibnE5cA?oc=5",
+      "id": "estilo|https://news.google.com/rss/articles/CBMipAFBVV95cUxPXzZ6SVA0Ui1FOTZ5TWRQTV9GRDBzVkY2Sy1naUx5R3NNaG5jVllueVVSc2psQUFhQjJXY3Z2bE5NNnI0NURFZlFrOTZtSlZuY09nVkI3bl9MbGw5blFIX0tRQTlrQjhvUjhCQmt6SXNrU1pBdVM2ay1XS0MxWG9ZbTNGQS1kNFFncXdJRTVlSlROYk5YeGxVeUJwOGVVTEZmM3c1YQ?oc=5",
       "section": "estilo",
       "category": "GQ España",
-      "title": "¿Inventaron The Cure el rock gótico? Acaba de salir el libro que contesta a esa pregunta - GQ España",
-      "summary": "¿Inventaron The Cure el rock gótico? Acaba de salir el libro que contesta a esa pregunta GQ España",
+      "title": "Joseph Zada (Los juegos del hambre: Amanecer en la cosecha): “Me lesioné y estuve bastante enfermo en el rodaje, y eso me ayudó mucho a meterme en el personaje - GQ España",
+      "summary": "Joseph Zada (Los juegos del hambre: Amanecer en la cosecha): “Me lesioné y estuve bastante enfermo en el rodaje, y eso me ayudó mucho a meterme en el personaje GQ España",
       "image": "",
-      "publishedAt": "2026-10-30 10:40 UTC",
+      "publishedAt": "2026-10-30 09:12 UTC",
       "language": "es",
       "topic": "Moda",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "GQ España",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpMy1EU3lTdm9hOGpGNm94Q2Z5SW94N29jZ0Iza3dxeTBFVEJabndPS3h3LV9EeTdJVjlUMkFIZmhOSkpMVTJTRDJMQTdsZU9JNFJfWWtzRWxiVFVqa2xtRkRwVlp1LWdSV1BjNHVjZEl6TElibnE5cA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPXzZ6SVA0Ui1FOTZ5TWRQTV9GRDBzVkY2Sy1naUx5R3NNaG5jVllueVVSc2psQUFhQjJXY3Z2bE5NNnI0NURFZlFrOTZtSlZuY09nVkI3bl9MbGw5blFIX0tRQTlrQjhvUjhCQmt6SXNrU1pBdVM2ay1XS0MxWG9ZbTNGQS1kNFFncXdJRTVlSlROYk5YeGxVeUJwOGVVTEZmM3c1YQ?oc=5"
         }
       ]
     },
@@ -2790,24 +2880,6 @@
         {
           "name": "Esquire España",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONXlSQm9EVHEtT0RIR1hQUUFxQjA3eUNIQ29lXzVTbXJhZExFODgzUzVhTk5PWEoyY3RSbzNNc3AwTDJVN3FFUFdqWTB6QUxBS29iWEhLWnRWQmRTbHRZNndJS2piX3JLVlBfdnFxMGgyNnZpaHVwS214dmhxSDcxMHdldUQwMGZyUXYyVy1OOEhhYXlGX0EwMk15cldZZ2ZhZFRjNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "estilo|https://news.google.com/rss/articles/CBMinwFBVV95cUxONHZpelVjTlIzRjZNaVVmb0RmSC1hNWFWSnVVaDJiWUgtWWQ1TFFTYmtXT2tlYy1LRXVXMF9sb3RQUDRRYXJvTkstUzl3Y1BJV1QyQUdrSkRnUXNCeUJ1TzAwa2IzX3EzU1VHU0pYZ0ttRkZhUGhER2VxbU9XaGt1V1VVY3VPMjNNM0w1bkRtTFM3UnRtUENLRlRpMVAtRzA?oc=5",
-      "section": "estilo",
-      "category": "Esquire España",
-      "title": "10 novelas recientes de menos de 150 páginas: intensas, adictivas y con buenas críticas - Esquire",
-      "summary": "10 novelas recientes de menos de 150 páginas: intensas, adictivas y con buenas críticas Esquire",
-      "image": "",
-      "publishedAt": "2026-11-01 09:05 UTC",
-      "language": "es",
-      "topic": "Moda",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Esquire España",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONHZpelVjTlIzRjZNaVVmb0RmSC1hNWFWSnVVaDJiWUgtWWQ1TFFTYmtXT2tlYy1LRXVXMF9sb3RQUDRRYXJvTkstUzl3Y1BJV1QyQUdrSkRnUXNCeUJ1TzAwa2IzX3EzU1VHU0pYZ0ttRkZhUGhER2VxbU9XaGt1V1VVY3VPMjNNM0w1bkRtTFM3UnRtUENLRlRpMVAtRzA?oc=5"
         }
       ]
     },
@@ -2902,6 +2974,24 @@
       ]
     },
     {
+      "id": "estilo|https://news.google.com/rss/articles/CBMilwFBVV95cUxNTXVKX0tRRXVGX0MyZnFjVVE1UWltNE1oNkNpLXF2cmthM2lfdWVkX2FFT0dHREdsdE1NVFBuSnJCUEs2d0FZVzVZenRGempkOUZzOHBtQm1YZFM4VFZ1dUVBS0NHVEMzTXRvUVpoOEhsQ0ZWcHJBMU16N0JNSnJ6ajBPbzNzUVlxeGlXdkhVMzBCVXJnOVk4?oc=5",
+      "section": "estilo",
+      "category": "Esquire España",
+      "title": "La adictiva saga de novelas que inspira 'Caldas. El último barco': \"En la estirpe de las mejores invenciones policíacas de Manuel Vázquez Montalbán y de Andrea Camilleri\" - Esquire",
+      "summary": "La adictiva saga de novelas que inspira 'Caldas. El último barco': \"En la estirpe de las mejores invenciones policíacas de Manuel Vázquez Montalbán y de Andrea Camilleri\" Esquire",
+      "image": "",
+      "publishedAt": "2026-10-30 09:25 UTC",
+      "language": "es",
+      "topic": "Moda",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Esquire España",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTXVKX0tRRXVGX0MyZnFjVVE1UWltNE1oNkNpLXF2cmthM2lfdWVkX2FFT0dHREdsdE1NVFBuSnJCUEs2d0FZVzVZenRGempkOUZzOHBtQm1YZFM4VFZ1dUVBS0NHVEMzTXRvUVpoOEhsQ0ZWcHJBMU16N0JNSnJ6ajBPbzNzUVlxeGlXdkhVMzBCVXJnOVk4?oc=5"
+        }
+      ]
+    },
+    {
       "id": "estilo|https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSWdObnF5ajZNaTlsdEMxcW9OUzBSdnQ0OHkxOG1ENGQzOVV3Wm8wNXg2amhnVkFJUFNHSjE1cmNWcjl5cWthUDZxX0hsc0liLTRiVWxOUDk3dDR2MzlXSHdUbTdJTFA5M19sTndqNktCLU5kWi1qS2lCR3dsQnJXcFpocF9XTE1ENDR0WG1aMWFycy16d0h1MXhENnhvazR1emtPZHJkTkNPcWw4SG9OX2FwQWQ5Z0c0a0NrZWxWamF0RGZ6V2hrcXlJc053eG9sM2o3R1Y4NmEwN05BcWs0a1FpVEQ0NGlhalE3SUNnVURFZw?oc=5",
       "section": "estilo",
       "category": "GQ España Lifestyle",
@@ -2920,20 +3010,20 @@
       ]
     },
     {
-      "id": "estilo|https://news.google.com/rss/articles/CBMilwFBVV95cUxNaW9sOEtzaGJ2cnlUdzcxd1ZwdlUzQkktNUxuRW9sVk1rMTVBdGFyQW9ueEtpRzRTYjY3ZjJ5SDdlOWNnd3JKbzlObXlKX094c3hfV1JidnlVandjaDczYTdNVWVMN0duNzFUVUg0c2xOZDd6NlRDZm0tdm95YTlrMXE5MlN4NWVjNzlNaFdFM3k2R2hnUDBr?oc=5",
+      "id": "estilo|https://news.google.com/rss/articles/CBMixwFBVV95cUxNOXFZdzcyNkt2NGJWcEJCMHZkNXRBVHE1dEFvdkVPYnRJM3puVDlEblFoVm5fU1VYQjFVLVAxTWt0VUNtQzlfc245bm1XdDh2aWhzVnhuV2h1RmkzUFUwb3ZzLWswZ1dzZ2pKc2tiM2Vnb19yb0pBRkhPMXdTdk1CRnItN2w3aWFfX3FoamktNkhiVVdPdlFIMVRkSGFqNFNFaFRXa0NVeFlkMWdCTFFIeGpvcVBNYkVrbVA2ZHRvYXRkRUxuellZ?oc=5",
       "section": "estilo",
       "category": "GQ España Lifestyle",
-      "title": "Dockers: 40 años cambiando las reglas del armario masculino - GQ España",
-      "summary": "Dockers: 40 años cambiando las reglas del armario masculino GQ España",
+      "title": "Marriott Bonvoy, la NFL y el Bernabéu: el viaje ya no se hace por la ciudad, sino por el partido - GQ España",
+      "summary": "Marriott Bonvoy, la NFL y el Bernabéu: el viaje ya no se hace por la ciudad, sino por el partido GQ España",
       "image": "",
-      "publishedAt": "2026-10-31 12:38 UTC",
+      "publishedAt": "2026-11-01 07:29 UTC",
       "language": "es",
       "topic": "Estilo de vida",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "GQ España Lifestyle",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaW9sOEtzaGJ2cnlUdzcxd1ZwdlUzQkktNUxuRW9sVk1rMTVBdGFyQW9ueEtpRzRTYjY3ZjJ5SDdlOWNnd3JKbzlObXlKX094c3hfV1JidnlVandjaDczYTdNVWVMN0duNzFUVUg0c2xOZDd6NlRDZm0tdm95YTlrMXE5MlN4NWVjNzlNaFdFM3k2R2hnUDBr?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOXFZdzcyNkt2NGJWcEJCMHZkNXRBVHE1dEFvdkVPYnRJM3puVDlEblFoVm5fU1VYQjFVLVAxTWt0VUNtQzlfc245bm1XdDh2aWhzVnhuV2h1RmkzUFUwb3ZzLWswZ1dzZ2pKc2tiM2Vnb19yb0pBRkhPMXdTdk1CRnItN2w3aWFfX3FoamktNkhiVVdPdlFIMVRkSGFqNFNFaFRXa0NVeFlkMWdCTFFIeGpvcVBNYkVrbVA2ZHRvYXRkRUxuellZ?oc=5"
         }
       ]
     },
@@ -2952,6 +3042,24 @@
         {
           "name": "GQ España Lifestyle",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZHc5Y2ViNnQ4YjIyUTVJbE9WRGZhMHF1WmM2QXotQmNjZndfUTBPbGpMS0xWVFprZ2liai0wUnVSZGFDSWZ0cWd6bXJPbE80UnNMYXFZMHlMeGVXQjF0QWxWa1BMSzB0Q21ZMFplQS1kcU1sc1FBWlZMUTh2LU9JNlhvVGhNbnMyQnNNVTNLUmhLeE5hU2MzNlFQT2Z4N1BCXzFQclhUUGY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "estilo|https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vRWVEY043YlZ5QVk3MEFfcENkZUx2QzE4c1R6eGtGSzBUb3ktNEU0bVhmZ3V6aUducU50czNCd3dMMW04T1dlY2s0ajVSYVJ1QThLSlM3eFRXQ1gyQ0h0X1FhOA?oc=5",
+      "section": "estilo",
+      "category": "GQ España Lifestyle",
+      "title": "Deiva: hemos probado el primer vino blanco español de Vega Sicilia, un albariño que sabe a Galicia - GQ España",
+      "summary": "Deiva: hemos probado el primer vino blanco español de Vega Sicilia, un albariño que sabe a Galicia GQ España",
+      "image": "",
+      "publishedAt": "2026-10-30 11:13 UTC",
+      "language": "es",
+      "topic": "Estilo de vida",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "GQ España Lifestyle",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vRWVEY043YlZ5QVk3MEFfcENkZUx2QzE4c1R6eGtGSzBUb3ktNEU0bVhmZ3V6aUducU50czNCd3dMMW04T1dlY2s0ajVSYVJ1QThLSlM3eFRXQ1gyQ0h0X1FhOA?oc=5"
         }
       ]
     },
@@ -3280,20 +3388,56 @@
       ]
     },
     {
-      "id": "estilo|https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUzVwaC1vei1qSGNVajJNa2RmQ1daVkNqT3pTV29vNmJobTRPNUx6bThmRUxaQl96VE1fZnBtZVhrM051TVViTEpRc01SU0xVQzVMMDlYQ3dIaGlxNjB1OHhxUTdMQXdZa0k2YXZQSk54aDdWdW9ibER1d2VZaFppTTk4YUNMQTFRNzV4NExkV2V3UV9FWElheUg4NF8xeGs3eEtZTkxmVG9qOW4zVFo0dzI2WGhHX2110gG-AUFVX3lxTE5BZmNENUthdzBoQjVyN1ZkcE1XWXVwYWltZl9lbm9jVFVqUG1INF9qVFp3blhpdHBBa2hYOTJpcEloNlp0ZWJWMXM5VTNmNEJITzV0WFJjX2dXci1uc0JLYmRtaXp3d0Z3UWd1dDlHWEJVN1JTNmoxanJUUU5DYWRzMDA0VzY1OVJYQVJaN0N0Z3E1Y3RGdGR6Q3hJSkpUdkhDWDEyN2lmZ0d6VDhKOWVaaElpN0V3NFVEeU42OGc?oc=5",
+      "id": "estilo|https://news.google.com/rss/articles/CBMiggFBVV95cUxPcnRIS043NlZ3NmFjLWVpdzlMbUdBTGVhWE5YNTd2RmdRMlEzcDJrSVJzWk44Y29zNnI3bnhqenZfZFhCRkQ0VTA5NGl3UXJ1Vk1QYnVhNzBST0RReWQtR0s3d1R6MVFsWVg1SVRiLTdTZjJEdjBqU21JTGJiZlVqbkhB?oc=5",
       "section": "estilo",
       "category": "Menswear International",
-      "title": "Why jewellery is becoming an essential part of men's festive fashion - Firstpost",
-      "summary": "Why jewellery is becoming an essential part of men's festive fashion Firstpost",
+      "title": "Air Jordan 5 'Wings': Silver Satin, Luxury Details and a Powerful Story - Men's Journal",
+      "summary": "Air Jordan 5 'Wings': Silver Satin, Luxury Details and a Powerful Story Men's Journal",
       "image": "",
-      "publishedAt": "2026-10-31 10:15 UTC",
+      "publishedAt": "2026-11-01 10:25 UTC",
       "language": "en",
       "topic": "Moda",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Menswear International",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUzVwaC1vei1qSGNVajJNa2RmQ1daVkNqT3pTV29vNmJobTRPNUx6bThmRUxaQl96VE1fZnBtZVhrM051TVViTEpRc01SU0xVQzVMMDlYQ3dIaGlxNjB1OHhxUTdMQXdZa0k2YXZQSk54aDdWdW9ibER1d2VZaFppTTk4YUNMQTFRNzV4NExkV2V3UV9FWElheUg4NF8xeGs3eEtZTkxmVG9qOW4zVFo0dzI2WGhHX2110gG-AUFVX3lxTE5BZmNENUthdzBoQjVyN1ZkcE1XWXVwYWltZl9lbm9jVFVqUG1INF9qVFp3blhpdHBBa2hYOTJpcEloNlp0ZWJWMXM5VTNmNEJITzV0WFJjX2dXci1uc0JLYmRtaXp3d0Z3UWd1dDlHWEJVN1JTNmoxanJUUU5DYWRzMDA0VzY1OVJYQVJaN0N0Z3E1Y3RGdGR6Q3hJSkpUdkhDWDEyN2lmZ0d6VDhKOWVaaElpN0V3NFVEeU42OGc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcnRIS043NlZ3NmFjLWVpdzlMbUdBTGVhWE5YNTd2RmdRMlEzcDJrSVJzWk44Y29zNnI3bnhqenZfZFhCRkQ0VTA5NGl3UXJ1Vk1QYnVhNzBST0RReWQtR0s3d1R6MVFsWVg1SVRiLTdTZjJEdjBqU21JTGJiZlVqbkhB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "estilo|https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ0tfNG5idjAxR1ZYWjNfMU8zWUZVczlxY1JLVFRlWmZBQTlodUNGaEIxY2U0WnhOX2tzaVlORkRJU21Fa2NFdy1leG5IZDg4MDk1bWY1WTRuZklJWllaTHdaQnhzYUpLeDBRY0d2NnJWZEFOV1JpTzVPSmU2S29QRklfaDd6NW1QX2VURTdRSXQyMnJ5WG5WN0szN3hSc1oxMkxSXzdOUkhTLXZaampZ?oc=5",
+      "section": "estilo",
+      "category": "Menswear International",
+      "title": "Fabletics Made Its Name in Workout Gear. Now It Wants the Rest of Your Closet - Men's Journal",
+      "summary": "Fabletics Made Its Name in Workout Gear. Now It Wants the Rest of Your Closet Men's Journal",
+      "image": "",
+      "publishedAt": "2026-11-01 00:39 UTC",
+      "language": "en",
+      "topic": "Moda",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Menswear International",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ0tfNG5idjAxR1ZYWjNfMU8zWUZVczlxY1JLVFRlWmZBQTlodUNGaEIxY2U0WnhOX2tzaVlORkRJU21Fa2NFdy1leG5IZDg4MDk1bWY1WTRuZklJWllaTHdaQnhzYUpLeDBRY0d2NnJWZEFOV1JpTzVPSmU2S29QRklfaDd6NW1QX2VURTdRSXQyMnJ5WG5WN0szN3hSc1oxMkxSXzdOUkhTLXZaampZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "estilo|https://news.google.com/rss/articles/CBMigwFBVV95cUxPd3E4dEItTVFKbkU3UG1mVkowZU5ILVhYWVNXSm40em5XMmJSYllIdGNkSEdLTkExUHNpRzFTZFBKY0h6Z3ZxVkxVSjFEUUxrN3VGRGw5TVc4dXE0d2pjNkFwNlJBWHZ3MFRFMk11VG1LeHZPbE4zUmxTREFvRnRTanVjQQ?oc=5",
+      "section": "estilo",
+      "category": "Menswear International",
+      "title": "Character Study: Classic Men’s Looks with Modern Updates - WWD",
+      "summary": "Character Study: Classic Men’s Looks with Modern Updates WWD",
+      "image": "",
+      "publishedAt": "2026-10-31 13:08 UTC",
+      "language": "en",
+      "topic": "Moda",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Menswear International",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd3E4dEItTVFKbkU3UG1mVkowZU5ILVhYWVNXSm40em5XMmJSYllIdGNkSEdLTkExUHNpRzFTZFBKY0h6Z3ZxVkxVSjFEUUxrN3VGRGw5TVc4dXE0d2pjNkFwNlJBWHZ3MFRFMk11VG1LeHZPbE4zUmxTREFvRnRTanVjQQ?oc=5"
         }
       ]
     },
@@ -3312,24 +3456,6 @@
         {
           "name": "Menswear International",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83N2owY2dLWW1ZNk1UV01qMXNPbExjbkJFVUNnUUdGbE5TUXc1cVpPNGo1SVZ6TVl1ZzJVWGQ2Uy15YW13QTNZOW9hVWZ2WmhuZzVJZFduQWl5VzByTzdqTVkwa3g5cEpxN2xEQVYyRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "estilo|https://news.google.com/rss/articles/CBMiiAFBVV95cUxONnlmX3NNVkR0cktlay1tMVlWQWhyX1Q1MkRfcUdnRFRKNzBXOGJseVp6S1BoODZaSVBhZXp0QllfMnltdVJaekw5eVBhYXNLdVFWUUJwejF0YTBwaUYwOVNFcWtPd09DdmlQb1llbDJQWEVaVkFES24wMUh1eGZBRkIxS21yUWF4?oc=5",
-      "section": "estilo",
-      "category": "Menswear International",
-      "title": "Best Shorts For Men 2026: The 9 Pairs To Wear All Summer - Forbes",
-      "summary": "Best Shorts For Men 2026: The 9 Pairs To Wear All Summer Forbes",
-      "image": "",
-      "publishedAt": "2026-10-31 02:46 UTC",
-      "language": "en",
-      "topic": "Moda",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Menswear International",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONnlmX3NNVkR0cktlay1tMVlWQWhyX1Q1MkRfcUdnRFRKNzBXOGJseVp6S1BoODZaSVBhZXp0QllfMnltdVJaekw5eVBhYXNLdVFWUUJwejF0YTBwaUYwOVNFcWtPd09DdmlQb1llbDJQWEVaVkFES24wMUh1eGZBRkIxS21yUWF4?oc=5"
         }
       ]
     },
@@ -3370,38 +3496,20 @@
       ]
     },
     {
-      "id": "estilo|https://news.google.com/rss/articles/CBMiakFVX3lxTE9iUUt4LWxtVjR2S00welI5ZFdnT3hQODA4RG9PWjVwYUdKM3RkYzM0VnpwWUF3djNCdU16bUNjSlI0VzZTN2xoMkwzZ2xXMU56YWZHZURzUmhFc2ZSNWRRUWFfeEdrODBnV1E?oc=5",
+      "id": "estilo|https://news.google.com/rss/articles/CBMickFVX3lxTFBmRXo4X0NHQXlMN2c5SkEtVlE3QnlQTUtzRzhvTUdyRHNpSEp0dTJuV3R5ZkV6d3lQVFlCc0lFbnhkS3pWcVk1TkFrNGNpWHlLbTM1cl9yTU9PcU5MaTBwaE1rbWxFNHdWc2FpSEN5T0FlUQ?oc=5",
       "section": "estilo",
       "category": "Menswear International",
-      "title": "The best men’s underwear brands to buy for every body type - British GQ",
-      "summary": "The best men’s underwear brands to buy for every body type British GQ",
+      "title": "The best sock brands get everything else on the right track - British GQ",
+      "summary": "The best sock brands get everything else on the right track British GQ",
       "image": "",
-      "publishedAt": "2026-10-30 15:07 UTC",
+      "publishedAt": "2026-10-30 16:12 UTC",
       "language": "en",
       "topic": "Moda",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Menswear International",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iUUt4LWxtVjR2S00welI5ZFdnT3hQODA4RG9PWjVwYUdKM3RkYzM0VnpwWUF3djNCdU16bUNjSlI0VzZTN2xoMkwzZ2xXMU56YWZHZURzUmhFc2ZSNWRRUWFfeEdrODBnV1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "estilo|https://news.google.com/rss/articles/CBMigwFBVV95cUxNOV9wb1BMenhvQWdNR21LU1JQRFlwTWRyQlFZLXFsOW96dXhtMUVlZEZRYkxNSWVybVVMSmVLR3NQR2FBanR3ZU9MYUJRWW1Qc2p1LWFuTkg4dUdsM3VGRi1KS084bjhTRnV6dGNsVWxlTXM3REdMMDY2dnJCcWdST004aw?oc=5",
-      "section": "estilo",
-      "category": "Menswear International",
-      "title": "The best men’s sales and fashion finds of the week - British GQ",
-      "summary": "The best men’s sales and fashion finds of the week British GQ",
-      "image": "",
-      "publishedAt": "2026-10-30 14:57 UTC",
-      "language": "en",
-      "topic": "Moda",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Menswear International",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOV9wb1BMenhvQWdNR21LU1JQRFlwTWRyQlFZLXFsOW96dXhtMUVlZEZRYkxNSWVybVVMSmVLR3NQR2FBanR3ZU9MYUJRWW1Qc2p1LWFuTkg4dUdsM3VGRi1KS084bjhTRnV6dGNsVWxlTXM3REdMMDY2dnJCcWdST004aw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmRXo4X0NHQXlMN2c5SkEtVlE3QnlQTUtzRzhvTUdyRHNpSEp0dTJuV3R5ZkV6d3lQVFlCc0lFbnhkS3pWcVk1TkFrNGNpWHlLbTM1cl9yTU9PcU5MaTBwaE1rbWxFNHdWc2FpSEN5T0FlUQ?oc=5"
         }
       ]
     },
@@ -3460,20 +3568,20 @@
       ]
     },
     {
-      "id": "espana|https://news.google.com/rss/articles/CBMigAFBVV95cUxNcnk0dWRFV09HSmVBdDlkX0lwam5YV0tnSC1tQkFfRXpfZUlyQldNX1h0NDdseWJrNkxZWDdEYVVBV2VoOUtxVDdBR2VLWWZ1UF9ZaE1kc3RvZXdmNm9ZSXpyZTdfX3o0M2tkSVR6aFN6aDV6UDJfVk81ZFE4b1VSONIBhgFBVV95cUxOTjRqR0ZFLUdEYWFvMDhJQXRvWGs2RDdGSEdsQy1aZGFCNDVBemhhM3ZobzV5SnZ6d1FQM0thLWZQN2ljVy1KWTZ3dlFqRDBzRTNOTmZaNkxxME9uN29kN3lZQnl1Z2Y5aC0wRnZqcHIyVEtJZnFYcWROdjM3dEp2RE9CVlF2QQ?oc=5",
+      "id": "espana|https://news.google.com/rss/articles/CBMioAFBVV95cUxOWnFUdVh6a3hVT0kxUEJQTEhIN2RpY09vMW40alo2WE1fOUJyemNlbHdEc0t5bUtYVUxBNExXTWt6V00yaFlJcjhkR09YVzdRbkE4WW81REdaWlZ2aXZuVUwtcVN3ZWY3akU1dWo5Wmc2TVhTTDlLZjhoZjJYNWlmMXVXYUVTN09MeUEwNkZmQk5GZjdCbTVEbDVEdVd5LVF50gGmAUFVX3lxTFBzUjBxVzRRZmZBNGRQVG9QRURDME55dUNaaDNRUm9PamFSQ2p3cmZRQkdFakJsVnBnWC0tX2J5TXBnZ0JJaXh0Q0MwN1lIN3FJNVpqSzdjSkhtV3pIR2c3ZnZiQnVHVmI3Qnp4Z1dIWVphM2czdHF4cUtlektVTk9BOUVQeEFEODVWVmpQR2NPS2ZZckJPVXpKcXJ3UUV3MHlza3BhVEE?oc=5",
       "section": "espana",
       "category": "La Vanguardia",
-      "title": "La confianza quebrada - La Vanguardia",
-      "summary": "La confianza quebrada La Vanguardia",
+      "title": "El delirio de las elites españolas con el AVE... y cercanías - La Vanguardia",
+      "summary": "El delirio de las elites españolas con el AVE... y cercanías La Vanguardia",
       "image": "",
-      "publishedAt": "2026-10-31 05:00 UTC",
+      "publishedAt": "2026-11-01 05:00 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "La Vanguardia",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcnk0dWRFV09HSmVBdDlkX0lwam5YV0tnSC1tQkFfRXpfZUlyQldNX1h0NDdseWJrNkxZWDdEYVVBV2VoOUtxVDdBR2VLWWZ1UF9ZaE1kc3RvZXdmNm9ZSXpyZTdfX3o0M2tkSVR6aFN6aDV6UDJfVk81ZFE4b1VSONIBhgFBVV95cUxOTjRqR0ZFLUdEYWFvMDhJQXRvWGs2RDdGSEdsQy1aZGFCNDVBemhhM3ZobzV5SnZ6d1FQM0thLWZQN2ljVy1KWTZ3dlFqRDBzRTNOTmZaNkxxME9uN29kN3lZQnl1Z2Y5aC0wRnZqcHIyVEtJZnFYcWROdjM3dEp2RE9CVlF2QQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWnFUdVh6a3hVT0kxUEJQTEhIN2RpY09vMW40alo2WE1fOUJyemNlbHdEc0t5bUtYVUxBNExXTWt6V00yaFlJcjhkR09YVzdRbkE4WW81REdaWlZ2aXZuVUwtcVN3ZWY3akU1dWo5Wmc2TVhTTDlLZjhoZjJYNWlmMXVXYUVTN09MeUEwNkZmQk5GZjdCbTVEbDVEdVd5LVF50gGmAUFVX3lxTFBzUjBxVzRRZmZBNGRQVG9QRURDME55dUNaaDNRUm9PamFSQ2p3cmZRQkdFakJsVnBnWC0tX2J5TXBnZ0JJaXh0Q0MwN1lIN3FJNVpqSzdjSkhtV3pIR2c3ZnZiQnVHVmI3Qnp4Z1dIWVphM2czdHF4cUtlektVTk9BOUVQeEFEODVWVmpQR2NPS2ZZckJPVXpKcXJ3UUV3MHlza3BhVEE?oc=5"
         }
       ]
     },
@@ -3496,20 +3604,20 @@
       ]
     },
     {
-      "id": "espana|https://news.google.com/rss/articles/CBMi_gFBVV95cUxQd2lwSTlRZThCcl81S2JhSkhpbU1hVDVwa0NSUGs1ZWFJNk5lQ29lTnhHQU9EUDI3ZV9ZSllaTUNxRFdORlJ4YS1pM1luNjB3dEIwWmhqX1A5b21MYUh4U0FFV0F6b243SU9SRDI2SU1yN0diSzdUTVhkMW9PRmpRS0dOeEdNU0FlMG8ySG5VekVGZkRKZHlDTkNPQjgtSGpVRTRHOG1Oa1ZpV1dLb2EySzlpR0R1ZlhNUHVuWHgxT3N0X0NRdC1VYkQzRi1YY2lJVFBSSjdmcl81THQydk1XQVIxcGFsa2FVLXZmMjBZUVY2U3NQWFozd0ZOMGl6UdIBkgJBVV95cUxOblJZQVNoSmoxX0k0bVlpc2Y4TUtFNGwzYW9PcWRCaVFScVk2elVvSk1DRFpoWWh3M0l4S05zY0JmNW5ERjk1bW9Od1N4MVMycVRhTDlLS0FLcjNuYjlrYzl5VTJYdHQ3S2taWHZDemxVNVpENWxMYzYxbGdqQjhwWXhQVV81VFJnd1FpMGUxeERkbmdmZjFvaDdqWUJNV1Q0ajRDSG9qS0NsbjFCbFJocUZRUTJiVnpsUWhiaGlvTEdqaE45a3hnWFRoZV82MWdlV2k1a3Bvamx5NWoxaW9yb2xiWWtYOWUwQVpneDU4cm8zYzZOZXdtOTZWVmRwWXZRWi1fRllTemxhVGduQjZXYzdB?oc=5",
+      "id": "espana|https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWGd3V1ktbzRDRWl2NnZnb0ZaMU1TbF9BdzVOcFdVN1VwTmR1d2MwaXlpMFVxZjJyZk1vajRIb1FOSVpfTEpLbF9DNmE1MlhKQXFIYll4NWpWQXVBTC11VS1VS0VqTElGWm81dF9DSHE3ZldsTGMycVNiOVFZMnV1VmhuUXFxTFJpSnloRlJqclEyMUxKejk0MDhsa0NiUUlmOXd1UzN0cnNzWTVWblhMWndwS3FTVmlYSENUbm5VTlUxTWRrNk5iSlMtWXd6enA4VjZsRGs0cERKZ2Ez0gHwAUFVX3lxTE9vV3NHcG1MNVJjUFNCZ0J4Q0JNT0ZFem55dlpEekkzWVhhMVZMOTA1UDQycXEyLXloYjIyTGtDSzZkOTlkcDhfTzFVOC01UUhDd0pxaTFjdnVidUpSX3RGMTdYVGhzYmJXZkcwQVdBak50MXFTZjhXZXFiaDZNSWY4YjJrSnRFbHZhMzluYklBWGZrTGlzYXUwZjhqVlZOcldHTHpuWHlROVNtX1MyY0kzUVpBc2FJVWdCQTJ2Y0JfTmV6bkVqQXIxT3pMMUtyZG9mQlgzaDVKbTJGa29FdmlOWGdFd2R1cGJ0TGdWNnZwOQ?oc=5",
       "section": "espana",
       "category": "La Razón",
-      "title": "La juez del accidente de Urda exige más operarios para las labores de búsqueda y prohíbe difundir imágenes de las víctimas - La Razón",
-      "summary": "La juez del accidente de Urda exige más operarios para las labores de búsqueda y prohíbe difundir imágenes de las víctimas La Razón",
+      "title": "Aumentan los robos y peleas en Ceuta, incluso con armas de fuego, causados por inmigrantes ilegales - La Razón",
+      "summary": "Aumentan los robos y peleas en Ceuta, incluso con armas de fuego, causados por inmigrantes ilegales La Razón",
       "image": "",
-      "publishedAt": "2026-11-01 13:31 UTC",
+      "publishedAt": "2026-11-01 14:11 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "La Razón",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQd2lwSTlRZThCcl81S2JhSkhpbU1hVDVwa0NSUGs1ZWFJNk5lQ29lTnhHQU9EUDI3ZV9ZSllaTUNxRFdORlJ4YS1pM1luNjB3dEIwWmhqX1A5b21MYUh4U0FFV0F6b243SU9SRDI2SU1yN0diSzdUTVhkMW9PRmpRS0dOeEdNU0FlMG8ySG5VekVGZkRKZHlDTkNPQjgtSGpVRTRHOG1Oa1ZpV1dLb2EySzlpR0R1ZlhNUHVuWHgxT3N0X0NRdC1VYkQzRi1YY2lJVFBSSjdmcl81THQydk1XQVIxcGFsa2FVLXZmMjBZUVY2U3NQWFozd0ZOMGl6UdIBkgJBVV95cUxOblJZQVNoSmoxX0k0bVlpc2Y4TUtFNGwzYW9PcWRCaVFScVk2elVvSk1DRFpoWWh3M0l4S05zY0JmNW5ERjk1bW9Od1N4MVMycVRhTDlLS0FLcjNuYjlrYzl5VTJYdHQ3S2taWHZDemxVNVpENWxMYzYxbGdqQjhwWXhQVV81VFJnd1FpMGUxeERkbmdmZjFvaDdqWUJNV1Q0ajRDSG9qS0NsbjFCbFJocUZRUTJiVnpsUWhiaGlvTEdqaE45a3hnWFRoZV82MWdlV2k1a3Bvamx5NWoxaW9yb2xiWWtYOWUwQVpneDU4cm8zYzZOZXdtOTZWVmRwWXZRWi1fRllTemxhVGduQjZXYzdB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWGd3V1ktbzRDRWl2NnZnb0ZaMU1TbF9BdzVOcFdVN1VwTmR1d2MwaXlpMFVxZjJyZk1vajRIb1FOSVpfTEpLbF9DNmE1MlhKQXFIYll4NWpWQXVBTC11VS1VS0VqTElGWm81dF9DSHE3ZldsTGMycVNiOVFZMnV1VmhuUXFxTFJpSnloRlJqclEyMUxKejk0MDhsa0NiUUlmOXd1UzN0cnNzWTVWblhMWndwS3FTVmlYSENUbm5VTlUxTWRrNk5iSlMtWXd6enA4VjZsRGs0cERKZ2Ez0gHwAUFVX3lxTE9vV3NHcG1MNVJjUFNCZ0J4Q0JNT0ZFem55dlpEekkzWVhhMVZMOTA1UDQycXEyLXloYjIyTGtDSzZkOTlkcDhfTzFVOC01UUhDd0pxaTFjdnVidUpSX3RGMTdYVGhzYmJXZkcwQVdBak50MXFTZjhXZXFiaDZNSWY4YjJrSnRFbHZhMzluYklBWGZrTGlzYXUwZjhqVlZOcldHTHpuWHlROVNtX1MyY0kzUVpBc2FJVWdCQTJ2Y0JfTmV6bkVqQXIxT3pMMUtyZG9mQlgzaDVKbTJGa29FdmlOWGdFd2R1cGJ0TGdWNnZwOQ?oc=5"
         }
       ]
     },
@@ -3586,24 +3694,6 @@
       ]
     },
     {
-      "id": "espana|https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVzEtai1LamllYmxjdElua0RkN0NNd2hPWjhaYWlpZFhCWkh4ZnFsUDhJT2xELUw0QlU2b3NGdUdVUkMwS3Zoa2lNY3NEa2gwU05uUmtzc3E1ejRjSXFyaTdsQzN1THZZMDYwY2pPVTJnaGVjZ0lJQ0dlUFlaa1ZwX0FzNm5UaFpnaU44VXRmdXJOTUluR2JXZUpmVWxkbDBxOXJOeG5jUFF2NTBXZ25XUXpxeFhzamJqQTFvdXUtcVJ6ZXU3cC02S2JySUFkODNhdkpBZ1V30gHqAUFVX3lxTFBFVEdXbU16eG9zODRLa1A5R2xzekk5d2dQSkcwX1JSS2hIOVpUN2tvc2x4SUZESG5ZQ2s1R0gwMUVSTVFEOGpyLXEzRmpRbWlMYXNzcW5wczZYNW10VjN1QTRibExMa1Q1Rnl5TFZyNzZwdi15eklnd3VKYk9xeW9TQU5jdjM2bTRBbHlxUnl4Szh4VEZHa3gzOVZHQi1Lc2t3QTFneDJXLTlBQTNoeGcxdTlVWGNGakd1Y2VCTUpYcEFyanR5ZHBoSHE3REwydUZDdVIweDBFSzVLOXFyWXI3XzdmSkRHYXR4Zw?oc=5",
-      "section": "espana",
-      "category": "Cinco Días",
-      "title": "Palmer Luckey y Ben Lamm, los milmillonarios frikis detrás de los superperros de guerra - Cinco Días",
-      "summary": "Palmer Luckey y Ben Lamm, los milmillonarios frikis detrás de los superperros de guerra Cinco Días",
-      "image": "",
-      "publishedAt": "2026-11-01 04:40 UTC",
-      "language": "es",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Cinco Días",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVzEtai1LamllYmxjdElua0RkN0NNd2hPWjhaYWlpZFhCWkh4ZnFsUDhJT2xELUw0QlU2b3NGdUdVUkMwS3Zoa2lNY3NEa2gwU05uUmtzc3E1ejRjSXFyaTdsQzN1THZZMDYwY2pPVTJnaGVjZ0lJQ0dlUFlaa1ZwX0FzNm5UaFpnaU44VXRmdXJOTUluR2JXZUpmVWxkbDBxOXJOeG5jUFF2NTBXZ25XUXpxeFhzamJqQTFvdXUtcVJ6ZXU3cC02S2JySUFkODNhdkpBZ1V30gHqAUFVX3lxTFBFVEdXbU16eG9zODRLa1A5R2xzekk5d2dQSkcwX1JSS2hIOVpUN2tvc2x4SUZESG5ZQ2s1R0gwMUVSTVFEOGpyLXEzRmpRbWlMYXNzcW5wczZYNW10VjN1QTRibExMa1Q1Rnl5TFZyNzZwdi15eklnd3VKYk9xeW9TQU5jdjM2bTRBbHlxUnl4Szh4VEZHa3gzOVZHQi1Lc2t3QTFneDJXLTlBQTNoeGcxdTlVWGNGakd1Y2VCTUpYcEFyanR5ZHBoSHE3REwydUZDdVIweDBFSzVLOXFyWXI3XzdmSkRHYXR4Zw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "espana|https://news.google.com/rss/articles/CBMijwJBVV95cUxOV2ZWLTJjS0Q1b0VETXpZb2RObGVLaFZQUzBJT3hYT0U2U3A3blFoc2lEejFYa3F3MjF5UWZUcFBEampscExtY1NGZzRER0o5UElBTVNBTDZpNG55eTFXQzZ6Y0V5MWh2RDRaOXVRcVZyYlg4VEtmTnlGTkJUSVM0ZmttUVNyc0FydjNKQWRMS2kzUXRXa1N6YW5RQ3lSZm54Vm5Yc3ZteXNZc2RFanQzQkIzZmpMTVM3TTZDQ3pLQ3JyLTdidVlySFV6cUhoamJ2ajljQlA5cHZGZV84bUNzSmlMREZWQ1kxNlMwR0J6S0tLZjIzLUR2LWd2OTVSWnFsT2NYTWI0TzZvMFM5dFpZ0gGjAkFVX3lxTE0xY2cxbEJrcXk1Y1M0M1p4U0lMTG1lS0g2VnZFT3dNLTFRX3VLc3VvOS1yZlBpUU14YmJkMGw1YkFsaERFb3VXUHI5US0zTzhoelVKVWZza2J6QlRMNGoxZkZyTTlrT0dVRXlpczVnTGR2ZUgzYmdZZVktempDc1MxZm02bTFtbTBXYnc3VlZPYmRpVXpNZlBtTWJtazc2M2NTMEFEaC1YM05xbGp2azl2TXh1OXdMeW5kMDJwbDhMYlFsSHpmQWU4cnEyVFJrNDFHY2ZSVXRCTi1zRm1qSWwtQ0dVQXlYXzNoVDcwWVBfaUx1ZmQ4dVV5T3FQejNCdWg1aTFFdmpleHlUSFV2cS1qRjFUaWxPbWFjVTVWdTJYR0JUQQ?oc=5",
       "section": "espana",
       "category": "Cinco Días",
@@ -3618,6 +3708,24 @@
         {
           "name": "Cinco Días",
           "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOV2ZWLTJjS0Q1b0VETXpZb2RObGVLaFZQUzBJT3hYT0U2U3A3blFoc2lEejFYa3F3MjF5UWZUcFBEampscExtY1NGZzRER0o5UElBTVNBTDZpNG55eTFXQzZ6Y0V5MWh2RDRaOXVRcVZyYlg4VEtmTnlGTkJUSVM0ZmttUVNyc0FydjNKQWRMS2kzUXRXa1N6YW5RQ3lSZm54Vm5Yc3ZteXNZc2RFanQzQkIzZmpMTVM3TTZDQ3pLQ3JyLTdidVlySFV6cUhoamJ2ajljQlA5cHZGZV84bUNzSmlMREZWQ1kxNlMwR0J6S0tLZjIzLUR2LWd2OTVSWnFsT2NYTWI0TzZvMFM5dFpZ0gGjAkFVX3lxTE0xY2cxbEJrcXk1Y1M0M1p4U0lMTG1lS0g2VnZFT3dNLTFRX3VLc3VvOS1yZlBpUU14YmJkMGw1YkFsaERFb3VXUHI5US0zTzhoelVKVWZza2J6QlRMNGoxZkZyTTlrT0dVRXlpczVnTGR2ZUgzYmdZZVktempDc1MxZm02bTFtbTBXYnc3VlZPYmRpVXpNZlBtTWJtazc2M2NTMEFEaC1YM05xbGp2azl2TXh1OXdMeW5kMDJwbDhMYlFsSHpmQWU4cnEyVFJrNDFHY2ZSVXRCTi1zRm1qSWwtQ0dVQXlYXzNoVDcwWVBfaUx1ZmQ4dVV5T3FQejNCdWg1aTFFdmpleHlUSFV2cS1qRjFUaWxPbWFjVTVWdTJYR0JUQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "espana|https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdHZsSGx6WGZGdXoyLV9VUXUxZGo1UGh6VWNFa2hRV3AwdnIxNVQ3alh3bGktZ3Bqc20zcnBya2dvbG5Yajl6MjZ3Q3ExSFpfUk9UVFZaU09KcDA1aVNpeS1rUzR2enlIQURyWEdEcFRqNXNNTVAzNjVMbXN4N0RpeXVQVUxJeDl1Rmw1RWFBaF8wT0ctSWM3YVBqaFdfSldHSkt0S3ktQ1FZNHVUU1hHRFNGczFpNkx0ZkM0SFRHOGprUXRha0dhMkJoZ19vY0RDRmttR3VINzUyTkRTUDkwN2hNVWNNZzVRaTVn0gH_AUFVX3lxTE9TcTRmM3BtRnBkdGI4VGVSN3VrLUJ0ZG1hWlNQYjBpeWhsdXBOZ3FVQzVnNXBLQk5tbWtINU9XNE9PS1RjdFlRMzVsN3o0U1Jfa2VHNEdxaDJqVGMwcFA4cUZmak9jdGZUZy1TYmVSRnBfaDhRRUM3RUFFTHNUcVktWVJ3SkFScGNUa29WNnFrdjNpMEZkYW9TVnpfS1FBSE12SEpZVV96LTF6N1dza0tXSTA0ZmtXTlJVbmE0MXdlNEpCd19ubWc2eTZVNlZhWXZBRVJoSDFhczh6T3hOLUdKVHQtWFU2Y18yQ2YwbkU0VDdNdURQSXh5T01aTzhzUQ?oc=5",
+      "section": "espana",
+      "category": "Cinco Días",
+      "title": "El inversor se rebela contra los sueldos de las cúpulas también en las pequeñas cotizadas - Cinco Días",
+      "summary": "El inversor se rebela contra los sueldos de las cúpulas también en las pequeñas cotizadas Cinco Días",
+      "image": "",
+      "publishedAt": "2026-10-28 04:30 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Cinco Días",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdHZsSGx6WGZGdXoyLV9VUXUxZGo1UGh6VWNFa2hRV3AwdnIxNVQ3alh3bGktZ3Bqc20zcnBya2dvbG5Yajl6MjZ3Q3ExSFpfUk9UVFZaU09KcDA1aVNpeS1rUzR2enlIQURyWEdEcFRqNXNNTVAzNjVMbXN4N0RpeXVQVUxJeDl1Rmw1RWFBaF8wT0ctSWM3YVBqaFdfSldHSkt0S3ktQ1FZNHVUU1hHRFNGczFpNkx0ZkM0SFRHOGprUXRha0dhMkJoZ19vY0RDRmttR3VINzUyTkRTUDkwN2hNVWNNZzVRaTVn0gH_AUFVX3lxTE9TcTRmM3BtRnBkdGI4VGVSN3VrLUJ0ZG1hWlNQYjBpeWhsdXBOZ3FVQzVnNXBLQk5tbWtINU9XNE9PS1RjdFlRMzVsN3o0U1Jfa2VHNEdxaDJqVGMwcFA4cUZmak9jdGZUZy1TYmVSRnBfaDhRRUM3RUFFTHNUcVktWVJ3SkFScGNUa29WNnFrdjNpMEZkYW9TVnpfS1FBSE12SEpZVV96LTF6N1dza0tXSTA0ZmtXTlJVbmE0MXdlNEpCd19ubWc2eTZVNlZhWXZBRVJoSDFhczh6T3hOLUdKVHQtWFU2Y18yQ2YwbkU0VDdNdURQSXh5T01aTzhzUQ?oc=5"
         }
       ]
     },
@@ -3640,20 +3748,20 @@
       ]
     },
     {
-      "id": "mundo|https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWlVvY1JqNmQ3WmkweFRDSDhmbjVHb2NxT1JfMEFFVENNVGUtajJTeFJCakYzOGpzcnpHb2g1V0JONG1fUnpVTTAweHNrTlRwSTZDQUZRSE1hOWdiODlWOW05RGl0UGU3bEc1RzhNZlEtYkxEOGxPU3V5c0hYUk5hT3RlZl9sdUJIUjZENDNSYnVJT29UdDlKRFk0bWJxYUQwRjVHRjFKbVA1QQ?oc=5",
+      "id": "mundo|https://news.google.com/rss/articles/CBMitAFBVV95cUxNSXhfY3ZkWXB1R1VpQXBFdmR2S1dBU2p2U2VjUEJsZ2RwcGN1QWNwQVFjOXRrYkswVHF1TWhTMzk4cVpobm5VcXJaaG9NQXlURHh1dVdiVGZRN2hSYS02djZ0NzNoTUxpSnJYbDd1bnQ0ekRQZFJTeVIyU1BpVFBRUDhJaTNUN0J3Vk5WeGRMdlliVWVBNmpuZ1o4djJsLURwblFsdE1yWXlFeHJLMkItOWtvX0Q?oc=5",
       "section": "mundo",
       "category": "Reuters",
-      "title": "German, Slovak die in suspected electrocution at hotel pool in India - Reuters",
-      "summary": "German, Slovak die in suspected electrocution at hotel pool in India Reuters",
+      "title": "Serbians mark railway disaster that led to rise of victorious student movement - Reuters",
+      "summary": "Serbians mark railway disaster that led to rise of victorious student movement Reuters",
       "image": "",
-      "publishedAt": "2026-11-01 13:26 UTC",
+      "publishedAt": "2026-11-01 14:40 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWlVvY1JqNmQ3WmkweFRDSDhmbjVHb2NxT1JfMEFFVENNVGUtajJTeFJCakYzOGpzcnpHb2g1V0JONG1fUnpVTTAweHNrTlRwSTZDQUZRSE1hOWdiODlWOW05RGl0UGU3bEc1RzhNZlEtYkxEOGxPU3V5c0hYUk5hT3RlZl9sdUJIUjZENDNSYnVJT29UdDlKRFk0bWJxYUQwRjVHRjFKbVA1QQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSXhfY3ZkWXB1R1VpQXBFdmR2S1dBU2p2U2VjUEJsZ2RwcGN1QWNwQVFjOXRrYkswVHF1TWhTMzk4cVpobm5VcXJaaG9NQXlURHh1dVdiVGZRN2hSYS02djZ0NzNoTUxpSnJYbDd1bnQ0ekRQZFJTeVIyU1BpVFBRUDhJaTNUN0J3Vk5WeGRMdlliVWVBNmpuZ1o4djJsLURwblFsdE1yWXlFeHJLMkItOWtvX0Q?oc=5"
         }
       ]
     },
@@ -3664,7 +3772,7 @@
       "title": "G20 foreign ministers end Atlanta meeting without consensus on key issues - AP News",
       "summary": "G20 foreign ministers end Atlanta meeting without consensus on key issues AP News",
       "image": "",
-      "publishedAt": "2026-10-31 20:14 UTC",
+      "publishedAt": "2026-10-31 19:14 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
@@ -3748,20 +3856,20 @@
       ]
     },
     {
-      "id": "mundo|https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQkhKTDRHUm1CcU9YcEY1OWtxWGZtV1l4TU1EbnRXWWxMcmRkTnlUVjY0MVNldDBwRG1NSUY2QWhKdEExQVBvQ2MxcnU5T2IyTlVnTXhmbzl5RS1wRjFmZ3NCZGJHeDF5eXZLZl9OdkRkT1NVNkVaaWtlZG05YXBmWmxJamdabUZmMW1KNHVoUFBtc21CaVhwdWxfRzljWmZnTVlDSE9jYzN6UkYzNEQ2N0gyWmtESnVK0gG-AUFVX3lxTE9WbXN6bVJjcHNaMHp3bXdRTHJ6TFhtcW5RejJEOWVRYkZxSHhaLUxBT3dqc3E0Wk0xV21ueklxSkZlTk9sMDBabXdHYzNJcjhUNUZCZndjZ2VyWUNkaFlpc0l4dDY4YVd4dXhCalJWVmlzSHVtbENfMy1hNTloNWtEOXg4aUhrZWJLWTRlZGNmRjZOMzZaVm16Nkg2YUhxakxtcWZtQWg3aDNtYzVqbXNGOWxRRFVFZjBEd1M2WVE?oc=5",
+      "id": "mundo|https://news.google.com/rss/articles/CBMirwFBVV95cUxQNUoyQ2VKVzRUWXF0eGt6NW4wdGRmTFBkaDM2YjJ1VHIwcURiZngtZnZfc0xkbk8yZEFxMEZieVdkd2lSOTJZY0g3N1dOX1hzOEVkTVZLSXpOZkhEUTlUWVNUZHlaVldYZGNlSEFzRXJyTkJUMnVkQ0g4T2xWc3Y4cXVvUEpOYlktYnlQT3JZYUcwNDlQRHVTalE5aFpDWjBqZ2N4dUxoeUFlVlVMRnVn0gG0AUFVX3lxTE0xWERDRjA3Slc2bmlpZTdvQkNjOGVrVWxvOWlvVDJ5VG9VZTJJTE1kVHRCczRtUHFSQVRrOWdvLTlIYlBTbkc0Y2dNS29SeE1vbTMxNkJ4cVUzNXFWSnFSaVpfU0d6R29fSGlwY1RvUmR2bTlER0luU19WaVpFT041LXFOSEVYLW04eVZSTEM5c05QZnlDeXBpMVplQmVBM0c3aWlPSGFWSDFWMWxLZEExN1pOUQ?oc=5",
       "section": "mundo",
       "category": "Al Jazeera",
-      "title": "Iran warns of unfettered retaliation if attacked as mediators try for peace - Al Jazeera",
-      "summary": "Iran warns of unfettered retaliation if attacked as mediators try for peace Al Jazeera",
+      "title": "Tension and clashes as hundreds of thousands protest in France - Al Jazeera",
+      "summary": "Tension and clashes as hundreds of thousands protest in France Al Jazeera",
       "image": "",
-      "publishedAt": "2026-10-31 12:15 UTC",
+      "publishedAt": "2026-11-01 10:05 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQkhKTDRHUm1CcU9YcEY1OWtxWGZtV1l4TU1EbnRXWWxMcmRkTnlUVjY0MVNldDBwRG1NSUY2QWhKdEExQVBvQ2MxcnU5T2IyTlVnTXhmbzl5RS1wRjFmZ3NCZGJHeDF5eXZLZl9OdkRkT1NVNkVaaWtlZG05YXBmWmxJamdabUZmMW1KNHVoUFBtc21CaVhwdWxfRzljWmZnTVlDSE9jYzN6UkYzNEQ2N0gyWmtESnVK0gG-AUFVX3lxTE9WbXN6bVJjcHNaMHp3bXdRTHJ6TFhtcW5RejJEOWVRYkZxSHhaLUxBT3dqc3E0Wk0xV21ueklxSkZlTk9sMDBabXdHYzNJcjhUNUZCZndjZ2VyWUNkaFlpc0l4dDY4YVd4dXhCalJWVmlzSHVtbENfMy1hNTloNWtEOXg4aUhrZWJLWTRlZGNmRjZOMzZaVm16Nkg2YUhxakxtcWZtQWg3aDNtYzVqbXNGOWxRRFVFZjBEd1M2WVE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNUoyQ2VKVzRUWXF0eGt6NW4wdGRmTFBkaDM2YjJ1VHIwcURiZngtZnZfc0xkbk8yZEFxMEZieVdkd2lSOTJZY0g3N1dOX1hzOEVkTVZLSXpOZkhEUTlUWVNUZHlaVldYZGNlSEFzRXJyTkJUMnVkQ0g4T2xWc3Y4cXVvUEpOYlktYnlQT3JZYUcwNDlQRHVTalE5aFpDWjBqZ2N4dUxoeUFlVlVMRnVn0gG0AUFVX3lxTE0xWERDRjA3Slc2bmlpZTdvQkNjOGVrVWxvOWlvVDJ5VG9VZTJJTE1kVHRCczRtUHFSQVRrOWdvLTlIYlBTbkc0Y2dNS29SeE1vbTMxNkJ4cVUzNXFWSnFSaVpfU0d6R29fSGlwY1RvUmR2bTlER0luU19WaVpFT041LXFOSEVYLW04eVZSTEM5c05QZnlDeXBpMVplQmVBM0c3aWlPSGFWSDFWMWxLZEExN1pOUQ?oc=5"
         }
       ]
     },
@@ -3982,6 +4090,24 @@
       ]
     },
     {
+      "id": "television|https://news.google.com/rss/articles/CBMizwFBVV95cUxPODNhaFMxZWNheUJOUWZMbkRaUkowRGU5d29QenZvaUdYNE8wZkRsaHY1Z3dOdlRJZ3drYnZGTkN1MEZ4V0VISXBBbXNGZ1VWRE1iRElkdTF0NFk0NGpTcGF4Q0V5ME1SZnc0clR1ZjE2Z2otSlBNaGFUU3F3cHNrdnBRcktsV09LNjF4Mi1vd3R6OVlSTmtrZDZQMlZoa2FNSGoyUWhnSVBJdzZnbDE1RVBldzUxSFlKN2JRcWZFdy1iUm9Ec1djX25fdjFDem8?oc=5",
+      "section": "television",
+      "category": "Broadcast",
+      "title": "Ofcom chief in hot water for misleading claims about GB News investigation - Broadcast",
+      "summary": "Ofcom chief in hot water for misleading claims about GB News investigation Broadcast",
+      "image": "",
+      "publishedAt": "2026-10-30 11:11 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Broadcast",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPODNhaFMxZWNheUJOUWZMbkRaUkowRGU5d29QenZvaUdYNE8wZkRsaHY1Z3dOdlRJZ3drYnZGTkN1MEZ4V0VISXBBbXNGZ1VWRE1iRElkdTF0NFk0NGpTcGF4Q0V5ME1SZnc0clR1ZjE2Z2otSlBNaGFUU3F3cHNrdnBRcktsV09LNjF4Mi1vd3R6OVlSTmtrZDZQMlZoa2FNSGoyUWhnSVBJdzZnbDE1RVBldzUxSFlKN2JRcWZFdy1iUm9Ec1djX25fdjFDem8?oc=5"
+        }
+      ]
+    },
+    {
       "id": "television|https://news.google.com/rss/articles/CBMikwFBVV95cUxPME94QkI1TmNiNUpXcllJLUlsMk5XaGlRQ2RwRmlQOHdmTVpqMnB6R3pSbXJHMzd3ZkV6dUMtVnV2N0pjd25QRDRnRzZfQUdOanhmRzlubjQ3UHRLWm01NWtGSGtHWUhlRDlMY2F5Q1JKTF9wWXV6bU9fNGRkZUpuNTNidlFYTnNQNzB0WWNtcnBOYjg?oc=5",
       "section": "television",
       "category": "Broadcast",
@@ -3996,24 +4122,6 @@
         {
           "name": "Broadcast",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPME94QkI1TmNiNUpXcllJLUlsMk5XaGlRQ2RwRmlQOHdmTVpqMnB6R3pSbXJHMzd3ZkV6dUMtVnV2N0pjd25QRDRnRzZfQUdOanhmRzlubjQ3UHRLWm01NWtGSGtHWUhlRDlMY2F5Q1JKTF9wWXV6bU9fNGRkZUpuNTNidlFYTnNQNzB0WWNtcnBOYjg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "television|https://news.google.com/rss/articles/CBMirwFBVV95cUxQRERyRm8zMjZKNUNjYmQ3ZjVQbk1GOWI2dzA2dnVrMXZ0emZMTUtqbG9KLWJRUEZrSVlLUW9VX05JSkZBM3pTY2lXUE1vQnctaGFySXM0U1JwWFg1WXJRZklzbDVJN0ZGNklCVDRINFk4ZHFLSVlNMTVwZFZ6czJEcWdzejdoakRPbENPTDdVYVIyelFWYlNidXJWSThhWkdFTDh4Ujk3ZjNIZU02d21F?oc=5",
-      "section": "television",
-      "category": "Broadcast",
-      "title": "Paramount+ orders Mushroom Murders drama - Broadcast",
-      "summary": "Paramount+ orders Mushroom Murders drama Broadcast",
-      "image": "",
-      "publishedAt": "2026-10-28 09:47 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Broadcast",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRERyRm8zMjZKNUNjYmQ3ZjVQbk1GOWI2dzA2dnVrMXZ0emZMTUtqbG9KLWJRUEZrSVlLUW9VX05JSkZBM3pTY2lXUE1vQnctaGFySXM0U1JwWFg1WXJRZklzbDVJN0ZGNklCVDRINFk4ZHFLSVlNMTVwZFZ6czJEcWdzejdoakRPbENPTDdVYVIyelFWYlNidXJWSThhWkdFTDh4Ujk3ZjNIZU02d21F?oc=5"
         }
       ]
     },
@@ -4054,6 +4162,24 @@
       ]
     },
     {
+      "id": "tecnologia|https://news.google.com/rss/articles/CBMixAFBVV95cUxNVXVSaHF2SE1JVVl1UnVwMGRyZW8tSHdJc3V4OHJ4dWRaQWRPSndZODJBaXNFcDA1NTB4ZFhPS0s2VFMyRzRKOU1BS0t2UTRic2p1U0JZUFk2M3MzcEYwTGVSMHdQMnN3eG1wakc1aHg1dk9POGVzLTdXa2FOYWZJUzRhYmVZTFU4b3VscFVMVWEwTWllWkdYTHpjdFhIOWc3NlVUSTVWRGRsYVBxYmxrSnhmOUFtc1pCVVBPWTFiUmpyNXd00gHKAUFVX3lxTE55R1ZiT3lIeFhSY2pVZU9HU1c3cU5xbkVHTjdvU3F2eGJrUHhGcU92WHkzWkgxQkZPQXM3TmNyLUpIMUtVOTg1SHpudGhPa1hPOG9MS0ZXdWhqMUgwQnJhNnFfekk3WDhTZzkzNGRrZ21tTWJMYUZHa2t5RXVWNDdCNlRhb1BOcEFjSVdvWEE1TVRBckVUbTJTU0pqeW1weVd3Ni1tTndHQXRHVG03ejREUEtvWENTQ3lJN2x4QWdXNWNFQ3kxSlctVlE?oc=5",
+      "section": "tecnologia",
+      "category": "Xataka",
+      "title": "China ofrece sueldos de un millón de yuanes por el ingeniero de IA que también buscan Anthropic y OpenAI - Xataka",
+      "summary": "China ofrece sueldos de un millón de yuanes por el ingeniero de IA que también buscan Anthropic y OpenAI Xataka",
+      "image": "",
+      "publishedAt": "2026-11-01 14:01 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Xataka",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVXVSaHF2SE1JVVl1UnVwMGRyZW8tSHdJc3V4OHJ4dWRaQWRPSndZODJBaXNFcDA1NTB4ZFhPS0s2VFMyRzRKOU1BS0t2UTRic2p1U0JZUFk2M3MzcEYwTGVSMHdQMnN3eG1wakc1aHg1dk9POGVzLTdXa2FOYWZJUzRhYmVZTFU4b3VscFVMVWEwTWllWkdYTHpjdFhIOWc3NlVUSTVWRGRsYVBxYmxrSnhmOUFtc1pCVVBPWTFiUmpyNXd00gHKAUFVX3lxTE55R1ZiT3lIeFhSY2pVZU9HU1c3cU5xbkVHTjdvU3F2eGJrUHhGcU92WHkzWkgxQkZPQXM3TmNyLUpIMUtVOTg1SHpudGhPa1hPOG9MS0ZXdWhqMUgwQnJhNnFfekk3WDhTZzkzNGRrZ21tTWJMYUZHa2t5RXVWNDdCNlRhb1BOcEFjSVdvWEE1TVRBckVUbTJTU0pqeW1weVd3Ni1tTndHQXRHVG03ejREUEtvWENTQ3lJN2x4QWdXNWNFQ3kxSlctVlE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "tecnologia|https://news.google.com/rss/articles/CBMi6wFBVV95cUxPblBFand6WGQ5SlJaVmxRd2ZwMWFjTGllWWdXaEozdGRRUXE2Mm5TY0I0WGE0TnBXWkRvXzF2WUNNUm5zeFNxSFRnT0wwV0dkNFAyS05ieHg0aC1sMjVLd1RuaVFmaWdoT3dGMkRfQTJVR1o2V0pFVDkyVkstUllBMThhVDMySzh4N3Q0MjUwc0I2U1ktUUpqSnFva2V6M0pxa0xWZE5pVlRraFg2TDFTSmMtdWFOdldOSVBHS2l2M0lvNEZGbnVCbXNIcjVwTmpTV04wQlZnMmhaM0U1NWtVamk3d1Z3SVg1Y2930gHwAUFVX3lxTE9NSm1aMEU1dktYNHZmSkpnRGhPcjZMX1J0bXFwUV9tYVhTcDI0SmFPU0FGbkZkVkdCaVhWazZGSk9iam9iMHN3TTB6eVJjbnJjdm5oMkg5cWpETGdlUThFREFBT0Z6dHdzTV93bkUyOWR4UnhqQm5jYklzT1VqUGhUSG5jY010a1dPZ0ZGUUFDa0VWODBGM0M1U2dhWXpobjdZMVlWMGEzaUhlMFlScDhsNUZBQTZ1M1ZtNHl3c0Fjd0VBUXRQaER2em9KMEdKUVVpd3JjVGFJQ0lQRzF0VEFfWEFHNjREOG1lOG1UY1I5RA?oc=5",
       "section": "tecnologia",
       "category": "Xataka",
@@ -4068,24 +4194,6 @@
         {
           "name": "Xataka",
           "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPblBFand6WGQ5SlJaVmxRd2ZwMWFjTGllWWdXaEozdGRRUXE2Mm5TY0I0WGE0TnBXWkRvXzF2WUNNUm5zeFNxSFRnT0wwV0dkNFAyS05ieHg0aC1sMjVLd1RuaVFmaWdoT3dGMkRfQTJVR1o2V0pFVDkyVkstUllBMThhVDMySzh4N3Q0MjUwc0I2U1ktUUpqSnFva2V6M0pxa0xWZE5pVlRraFg2TDFTSmMtdWFOdldOSVBHS2l2M0lvNEZGbnVCbXNIcjVwTmpTV04wQlZnMmhaM0U1NWtVamk3d1Z3SVg1Y2930gHwAUFVX3lxTE9NSm1aMEU1dktYNHZmSkpnRGhPcjZMX1J0bXFwUV9tYVhTcDI0SmFPU0FGbkZkVkdCaVhWazZGSk9iam9iMHN3TTB6eVJjbnJjdm5oMkg5cWpETGdlUThFREFBT0Z6dHdzTV93bkUyOWR4UnhqQm5jYklzT1VqUGhUSG5jY010a1dPZ0ZGUUFDa0VWODBGM0M1U2dhWXpobjdZMVlWMGEzaUhlMFlScDhsNUZBQTZ1M1ZtNHl3c0Fjd0VBUXRQaER2em9KMEdKUVVpd3JjVGFJQ0lQRzF0VEFfWEFHNjREOG1lOG1UY1I5RA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "tecnologia|https://news.google.com/rss/articles/CBMivAFBVV95cUxNY1k1SE15ckh5MzRhd1dKY0hnVWdxNmp1ZlBNaXBKOTk0UWpMby1kbFhmZzZqaERGYjY3dk5CTnFwY0Yzb1N2alBxZGVnbXJMSVU5MC13RW8zZG15ajVON0FheXBWYklJWmpDcFdmTjAzQ2NKYXRyUVV1UmI5bGlKdWJ4X21qUGZOLWI3REVRVkY4NUFWNlBxSlYxZ1JBMEtyRnlLakRyUzZFNzdzblBMTzhycmQwWG91WkI4btIBwgFBVV95cUxNMDdaNFoyZzVjcTAzOE8xX1VwWEpxVG1UTzllTkR6S0hhREszTHZkNmdMVHlRajVDLXRma3VfM1hlUXl6WDRlV0Q4Nm1wODFkY0dITXQtc1ZGS3NCQm1NbDBXRmVtWXBEQ0tWcUpwY3AtZUdfQlF0eXZVQjhDOW9fbkgzWHJSVkZKV29maDhQeUwyci04WGo3bUFYVlVscDNMYUJyZzdhZmlHMExzc2YzaXNIaml4TVp2NFJ2X0w3ei1fQQ?oc=5",
-      "section": "tecnologia",
-      "category": "Xataka",
-      "title": "Desde hoy, Aldi soluciona (por 14,99 euros) un problema cotidiano en casa cuando sube la humedad por el frío y las lluvias - Xataka",
-      "summary": "Desde hoy, Aldi soluciona (por 14,99 euros) un problema cotidiano en casa cuando sube la humedad por el frío y las lluvias Xataka",
-      "image": "",
-      "publishedAt": "2026-10-31 19:21 UTC",
-      "language": "es",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Xataka",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY1k1SE15ckh5MzRhd1dKY0hnVWdxNmp1ZlBNaXBKOTk0UWpMby1kbFhmZzZqaERGYjY3dk5CTnFwY0Yzb1N2alBxZGVnbXJMSVU5MC13RW8zZG15ajVON0FheXBWYklJWmpDcFdmTjAzQ2NKYXRyUVV1UmI5bGlKdWJ4X21qUGZOLWI3REVRVkY4NUFWNlBxSlYxZ1JBMEtyRnlLakRyUzZFNzdzblBMTzhycmQwWG91WkI4btIBwgFBVV95cUxNMDdaNFoyZzVjcTAzOE8xX1VwWEpxVG1UTzllTkR6S0hhREszTHZkNmdMVHlRajVDLXRma3VfM1hlUXl6WDRlV0Q4Nm1wODFkY0dITXQtc1ZGS3NCQm1NbDBXRmVtWXBEQ0tWcUpwY3AtZUdfQlF0eXZVQjhDOW9fbkgzWHJSVkZKV29maDhQeUwyci04WGo3bUFYVlVscDNMYUJyZzdhZmlHMExzc2YzaXNIaml4TVp2NFJ2X0w3ei1fQQ?oc=5"
         }
       ]
     },
@@ -4576,6 +4684,46 @@
       ]
     },
     {
+      "id": "eventos|https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSzY2N2E5aHc4WFJWcFlFWHd0MG1pYmhNNmdPT1NCdEFUOWN3OGVvcl83TDZIel91eVo3MnNCb3BvalV0SlRUTmtHSS1ORlBUdlFWODlLUjhIM2xsQWxib0VwR0tWMkR4a3cxVXpfVDdyMmY1SVd1aE5YOTNmY3REUHFJNXk1MGRzN3hVY0hmems3WDlGVEJ2emJDNGtzMFJuOXVGVG9HV00yZi1oRnpoY1h4YWt2Uk1jczBtZXQ4dHhiMks4d3A0a09rWjN0c1k0dU1NaU5pelBIQnpRYjViZ2tpamdHTk15R0FZTtIBgAJBVV95cUxNOUdSZVNhSGNscEx2eEFwVWlObDRVdnhIZmN3ckNqX2FDUUZzVHNRWG9YVWc3eUI0TzZyWksteXptZzZnS0JqRUZQNWNMQVdBWVJTMGVIWUdKZWMwOWpqeVFTbF9DZVRRWGV1bUdUajRXNXZfUGxHbmN5TGNHLWZKQ2JmUHpZX2pkNkRJWmRNeXdGLTIxVnNyT2ZQTkRwNTBZRVdGcVo0ZnI5b0dzQnlUX0s3U0VYekdkemg5UmJmTDQ5WWpabTF3alBka1ZzRWFreDdIcWFuMVVhaWhUS0hMVC00d1hubVp6LTBKeWVSdndCd2JncW1sN2V4c3BVWVdY?oc=5",
+      "section": "eventos",
+      "category": "Madrid POP",
+      "title": "Juan Carlos Parejo recibe en Madrid el premio a la trayectoria en los Premios Nacionales del Teatro Musical - Cadena SER",
+      "summary": "Juan Carlos Parejo recibe en Madrid el premio a la trayectoria en los Premios Nacionales del Teatro Musical Cadena SER",
+      "image": "",
+      "publishedAt": "2026-10-27 10:30 UTC",
+      "language": "es",
+      "topic": "Teatro y musicales",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Madrid POP",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSzY2N2E5aHc4WFJWcFlFWHd0MG1pYmhNNmdPT1NCdEFUOWN3OGVvcl83TDZIel91eVo3MnNCb3BvalV0SlRUTmtHSS1ORlBUdlFWODlLUjhIM2xsQWxib0VwR0tWMkR4a3cxVXpfVDdyMmY1SVd1aE5YOTNmY3REUHFJNXk1MGRzN3hVY0hmems3WDlGVEJ2emJDNGtzMFJuOXVGVG9HV00yZi1oRnpoY1h4YWt2Uk1jczBtZXQ4dHhiMks4d3A0a09rWjN0c1k0dU1NaU5pelBIQnpRYjViZ2tpamdHTk15R0FZTtIBgAJBVV95cUxNOUdSZVNhSGNscEx2eEFwVWlObDRVdnhIZmN3ckNqX2FDUUZzVHNRWG9YVWc3eUI0TzZyWksteXptZzZnS0JqRUZQNWNMQVdBWVJTMGVIWUdKZWMwOWpqeVFTbF9DZVRRWGV1bUdUajRXNXZfUGxHbmN5TGNHLWZKQ2JmUHpZX2pkNkRJWmRNeXdGLTIxVnNyT2ZQTkRwNTBZRVdGcVo0ZnI5b0dzQnlUX0s3U0VYekdkemg5UmJmTDQ5WWpabTF3alBka1ZzRWFreDdIcWFuMVVhaWhUS0hMVC00d1hubVp6LTBKeWVSdndCd2JncW1sN2V4c3BVWVdY?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "popHorizon": "ahora"
+    },
+    {
+      "id": "eventos|https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcmJSZkUtQ3Y0a3F6d3lqbFRITWg3QlAyYWdaR01tWUpSN1J5VkhtdzFPSEZiVFhMR1ZZRTk5WUZ5SFhJYzVwTld5QWItZDMydGl5Q2JIVnYweDBxMDQxZlBoLXZaaVlrREh0ck14b2dwS0cwTmU3cTQ3YzZSeTduS0x4a0x5NHJGNHlpRFQ2TFpnM09CMG5nYVBCcGo5VWNha3pIbVdqaUs4THFqeWtqbGRHZzN0czJqdHpYMUZuSmprSnB3eko4T3lPZWVtZGkxV1JjcnkzS1Vpd1VBRWc?oc=5",
+      "section": "eventos",
+      "category": "Madrid POP",
+      "title": "La Comunidad de Madrid celebra la festividad de Todos los Santos con un altar de muertos en Alcalá 31 y las Leyendas de Bécquer en el teatro - Comunidad de Madrid |",
+      "summary": "La Comunidad de Madrid celebra la festividad de Todos los Santos con un altar de muertos en Alcalá 31 y las Leyendas de Bécquer en el teatro Comunidad de Madrid |",
+      "image": "",
+      "publishedAt": "2026-10-30 08:35 UTC",
+      "language": "es",
+      "topic": "Arte y cultura",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Madrid POP",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcmJSZkUtQ3Y0a3F6d3lqbFRITWg3QlAyYWdaR01tWUpSN1J5VkhtdzFPSEZiVFhMR1ZZRTk5WUZ5SFhJYzVwTld5QWItZDMydGl5Q2JIVnYweDBxMDQxZlBoLXZaaVlrREh0ck14b2dwS0cwTmU3cTQ3YzZSeTduS0x4a0x5NHJGNHlpRFQ2TFpnM09CMG5nYVBCcGo5VWNha3pIbVdqaUs4THFqeWtqbGRHZzN0czJqdHpYMUZuSmprSnB3eko4T3lPZWVtZGkxV1JjcnkzS1Vpd1VBRWc?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "popHorizon": "ahora"
+    },
+    {
       "id": "eventos|https://news.google.com/rss/articles/CBMibEFVX3lxTE1TY3d5VE5qcThSekRhb3cyc3YxTWw0UllyX3lBR0pCbHdOOEV2Q25jVk5qNHY2LUs5ZnM2c0xrRGV1SS1ZOVdNM3NHRjFsd0JsZGpqZ3RVTnIzb2xlcFVldFdlOEdGMUFrNEhIZQ?oc=5",
       "section": "eventos",
       "category": "Madrid POP",
@@ -4590,6 +4738,26 @@
         {
           "name": "Madrid POP",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TY3d5VE5qcThSekRhb3cyc3YxTWw0UllyX3lBR0pCbHdOOEV2Q25jVk5qNHY2LUs5ZnM2c0xrRGV1SS1ZOVdNM3NHRjFsd0JsZGpqZ3RVTnIzb2xlcFVldFdlOEdGMUFrNEhIZQ?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "popHorizon": "ahora"
+    },
+    {
+      "id": "eventos|https://news.google.com/rss/articles/CBMijwFBVV95cUxNRU9RUGdxM0Jhc05LRVFTa09fU1BERnlYeXRVekxQd1FpVTVwRmxjRXZ0X3EwSm9GSmUwMTJjMmQ3YmxWN0U4MzQ5cGpkcEtHRDg4a0Zjem93YmdpcGFnR281RFR4bGFFMVlndjFLWFRLU3dwaXRzamc3WUxucDl3VmMxbEQ5dDVYMDF4b2JlTQ?oc=5",
+      "section": "eventos",
+      "category": "Madrid POP",
+      "title": "Exposición «Madrid en construcción, 1940-1985» - Comunidad de Madrid |",
+      "summary": "Exposición «Madrid en construcción, 1940-1985» Comunidad de Madrid |",
+      "image": "",
+      "publishedAt": "2026-10-30 12:00 UTC",
+      "language": "es",
+      "topic": "Arte y cultura",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Madrid POP",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRU9RUGdxM0Jhc05LRVFTa09fU1BERnlYeXRVekxQd1FpVTVwRmxjRXZ0X3EwSm9GSmUwMTJjMmQ3YmxWN0U4MzQ5cGpkcEtHRDg4a0Zjem93YmdpcGFnR281RFR4bGFFMVlndjFLWFRLU3dwaXRzamc3WUxucDl3VmMxbEQ5dDVYMDF4b2JlTQ?oc=5"
         }
       ],
       "region": "Madrid",
@@ -4616,66 +4784,6 @@
       "popHorizon": "ahora"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcGFYTHFhdXdwT0ViclROa0N4Vl9TRXR4UjZ4WGNIZ3E5THllZEtWV2oyRTBQMGlKTU9yNUZMVjZXZkRrZEg1R19FeWtkSXZfeHlTa0xOWjZzSnZCeU84b0VLNjBVTUpJa1VPNEd3TXNVbW5vQmFYR2ZwTHppeE5nX2UycjJDcW4tTWlKUEJ4eUlwWnlCYkpReG9URzMwMDVJU0Z6azBZclF4YjVkU2xERm5kRDNDWW8w?oc=5",
-      "section": "eventos",
-      "category": "Madrid POP",
-      "title": "La Sala: Exposición RED ITINER 2026 C.M. Marisa Flórez. Un tiempo para mirar (1970-2020) - Comunidad de Madrid |",
-      "summary": "La Sala: Exposición RED ITINER 2026 C.M. Marisa Flórez. Un tiempo para mirar (1970-2020) Comunidad de Madrid |",
-      "image": "",
-      "publishedAt": "2026-10-30 12:00 UTC",
-      "language": "es",
-      "topic": "Arte y cultura",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Madrid POP",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcGFYTHFhdXdwT0ViclROa0N4Vl9TRXR4UjZ4WGNIZ3E5THllZEtWV2oyRTBQMGlKTU9yNUZMVjZXZkRrZEg1R19FeWtkSXZfeHlTa0xOWjZzSnZCeU84b0VLNjBVTUpJa1VPNEd3TXNVbW5vQmFYR2ZwTHppeE5nX2UycjJDcW4tTWlKUEJ4eUlwWnlCYkpReG9URzMwMDVJU0Z6azBZclF4YjVkU2xERm5kRDNDWW8w?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "popHorizon": "ahora"
-    },
-    {
-      "id": "eventos|https://news.google.com/rss/articles/CBMicEFVX3lxTE5PNV9hZTd4LVdXTGtncnRUSTJhbHlKUXlvdlRuV1laR3dDMm83XzY4czVRZHFsNGE0X2gyaVFQQ0RJRkp6NERPdEZ0N1BhWEZ0M282cWtDSXR3dmJ5SWZiRlItZ09nV0I5dmZVdUo0c20?oc=5",
-      "section": "eventos",
-      "category": "Madrid POP",
-      "title": "Agenda del Comercio y la Artesanía - Comunidad de Madrid |",
-      "summary": "Agenda del Comercio y la Artesanía Comunidad de Madrid |",
-      "image": "",
-      "publishedAt": "2026-10-30 11:30 UTC",
-      "language": "es",
-      "topic": "Arte y cultura",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Madrid POP",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PNV9hZTd4LVdXTGtncnRUSTJhbHlKUXlvdlRuV1laR3dDMm83XzY4czVRZHFsNGE0X2gyaVFQQ0RJRkp6NERPdEZ0N1BhWEZ0M282cWtDSXR3dmJ5SWZiRlItZ09nV0I5dmZVdUo0c20?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "popHorizon": "ahora"
-    },
-    {
-      "id": "eventos|https://news.google.com/rss/articles/CBMic0FVX3lxTE1ieGJ3cWJHUDYxWkNBTmItdXBqeVVIWjJxZ0ludlVUN0F3bTZDdm4tNElwdHUwRk5zTWNXNUJ6bGIwWThsTlBCNUJ6dV9WUVdVNHVxcnhMajFRQ0x2MThKY0pzV294MFRkbDFGenNreWpkZTg?oc=5",
-      "section": "eventos",
-      "category": "Madrid POP",
-      "title": "Festival Suma Flamenca Joven - Comunidad de Madrid |",
-      "summary": "Festival Suma Flamenca Joven Comunidad de Madrid |",
-      "image": "",
-      "publishedAt": "2026-10-26 14:23 UTC",
-      "language": "es",
-      "topic": "Arte y cultura",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Madrid POP",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ieGJ3cWJHUDYxWkNBTmItdXBqeVVIWjJxZ0ludlVUN0F3bTZDdm4tNElwdHUwRk5zTWNXNUJ6bGIwWThsTlBCNUJ6dV9WUVdVNHVxcnhMajFRQ0x2MThKY0pzV294MFRkbDFGenNreWpkZTg?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "popHorizon": "ahora"
-    },
-    {
       "id": "eventos|https://news.google.com/rss/articles/CBMihwFBVV95cUxOWnlSM1Q3OWQ0TmVDdnlBSms3QXRCVmpSNHh3TkM3cUpiQ09TVlRPTzlrRUJIbU5QMFJQeWVKNUVZVWUweExfOGF2YV9fRGY2a0hkakZYM0l1T1RBTllsbm1WUTdIMWpZX3VLREQwSzUzcGFGU1NrM2lkNXNOLV9SZE1PN2wtVHM?oc=5",
       "section": "eventos",
       "category": "Madrid POP",
@@ -4690,6 +4798,26 @@
         {
           "name": "Madrid POP",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWnlSM1Q3OWQ0TmVDdnlBSms3QXRCVmpSNHh3TkM3cUpiQ09TVlRPTzlrRUJIbU5QMFJQeWVKNUVZVWUweExfOGF2YV9fRGY2a0hkakZYM0l1T1RBTllsbm1WUTdIMWpZX3VLREQwSzUzcGFGU1NrM2lkNXNOLV9SZE1PN2wtVHM?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "popHorizon": "ahora"
+    },
+    {
+      "id": "eventos|https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNHZzbW04dWItUk40bGJlcWJEN01kNkZZZmJMNkE2enhkZko4TlJPNXN1Wnlib2x2UG1WQlZOTmcwZGtfTGUtU1VVUEE5QlBGcmJWYzREYjlrS2pKRm1pS2llV245VzdaaTZ0cnRlcE9EaC1wXy13TjBEUnpVcVFCQkloUUpLRk5ZN1VhQlRUSDJnODFIT1M1T1lrNlBJYXE0aUQ1UEJnUGZQREJTckdaRmpvUldfcVpjQTg5eXhhWlFRTUYxX1VkcDFlQ3ExR0dhYmRnZ1laS3pha2M?oc=5",
+      "section": "eventos",
+      "category": "Madrid POP",
+      "title": "Madrid Urban Fest vuelve a las raíces del hip hop con conciertos de El Chojin, Ambkor y Ms Nina - Time Out Worldwide",
+      "summary": "Madrid Urban Fest vuelve a las raíces del hip hop con conciertos de El Chojin, Ambkor y Ms Nina Time Out Worldwide",
+      "image": "",
+      "publishedAt": "2026-10-12 07:00 UTC",
+      "language": "es",
+      "topic": "Planes futuros",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Madrid POP",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNHZzbW04dWItUk40bGJlcWJEN01kNkZZZmJMNkE2enhkZko4TlJPNXN1Wnlib2x2UG1WQlZOTmcwZGtfTGUtU1VVUEE5QlBGcmJWYzREYjlrS2pKRm1pS2llV245VzdaaTZ0cnRlcE9EaC1wXy13TjBEUnpVcVFCQkloUUpLRk5ZN1VhQlRUSDJnODFIT1M1T1lrNlBJYXE0aUQ1UEJnUGZQREJTckdaRmpvUldfcVpjQTg5eXhhWlFRTUYxX1VkcDFlQ3ExR0dhYmRnZ1laS3pha2M?oc=5"
         }
       ],
       "region": "Madrid",
@@ -4916,6 +5044,46 @@
       "popHorizon": "futuro"
     },
     {
+      "id": "eventos|https://news.google.com/rss/articles/CBMigAFBVV95cUxPV3c2RkZXRFB4VHdEMWJZU0JoWXN6RjdxSURuYkNHcXAzZ1IxQzIta2V4RmY1dkExTWdvcDR1dWlDb3hjVlVfSEZ4clFzWGxncXlqV0h3aDQ5eU1raG1Gdk1YWkNIVjZ0NkIxMmlhS3VlYkNXNWdSZGwzbXZxRUd5eQ?oc=5",
+      "section": "eventos",
+      "category": "Madrid POP",
+      "title": "Compra entradas para Sala Wagon en Madrid. Página oficial de Ticketmaster - Ticketmaster España",
+      "summary": "Compra entradas para Sala Wagon en Madrid. Página oficial de Ticketmaster Ticketmaster España",
+      "image": "",
+      "publishedAt": "2025-04-07 13:03 UTC",
+      "language": "es",
+      "topic": "Planes futuros",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Madrid POP",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV3c2RkZXRFB4VHdEMWJZU0JoWXN6RjdxSURuYkNHcXAzZ1IxQzIta2V4RmY1dkExTWdvcDR1dWlDb3hjVlVfSEZ4clFzWGxncXlqV0h3aDQ5eU1raG1Gdk1YWkNIVjZ0NkIxMmlhS3VlYkNXNWdSZGwzbXZxRUd5eQ?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "popHorizon": "entradas"
+    },
+    {
+      "id": "eventos|https://news.google.com/rss/articles/CBMihwFBVV95cUxOUVJQc1NxbEoySWpyLXVpT01tVGxiOHdNdDIxT2Z5N1lHaFBJdGxxSjNwNFJVNGdxTTczWmExaGJoWllneWpVT1g0bjVQNWdsbEhpQWNwT2h5Vm10dldmZm14MDFEeEpHYXpMbnhPRm1UZll2Q3FMODd5aHdkTW4zLUhPNnFQNjQ?oc=5",
+      "section": "eventos",
+      "category": "Madrid POP",
+      "title": "Compra entradas para Live Las Ventas en Madrid. Página oficial de Ticketmaster - Ticketmaster España",
+      "summary": "Compra entradas para Live Las Ventas en Madrid. Página oficial de Ticketmaster Ticketmaster España",
+      "image": "",
+      "publishedAt": "2022-10-20 10:26 UTC",
+      "language": "es",
+      "topic": "Planes futuros",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Madrid POP",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUVJQc1NxbEoySWpyLXVpT01tVGxiOHdNdDIxT2Z5N1lHaFBJdGxxSjNwNFJVNGdxTTczWmExaGJoWllneWpVT1g0bjVQNWdsbEhpQWNwT2h5Vm10dldmZm14MDFEeEpHYXpMbnhPRm1UZll2Q3FMODd5aHdkTW4zLUhPNnFQNjQ?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "popHorizon": "entradas"
+    },
+    {
       "id": "eventos|https://news.google.com/rss/articles/CBMibEFVX3lxTFBCZWE1UEJjUW44SDZMT1BuMmgxQ0t0YWNOMzFJWjV1NVpnZkRaejVTV0c5SWttSzZLLUd5WGhyaU5YOFlKNUNxbzNUU1RCTWNsVlZyVk5sQzBXR04zZjZ2V09xdkhITjh2ci1LQg?oc=5",
       "section": "eventos",
       "category": "Madrid POP",
@@ -4976,6 +5144,26 @@
       "popHorizon": "entradas"
     },
     {
+      "id": "eventos|https://news.google.com/rss/articles/CBMib0FVX3lxTE45enBneUFYZWFaa1lOd3N0d05Pby14YmV2Mkd1VjI1VEt0Yk0zQ0ZwMVFqSWFCcUhIVEh1MFk4M1o1Qlg3VVFOdzVsTXl5YzFfcFdDRXhIVHJPYWJzRVZQMkpmWm8tb1M2cXQ4WEp4RQ?oc=5",
+      "section": "eventos",
+      "category": "Madrid POP",
+      "title": "Stray Kids en Madrid: ¡Concierto en julio de 2025! - Ticketmaster España",
+      "summary": "Stray Kids en Madrid: ¡Concierto en julio de 2025! Ticketmaster España",
+      "image": "",
+      "publishedAt": "2024-02-24 23:39 UTC",
+      "language": "es",
+      "topic": "Planes futuros",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Madrid POP",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45enBneUFYZWFaa1lOd3N0d05Pby14YmV2Mkd1VjI1VEt0Yk0zQ0ZwMVFqSWFCcUhIVEh1MFk4M1o1Qlg3VVFOdzVsTXl5YzFfcFdDRXhIVHJPYWJzRVZQMkpmWm8tb1M2cXQ4WEp4RQ?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "popHorizon": "ahora"
+    },
+    {
       "id": "eventos|https://news.google.com/rss/articles/CBMifkFVX3lxTE9MSVo2VHNGcGdqZUtuMnZtT2NVbW53VS13SWVqYUtiRGozX2lPbGFRY0kzQkE0bHBZZ0dGYUdyaG5RSmZJV09VWUM2c3hKRzlQRHNxUUdfaXU2b3NXOXdiN1d3ZlcwNnM4VUY3WHpuMTlsR2hTajhPX1dYNFhyZw?oc=5",
       "section": "eventos",
       "category": "Madrid POP",
@@ -4996,40 +5184,40 @@
       "popHorizon": "entradas"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMibEFVX3lxTFB5MzE0NlhxZHpzN0lkM09OcDMzMC1PZG9LVlo3WDhFTGFPZ1lMTTJRb2lma1R5TzA5ckxJeGZ0UERScGlfa2xpYjR5RC1RQ01GSzVncjFzb3Z0Zm8xQjlSaTY5Z2ZZTGtITUxHMg?oc=5",
+      "id": "eventos|https://news.google.com/rss/articles/CBMitgFBVV95cUxNNDFVS1VoMEhJbkpSTFNMRUxTT01ZZmgzVk1RdHU2VDRfOTMzcFk1MFN3cjdpd2stNWtYelI4c1pWMHBYNmZvV1lrOGR4X0s3MXR4WmVPaWxQUUt1MUlScUc3LWp0MW9NSERjNWZaWTRWcHZ6eFhjTzZkdzk0cGpKWnlkWGJuZ012UEc0djF3TzBQcGt5Y3o5cjFaMVkwcmRFT3otQ1pqRzJoWk1GY3o4NFE5VnlQUQ?oc=5",
       "section": "eventos",
       "category": "Madrid POP",
-      "title": "Compra entradas para Manowar jue, 18 mar 2027, 21:00, Palacio Vistalegre en Madrid | Página oficial de Ticketmaster - Ticketmaster España",
-      "summary": "Compra entradas para Manowar jue, 18 mar 2027, 21:00, Palacio Vistalegre en Madrid | Página oficial de Ticketmaster Ticketmaster España",
+      "title": "El Kanka despedirá su gira «La Calma» en el Movistar Arena de Madrid en 2027 - Ticketmaster España",
+      "summary": "El Kanka despedirá su gira «La Calma» en el Movistar Arena de Madrid en 2027 Ticketmaster España",
       "image": "",
-      "publishedAt": "2025-12-19 08:47 UTC",
+      "publishedAt": "2025-12-02 08:00 UTC",
       "language": "es",
       "topic": "Planes futuros",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Madrid POP",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5MzE0NlhxZHpzN0lkM09OcDMzMC1PZG9LVlo3WDhFTGFPZ1lMTTJRb2lma1R5TzA5ckxJeGZ0UERScGlfa2xpYjR5RC1RQ01GSzVncjFzb3Z0Zm8xQjlSaTY5Z2ZZTGtITUxHMg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNDFVS1VoMEhJbkpSTFNMRUxTT01ZZmgzVk1RdHU2VDRfOTMzcFk1MFN3cjdpd2stNWtYelI4c1pWMHBYNmZvV1lrOGR4X0s3MXR4WmVPaWxQUUt1MUlScUc3LWp0MW9NSERjNWZaWTRWcHZ6eFhjTzZkdzk0cGpKWnlkWGJuZ012UEc0djF3TzBQcGt5Y3o5cjFaMVkwcmRFT3otQ1pqRzJoWk1GY3o4NFE5VnlQUQ?oc=5"
         }
       ],
       "region": "Madrid",
-      "popHorizon": "entradas"
+      "popHorizon": "futuro"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMickFVX3lxTE5odnlMRkhzSjV2QUJrQ09FaG1qNEVVSnF3VWhlS2tTa05UeGowc3owYjFxSjdGZUhCM3JxaTNGMEJRZTN3NlE3UFJsOHhyRkliQUJpbUM2d1hrSU1vdUR5NlB6RndzNUJ4b0ZmOVdheERHdw?oc=5",
+      "id": "eventos|https://news.google.com/rss/articles/CBMihAFBVV95cUxPU0VQc0duN3J1em1ULWx0dFVqQ0FBY3dJVUVhMUxEVndxZ1dsWlBSeW1UV0RpaTlLUHN1c2hCTkE0MWJ5UFQ0cTZXN3FkWHNwRk13bEMwcU5RUlVsaGQxVzhONjE1WDFjeE9YRGRlV0lfNjV5dGlMcGJhOGxfS2l0WGQ0VUU?oc=5",
       "section": "eventos",
       "category": "Madrid POP",
-      "title": "Compra entradas para Deacon Blue sáb, 25 sept 2027, 20:00, Sala Wagon en Madrid | Página oficial de Ticketmaster - Ticketmaster España",
-      "summary": "Compra entradas para Deacon Blue sáb, 25 sept 2027, 20:00, Sala Wagon en Madrid | Página oficial de Ticketmaster Ticketmaster España",
+      "title": "Compra entradas para Movistar Arena en Madrid. Página oficial de Ticketmaster - Ticketmaster España",
+      "summary": "Compra entradas para Movistar Arena en Madrid. Página oficial de Ticketmaster Ticketmaster España",
       "image": "",
-      "publishedAt": "2026-09-22 08:12 UTC",
+      "publishedAt": "2024-12-24 08:36 UTC",
       "language": "es",
       "topic": "Planes futuros",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Madrid POP",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5odnlMRkhzSjV2QUJrQ09FaG1qNEVVSnF3VWhlS2tTa05UeGowc3owYjFxSjdGZUhCM3JxaTNGMEJRZTN3NlE3UFJsOHhyRkliQUJpbUM2d1hrSU1vdUR5NlB6RndzNUJ4b0ZmOVdheERHdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU0VQc0duN3J1em1ULWx0dFVqQ0FBY3dJVUVhMUxEVndxZ1dsWlBSeW1UV0RpaTlLUHN1c2hCTkE0MWJ5UFQ0cTZXN3FkWHNwRk13bEMwcU5RUlVsaGQxVzhONjE1WDFjeE9YRGRlV0lfNjV5dGlMcGJhOGxfS2l0WGQ0VUU?oc=5"
         }
       ],
       "region": "Madrid",
@@ -5236,6 +5424,26 @@
       "popHorizon": "ahora"
     },
     {
+      "id": "eventos|https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVlNUbFgxSjNGdW9wMkVRMy1iNEt0QU9tUjlyelFMUlE4ZjFsTjZyMTlkTVU3Z3J4bGhieEprM0duRTZvd1Y3Ulo2TDRXdUQ3eVVvUWJGNUNrR2pZamJJSVc1clpJTkQtd2NLTTBnVVktZ01QdTg0Q09mX2ZMaUpEV1A5RHdNLV80cTA4ZmZVTXB3MTNtS3BrNlJrYXVuWlJHR3RwN0xTckhEWDRJN0pibm5idFBsRWJUaUxuenU5bnczc0I0M2ZyMHE4ZERSSWhjTHNmUXRPMzRBY0ViLVhZ?oc=5",
+      "section": "eventos",
+      "category": "Madrid Secreto",
+      "title": "Teatro gratis en Lavapiés este sábado: una compañía con más de tres millones de espectadores vuelve al barrio donde nació - Madrid Secreto",
+      "summary": "Teatro gratis en Lavapiés este sábado: una compañía con más de tres millones de espectadores vuelve al barrio donde nació Madrid Secreto",
+      "image": "",
+      "publishedAt": "2026-10-23 10:08 UTC",
+      "language": "es",
+      "topic": "Planes y ocio",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Madrid Secreto",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVlNUbFgxSjNGdW9wMkVRMy1iNEt0QU9tUjlyelFMUlE4ZjFsTjZyMTlkTVU3Z3J4bGhieEprM0duRTZvd1Y3Ulo2TDRXdUQ3eVVvUWJGNUNrR2pZamJJSVc1clpJTkQtd2NLTTBnVVktZ01QdTg0Q09mX2ZMaUpEV1A5RHdNLV80cTA4ZmZVTXB3MTNtS3BrNlJrYXVuWlJHR3RwN0xTckhEWDRJN0pibm5idFBsRWJUaUxuenU5bnczc0I0M2ZyMHE4ZERSSWhjTHNmUXRPMzRBY0ViLVhZ?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "popHorizon": "ahora"
+    },
+    {
       "id": "eventos|https://news.google.com/rss/articles/CBMiigFBVV95cUxOcFBUYlJMTlJsSlNoRm9qRDYxSElxRzdIV0kzSHUzMFFleHp1a2FMMlV5Vy1QSzVTZGpQcENTSW9SRU16eWtTU2RwaEJqempoT3JJTklxYVlucjBGUkFIUUJ4dDVrNHZTQ0hhNHR0aUx1ZzhDZTVNUDI3MW1rMjFCdTd4RFFWbkswYnc?oc=5",
       "section": "eventos",
       "category": "Madrid Secreto",
@@ -5256,160 +5464,100 @@
       "popHorizon": "ahora"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSDVpZWxsZmJ0dHJzQ3gtcVlfRkkyM2M1NVdhQkxTUWc1SU1JNGI2R0dhUzhmWFJTOXNrSXFHNGQwOUJ2RkRCZWEwVEF0em5SRVJJc3FhV2NSTFFQeFplaFd4blR5YmJiSTZyMkYtMTVIdk9JTnRRdWtIYjRUNGUtX1ZiWkl1OVhrenlZRWYtZGNzLUZELVVKbHVEbTVBd2wxZzJhVHdNUE5VWE4tQVVhbVhXY1gyN21VOVUtT0RhaGdndVYySldHVDZNdDdkd0tQUDVV?oc=5",
+      "id": "eventos|https://news.google.com/rss/articles/CBMigAFBVV95cUxOTTRGM2RmSllQQ3JQQ2UzSEQ2SDFPZmdRWUVRYWZiWHFyTS01dGdzRks5SnZoNno1X2cyelBsRXFqOExUU3prN3hSLXF0MXRWT0ItOV9KT01ZN3Z1MzY1VWV5akJoUC1hcFhDRzNsb1IzekdRQ1AxTkE0bnBhTHpUcQ?oc=5",
       "section": "eventos",
       "category": "Madrid Secreto",
-      "title": "El Museo Sorolla reabre hoy GRATIS en Madrid, pero solo a medias: la casa del pintor seguirá cerrada durante años - Madrid Secreto",
-      "summary": "El Museo Sorolla reabre hoy GRATIS en Madrid, pero solo a medias: la casa del pintor seguirá cerrada durante años Madrid Secreto",
+      "title": "El espectáculo de globos gigantes que reunió a 20.000 personas vuelve a Madrid este fin de semana: tres despegues y una noche de luces y música - Madrid Secreto",
+      "summary": "El espectáculo de globos gigantes que reunió a 20.000 personas vuelve a Madrid este fin de semana: tres despegues y una noche de luces y música Madrid Secreto",
       "image": "",
-      "publishedAt": "2026-10-15 07:00 UTC",
+      "publishedAt": "2026-10-20 07:00 UTC",
       "language": "es",
       "topic": "Planes y ocio",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Madrid Secreto",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSDVpZWxsZmJ0dHJzQ3gtcVlfRkkyM2M1NVdhQkxTUWc1SU1JNGI2R0dhUzhmWFJTOXNrSXFHNGQwOUJ2RkRCZWEwVEF0em5SRVJJc3FhV2NSTFFQeFplaFd4blR5YmJiSTZyMkYtMTVIdk9JTnRRdWtIYjRUNGUtX1ZiWkl1OVhrenlZRWYtZGNzLUZELVVKbHVEbTVBd2wxZzJhVHdNUE5VWE4tQVVhbVhXY1gyN21VOVUtT0RhaGdndVYySldHVDZNdDdkd0tQUDVV?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTTRGM2RmSllQQ3JQQ2UzSEQ2SDFPZmdRWUVRYWZiWHFyTS01dGdzRks5SnZoNno1X2cyelBsRXFqOExUU3prN3hSLXF0MXRWT0ItOV9KT01ZN3Z1MzY1VWV5akJoUC1hcFhDRzNsb1IzekdRQ1AxTkE0bnBhTHpUcQ?oc=5"
         }
       ],
       "region": "Madrid",
       "popHorizon": "ahora"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMimwFBVV95cUxNZzFtNF85VExrcS1qM2RwbVBxR2NsS09VRko0VUljY1RPT2VoRFNXLU13UWxBX1ZmVEZEcDZXVTgtMEd4RTByNW01X2tjNnJIVnpmQkZaUi1jWXYyLXFWNEt1Q2ZVWVRFNDZyV2NwX09KUnVaSzFZVGpuQS1rZkdsWU1iV1RpOTdqWlc4WVkzNGlrMjUySW1LSENDVQ?oc=5",
-      "section": "eventos",
-      "category": "Madrid Secreto",
-      "title": "Uno de los álbumes más conocidos de Extremoduro tendrá un concierto tributo en el Hotel Four Seasons de Madrid este domingo - Madrid Secreto",
-      "summary": "Uno de los álbumes más conocidos de Extremoduro tendrá un concierto tributo en el Hotel Four Seasons de Madrid este domingo Madrid Secreto",
-      "image": "",
-      "publishedAt": "2026-10-15 07:00 UTC",
-      "language": "es",
-      "topic": "Planes y ocio",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Madrid Secreto",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZzFtNF85VExrcS1qM2RwbVBxR2NsS09VRko0VUljY1RPT2VoRFNXLU13UWxBX1ZmVEZEcDZXVTgtMEd4RTByNW01X2tjNnJIVnpmQkZaUi1jWXYyLXFWNEt1Q2ZVWVRFNDZyV2NwX09KUnVaSzFZVGpuQS1rZkdsWU1iV1RpOTdqWlc4WVkzNGlrMjUySW1LSENDVQ?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "popHorizon": "ahora"
-    },
-    {
-      "id": "eventos|https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSVVMQWZNSlBWRGt4SHhrUW51MjEtQ3NvUjR1NlhSbUJzX2kwc01xMkJ3ZFU2UElQMmxmRk80NFN2Q2RfUFVuLTI0MFQ4bk9yVE9nSVkyeDA4MzQ4QmNaaVZ5NG1EdE9BaHZaUFFaNmhhcWpFQTFzRU9tb2d4eHNWOFY0cE1KLXot?oc=5",
-      "section": "eventos",
-      "category": "Madrid Secreto",
-      "title": "En 1986, el Planetario de Madrid abrió sus puertas para acercar el universo a la capital; 40 años después, celebra su histórico aniversario con una gran exposición gratuita - Madrid Secreto",
-      "summary": "En 1986, el Planetario de Madrid abrió sus puertas para acercar el universo a la capital; 40 años después, celebra su histórico aniversario con una gran exposición gratuita Madrid Secreto",
-      "image": "",
-      "publishedAt": "2026-10-25 12:00 UTC",
-      "language": "es",
-      "topic": "Planes y ocio",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Madrid Secreto",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSVVMQWZNSlBWRGt4SHhrUW51MjEtQ3NvUjR1NlhSbUJzX2kwc01xMkJ3ZFU2UElQMmxmRk80NFN2Q2RfUFVuLTI0MFQ4bk9yVE9nSVkyeDA4MzQ4QmNaaVZ5NG1EdE9BaHZaUFFaNmhhcWpFQTFzRU9tb2d4eHNWOFY0cE1KLXot?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "popHorizon": "ahora"
-    },
-    {
-      "id": "eventos|https://news.google.com/rss/articles/CBMiygFBVV95cUxQaGtOQ3RkWmpVWTVZSFZNbHRCbkNveVBLWXlZRWkyRFYySEthX3lRWGF2dmN2Z3BmaWVhZXQ4MUU3UnJId2FJOFp5SmxweGNHZUlZZlEtS2NDR2hsVkRlMmRscDNXWHhVU0ZCVUd2ckV3ck1yMlUxWlJzMkJPdmt0X25RNXFkSGJKNVB6NGZLaDhxSENTZTdnc1YtSjR3NVo2d0JwVU9QcDJaTjNNSVZVdnhJYk1LaDZidHFPUFZxN1NVSjFWUW9QMk9n?oc=5",
+      "id": "eventos|https://news.google.com/rss/articles/CBMiugFBVV95cUxONmdHWVZpaFh1NUttMVhKcUVhRnhKN0Q0cmlXeEgwd3ZsMDY0OF9ybGtENFJhV2JzV25oTWhyWWo5eEhORnZjWFZHLXZUV1dxMXJpOWl6bXJBQzNZSFZVV0hPOFhFTzZJdDNvZGYzUG9BbmFkZXhoWkVxelZTOUsxWU5IWHRheUJvZ29CeXBGcGV6c3ZBQ3lUdVhRSTdpM3h0QzFTZ19tamNPRUhTSkgzdHRPQWRJTVdTTUE?oc=5",
       "section": "eventos",
       "category": "Madrid Destino",
-      "title": "Led Silhouette inaugura con 'ULTIMATUM' una nueva edición del ciclo ‘Nuevos Creadores’ en Centro Danza Matadero - Madrid Destino",
-      "summary": "Led Silhouette inaugura con 'ULTIMATUM' una nueva edición del ciclo ‘Nuevos Creadores’ en Centro Danza Matadero Madrid Destino",
+      "title": "La temporada 2027 de Centro Danza Matadero contará con 35 compañías nacionales e internacionales y más de 70 representaciones - Madrid Destino",
+      "summary": "La temporada 2027 de Centro Danza Matadero contará con 35 compañías nacionales e internacionales y más de 70 representaciones Madrid Destino",
       "image": "",
-      "publishedAt": "2026-10-26 12:49 UTC",
+      "publishedAt": "2026-10-29 12:58 UTC",
       "language": "es",
       "topic": "Arte y cultura",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Madrid Destino",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaGtOQ3RkWmpVWTVZSFZNbHRCbkNveVBLWXlZRWkyRFYySEthX3lRWGF2dmN2Z3BmaWVhZXQ4MUU3UnJId2FJOFp5SmxweGNHZUlZZlEtS2NDR2hsVkRlMmRscDNXWHhVU0ZCVUd2ckV3ck1yMlUxWlJzMkJPdmt0X25RNXFkSGJKNVB6NGZLaDhxSENTZTdnc1YtSjR3NVo2d0JwVU9QcDJaTjNNSVZVdnhJYk1LaDZidHFPUFZxN1NVSjFWUW9QMk9n?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONmdHWVZpaFh1NUttMVhKcUVhRnhKN0Q0cmlXeEgwd3ZsMDY0OF9ybGtENFJhV2JzV25oTWhyWWo5eEhORnZjWFZHLXZUV1dxMXJpOWl6bXJBQzNZSFZVV0hPOFhFTzZJdDNvZGYzUG9BbmFkZXhoWkVxelZTOUsxWU5IWHRheUJvZ29CeXBGcGV6c3ZBQ3lUdVhRSTdpM3h0QzFTZ19tamNPRUhTSkgzdHRPQWRJTVdTTUE?oc=5"
         }
       ],
       "region": "Madrid",
-      "popHorizon": "ahora"
+      "popHorizon": "futuro"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2N3WUZtWkJSSHR6QXhmVEFFYjRXbE15aXNhNG9UNzNBUjJPWXIwajN3UEdTTWFMQkI4UlBIZVI1WTQ0NlBXVmZ6YVJUS0tTOGRhSkdlV0JqQ0tXNHpscVR6alp0cmhlWHhRLWZsNFprVFlrcW9GNm9QSlJfNnRoTElLb0xmbXJXNHY2a1hsaHZOcGM3M2J1VkQ0cmRxcXktVVItMnI1ZFpGVVVVaUhz?oc=5",
+      "id": "eventos|https://news.google.com/rss/articles/CBMixgFBVV95cUxPUlZiTUxMQ0JXQ1hqYXBzZlZiR3JTUUNPcGZGSUhXaWhJWHNIZXcyaWlGaVpQUW1XUmRheVVXOTRJRmc5LUhXTjhZakVsMUtRTjRzcTI2VmMxMDdZbzE5X2IwczdOemU3SkhUS0RZMXh3ZnhqRUYtQWJidi1lZDI2anBxVHdEYlZzRWlhampDcE1TZnpaS3dINEQ3VEZxZGZjZXcyT2drUk9QVml0aTNjT2pCNWo0cjN2c3BBQXcydzhhZ3JhdEE?oc=5",
       "section": "eventos",
       "category": "Madrid Destino",
-      "title": "19ª edición «MI PRIMER FESTIVAL DE CINE» | PROYECCIONES-CONCIERTO - Madrid Destino",
-      "summary": "19ª edición «MI PRIMER FESTIVAL DE CINE» | PROYECCIONES-CONCIERTO Madrid Destino",
+      "title": "21 DISTRITOS trae en noviembre música en directo, danza, participación y creación artística - Madrid Destino",
+      "summary": "21 DISTRITOS trae en noviembre música en directo, danza, participación y creación artística Madrid Destino",
       "image": "",
-      "publishedAt": "2026-10-14 11:06 UTC",
+      "publishedAt": "2026-10-27 12:28 UTC",
       "language": "es",
       "topic": "Arte y cultura",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Madrid Destino",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2N3WUZtWkJSSHR6QXhmVEFFYjRXbE15aXNhNG9UNzNBUjJPWXIwajN3UEdTTWFMQkI4UlBIZVI1WTQ0NlBXVmZ6YVJUS0tTOGRhSkdlV0JqQ0tXNHpscVR6alp0cmhlWHhRLWZsNFprVFlrcW9GNm9QSlJfNnRoTElLb0xmbXJXNHY2a1hsaHZOcGM3M2J1VkQ0cmRxcXktVVItMnI1ZFpGVVVVaUhz?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUlZiTUxMQ0JXQ1hqYXBzZlZiR3JTUUNPcGZGSUhXaWhJWHNIZXcyaWlGaVpQUW1XUmRheVVXOTRJRmc5LUhXTjhZakVsMUtRTjRzcTI2VmMxMDdZbzE5X2IwczdOemU3SkhUS0RZMXh3ZnhqRUYtQWJidi1lZDI2anBxVHdEYlZzRWlhampDcE1TZnpaS3dINEQ3VEZxZGZjZXcyT2drUk9QVml0aTNjT2pCNWo0cjN2c3BBQXcydzhhZ3JhdEE?oc=5"
         }
       ],
       "region": "Madrid",
       "popHorizon": "ahora"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMitgFBVV95cUxPTkdJdll3VmhxM2I4Zm1SUGN0OXhlTlEtQkd0TURjeDM5NFA2VzM2dnFNZUpMNTA1WmRKaHo0dU9RSm5SdWxuektCY2djNWxFRG0yRkY5cGwyb3RtaE5TTmNValRhMUNxTkMzYV9iOV9mSjI2eFVlTFVkVF9iVlZLSzdrSFBQaklwVUVQSnBIME5pUWhSTTFHa2dNQkRyY2k2SXFUNkVQQ0doZExia3NjMkVXbGsxUQ?oc=5",
+      "id": "eventos|https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeTB5cjdSWkJadWJGNzNIYnFBUEhBSk1ibVU5My1yNVFCZnMyRDNlRDEwcGZMaGZmRWdNNkNFQkcyNEtpX3pHdklPaVBZU2dpVEZ5eC1XcVRQUkUtWU5yWXJxLUl4UkhtRlRRaTZ4QTV5SE5hS1hsWHdiZDZQRk5NdGNnSGkzanVNem55bnlWMjlOR0FVZUtqdlhXVDRyUVNyWGstV19BVzBCcF9OQ2wzSDZ2N093SUloYk4w?oc=5",
       "section": "eventos",
       "category": "Madrid Destino",
-      "title": "Entrada con visita guiada a la exposición Teatro de grandeza - Madrid Destino",
-      "summary": "Entrada con visita guiada a la exposición Teatro de grandeza Madrid Destino",
+      "title": "L.E.V. 2026. Concierto DE KELLY MORAN + Performance 'THE CLUSTERs', DE NAO - Madrid Destino",
+      "summary": "L.E.V. 2026. Concierto DE KELLY MORAN + Performance 'THE CLUSTERs', DE NAO Madrid Destino",
       "image": "",
-      "publishedAt": "2026-10-25 09:56 UTC",
+      "publishedAt": "2026-09-20 07:00 UTC",
       "language": "es",
       "topic": "Arte y cultura",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Madrid Destino",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTkdJdll3VmhxM2I4Zm1SUGN0OXhlTlEtQkd0TURjeDM5NFA2VzM2dnFNZUpMNTA1WmRKaHo0dU9RSm5SdWxuektCY2djNWxFRG0yRkY5cGwyb3RtaE5TTmNValRhMUNxTkMzYV9iOV9mSjI2eFVlTFVkVF9iVlZLSzdrSFBQaklwVUVQSnBIME5pUWhSTTFHa2dNQkRyY2k2SXFUNkVQQ0doZExia3NjMkVXbGsxUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeTB5cjdSWkJadWJGNzNIYnFBUEhBSk1ibVU5My1yNVFCZnMyRDNlRDEwcGZMaGZmRWdNNkNFQkcyNEtpX3pHdklPaVBZU2dpVEZ5eC1XcVRQUkUtWU5yWXJxLUl4UkhtRlRRaTZ4QTV5SE5hS1hsWHdiZDZQRk5NdGNnSGkzanVNem55bnlWMjlOR0FVZUtqdlhXVDRyUVNyWGstV19BVzBCcF9OQ2wzSDZ2N093SUloYk4w?oc=5"
         }
       ],
       "region": "Madrid",
       "popHorizon": "ahora"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMingFBVV95cUxPZzBaVXJBUU40ZV8xbDc5WklBUXpobTV0SGxhU1BINmI3UDJobV9zbTd3VFBFZE9Ec1FsLVhOMEljeTN2b2JaN2RUVGZPbEVEelFhcEN4NFRrbE1tQmdDOEVYZzJ6TDhUbk5UdXBmVHRZU3NRSlQ1RlF3MUhOSXpIZFFyMFNwdU5VdDlsRUVIemltQkpfeGFhTkFHVEI3dw?oc=5",
+      "id": "eventos|https://news.google.com/rss/articles/CBMisAFBVV95cUxNamhMMGRrR2E0NFlheW82bGlEbl9wMm1jbWsyVDNDd3ZwNkd5M0VacXBaUzhqZ1FaaWFLWVpPeG03YXAwR3NGeGRFZFpidUNvRzhod3ROOExaN2I4bFB6dEc2UnlvM3paTmJ6QmNkWEFJM21heTl3OXl4RWVSZ081SUNQT0loUFBDSi1vd3YtSFh2M3RUZHdobU1uSDl1bndCOWpNS3hJb1RKNXJIZ19sQg?oc=5",
       "section": "eventos",
       "category": "Madrid Destino",
-      "title": "Entrada a la exposición Teatro de grandeza - Madrid Destino",
-      "summary": "Entrada a la exposición Teatro de grandeza Madrid Destino",
+      "title": "FLIC, Festival de literatura infantil - Madrid Destino",
+      "summary": "FLIC, Festival de literatura infantil Madrid Destino",
       "image": "",
-      "publishedAt": "2026-10-23 13:32 UTC",
+      "publishedAt": "2026-09-20 07:00 UTC",
       "language": "es",
       "topic": "Arte y cultura",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Madrid Destino",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZzBaVXJBUU40ZV8xbDc5WklBUXpobTV0SGxhU1BINmI3UDJobV9zbTd3VFBFZE9Ec1FsLVhOMEljeTN2b2JaN2RUVGZPbEVEelFhcEN4NFRrbE1tQmdDOEVYZzJ6TDhUbk5UdXBmVHRZU3NRSlQ1RlF3MUhOSXpIZFFyMFNwdU5VdDlsRUVIemltQkpfeGFhTkFHVEI3dw?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "popHorizon": "ahora"
-    },
-    {
-      "id": "eventos|https://news.google.com/rss/articles/CBMipwFBVV95cUxQSE8xQXd0WmVGRlRLMUlDS2xGeVRUdGVNbk1pbG1HcHdkajhZUDV3MFk0cXIwckVROTMxazhZaUxBakdValZoeWMtZXFPSGl0dkowTTl1ZDhmWTVIRkp1M0t5S2dYUEhLSnIxb2xHQmpHcm5IbDlHc3M4ZlBRdVF0UXFJYm9KQ1ZLSW5Obklxak5CVC1YNXpSMlhsejA0bHJiRWRYUVQtdw?oc=5",
-      "section": "eventos",
-      "category": "Madrid Destino",
-      "title": "Parking espectadores Teatro Circo Price - Madrid Destino",
-      "summary": "Parking espectadores Teatro Circo Price Madrid Destino",
-      "image": "",
-      "publishedAt": "2026-10-26 12:44 UTC",
-      "language": "es",
-      "topic": "Arte y cultura",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Madrid Destino",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSE8xQXd0WmVGRlRLMUlDS2xGeVRUdGVNbk1pbG1HcHdkajhZUDV3MFk0cXIwckVROTMxazhZaUxBakdValZoeWMtZXFPSGl0dkowTTl1ZDhmWTVIRkp1M0t5S2dYUEhLSnIxb2xHQmpHcm5IbDlHc3M4ZlBRdVF0UXFJYm9KQ1ZLSW5Obklxak5CVC1YNXpSMlhsejA0bHJiRWRYUVQtdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNamhMMGRrR2E0NFlheW82bGlEbl9wMm1jbWsyVDNDd3ZwNkd5M0VacXBaUzhqZ1FaaWFLWVpPeG03YXAwR3NGeGRFZFpidUNvRzhod3ROOExaN2I4bFB6dEc2UnlvM3paTmJ6QmNkWEFJM21heTl3OXl4RWVSZ081SUNQT0loUFBDSi1vd3YtSFh2M3RUZHdobU1uSDl1bndCOWpNS3hJb1RKNXJIZ19sQg?oc=5"
         }
       ],
       "region": "Madrid",
@@ -5696,100 +5844,20 @@
       "popHorizon": "ahora"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMingFBVV95cUxNVldDYjR6N0ROaUJGQlprRzdndDVlc0xGSjBXUGVQTC1IVWpGMTNocHNEU1pDYjRiS1lBNXBaemlVUmdtdlZnd3k4VzJLUUxfY0c1UkxxME8xUFdHU2IwRVU5aDljZ0xVNVVKRUJLQVFVQU5vbENOX0ljcXd6aVR6SzN5cjRNdHZaSy1zbjhla1Fac1RtX3JjQ0Z6eHFWdw?oc=5",
+      "id": "eventos|https://news.google.com/rss/articles/CBMifkFVX3lxTE5PTzNGN19mMHZfSm9CNVpJYlc2T0dmM2pOZ1BQZ3ktd2toTEY4TzZpSWhQUEVVeWw0VDFNejQzcTRicHd3UnItQUg1ZmpKUk1HdzZCdlc3cndIQmpMWWx1R0JsOHBFSTF1ZjdmWlFXMHhXckw5U0pfczc5bnNXUQ?oc=5",
       "section": "eventos",
       "category": "esMadrid Agenda",
-      "title": "Exposición conmemorativa: Antonio Lamela, arquitecto 1926-2017 - Turismo Madrid",
-      "summary": "Exposición conmemorativa: Antonio Lamela, arquitecto 1926-2017 Turismo Madrid",
+      "title": "Las Pilardos: Operación Marbella - Turismo Madrid",
+      "summary": "Las Pilardos: Operación Marbella Turismo Madrid",
       "image": "",
-      "publishedAt": "2026-10-13 07:00 UTC",
+      "publishedAt": "2026-10-14 07:00 UTC",
       "language": "es",
       "topic": "Planes futuros",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "esMadrid Agenda",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVldDYjR6N0ROaUJGQlprRzdndDVlc0xGSjBXUGVQTC1IVWpGMTNocHNEU1pDYjRiS1lBNXBaemlVUmdtdlZnd3k4VzJLUUxfY0c1UkxxME8xUFdHU2IwRVU5aDljZ0xVNVVKRUJLQVFVQU5vbENOX0ljcXd6aVR6SzN5cjRNdHZaSy1zbjhla1Fac1RtX3JjQ0Z6eHFWdw?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "popHorizon": "ahora"
-    },
-    {
-      "id": "eventos|https://news.google.com/rss/articles/CBMilwFBVV95cUxQcVlpbzJzWlNkeUJSZVJhcGlULWtUcnBSWURmOTl5UndDTzl6QlpvRU1yb3FZLU9HZ244dU1lc1FLbU9ma2h3SXk3Q09GeHJuMHd0SG03ZkFoWXlTVzBlX0dYeXZrTVRFeEFIQ2VZc1kzVkpIczdqVldyVnpWeXpaeHRfc3pHRFZtc2ZXTnBDRjh0OHVGaFpz?oc=5",
-      "section": "eventos",
-      "category": "esMadrid Agenda",
-      "title": "Banda Sinfónica Municipal de Madrid. Temporada de conciertos Confluencias - Turismo Madrid",
-      "summary": "Banda Sinfónica Municipal de Madrid. Temporada de conciertos Confluencias Turismo Madrid",
-      "image": "",
-      "publishedAt": "2026-10-23 07:00 UTC",
-      "language": "es",
-      "topic": "Planes futuros",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "esMadrid Agenda",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcVlpbzJzWlNkeUJSZVJhcGlULWtUcnBSWURmOTl5UndDTzl6QlpvRU1yb3FZLU9HZ244dU1lc1FLbU9ma2h3SXk3Q09GeHJuMHd0SG03ZkFoWXlTVzBlX0dYeXZrTVRFeEFIQ2VZc1kzVkpIczdqVldyVnpWeXpaeHRfc3pHRFZtc2ZXTnBDRjh0OHVGaFpz?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "popHorizon": "ahora"
-    },
-    {
-      "id": "eventos|https://news.google.com/rss/articles/CBMihwFBVV95cUxOVXVWTmxveVJSOS00Z2dSODRVdktoVnhCOTlOTkc4bE00MHQ2a1RyaVVUYWsyYktoVGI0aGdFYUUySWtiNlRiamNpd0JQWGVyMW9Odng0MVNUdG1Fd3RaWWdDeFh6YWNqalNWUDlzczJBUFZWTEtIUE0ydE5XU3lweFoyTkdVQW8?oc=5",
-      "section": "eventos",
-      "category": "esMadrid Agenda",
-      "title": "Real Teatro de Retiro - Turismo Madrid",
-      "summary": "Real Teatro de Retiro Turismo Madrid",
-      "image": "",
-      "publishedAt": "2026-10-08 07:00 UTC",
-      "language": "es",
-      "topic": "Planes futuros",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "esMadrid Agenda",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVXVWTmxveVJSOS00Z2dSODRVdktoVnhCOTlOTkc4bE00MHQ2a1RyaVVUYWsyYktoVGI0aGdFYUUySWtiNlRiamNpd0JQWGVyMW9Odng0MVNUdG1Fd3RaWWdDeFh6YWNqalNWUDlzczJBUFZWTEtIUE0ydE5XU3lweFoyTkdVQW8?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "popHorizon": "ahora"
-    },
-    {
-      "id": "eventos|https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNzI1SjdjXy1JYVJKeGNyRUE3XzJ5VFAyT2FEUk8tTUdXTFRRbjFGS1VFcldoRDM5M0xON3hqbGlpREp3WktQbER4em1mc09IVTYzYndxdnpzZUNBYWgxV3JkMFZxWXJMMmZWc1F2SWlNT0pJN1V4UTlzUmcycmNOS3M1VXQ0cUFHelRJ?oc=5",
-      "section": "eventos",
-      "category": "esMadrid Agenda",
-      "title": "JAZZMADRID26. Festival Internacional Jazz Madrid - Turismo Madrid",
-      "summary": "JAZZMADRID26. Festival Internacional Jazz Madrid Turismo Madrid",
-      "image": "",
-      "publishedAt": "2026-10-08 07:00 UTC",
-      "language": "es",
-      "topic": "Planes futuros",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "esMadrid Agenda",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNzI1SjdjXy1JYVJKeGNyRUE3XzJ5VFAyT2FEUk8tTUdXTFRRbjFGS1VFcldoRDM5M0xON3hqbGlpREp3WktQbER4em1mc09IVTYzYndxdnpzZUNBYWgxV3JkMFZxWXJMMmZWc1F2SWlNT0pJN1V4UTlzUmcycmNOS3M1VXQ0cUFHelRJ?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "popHorizon": "ahora"
-    },
-    {
-      "id": "eventos|https://news.google.com/rss/articles/CBMilAFBVV95cUxPdkRWa3cwMFNsQjJTVTR0WmlXSklzLV9TWUlOb0pGNGtVc041SDVVTll4dklnTlBiamlrc0RHbWFqRGdxN2UwbGxJcERsMXItMjRmRm9LdXVlU2VzR3JYSktWbEQ0WVVvY0htYWVnUnFEOXFscXdybElZcTlySC1fQTliRWZaVlc5c01JbjhGcl9EU3Ni?oc=5",
-      "section": "eventos",
-      "category": "esMadrid Agenda",
-      "title": "Festival Internacional de Órgano 2026 - Turismo Madrid",
-      "summary": "Festival Internacional de Órgano 2026 Turismo Madrid",
-      "image": "",
-      "publishedAt": "2026-10-05 07:00 UTC",
-      "language": "es",
-      "topic": "Planes futuros",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "esMadrid Agenda",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdkRWa3cwMFNsQjJTVTR0WmlXSklzLV9TWUlOb0pGNGtVc041SDVVTll4dklnTlBiamlrc0RHbWFqRGdxN2UwbGxJcERsMXItMjRmRm9LdXVlU2VzR3JYSktWbEQ0WVVvY0htYWVnUnFEOXFscXdybElZcTlySC1fQTliRWZaVlc5c01JbjhGcl9EU3Ni?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PTzNGN19mMHZfSm9CNVpJYlc2T0dmM2pOZ1BQZ3ktd2toTEY4TzZpSWhQUEVVeWw0VDFNejQzcTRicHd3UnItQUg1ZmpKUk1HdzZCdlc3cndIQmpMWWx1R0JsOHBFSTF1ZjdmWlFXMHhXckw5U0pfczc5bnNXUQ?oc=5"
         }
       ],
       "region": "Madrid",
@@ -5836,24 +5904,84 @@
       "popHorizon": "ahora"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMi-wJBVV95cUxPWEtKSUV5aTdrVlFGYWUwTUxrSmxYNUoxUkh4N0x3YnlySFpFUVhwVlQ1aU01Y3JiNWZNMl9sOURkTTh4b3EyNzhPQU5EWkR4Y2RJdDhuWG5FQjBpc0lQdFZlMGxjcXNiaDYzYjRKX1JjbWp0dlExcGRMZzRKU1lJS0F6ZUF1dHBfY0hId21TWm43b0lGRFdwYkRwczZObHlIVjF5UDMxMGUzdmRrZlFITUJVYXpYLXc5Q21vZEZwU0RScHg4UXFsU09mSzU5Y3RZcWVtOGFtcVUzdURldTVFNUh1Vld2T0FGb3VKcUlvZmo5c3NWZXJWWWVKVjcwN3pqMGRQSGhJSWVMZW9VY05XVU1CVms5ckZyWnAyd2ZCYlZwcXVqUTZ3QTFMMnlwa3FEejdqYkk5SlV2T2lWUVZ2WWV1U3BvTXBTUGdoTXo5MDR2cXpDNXBhNTZtd2QzS0M5aFRkbUNpNDAwMGczNlVPdldneGx4RG9ldzB3?oc=5",
+      "id": "eventos|https://news.google.com/rss/articles/CBMi1AJBVV95cUxPMV9EUUFQVEZnQ0VTbzk1U0FwY1hDOFdTdEgxb1hTTmtiOUwtYzJpUVo4QnZneUFqZzNVQm5TQ2M5bVU4REJrcnhCWkVHWHJ6bzJTUEIzdUNSNXFyd3FRcWxmeW1nQmEzR0xDaHp0QW1MUEhBc3dEUDJXVTRtd21jUENYNWlfQ1NYVkt3R19OQldTYjVhemIyRmxCZTc0czRnZ09lYmk5NlJ1cXVSa3R4ZnlGMEFjdzVfa2V4SUx1Q2ljS1c4T09JVWNQZGkyc0hzZEE4bWtKMy1NVVRjb2NlVXNPcXFLck5BNk43WVVka0RPdm43ai0zZkRxSzhpSDlpelgteVR3aExwWjlOME9Ncmx2TDVnZEFwN1dXNDg1OUpwVEVDVW5kRktQazBWTzJGRFdtZ2NiZG1wZUk0WnJBY183b3g3QnhCald4aWVGcElUUzNr?oc=5",
       "section": "eventos",
       "category": "Agenda Ayuntamiento Madrid",
-      "title": "Sanz presenta la temporada 2027 de Centro Danza Matadero - Ayuntamiento de Madrid",
-      "summary": "Sanz presenta la temporada 2027 de Centro Danza Matadero Ayuntamiento de Madrid",
+      "title": "Concierto: 'No solo musas' - Ayuntamiento de Madrid",
+      "summary": "Concierto: 'No solo musas' Ayuntamiento de Madrid",
       "image": "",
-      "publishedAt": "2026-10-27 23:46 UTC",
+      "publishedAt": "2026-10-30 19:01 UTC",
       "language": "es",
       "topic": "Planes y ocio",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Agenda Ayuntamiento Madrid",
-          "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPWEtKSUV5aTdrVlFGYWUwTUxrSmxYNUoxUkh4N0x3YnlySFpFUVhwVlQ1aU01Y3JiNWZNMl9sOURkTTh4b3EyNzhPQU5EWkR4Y2RJdDhuWG5FQjBpc0lQdFZlMGxjcXNiaDYzYjRKX1JjbWp0dlExcGRMZzRKU1lJS0F6ZUF1dHBfY0hId21TWm43b0lGRFdwYkRwczZObHlIVjF5UDMxMGUzdmRrZlFITUJVYXpYLXc5Q21vZEZwU0RScHg4UXFsU09mSzU5Y3RZcWVtOGFtcVUzdURldTVFNUh1Vld2T0FGb3VKcUlvZmo5c3NWZXJWWWVKVjcwN3pqMGRQSGhJSWVMZW9VY05XVU1CVms5ckZyWnAyd2ZCYlZwcXVqUTZ3QTFMMnlwa3FEejdqYkk5SlV2T2lWUVZ2WWV1U3BvTXBTUGdoTXo5MDR2cXpDNXBhNTZtd2QzS0M5aFRkbUNpNDAwMGczNlVPdldneGx4RG9ldzB3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPMV9EUUFQVEZnQ0VTbzk1U0FwY1hDOFdTdEgxb1hTTmtiOUwtYzJpUVo4QnZneUFqZzNVQm5TQ2M5bVU4REJrcnhCWkVHWHJ6bzJTUEIzdUNSNXFyd3FRcWxmeW1nQmEzR0xDaHp0QW1MUEhBc3dEUDJXVTRtd21jUENYNWlfQ1NYVkt3R19OQldTYjVhemIyRmxCZTc0czRnZ09lYmk5NlJ1cXVSa3R4ZnlGMEFjdzVfa2V4SUx1Q2ljS1c4T09JVWNQZGkyc0hzZEE4bWtKMy1NVVRjb2NlVXNPcXFLck5BNk43WVVka0RPdm43ai0zZkRxSzhpSDlpelgteVR3aExwWjlOME9Ncmx2TDVnZEFwN1dXNDg1OUpwVEVDVW5kRktQazBWTzJGRFdtZ2NiZG1wZUk0WnJBY183b3g3QnhCald4aWVGcElUUzNr?oc=5"
         }
       ],
       "region": "Madrid",
-      "popHorizon": "futuro"
+      "popHorizon": "ahora"
+    },
+    {
+      "id": "eventos|https://news.google.com/rss/articles/CBMi7gJBVV95cUxNdmx2d3JJelNXVXJ0cGVoTU1vbElVdUxRUkxHX2ZQVW1UYWU1enhVTV9lcDdfMUdSV3NaS2std09RUHBKcmlSLTJCemlPUzNpZzJnUmw2aDFQY1Q4akNwdkRoZEtxWkNoMG1qbXltNHk2OE9Sb3pabTF6aW00eWdUYnJXdFAwcERFNks1SlVFOUt1SS15SUQyc2NLSTR0MTk3b2Vma3Y0QkF4c2NPaHVSZ0w4amZkYmxQSVhXU2lzb3hrclFKb2N6aGkwMnJKZ3ZPcUpoSFM5cjR4MUMwTk16aldqY3ZWWXUzZnB0OUdKSVdvZTQ2T3RvV0p3TWxzLWVlSV9QT19SNkg2LThWTUM4Vmw4Y2hyNmlKNFg1RlM4Zy12dG5UUnJ3YTJDdDFoVzY3dGtiWjB0dVRldEdHYzduZXFoaDlFaXBNS0s3VFUwOGZMbUQ1THpZcmxrMG9PTXhNY1RXZEZqX0ExMlZlS1E?oc=5",
+      "section": "eventos",
+      "category": "Agenda Ayuntamiento Madrid",
+      "title": "EXPOSICIÓN. Laura Miranda: \"Eidos\" - Ayuntamiento de Madrid",
+      "summary": "EXPOSICIÓN. Laura Miranda: \"Eidos\" Ayuntamiento de Madrid",
+      "image": "",
+      "publishedAt": "2026-10-30 16:44 UTC",
+      "language": "es",
+      "topic": "Planes y ocio",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Agenda Ayuntamiento Madrid",
+          "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNdmx2d3JJelNXVXJ0cGVoTU1vbElVdUxRUkxHX2ZQVW1UYWU1enhVTV9lcDdfMUdSV3NaS2std09RUHBKcmlSLTJCemlPUzNpZzJnUmw2aDFQY1Q4akNwdkRoZEtxWkNoMG1qbXltNHk2OE9Sb3pabTF6aW00eWdUYnJXdFAwcERFNks1SlVFOUt1SS15SUQyc2NLSTR0MTk3b2Vma3Y0QkF4c2NPaHVSZ0w4amZkYmxQSVhXU2lzb3hrclFKb2N6aGkwMnJKZ3ZPcUpoSFM5cjR4MUMwTk16aldqY3ZWWXUzZnB0OUdKSVdvZTQ2T3RvV0p3TWxzLWVlSV9QT19SNkg2LThWTUM4Vmw4Y2hyNmlKNFg1RlM4Zy12dG5UUnJ3YTJDdDFoVzY3dGtiWjB0dVRldEdHYzduZXFoaDlFaXBNS0s3VFUwOGZMbUQ1THpZcmxrMG9PTXhNY1RXZEZqX0ExMlZlS1E?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "popHorizon": "ahora"
+    },
+    {
+      "id": "eventos|https://news.google.com/rss/articles/CBMi1wJBVV95cUxOZEljSWh3WmMxSEVsUVVKQU1NTUF4SnVQOWtHUVV5anVVZHZSQ1E0dnA3bjFydkhFRnVfcVI3d0tFQUR3MTdHMFZ4TUtQU3ZGUmlEc29EVVNJSkIwRjVpYjN2RmtWMVdvaDdLTVFGelJpWk1udFBjOXV6WE8yOHJneWhBVFIwQjE0MmdISU8tVXVKS3Jyd1F0RWFiZmM2clF4dENfakIzV015Mkp1RnduM1RwZ2twSVRLaHBqbmNuSkFNcVpyaUJUaWZHQzBZQUlNYTZkUWhBSDlSSENEclgxM284TFpGbmhLN19LbE9feEw2eTRXR2xNSmVMRUtvOEw0ZDdYcnhDbUdta09VRGR0SzMtUXhvam5SczBMWC10bE5qUW12eDU0MzNTZ0xEZEcxSURCXzJrR095cGdNTUN6T1d6aTdZNE5pNl9JdjZYbjVpc2F5TEd3?oc=5",
+      "section": "eventos",
+      "category": "Agenda Ayuntamiento Madrid",
+      "title": "Concierto de Santa Cecilia - Ayuntamiento de Madrid",
+      "summary": "Concierto de Santa Cecilia Ayuntamiento de Madrid",
+      "image": "",
+      "publishedAt": "2026-10-30 14:46 UTC",
+      "language": "es",
+      "topic": "Planes y ocio",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Agenda Ayuntamiento Madrid",
+          "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOZEljSWh3WmMxSEVsUVVKQU1NTUF4SnVQOWtHUVV5anVVZHZSQ1E0dnA3bjFydkhFRnVfcVI3d0tFQUR3MTdHMFZ4TUtQU3ZGUmlEc29EVVNJSkIwRjVpYjN2RmtWMVdvaDdLTVFGelJpWk1udFBjOXV6WE8yOHJneWhBVFIwQjE0MmdISU8tVXVKS3Jyd1F0RWFiZmM2clF4dENfakIzV015Mkp1RnduM1RwZ2twSVRLaHBqbmNuSkFNcVpyaUJUaWZHQzBZQUlNYTZkUWhBSDlSSENEclgxM284TFpGbmhLN19LbE9feEw2eTRXR2xNSmVMRUtvOEw0ZDdYcnhDbUdta09VRGR0SzMtUXhvam5SczBMWC10bE5qUW12eDU0MzNTZ0xEZEcxSURCXzJrR095cGdNTUN6T1d6aTdZNE5pNl9JdjZYbjVpc2F5TEd3?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "popHorizon": "ahora"
+    },
+    {
+      "id": "eventos|https://news.google.com/rss/articles/CBMizwJBVV95cUxQOE9ZU2kzNTVyVm4tMDZiWkVTZE5jUElyRHptT0pacl92TnlGdXZwa0NPMnBxc0drUEJnaXhTaWUzZ2NyQTEzTnJKWTUyRUExZENNdkJNdVdLOHdfMGQ2RFhxMGIzUmRnVkxKVnB1ai00UVN3NWJzQ3dicGRFRmtYalVTTFhFZ3RaTzZXNmZYaC1WRWhJVXdLU1FVbXNpdS15TXVCRWwzOUVSTGh0TlVQU3hMTkpVRTJ3cnZKM05JUEpTR2N2RkZfakFHYmpGdVh0QXVlaERuR2UxRndoT3JzZVNPY3FlM3M5MDVNNmk1Vkk0QTJuMkk5ZjBmVVBocTZVS0k0MFRoaFVRNHpKSHZHS0theVdQN2ZTZEZOdUNoOWIyaktHMVpfLVN1dllTY0YtUmlKdHlGLU8zWHYyMDZPWjFsNHhsN3RQb2pId01zaw?oc=5",
+      "section": "eventos",
+      "category": "Agenda Ayuntamiento Madrid",
+      "title": "Teatro: La mujer sola - Ayuntamiento de Madrid",
+      "summary": "Teatro: La mujer sola Ayuntamiento de Madrid",
+      "image": "",
+      "publishedAt": "2026-10-29 07:00 UTC",
+      "language": "es",
+      "topic": "Planes y ocio",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Agenda Ayuntamiento Madrid",
+          "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQOE9ZU2kzNTVyVm4tMDZiWkVTZE5jUElyRHptT0pacl92TnlGdXZwa0NPMnBxc0drUEJnaXhTaWUzZ2NyQTEzTnJKWTUyRUExZENNdkJNdVdLOHdfMGQ2RFhxMGIzUmRnVkxKVnB1ai00UVN3NWJzQ3dicGRFRmtYalVTTFhFZ3RaTzZXNmZYaC1WRWhJVXdLU1FVbXNpdS15TXVCRWwzOUVSTGh0TlVQU3hMTkpVRTJ3cnZKM05JUEpTR2N2RkZfakFHYmpGdVh0QXVlaERuR2UxRndoT3JzZVNPY3FlM3M5MDVNNmk1Vkk0QTJuMkk5ZjBmVVBocTZVS0k0MFRoaFVRNHpKSHZHS0theVdQN2ZTZEZOdUNoOWIyaktHMVpfLVN1dllTY0YtUmlKdHlGLU8zWHYyMDZPWjFsNHhsN3RQb2pId01zaw?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "popHorizon": "ahora"
     },
     {
       "id": "eventos|https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FNU1RUE5tMFdHZGdsWXdfa0lpZnJ1QXExNW9LeDJ6WmJaWFdPQ296SlBoczlraGNiV2pta0lYYnRJeEo5RkRqNWFEY3pLcTNrYmdR?oc=5",
@@ -6056,200 +6184,200 @@
       "popHorizon": "ahora"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMikAFBVV95cUxOaGpURDB4VVpKaXd0QUY0YTd1NFBacU1VRHJvZ1BvX0M0eGpjS0NJU1RKOXl4UURGM2JMVURuMGJsMnpQVDNnbEdDTDdZdUUtQWR2UlgteVBwVHFJdG8ydVNwWXk2OVJjd0I4MDdrX1V0MFZqazJLa3hYcm5abFZ5OVIxLVpndG5QUFptdUg3STg?oc=5",
+      "id": "eventos|https://news.google.com/rss/articles/CBMikgFBVV95cUxQbkh6c1dVQ1BONnJsYUhETFYwN2NwZjN0ZHROWnNQcWpYM1J3ZHRwcUFNRF91MHhXSVdScHpudUlOUUJXS2otWjRCYTA1ekpsTkJsa2NJVGJpM28zNGo3Ry1lblpEX1lRaDZpLUt6WHdseDJxc3Y0VG1IeFRJYVJ6Y3FmZ2JSYkxRRno3WUtidlYyUQ?oc=5",
       "section": "eventos",
       "category": "Teatros del Canal",
       "title": "TEATROS del CANAL 2026/2027 - Teatros del Canal",
       "summary": "TEATROS del CANAL 2026/2027 Teatros del Canal",
       "image": "",
-      "publishedAt": "2026-10-23 06:27 UTC",
+      "publishedAt": "2026-10-27 02:07 UTC",
       "language": "es",
       "topic": "Teatro y musicales",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Teatros del Canal",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaGpURDB4VVpKaXd0QUY0YTd1NFBacU1VRHJvZ1BvX0M0eGpjS0NJU1RKOXl4UURGM2JMVURuMGJsMnpQVDNnbEdDTDdZdUUtQWR2UlgteVBwVHFJdG8ydVNwWXk2OVJjd0I4MDdrX1V0MFZqazJLa3hYcm5abFZ5OVIxLVpndG5QUFptdUg3STg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbkh6c1dVQ1BONnJsYUhETFYwN2NwZjN0ZHROWnNQcWpYM1J3ZHRwcUFNRF91MHhXSVdScHpudUlOUUJXS2otWjRCYTA1ekpsTkJsa2NJVGJpM28zNGo3Ry1lblpEX1lRaDZpLUt6WHdseDJxc3Y0VG1IeFRJYVJ6Y3FmZ2JSYkxRRno3WUtidlYyUQ?oc=5"
         }
       ],
       "region": "Madrid",
       "popHorizon": "futuro"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMibkFVX3lxTFBrRk9SLXZYRE9ZbGJUaEhFYzQ3VmE1bFlzN3F6RWV5Tk9wbWdHRl9ZMEctZllxZGpJS09XZml3TzhVNGdqMTJad1g3cGZabnlXVkpYTTJsYzZkTTF1RHdMYWh2ZzMtV1AwUHNyVmdR?oc=5",
+      "id": "eventos|https://news.google.com/rss/articles/CBMi4wFBVV95cUxPV21NUzBMR0VPNFk4SmE5TlZ4b1RIUloteGhDVHpqbGg4RVVVMGFkRk85WmVoZmFNVjl5bndEV0xmc09UN3l1eTI1aW5PcEJrNENGdHY2aXRhajBMV2U4MzV0RFRGTUxROWg4dXkxQVB5QzdGZlhEOGNoWG9FNFdCLVdGcjVIRmR6T2NPcGpneU8tMkhBWEp0RTdQUlAxM1RsTGt5MFJBcUZtaHQxVnZjTmdSdExER0xBVno0eHpGVzFOZFd2S0M2c3ZGNzZPeFQxOVpKS3NiSWxUSXljUW1Ca004UQ?oc=5",
       "section": "eventos",
       "category": "Teatros del Canal",
-      "title": "Entradas El Cuarteto Ascot participa en el festival COMA26 - Teatros del Canal",
-      "summary": "Entradas El Cuarteto Ascot participa en el festival COMA26 Teatros del Canal",
+      "title": "Ensayo abierto. Pieza ‘Un gesto pequeño llegando de lejos’ de la compañía JESÚS RUBIO GAMO - Teatros del Canal",
+      "summary": "Ensayo abierto. Pieza ‘Un gesto pequeño llegando de lejos’ de la compañía JESÚS RUBIO GAMO Teatros del Canal",
       "image": "",
-      "publishedAt": "2026-10-08 15:10 UTC",
+      "publishedAt": "2026-10-20 13:37 UTC",
       "language": "es",
       "topic": "Teatro y musicales",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Teatros del Canal",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrRk9SLXZYRE9ZbGJUaEhFYzQ3VmE1bFlzN3F6RWV5Tk9wbWdHRl9ZMEctZllxZGpJS09XZml3TzhVNGdqMTJad1g3cGZabnlXVkpYTTJsYzZkTTF1RHdMYWh2ZzMtV1AwUHNyVmdR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPV21NUzBMR0VPNFk4SmE5TlZ4b1RIUloteGhDVHpqbGg4RVVVMGFkRk85WmVoZmFNVjl5bndEV0xmc09UN3l1eTI1aW5PcEJrNENGdHY2aXRhajBMV2U4MzV0RFRGTUxROWg4dXkxQVB5QzdGZlhEOGNoWG9FNFdCLVdGcjVIRmR6T2NPcGpneU8tMkhBWEp0RTdQUlAxM1RsTGt5MFJBcUZtaHQxVnZjTmdSdExER0xBVno0eHpGVzFOZFd2S0M2c3ZGNzZPeFQxOVpKS3NiSWxUSXljUW1Ca004UQ?oc=5"
         }
       ],
       "region": "Madrid",
-      "popHorizon": "entradas"
+      "popHorizon": "ahora"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfLU9kdGhibXpHamdoc1hxbjA2MnRkbWtfS2c4MjFtYnR4dFJna3RHT3JHclJoUHJ2UFdIVlNHQy1oZzdoN1c4U2xFNTJ0d2hmWlZz?oc=5",
+      "id": "eventos|https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWk9WVGFjR0hXY0hJbnYtV052VVN0ejg4aVEyQ2lGdHBVNnVQeExpMF9xWUVfV0JGd2FYR2NiZDQ5amFHYXV6RGdqakdldTE4cmhhdFlyY1RYNHROZ2hXU3RxU1hWZDlqVFZWd3QyUnJsVl83Zm8zOTdWbkZrRU9CN1J5QzVOYVBqWm9IcVpzZVh3NS1YQ203TW0wWVotRUhFUVgxc0ZLRGZHeFA4aFZOMExhRG9LYUFsa1NoUU53cWQ?oc=5",
       "section": "eventos",
       "category": "Teatros del Canal",
-      "title": "Espectáculos en oferta con tu Carné Joven - Teatros del Canal",
-      "summary": "Espectáculos en oferta con tu Carné Joven Teatros del Canal",
+      "title": "Ensayo abierto. Pieza ‘Applicados’ de la compañía ALBERTO SELLÉS - Teatros del Canal",
+      "summary": "Ensayo abierto. Pieza ‘Applicados’ de la compañía ALBERTO SELLÉS Teatros del Canal",
       "image": "",
-      "publishedAt": "2018-11-06 21:38 UTC",
+      "publishedAt": "2026-10-27 07:00 UTC",
       "language": "es",
       "topic": "Teatro y musicales",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Teatros del Canal",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfLU9kdGhibXpHamdoc1hxbjA2MnRkbWtfS2c4MjFtYnR4dFJna3RHT3JHclJoUHJ2UFdIVlNHQy1oZzdoN1c4U2xFNTJ0d2hmWlZz?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWk9WVGFjR0hXY0hJbnYtV052VVN0ejg4aVEyQ2lGdHBVNnVQeExpMF9xWUVfV0JGd2FYR2NiZDQ5amFHYXV6RGdqakdldTE4cmhhdFlyY1RYNHROZ2hXU3RxU1hWZDlqVFZWd3QyUnJsVl83Zm8zOTdWbkZrRU9CN1J5QzVOYVBqWm9IcVpzZVh3NS1YQ203TW0wWVotRUhFUVgxc0ZLRGZHeFA4aFZOMExhRG9LYUFsa1NoUU53cWQ?oc=5"
         }
       ],
       "region": "Madrid",
       "popHorizon": "ahora"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMiggFBVV95cUxNdUVBcjhzbzhOeUl0emRDS3ktUXNVbm8zd0NZTVoyTXdscERLMmdxb0xuWmtncDloLW8xSXd3dW0wM0NXQ295c0hMRnlGREZWbHg5UjViMVFTbFoxTDBHZ2tac1JoZUR2MjF5UGNXT19BTGhNREhzeXVSMThKby01Z1Vn?oc=5",
+      "id": "eventos|https://news.google.com/rss/articles/CBMiugFBVV95cUxPSzl2ZU5Fbm9iTzVER3ZzRXNVbmExNTFyT3IwUmZnTmtYaVM1V24yRVZVR2lOcDYtMWczZXhTMTF3YjBCZmFvdzJLS3h1XzF1QkFrTHk4VmdQQVJ5LU9wVGpHQTRIdGhlOXl4aUdVVmQyRFBRa1loTWFqVF83YW5lelBob24yMWdYQ21JTnRmLXBFNHE5ejd1b3ZCOXl6eG01WlRVLXNWSGFDR2RDUTVtMGdCaVZ0LUdGa3c?oc=5",
       "section": "eventos",
       "category": "Teatros del Canal",
-      "title": "Entradas Albert Boadella escribe e interpreta 'Joven no me cabree' - Teatros del Canal",
-      "summary": "Entradas Albert Boadella escribe e interpreta 'Joven no me cabree' Teatros del Canal",
+      "title": "Taller de Gaga por Batsheva Dance Company - Teatros del Canal",
+      "summary": "Taller de Gaga por Batsheva Dance Company Teatros del Canal",
       "image": "",
-      "publishedAt": "2026-07-03 09:17 UTC",
+      "publishedAt": "2026-10-17 07:00 UTC",
       "language": "es",
       "topic": "Teatro y musicales",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Teatros del Canal",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdUVBcjhzbzhOeUl0emRDS3ktUXNVbm8zd0NZTVoyTXdscERLMmdxb0xuWmtncDloLW8xSXd3dW0wM0NXQ295c0hMRnlGREZWbHg5UjViMVFTbFoxTDBHZ2tac1JoZUR2MjF5UGNXT19BTGhNREhzeXVSMThKby01Z1Vn?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "popHorizon": "entradas"
-    },
-    {
-      "id": "eventos|https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HSGFjS2ZUb1NWdW9jSWZpaUVuV01nUzY5MWZkLTQyMWpMaDV0djVlbHJwM2g3Q0luNVRfS1k4cGN3ZU03VzRQM0JJTGtVVDU5LVNUa041NndkaWZFcXc?oc=5",
-      "section": "eventos",
-      "category": "Teatro Real",
-      "title": "TOMATITO - Teatro Real",
-      "summary": "TOMATITO Teatro Real",
-      "image": "",
-      "publishedAt": "2026-10-19 14:12 UTC",
-      "language": "es",
-      "topic": "Teatro y musicales",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Teatro Real",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HSGFjS2ZUb1NWdW9jSWZpaUVuV01nUzY5MWZkLTQyMWpMaDV0djVlbHJwM2g3Q0luNVRfS1k4cGN3ZU03VzRQM0JJTGtVVDU5LVNUa041NndkaWZFcXc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSzl2ZU5Fbm9iTzVER3ZzRXNVbmExNTFyT3IwUmZnTmtYaVM1V24yRVZVR2lOcDYtMWczZXhTMTF3YjBCZmFvdzJLS3h1XzF1QkFrTHk4VmdQQVJ5LU9wVGpHQTRIdGhlOXl4aUdVVmQyRFBRa1loTWFqVF83YW5lelBob24yMWdYQ21JTnRmLXBFNHE5ejd1b3ZCOXl6eG01WlRVLXNWSGFDR2RDUTVtMGdCaVZ0LUdGa3c?oc=5"
         }
       ],
       "region": "Madrid",
       "popHorizon": "ahora"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmUXNCdTZieUtDVUpPOUlaNld4OU9RdnRSR0Q5MnhIbWwwYm1hQVdZRXNQOExlWFVPYVZ3aUM0dHRNR0t0MTBpZVdfYkZRcmFS?oc=5",
+      "id": "eventos|https://news.google.com/rss/articles/CBMicEFVX3lxTE5wMHVhUkRBNUk2V2NhajVST3k1OGM4Q2pyMVJrNlcybW05ZnY0aGc4UGVLY3F1SzlGVi0wVkZDZTVHVWNTaHQtZ0pqcUJEN292dEllc3dKTzF2N3pYN2xNLWxtbGtHa1FIUkN1NENQdGg?oc=5",
       "section": "eventos",
       "category": "Teatro Real",
-      "title": "ARCÁNGEL INAUGURA LA IX TEMPORADA DE FLAMENCO REAL - Teatro Real",
-      "summary": "ARCÁNGEL INAUGURA LA IX TEMPORADA DE FLAMENCO REAL Teatro Real",
+      "title": "XXXI Concierto de Navidad - Teatro Real",
+      "summary": "XXXI Concierto de Navidad Teatro Real",
       "image": "",
-      "publishedAt": "2026-10-22 14:22 UTC",
+      "publishedAt": "2026-10-08 12:07 UTC",
       "language": "es",
       "topic": "Teatro y musicales",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Teatro Real",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmUXNCdTZieUtDVUpPOUlaNld4OU9RdnRSR0Q5MnhIbWwwYm1hQVdZRXNQOExlWFVPYVZ3aUM0dHRNR0t0MTBpZVdfYkZRcmFS?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wMHVhUkRBNUk2V2NhajVST3k1OGM4Q2pyMVJrNlcybW05ZnY0aGc4UGVLY3F1SzlGVi0wVkZDZTVHVWNTaHQtZ0pqcUJEN292dEllc3dKTzF2N3pYN2xNLWxtbGtHa1FIUkN1NENQdGg?oc=5"
         }
       ],
       "region": "Madrid",
       "popHorizon": "ahora"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMibEFVX3lxTFB2Znd3eEx4ektaZEtWZHpncWVYdWdDa3hFT251RjU0dHBkNUxkWUtxSHdKU0RLMy1ENEVpR1JXM2o1dWRoRDFPZDhUM09uM1pLcWlXYnpZXzB6c1ZpeXdrREJlVV96TmZBZkRvTg?oc=5",
+      "id": "eventos|https://news.google.com/rss/articles/CBMigAFBVV95cUxQazJ2NVcwVDlWVl9lREltTF8tREVLLWF3STlvQTBSVU83aExKYVM3WDJ2THN4c0dCVzV3dXYwVk5oSlpubF9ndVBHMW0teHVJYTJNSWcyVlNhWWU5c3ZzcnNLeE80NEpWUWd3MEF5TmVQQU1lUmlMTUVPcEJ5aUp2Tw?oc=5",
       "section": "eventos",
       "category": "Teatro Real",
-      "title": "International Opera Awards 2026 - Teatro Real",
-      "summary": "International Opera Awards 2026 Teatro Real",
+      "title": "Gala de Entrega de los Premios a la Eficacia 2026 - Teatro Real",
+      "summary": "Gala de Entrega de los Premios a la Eficacia 2026 Teatro Real",
       "image": "",
-      "publishedAt": "2026-10-13 18:39 UTC",
+      "publishedAt": "2026-10-07 10:46 UTC",
       "language": "es",
       "topic": "Teatro y musicales",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Teatro Real",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2Znd3eEx4ektaZEtWZHpncWVYdWdDa3hFT251RjU0dHBkNUxkWUtxSHdKU0RLMy1ENEVpR1JXM2o1dWRoRDFPZDhUM09uM1pLcWlXYnpZXzB6c1ZpeXdrREJlVV96TmZBZkRvTg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQazJ2NVcwVDlWVl9lREltTF8tREVLLWF3STlvQTBSVU83aExKYVM3WDJ2THN4c0dCVzV3dXYwVk5oSlpubF9ndVBHMW0teHVJYTJNSWcyVlNhWWU5c3ZzcnNLeE80NEpWUWd3MEF5TmVQQU1lUmlMTUVPcEJ5aUp2Tw?oc=5"
         }
       ],
       "region": "Madrid",
       "popHorizon": "ahora"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMimgFBVV95cUxQcVAtc1E1QnlhbGRPTDJ0S2Y3YnFVbUtZUnk3algxREZnV2xNNjZMVElEenhCbE0xc3o3cEpfMF9LTGdlWWVyRnkyWVh2WFMzdS1hZEFUM0s5X3hldUhuVFlqdm5tQTdaNVR5YW5LdmtmbnZDYWRUVmZQbzI5dHFvMXdWY2lKWF84UEEzcTVNMzZuS012bVdzZ1Vn?oc=5",
+      "id": "eventos|https://news.google.com/rss/articles/CBMihgFBVV95cUxPLUZyVVlDckppc3FvVzRTR1VaYkhsRS1aZFVxY1Jjd0h5ajNfai0tVFJXaUFENU53VFlJUXZWWlZsT3BTcEgzSDNuaVVMbm9mME5CVUcyVkZsNE1OVTllV0lDWFhlR2JrcXdteHZxVEJyUWNqLTRYSkVOZ2VROW04ZGoyTGJOUQ?oc=5",
       "section": "eventos",
       "category": "Teatro Real",
-      "title": "DESCUBRIR LA MÚSICA DE NUESTROS ABUELOS EN LA CARROZA DEL TEATRO REAL - Teatro Real",
-      "summary": "DESCUBRIR LA MÚSICA DE NUESTROS ABUELOS EN LA CARROZA DEL TEATRO REAL Teatro Real",
+      "title": "El castillo de Barbazul / El mandarín maravilloso - Teatro Real",
+      "summary": "El castillo de Barbazul / El mandarín maravilloso Teatro Real",
       "image": "",
-      "publishedAt": "2026-10-20 08:11 UTC",
+      "publishedAt": "2025-10-07 11:40 UTC",
       "language": "es",
       "topic": "Teatro y musicales",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Teatro Real",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcVAtc1E1QnlhbGRPTDJ0S2Y3YnFVbUtZUnk3algxREZnV2xNNjZMVElEenhCbE0xc3o3cEpfMF9LTGdlWWVyRnkyWVh2WFMzdS1hZEFUM0s5X3hldUhuVFlqdm5tQTdaNVR5YW5LdmtmbnZDYWRUVmZQbzI5dHFvMXdWY2lKWF84UEEzcTVNMzZuS012bVdzZ1Vn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLUZyVVlDckppc3FvVzRTR1VaYkhsRS1aZFVxY1Jjd0h5ajNfai0tVFJXaUFENU53VFlJUXZWWlZsT3BTcEgzSDNuaVVMbm9mME5CVUcyVkZsNE1OVTllV0lDWFhlR2JrcXdteHZxVEJyUWNqLTRYSkVOZ2VROW04ZGoyTGJOUQ?oc=5"
         }
       ],
       "region": "Madrid",
       "popHorizon": "ahora"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUDREMmVZZHJaT0VvakpOS3VQaW9fOW8yU3pNM19GYVRTYTV0M1F0aGt6UjY5MkFRbkdnQXlZSi05VkFmUVJrazdhcXZlYW15UmJjVDVfa20zQUZJcXNQWVluU3hjNGgyaWdKbkJtQ1hkbncwYzc5UXpGTTdZcXUzVmxaRXJlc2l4Sk1J?oc=5",
+      "id": "eventos|https://news.google.com/rss/articles/CBMia0FVX3lxTE9sNm5Rci03MGowUWN2b2szRDg0emJtVjMxVzRsZDVXNDBYZHpOTHJuWDdsUTdDT0xHYXZ1VUVsVEVNR2ZRQ1YyNnladTFqenptTUVpeEROWVFPNlBhTGJtQ3g3aFhxcG9YTllR?oc=5",
       "section": "eventos",
       "category": "Teatro Real",
-      "title": "Mejor Estreno absoluto - Teatro Real",
-      "summary": "Mejor Estreno absoluto Teatro Real",
+      "title": "Ludovico Einaudi I | Conciertos y Recitales 22-23 - Teatro Real",
+      "summary": "Ludovico Einaudi I | Conciertos y Recitales 22-23 Teatro Real",
       "image": "",
-      "publishedAt": "2026-10-13 20:57 UTC",
+      "publishedAt": "2022-01-27 06:09 UTC",
       "language": "es",
       "topic": "Teatro y musicales",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Teatro Real",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUDREMmVZZHJaT0VvakpOS3VQaW9fOW8yU3pNM19GYVRTYTV0M1F0aGt6UjY5MkFRbkdnQXlZSi05VkFmUVJrazdhcXZlYW15UmJjVDVfa20zQUZJcXNQWVluU3hjNGgyaWdKbkJtQ1hkbncwYzc5UXpGTTdZcXUzVmxaRXJlc2l4Sk1J?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sNm5Rci03MGowUWN2b2szRDg0emJtVjMxVzRsZDVXNDBYZHpOTHJuWDdsUTdDT0xHYXZ1VUVsVEVNR2ZRQ1YyNnladTFqenptTUVpeEROWVFPNlBhTGJtQ3g3aFhxcG9YTllR?oc=5"
         }
       ],
       "region": "Madrid",
       "popHorizon": "ahora"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMihgFBVV95cUxNd0s1X0czcW1yZEZFRG9sMnZxcE5JclV6U0tBckFDQXRpWHFxTnZBcTBQZjBGQnNDLUhVRDFOVFJTRVM4d1NocUVPUkdYTlEzY2plZ3pWajR1VGJEU3FMLVNseEFFUEp2dGNNTW83ZVRHMS1uYVdvZllaS1JRWGRJU19wRVJvUQ?oc=5",
+      "id": "eventos|https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpRFZNV3FHeWlQNFQzWlAtRXdGN1VpOFhTc2xfVmIzcFBtSUhJbjhDT05ScDJ2Wm1ic3hDOEVETVlHeEZOel9aZmhVZ2pMTEtZcFNlYkw1UlNyQ1hyS3pYa1Mtb2tnUms?oc=5",
       "section": "eventos",
       "category": "Teatro Real",
-      "title": "Mejor teatro de ópera - Teatro Real",
-      "summary": "Mejor teatro de ópera Teatro Real",
+      "title": "Gustavo Dudamel - Teatro Real",
+      "summary": "Gustavo Dudamel Teatro Real",
       "image": "",
-      "publishedAt": "2026-10-14 06:29 UTC",
+      "publishedAt": "2019-06-11 11:25 UTC",
       "language": "es",
       "topic": "Teatro y musicales",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Teatro Real",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd0s1X0czcW1yZEZFRG9sMnZxcE5JclV6U0tBckFDQXRpWHFxTnZBcTBQZjBGQnNDLUhVRDFOVFJTRVM4d1NocUVPUkdYTlEzY2plZ3pWajR1VGJEU3FMLVNseEFFUEp2dGNNTW83ZVRHMS1uYVdvZllaS1JRWGRJU19wRVJvUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpRFZNV3FHeWlQNFQzWlAtRXdGN1VpOFhTc2xfVmIzcFBtSUhJbjhDT05ScDJ2Wm1ic3hDOEVETVlHeEZOel9aZmhVZ2pMTEtZcFNlYkw1UlNyQ1hyS3pYa1Mtb2tnUms?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "popHorizon": "ahora"
+    },
+    {
+      "id": "eventos|https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVYW9nS21rOXN4ZXB6cTlqMVpxcnVnOFl5OUNhS0poQ0I1bmR3Ym1NRkRNVlJXcGwxdmtrSkRXUGRGZ3N3aWZZN3g0dFhMQjg1NkFYMWI4T1NoaHJxeTk1UlBjeG9CR1Bw?oc=5",
+      "section": "eventos",
+      "category": "Teatro Real",
+      "title": "Joyce DiDonato - Teatro Real",
+      "summary": "Joyce DiDonato Teatro Real",
+      "image": "",
+      "publishedAt": "2022-05-27 13:10 UTC",
+      "language": "es",
+      "topic": "Teatro y musicales",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Teatro Real",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVYW9nS21rOXN4ZXB6cTlqMVpxcnVnOFl5OUNhS0poQ0I1bmR3Ym1NRkRNVlJXcGwxdmtrSkRXUGRGZ3N3aWZZN3g0dFhMQjg1NkFYMWI4T1NoaHJxeTk1UlBjeG9CR1Bw?oc=5"
         }
       ],
       "region": "Madrid",
@@ -6656,26 +6784,6 @@
       "popHorizon": "entradas"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMidkFVX3lxTE1pdjZIbzREOTJxUkhKWnJvNFlGajM5SzR5My02UjB4aEIyTjNhbDRlOWx0cUdfY1RQaTlQUUpoOE5YWWR5WGNVSWdlOFcwcnM0MHZ4aERtbTlDcHJ6VHZPYnhFR0x3ZTNKb2NfZURRQzUzbzRaSFE?oc=5",
-      "section": "eventos",
-      "category": "Ticketmaster España",
-      "title": "Compra entradas para Saint Etienne sáb, 20 mar 2027, 21:00, Sala Wagon en Madrid | Página oficial de Ticketmaster - Ticketmaster España",
-      "summary": "Compra entradas para Saint Etienne sáb, 20 mar 2027, 21:00, Sala Wagon en Madrid | Página oficial de Ticketmaster Ticketmaster España",
-      "image": "",
-      "publishedAt": "2026-10-27 19:48 UTC",
-      "language": "es",
-      "topic": "Entradas a la venta",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Ticketmaster España",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pdjZIbzREOTJxUkhKWnJvNFlGajM5SzR5My02UjB4aEIyTjNhbDRlOWx0cUdfY1RQaTlQUUpoOE5YWWR5WGNVSWdlOFcwcnM0MHZ4aERtbTlDcHJ6VHZPYnhFR0x3ZTNKb2NfZURRQzUzbzRaSFE?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "popHorizon": "entradas"
-    },
-    {
       "id": "eventos|https://news.google.com/rss/articles/CBMibEFVX3lxTE9IQWJTNG9ZVzJYaVlNR3pyMkRETmlaaV9RTENEeGhxSmpBUUtGb245bjh0ZFNtOWlldE9OcmlyNmNBNzVWbllWTVNnNURPTlo1NTJuNFJtUFFXZFZsenVySUFxS2VXUFVISTIxcA?oc=5",
       "section": "eventos",
       "category": "Ticketmaster España",
@@ -6716,26 +6824,6 @@
       "popHorizon": "entradas"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMihwFBVV95cUxOUVJQc1NxbEoySWpyLXVpT01tVGxiOHdNdDIxT2Z5N1lHaFBJdGxxSjNwNFJVNGdxTTczWmExaGJoWllneWpVT1g0bjVQNWdsbEhpQWNwT2h5Vm10dldmZm14MDFEeEpHYXpMbnhPRm1UZll2Q3FMODd5aHdkTW4zLUhPNnFQNjQ?oc=5",
-      "section": "eventos",
-      "category": "Ticketmaster España",
-      "title": "Compra entradas para Live Las Ventas en Madrid. Página oficial de Ticketmaster - Ticketmaster España",
-      "summary": "Compra entradas para Live Las Ventas en Madrid. Página oficial de Ticketmaster Ticketmaster España",
-      "image": "",
-      "publishedAt": "2022-10-20 10:26 UTC",
-      "language": "es",
-      "topic": "Entradas a la venta",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Ticketmaster España",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUVJQc1NxbEoySWpyLXVpT01tVGxiOHdNdDIxT2Z5N1lHaFBJdGxxSjNwNFJVNGdxTTczWmExaGJoWllneWpVT1g0bjVQNWdsbEhpQWNwT2h5Vm10dldmZm14MDFEeEpHYXpMbnhPRm1UZll2Q3FMODd5aHdkTW4zLUhPNnFQNjQ?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "popHorizon": "entradas"
-    },
-    {
       "id": "eventos|https://news.google.com/rss/articles/CBMimAFBVV95cUxPWjljTDh5SmwwXzZ0NHJ1WTV0SkI1TnB1bE45Z0w0Y1M0UElTSG5abkJ6ZnM5Z1NqN0ZkTlF3UHRSZ1dkTjVXcm8yNHZpTEtWNVJ1QzlTSlVOdWhqbkUzSnV5LVRTWUtzZmlOblJXc295cWRmb2o2OU1TVnh1YUtTUVlWcEhQUXNsYWdmbW5wUmhoZFRRZ3h4bg?oc=5",
       "section": "eventos",
       "category": "Ticketmaster España",
@@ -6756,40 +6844,40 @@
       "popHorizon": "entradas"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMib0FVX3lxTE1MeUdHQnRNeFJBTnplNGNwbXUzOTRxc2NrUkw0c1p3NjIyYjdiX05KcnFZZFVYM1NvYXV2MS1Mc3ZqaUlJS1RIMFBxTDN0N3poWVN0eG91ai1rNlFfaFpUSVpVWG94N1packl4eWxBRQ?oc=5",
+      "id": "eventos|https://news.google.com/rss/articles/CBMiigFBVV95cUxQc1ltR3gyckNPakxURG54ZnBqUWpMM0p0QTJTWmNkLXdrSDRQeklOSXdCS3VVcUNGTGJBak5KZWp6S2w0Y1Y5UWVkTWIxcHp1LUNSYV9HWTJXWEg0OXItb09fbzJqWngyeWEyUkhqTEZaX1pKQzl4VnEyQUpFTHkwY0N5eUV1ZmxQRXc?oc=5",
       "section": "eventos",
       "category": "Ticketmaster España",
-      "title": "Compra entradas para Yung Beef sáb, 19 dic 2026, 21:00, Palacio Vistalegre en Madrid | Página oficial de Ticketmaster - Ticketmaster España",
-      "summary": "Compra entradas para Yung Beef sáb, 19 dic 2026, 21:00, Palacio Vistalegre en Madrid | Página oficial de Ticketmaster Ticketmaster España",
+      "title": "Compra entradas para Samuraï - El rastro del Amarre sáb, 22 may 2027, 21:00, La Riviera en Madrid - Ticketmaster España",
+      "summary": "Compra entradas para Samuraï - El rastro del Amarre sáb, 22 may 2027, 21:00, La Riviera en Madrid Ticketmaster España",
       "image": "",
-      "publishedAt": "2026-09-10 19:14 UTC",
+      "publishedAt": "2026-10-19 11:49 UTC",
       "language": "es",
       "topic": "Entradas a la venta",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Ticketmaster España",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MeUdHQnRNeFJBTnplNGNwbXUzOTRxc2NrUkw0c1p3NjIyYjdiX05KcnFZZFVYM1NvYXV2MS1Mc3ZqaUlJS1RIMFBxTDN0N3poWVN0eG91ai1rNlFfaFpUSVpVWG94N1packl4eWxBRQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc1ltR3gyckNPakxURG54ZnBqUWpMM0p0QTJTWmNkLXdrSDRQeklOSXdCS3VVcUNGTGJBak5KZWp6S2w0Y1Y5UWVkTWIxcHp1LUNSYV9HWTJXWEg0OXItb09fbzJqWngyeWEyUkhqTEZaX1pKQzl4VnEyQUpFTHkwY0N5eUV1ZmxQRXc?oc=5"
         }
       ],
       "region": "Madrid",
       "popHorizon": "entradas"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMiigFBVV95cUxQc1ltR3gyckNPakxURG54ZnBqUWpMM0p0QTJTWmNkLXdrSDRQeklOSXdCS3VVcUNGTGJBak5KZWp6S2w0Y1Y5UWVkTWIxcHp1LUNSYV9HWTJXWEg0OXItb09fbzJqWngyeWEyUkhqTEZaX1pKQzl4VnEyQUpFTHkwY0N5eUV1ZmxQRXc?oc=5",
+      "id": "eventos|https://news.google.com/rss/articles/CBMic0FVX3lxTFBTOWlBZFl6b3NtMlBXam5Ba1Q0dUhtTUZBOElhVXFtSjItS2RrV1Rjd1YwNVRCWXgwTVVXaFNGejJFOXhWZUtuMkc5TnA5a2hBTkhma1pidVJDVWd2RW5kS0d3TXZLRkZwbUo5eUxUNTlIQzQ?oc=5",
       "section": "eventos",
-      "category": "Ticketmaster Agenda Madrid",
-      "title": "Compra entradas para Samuraï - El rastro del Amarre sáb, 22 may 2027, 21:00, La Riviera en Madrid - Ticketmaster España",
-      "summary": "Compra entradas para Samuraï - El rastro del Amarre sáb, 22 may 2027, 21:00, La Riviera en Madrid Ticketmaster España",
+      "category": "Ticketmaster España",
+      "title": "Compra entradas para Jay Wheeler dom, 13 dic 2026, 20:30, Movistar Arena en Madrid - Ticketmaster España",
+      "summary": "Compra entradas para Jay Wheeler dom, 13 dic 2026, 20:30, Movistar Arena en Madrid Ticketmaster España",
       "image": "",
-      "publishedAt": "2026-10-19 11:49 UTC",
+      "publishedAt": "2026-10-05 18:40 UTC",
       "language": "es",
-      "topic": "Planes futuros",
+      "topic": "Entradas a la venta",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "Ticketmaster Agenda Madrid",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc1ltR3gyckNPakxURG54ZnBqUWpMM0p0QTJTWmNkLXdrSDRQeklOSXdCS3VVcUNGTGJBak5KZWp6S2w0Y1Y5UWVkTWIxcHp1LUNSYV9HWTJXWEg0OXItb09fbzJqWngyeWEyUkhqTEZaX1pKQzl4VnEyQUpFTHkwY0N5eUV1ZmxQRXc?oc=5"
+          "name": "Ticketmaster España",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTOWlBZFl6b3NtMlBXam5Ba1Q0dUhtTUZBOElhVXFtSjItS2RrV1Rjd1YwNVRCWXgwTVVXaFNGejJFOXhWZUtuMkc5TnA5a2hBTkhma1pidVJDVWd2RW5kS0d3TXZLRkZwbUo5eUxUNTlIQzQ?oc=5"
         }
       ],
       "region": "Madrid",
@@ -7236,6 +7324,26 @@
       ]
     },
     {
+      "id": "cultura|https://news.google.com/rss/articles/CBMia0FVX3lxTE0tS1B0c2ZGMDJYQXkyeFdyckx6dC1oUTFaS0laYll1UHpSYmVDTFY0WGxjb2hVNjdhbHRxeXV6WjhzcVNEeW5XamhlM3M4UHlUdDZTdmdHQ3Q0MkNab2ktSFc3QXI0YzBQSUFr?oc=5",
+      "section": "cultura",
+      "category": "Museo del Prado",
+      "title": "- Museo del Prado",
+      "summary": "Museo del Prado",
+      "image": "",
+      "publishedAt": "2026-11-01 14:50 UTC",
+      "language": "es",
+      "topic": "Cultura general",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Museo del Prado",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tS1B0c2ZGMDJYQXkyeFdyckx6dC1oUTFaS0laYll1UHpSYmVDTFY0WGxjb2hVNjdhbHRxeXV6WjhzcVNEeW5XamhlM3M4UHlUdDZTdmdHQ3Q0MkNab2ktSFc3QXI0YzBQSUFr?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "cultureView": "noticias"
+    },
+    {
       "id": "cultura|https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QendDMUktZm5Qa0ZUVTJBT283dk40THQ0UUxwaWNBbTJwYlRiaGp6STV1Z0E5RHhtVFhqSmI5aFMwVndpYko5U0JSVGZHLWRvZ2tMVHpR?oc=5",
       "section": "cultura",
       "category": "Museo del Prado",
@@ -7250,26 +7358,6 @@
         {
           "name": "Museo del Prado",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QendDMUktZm5Qa0ZUVTJBT283dk40THQ0UUxwaWNBbTJwYlRiaGp6STV1Z0E5RHhtVFhqSmI5aFMwVndpYko5U0JSVGZHLWRvZ2tMVHpR?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "cultureView": "noticias"
-    },
-    {
-      "id": "cultura|https://news.google.com/rss/articles/CBMia0FVX3lxTE0tS1B0c2ZGMDJYQXkyeFdyckx6dC1oUTFaS0laYll1UHpSYmVDTFY0WGxjb2hVNjdhbHRxeXV6WjhzcVNEeW5XamhlM3M4UHlUdDZTdmdHQ3Q0MkNab2ktSFc3QXI0YzBQSUFr?oc=5",
-      "section": "cultura",
-      "category": "Museo del Prado",
-      "title": "- Museo del Prado",
-      "summary": "Museo del Prado",
-      "image": "",
-      "publishedAt": "2026-11-01 11:42 UTC",
-      "language": "es",
-      "topic": "Cultura general",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Museo del Prado",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tS1B0c2ZGMDJYQXkyeFdyckx6dC1oUTFaS0laYll1UHpSYmVDTFY0WGxjb2hVNjdhbHRxeXV6WjhzcVNEeW5XamhlM3M4UHlUdDZTdmdHQ3Q0MkNab2ktSFc3QXI0YzBQSUFr?oc=5"
         }
       ],
       "region": "Madrid",
@@ -7416,26 +7504,6 @@
       "cultureView": "agenda"
     },
     {
-      "id": "cultura|https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcmJSZkUtQ3Y0a3F6d3lqbFRITWg3QlAyYWdaR01tWUpSN1J5VkhtdzFPSEZiVFhMR1ZZRTk5WUZ5SFhJYzVwTld5QWItZDMydGl5Q2JIVnYweDBxMDQxZlBoLXZaaVlrREh0ck14b2dwS0cwTmU3cTQ3YzZSeTduS0x4a0x5NHJGNHlpRFQ2TFpnM09CMG5nYVBCcGo5VWNha3pIbVdqaUs4THFqeWtqbGRHZzN0czJqdHpYMUZuSmprSnB3eko4T3lPZWVtZGkxV1JjcnkzS1Vpd1VBRWc?oc=5",
-      "section": "cultura",
-      "category": "Cultura ES",
-      "title": "La Comunidad de Madrid celebra la festividad de Todos los Santos con un altar de muertos en Alcalá 31 y las Leyendas de Bécquer en el teatro - Comunidad de Madrid |",
-      "summary": "La Comunidad de Madrid celebra la festividad de Todos los Santos con un altar de muertos en Alcalá 31 y las Leyendas de Bécquer en el teatro Comunidad de Madrid |",
-      "image": "",
-      "publishedAt": "2026-10-30 08:35 UTC",
-      "language": "es",
-      "topic": "Cultura general",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Cultura ES",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcmJSZkUtQ3Y0a3F6d3lqbFRITWg3QlAyYWdaR01tWUpSN1J5VkhtdzFPSEZiVFhMR1ZZRTk5WUZ5SFhJYzVwTld5QWItZDMydGl5Q2JIVnYweDBxMDQxZlBoLXZaaVlrREh0ck14b2dwS0cwTmU3cTQ3YzZSeTduS0x4a0x5NHJGNHlpRFQ2TFpnM09CMG5nYVBCcGo5VWNha3pIbVdqaUs4THFqeWtqbGRHZzN0czJqdHpYMUZuSmprSnB3eko4T3lPZWVtZGkxV1JjcnkzS1Vpd1VBRWc?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "cultureView": "noticias"
-    },
-    {
       "id": "cultura|https://news.google.com/rss/articles/CBMigAFBVV95cUxNdzlNcUVsWlZUTGJsUzBZd1BXcE1PeXcxUV9TS3dvT0xvWVJhVXVHQTQtbTctSFg4MHgtMkZEYWg3RUhua3BORW5rd0F4WTBJazNONUQyeDU5TTdMZ05nYV9IQXhXMnlaYkVYODlfd1g5ckpGQ3FwWlpfT2x6dWViXw?oc=5",
       "section": "cultura",
       "category": "Música ES",
@@ -7556,26 +7624,6 @@
       "cultureView": "agenda"
     },
     {
-      "id": "cultura|https://news.google.com/rss/articles/CBMiggFBVV95cUxNVkhfcGw0aVZLcU01cEFReTlWczYyek9tX0tkajFNelZYRUZqU24tR2UybHcwMHJiWlh0Tkk4TEZNSjdhWHd6Z2dkczlrZWdOcHI3cV83OUVfVTllY3Q0OTlJZXR4bmNCLTMtTHQ4WW8wdG9vMHl5aWJFeHFGQ0tqYmJR?oc=5",
-      "section": "cultura",
-      "category": "Cultura ES",
-      "title": "Proceso de selección \"Se busca comisario\" - Comunidad de Madrid |",
-      "summary": "Proceso de selección \"Se busca comisario\" Comunidad de Madrid |",
-      "image": "",
-      "publishedAt": "2026-10-27 12:59 UTC",
-      "language": "es",
-      "topic": "Cultura general",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Cultura ES",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVkhfcGw0aVZLcU01cEFReTlWczYyek9tX0tkajFNelZYRUZqU24tR2UybHcwMHJiWlh0Tkk4TEZNSjdhWHd6Z2dkczlrZWdOcHI3cV83OUVfVTllY3Q0OTlJZXR4bmNCLTMtTHQ4WW8wdG9vMHl5aWJFeHFGQ0tqYmJR?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "cultureView": "noticias"
-    },
-    {
       "id": "cultura|https://news.google.com/rss/articles/CBMiiwJBVV95cUxPamVkQm1pUHVKT2FyTzVoMkc5ZnFPUGtBT2VHQkxQLS1saWI3V0ZPWEpNVnZnVE9sY2NRRDN4MUVMZ2NSRHhOd1Q3aUN0aEFpNW5UX2I0UFk1TmNUbDA1WFBBeDB4Z0s4cEdkTjcwWFhDSmNmV1p6RGtHYW9GMUNjbXlnQmx5LXI3U3Zub3ZtSjYyVHdPcTRXQTMxcDJja3NUa0oxdUxpdl9WZEkyLWxOWTJPamNkY0hkVWVGM1Z6WjlqaVBDeWdoMVk4SGIzc0tlMzd6aFp1NHNjdEc4eEhwMTBoYXQ3cEpfUExVZW9nekZfSVotVE9iQ3p1Ymx0MnF5by1fR3dteklrbDA?oc=5",
       "section": "cultura",
       "category": "Teatro ES",
@@ -7636,6 +7684,46 @@
       "cultureView": "agenda"
     },
     {
+      "id": "cultura|https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdm5PVlI2QmM4V3g2ZkduR3p1czVQTjcxNWpwSE9SUTZnQ1NnU2dUMV9URnlpVGhZeVJ6d3BMZU5HQ2ZSQUZtX0ZNVTBJcjBNTGFSNmxmUkl2eGdReERlYVlRZmRNMWl2VFI5eXJzMDZqYnJzM1RqYkFQdHpVd3lHWTVOWVRqU3BX?oc=5",
+      "section": "cultura",
+      "category": "Cultura ES",
+      "title": "Qué hacer este fin de semana en Madrid: de 30 de octubre al 1 de noviembre - Time Out Worldwide",
+      "summary": "Qué hacer este fin de semana en Madrid: de 30 de octubre al 1 de noviembre Time Out Worldwide",
+      "image": "",
+      "publishedAt": "2026-10-25 23:00 UTC",
+      "language": "es",
+      "topic": "Cultura general",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Cultura ES",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdm5PVlI2QmM4V3g2ZkduR3p1czVQTjcxNWpwSE9SUTZnQ1NnU2dUMV9URnlpVGhZeVJ6d3BMZU5HQ2ZSQUZtX0ZNVTBJcjBNTGFSNmxmUkl2eGdReERlYVlRZmRNMWl2VFI5eXJzMDZqYnJzM1RqYkFQdHpVd3lHWTVOWVRqU3BX?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "cultureView": "noticias"
+    },
+    {
+      "id": "cultura|https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFZGMTRMbXNoNHZQbXMzRkF2Y1NkTDlFVVM2eV93Wm9qMkdacGtVOW9DZWZ6VDBoLVJTVXFsRW1Rbmx5YjZzcW9XRmFzX3o1aHVaYzZoeDluZFlpbE9Ga2Izb0ROSmNubmlQZ25NT09kaGZybDBLVHk1THViRV9UR3JDTEM2U1pNODJWMA?oc=5",
+      "section": "cultura",
+      "category": "Cultura ES",
+      "title": "Planes en Madrid esta semana del 26 de octubre al 1 de noviembre - Time Out Worldwide",
+      "summary": "Planes en Madrid esta semana del 26 de octubre al 1 de noviembre Time Out Worldwide",
+      "image": "",
+      "publishedAt": "2026-10-25 23:00 UTC",
+      "language": "es",
+      "topic": "Cultura general",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Cultura ES",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFZGMTRMbXNoNHZQbXMzRkF2Y1NkTDlFVVM2eV93Wm9qMkdacGtVOW9DZWZ6VDBoLVJTVXFsRW1Rbmx5YjZzcW9XRmFzX3o1aHVaYzZoeDluZFlpbE9Ga2Izb0ROSmNubmlQZ25NT09kaGZybDBLVHk1THViRV9UR3JDTEM2U1pNODJWMA?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "cultureView": "noticias"
+    },
+    {
       "id": "cultura|https://news.google.com/rss/articles/CBMib0FVX3lxTE45LTBUTkpIZ1FVUEtmb3F4eFZDLVZvSVRyWHdtUTJNWjg0b24xbkZHQUU5UVZRZmdoakpWOF8zNTNJV3VBb1NnMlVhVU0xazZUMVQ1OU9talVwMU50NWtrdmVtNm1rcVVadUdjclFRRQ?oc=5",
       "section": "cultura",
       "category": "Agenda Madrid",
@@ -7650,46 +7738,6 @@
         {
           "name": "Agenda Madrid",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45LTBUTkpIZ1FVUEtmb3F4eFZDLVZvSVRyWHdtUTJNWjg0b24xbkZHQUU5UVZRZmdoakpWOF8zNTNJV3VBb1NnMlVhVU0xazZUMVQ1OU9talVwMU50NWtrdmVtNm1rcVVadUdjclFRRQ?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "cultureView": "agenda"
-    },
-    {
-      "id": "cultura|https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdm5PVlI2QmM4V3g2ZkduR3p1czVQTjcxNWpwSE9SUTZnQ1NnU2dUMV9URnlpVGhZeVJ6d3BMZU5HQ2ZSQUZtX0ZNVTBJcjBNTGFSNmxmUkl2eGdReERlYVlRZmRNMWl2VFI5eXJzMDZqYnJzM1RqYkFQdHpVd3lHWTVOWVRqU3BX?oc=5",
-      "section": "cultura",
-      "category": "Agenda Madrid",
-      "title": "Qué hacer este fin de semana en Madrid: de 30 de octubre al 1 de noviembre - Time Out Worldwide",
-      "summary": "Qué hacer este fin de semana en Madrid: de 30 de octubre al 1 de noviembre Time Out Worldwide",
-      "image": "",
-      "publishedAt": "2026-10-25 23:00 UTC",
-      "language": "es",
-      "topic": "Música",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Agenda Madrid",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdm5PVlI2QmM4V3g2ZkduR3p1czVQTjcxNWpwSE9SUTZnQ1NnU2dUMV9URnlpVGhZeVJ6d3BMZU5HQ2ZSQUZtX0ZNVTBJcjBNTGFSNmxmUkl2eGdReERlYVlRZmRNMWl2VFI5eXJzMDZqYnJzM1RqYkFQdHpVd3lHWTVOWVRqU3BX?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "cultureView": "agenda"
-    },
-    {
-      "id": "cultura|https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFZGMTRMbXNoNHZQbXMzRkF2Y1NkTDlFVVM2eV93Wm9qMkdacGtVOW9DZWZ6VDBoLVJTVXFsRW1Rbmx5YjZzcW9XRmFzX3o1aHVaYzZoeDluZFlpbE9Ga2Izb0ROSmNubmlQZ25NT09kaGZybDBLVHk1THViRV9UR3JDTEM2U1pNODJWMA?oc=5",
-      "section": "cultura",
-      "category": "Agenda Madrid",
-      "title": "Planes en Madrid esta semana del 26 de octubre al 1 de noviembre - Time Out Worldwide",
-      "summary": "Planes en Madrid esta semana del 26 de octubre al 1 de noviembre Time Out Worldwide",
-      "image": "",
-      "publishedAt": "2026-10-25 23:00 UTC",
-      "language": "es",
-      "topic": "Música",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Agenda Madrid",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFZGMTRMbXNoNHZQbXMzRkF2Y1NkTDlFVVM2eV93Wm9qMkdacGtVOW9DZWZ6VDBoLVJTVXFsRW1Rbmx5YjZzcW9XRmFzX3o1aHVaYzZoeDluZFlpbE9Ga2Izb0ROSmNubmlQZ25NT09kaGZybDBLVHk1THViRV9UR3JDTEM2U1pNODJWMA?oc=5"
         }
       ],
       "region": "Madrid",
@@ -8096,6 +8144,26 @@
       "cultureView": "noticias"
     },
     {
+      "id": "cultura|https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HcS10TTlBV2E2ellRbm5nLXFLMldPZTdfS0hvc1dXa2NCbjZuTEswQkd3b2hTcWMwQmlHT2s4YWpqSW9QWGMtNHplc0Ntdw?oc=5",
+      "section": "cultura",
+      "category": "Jenesaispop",
+      "title": "Noticias de ear - jenesaispop.com",
+      "summary": "Noticias de ear jenesaispop.com",
+      "image": "",
+      "publishedAt": "2026-11-01 15:00 UTC",
+      "language": "es",
+      "topic": "Música",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Jenesaispop",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HcS10TTlBV2E2ellRbm5nLXFLMldPZTdfS0hvc1dXa2NCbjZuTEswQkd3b2hTcWMwQmlHT2s4YWpqSW9QWGMtNHplc0Ntdw?oc=5"
+        }
+      ],
+      "region": "Internacional",
+      "cultureView": "noticias"
+    },
+    {
       "id": "cultura|https://news.google.com/rss/articles/CBMiaEFVX3lxTE9abDJGZC1pOXR3T1RJSjRobFQ3T3ItdnVuS2oyazJKWUlUaGhpMXgwZFJ0VVVxQmI1d1Z3NmhtNkstd2JMdXZhMzlEYjA3Mm9ZTTJTU0lfUHhSTGtWdXNUZ1NJNTk3VEZG0gFuQVVfeXFMT0ZueUZwWkpXdWJ2aGZRMGtHNkg2b3FHaEE1MEtpMHNmVnFpWF9tbTQ3dzBjS1Z6VHRNU3JVWV9rYUhTWThQby1SZ2Rkd0FKdVdLaS1Leks1Nll2NXM4aGcyWDhMcUR5NFJiWF9YYlE?oc=5",
       "section": "cultura",
       "category": "Jenesaispop",
@@ -8250,26 +8318,6 @@
         {
           "name": "Stage EN",
           "url": "https://www.theguardian.com/stage/2026/nov/01/the-best-theatre-to-stream-this-month-the-pelicot-trial-ita-music-damien-jalet-arcadia-salt"
-        }
-      ],
-      "region": "Internacional",
-      "cultureView": "noticias"
-    },
-    {
-      "id": "cultura|https://news.google.com/rss/articles/CBMiTEFVX3lxTE5BSTJCYktPZmZWemFHbFAwaDZULVVDR2VwOUwzdEZ5bkwtWGhaRkhlOVhXMk9hZ1VBRDN0ejc2a29iZGU5dHpaY1hESEU?oc=5",
-      "section": "cultura",
-      "category": "Jenesaispop",
-      "title": "Noticias de @ (at) - jenesaispop.com",
-      "summary": "Noticias de @ (at) jenesaispop.com",
-      "image": "",
-      "publishedAt": "2026-10-31 13:58 UTC",
-      "language": "es",
-      "topic": "Música",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Jenesaispop",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5BSTJCYktPZmZWemFHbFAwaDZULVVDR2VwOUwzdEZ5bkwtWGhaRkhlOVhXMk9hZ1VBRDN0ejc2a29iZGU5dHpaY1hESEU?oc=5"
         }
       ],
       "region": "Internacional",
@@ -8679,22 +8727,28 @@
   "breaking": {
     "espana": [
       {
-        "title": "Racing - Real Madrid en directo | El Madrid golea al Racing al descanso",
-        "publishedAt": "2026-11-01 16:13 UTC",
+        "title": "Racing - Real Madrid en directo | El Madrid aguanta la renta ante el empuje del Racing",
+        "publishedAt": "2026-11-01 16:55 UTC",
         "source": "El País",
         "url": "https://elpais.com/deportes/futbol/2026-11-01/racing-real-madrid-en-directo-el-partido-de-la-liga-en-vivo.html"
+      },
+      {
+        "title": "Mueren cuatro miembros de una familia, dos adultos y dos menores, en un accidente de tráfico en Malva (Zamora)",
+        "publishedAt": "2026-11-01 16:47 UTC",
+        "source": "El Mundo",
+        "url": "https://www.elmundo.es/espana/2026/11/01/6ae75848e9cf4ad73e8b4578.html"
+      },
+      {
+        "title": "Cuando el 'seguro de los muertos' llama a tu puerta: uno de cada dos españoles tiene cubierto el coste de morirse",
+        "publishedAt": "2026-11-01 16:41 UTC",
+        "source": "El Mundo",
+        "url": "https://www.elmundo.es/economia/empresas/2026/11/01/6ae49e03e85ece7c2c8b4574.html"
       },
       {
         "title": "Mueren dos adultos y dos niños al salirse de la vía el coche en el que viajaban en Zamora",
         "publishedAt": "2026-11-01 16:04 UTC",
         "source": "El País",
         "url": "https://elpais.com/espana/2026-11-01/mueren-dos-adultos-y-dos-ninos-al-salirse-de-la-via-el-coche-en-el-que-viajaban-en-zamora.html"
-      },
-      {
-        "title": "Cuatro muertos, dos adultos y dos menores, en un accidente de tráfico en Malva (Zamora)",
-        "publishedAt": "2026-11-01 15:56 UTC",
-        "source": "El Mundo",
-        "url": "https://www.elmundo.es/espana/2026/11/01/6ae75848e9cf4ad73e8b4578.html"
       },
       {
         "title": "Alcaraz, un trofeo en Viena y algo más: volver a disfrutar",
@@ -8743,15 +8797,27 @@
         "publishedAt": "2026-11-01 14:20 UTC",
         "source": "El Mundo",
         "url": "https://www.elmundo.es/deportes/baloncesto/liga-endesa/2026/11/01/6ae7298021efa019068b456d.html"
-      },
-      {
-        "title": "La jueza pide acelerar las labores de búsqueda, más operarios y que se trabaje de noche",
-        "publishedAt": "2026-11-01 14:14 UTC",
-        "source": "El País",
-        "url": "https://elpais.com/espana/2026-11-01/la-jueza-pide-acelerar-las-labores-de-busqueda-mas-operarios-y-que-se-trabaje-de-noche.html"
       }
     ],
     "mundo": [
+      {
+        "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+        "publishedAt": "2026-11-01 16:25 UTC",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Attempted murder probe after petrol bomb thrown at French riot police",
+        "publishedAt": "2026-11-01 16:24 UTC",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/01/petrol-bomb-thrown-at-french-riot-police"
+      },
+      {
+        "title": "Tens of thousands protest against Narendra Modi regime in Delhi",
+        "publishedAt": "2026-11-01 16:11 UTC",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi"
+      },
       {
         "title": "Tusk defends overhaul of Poland’s constitutional court despite protests",
         "publishedAt": "2026-11-01 15:44 UTC",
@@ -8777,6 +8843,12 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU3RKZGYwcUhNeFYteE1MaHpGTHlUTUpneGg5Q2lqdU9JMmNWeldVb1pRZ28zU0tLUFJHamJlUmRya1RrUnFic3N2bG5MbEc4aHdxd3k5dGVJQmozVmItY3k4S0ZBbGZQSEFaOUxWZjY1eTBkRU1ZX3pyVTQzaldFeUxCOURQRVkyOFd5QmRyVWw?oc=5"
       },
       {
+        "title": "Serbians mark railway disaster that led to rise of victorious student movement - Reuters",
+        "publishedAt": "2026-11-01 14:40 UTC",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSXhfY3ZkWXB1R1VpQXBFdmR2S1dBU2p2U2VjUEJsZ2RwcGN1QWNwQVFjOXRrYkswVHF1TWhTMzk4cVpobm5VcXJaaG9NQXlURHh1dVdiVGZRN2hSYS02djZ0NzNoTUxpSnJYbDd1bnQ0ekRQZFJTeVIyU1BpVFBRUDhJaTNUN0J3Vk5WeGRMdlliVWVBNmpuZ1o4djJsLURwblFsdE1yWXlFeHJLMkItOWtvX0Q?oc=5"
+      },
+      {
         "title": "France opens 'attempted murder' probe after riot police attacked with petrol bomb",
         "publishedAt": "2026-11-01 14:17 UTC",
         "source": "ABC Australia",
@@ -8799,33 +8871,15 @@
         "publishedAt": "2026-11-01 14:00 UTC",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/australia-news/2026/nov/02/northern-territory-water-plan-condemned-as-blatant-and-shameless-attack-on-nature"
-      },
-      {
-        "title": "AI is stealing Indigenous Australian art and churning out ‘Temu slop’, artist says",
-        "publishedAt": "2026-11-01 14:00 UTC",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/artanddesign/2026/nov/02/ai-stealing-indigenous-australian-art-temu-slop-artist-says-ntwnfb"
-      },
-      {
-        "title": "German, Slovak die in suspected electrocution at hotel pool in India - Reuters",
-        "publishedAt": "2026-11-01 13:26 UTC",
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWlVvY1JqNmQ3WmkweFRDSDhmbjVHb2NxT1JfMEFFVENNVGUtajJTeFJCakYzOGpzcnpHb2g1V0JONG1fUnpVTTAweHNrTlRwSTZDQUZRSE1hOWdiODlWOW05RGl0UGU3bEc1RzhNZlEtYkxEOGxPU3V5c0hYUk5hT3RlZl9sdUJIUjZENDNSYnVJT29UdDlKRFk0bWJxYUQwRjVHRjFKbVA1QQ?oc=5"
-      },
-      {
-        "title": "They signed up for a lifetime at sea on an endless cruise. High gas prices intervened",
-        "publishedAt": "2026-11-01 13:15 UTC",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/11/01/nx-s1-6022214/they-signed-up-for-a-lifetime-at-sea-on-an-endless-cruise-high-gas-prices-intervened"
-      },
-      {
-        "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-        "publishedAt": "2026-11-01 13:11 UTC",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "cultura": [
+      {
+        "title": "Noticias de ear - jenesaispop.com",
+        "publishedAt": "2026-11-01 15:00 UTC",
+        "source": "Jenesaispop",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HcS10TTlBV2E2ellRbm5nLXFLMldPZTdfS0hvc1dXa2NCbjZuTEswQkd3b2hTcWMwQmlHT2s4YWpqSW9QWGMtNHplc0Ntdw?oc=5"
+      },
       {
         "title": "ear / Rumspringa - jenesaispop.com",
         "publishedAt": "2026-11-01 15:00 UTC",
@@ -8834,15 +8888,15 @@
       },
       {
         "title": "- Museo del Prado",
-        "publishedAt": "2026-11-01 14:32 UTC",
+        "publishedAt": "2026-11-01 14:50 UTC",
         "source": "Museo del Prado",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QendDMUktZm5Qa0ZUVTJBT283dk40THQ0UUxwaWNBbTJwYlRiaGp6STV1Z0E5RHhtVFhqSmI5aFMwVndpYko5U0JSVGZHLWRvZ2tMVHpR?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tS1B0c2ZGMDJYQXkyeFdyckx6dC1oUTFaS0laYll1UHpSYmVDTFY0WGxjb2hVNjdhbHRxeXV6WjhzcVNEeW5XamhlM3M4UHlUdDZTdmdHQ3Q0MkNab2ktSFc3QXI0YzBQSUFr?oc=5"
       },
       {
         "title": "- Museo del Prado",
-        "publishedAt": "2026-11-01 11:42 UTC",
+        "publishedAt": "2026-11-01 14:32 UTC",
         "source": "Museo del Prado",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tS1B0c2ZGMDJYQXkyeFdyckx6dC1oUTFaS0laYll1UHpSYmVDTFY0WGxjb2hVNjdhbHRxeXV6WjhzcVNEeW5XamhlM3M4UHlUdDZTdmdHQ3Q0MkNab2ktSFc3QXI0YzBQSUFr?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QendDMUktZm5Qa0ZUVTJBT283dk40THQ0UUxwaWNBbTJwYlRiaGp6STV1Z0E5RHhtVFhqSmI5aFMwVndpYko5U0JSVGZHLWRvZ2tMVHpR?oc=5"
       },
       {
         "title": "Famesick. Unas memorias, critica del libro de Lena Dunham (2026) - MondoSonoro",
@@ -8891,12 +8945,6 @@
         "publishedAt": "2026-11-01 07:48 UTC",
         "source": "MondoSonoro",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdXFTRVVWcVk3bVBrWEpvc3NoZWNjeWk3ZjViaHFjT0pxSzFpejdJeFk5Q2RaZ3F3d1N0aFRfaE9GaTRhU3pOZHZ1SDJFNFhHWXFHSVBQakhZOWlCNXJqWWZxWkxtME9hQ3Q5d1dnVTFtMFBXdVJlbXdfV3pQMmRwTFJuUFMteVNV?oc=5"
-      },
-      {
-        "title": "Estos 10 pueblos de la sierra de Madrid tienen el mejor plan para los aficionados a las setas - Time Out Worldwide",
-        "publishedAt": "2026-11-01 07:00 UTC",
-        "source": "Time Out Madrid",
-        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQMmNlUWRZcWVJU3gtay0zR3pRQjctMmptMWxOM3dFRi1uZW1uZ0FEd2FSQWw0d1NmMzRfZVJlZENqb0o5U3VVRmFBNERObjJCU3AybmVsaDN4STRjeHcyLW8xSEpXX01pR3VEcW5ySlpoX01MbEIxcWFHRlluZ05RRW1ZbGZnUjBMOHhXSVlNdWt1dUtidmN4V3NydXotY3VNZTZHR1pZTk9WREp1N1hDOUltN2wzYTM3RzFQNVhkMU9EQm8wU05aOUp0RmtzVEl3elZ1aU1WUUZoVkItV1MtN01YOThMdHllXzhyemNTbldKSmhpUjRmbHdhV2JjTFdsVVpaSWtnVXlFZWtqTkxFUnk5aTNnUQ?oc=5"
       }
     ],
     "television": [
@@ -8993,6 +9041,12 @@
         "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/"
       },
       {
+        "title": "China ofrece sueldos de un millón de yuanes por el ingeniero de IA que también buscan Anthropic y OpenAI - Xataka",
+        "publishedAt": "2026-11-01 14:01 UTC",
+        "source": "Xataka",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVXVSaHF2SE1JVVl1UnVwMGRyZW8tSHdJc3V4OHJ4dWRaQWRPSndZODJBaXNFcDA1NTB4ZFhPS0s2VFMyRzRKOU1BS0t2UTRic2p1U0JZUFk2M3MzcEYwTGVSMHdQMnN3eG1wakc1aHg1dk9POGVzLTdXa2FOYWZJUzRhYmVZTFU4b3VscFVMVWEwTWllWkdYTHpjdFhIOWc3NlVUSTVWRGRsYVBxYmxrSnhmOUFtc1pCVVBPWTFiUmpyNXd00gHKAUFVX3lxTE55R1ZiT3lIeFhSY2pVZU9HU1c3cU5xbkVHTjdvU3F2eGJrUHhGcU92WHkzWkgxQkZPQXM3TmNyLUpIMUtVOTg1SHpudGhPa1hPOG9MS0ZXdWhqMUgwQnJhNnFfekk3WDhTZzkzNGRrZ21tTWJMYUZHa2t5RXVWNDdCNlRhb1BOcEFjSVdvWEE1TVRBckVUbTJTU0pqeW1weVd3Ni1tTndHQXRHVG03ejREUEtvWENTQ3lJN2x4QWdXNWNFQ3kxSlctVlE?oc=5"
+      },
+      {
         "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
         "publishedAt": "2026-11-01 14:00 UTC",
         "source": "TechCrunch EN",
@@ -9039,12 +9093,6 @@
         "publishedAt": "2026-11-01 02:22 UTC",
         "source": "TechCrunch EN",
         "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/"
-      },
-      {
-        "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-        "publishedAt": "2026-10-31 21:41 UTC",
-        "source": "TechCrunch EN",
-        "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
       }
     ],
     "estilo": [
@@ -9067,16 +9115,16 @@
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONXlSQm9EVHEtT0RIR1hQUUFxQjA3eUNIQ29lXzVTbXJhZExFODgzUzVhTk5PWEoyY3RSbzNNc3AwTDJVN3FFUFdqWTB6QUxBS29iWEhLWnRWQmRTbHRZNndJS2piX3JLVlBfdnFxMGgyNnZpaHVwS214dmhxSDcxMHdldUQwMGZyUXYyVy1OOEhhYXlGX0EwMk15cldZZ2ZhZFRjNA?oc=5"
       },
       {
+        "title": "Air Jordan 5 'Wings': Silver Satin, Luxury Details and a Powerful Story - Men's Journal",
+        "publishedAt": "2026-11-01 10:25 UTC",
+        "source": "Menswear International",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcnRIS043NlZ3NmFjLWVpdzlMbUdBTGVhWE5YNTd2RmdRMlEzcDJrSVJzWk44Y29zNnI3bnhqenZfZFhCRkQ0VTA5NGl3UXJ1Vk1QYnVhNzBST0RReWQtR0s3d1R6MVFsWVg1SVRiLTdTZjJEdjBqU21JTGJiZlVqbkhB?oc=5"
+      },
+      {
         "title": "Tom Hardy’s 'MobLand' S2 Ep7 Navy Jumper Is the Stylish and Flattering Knit You’ll Wear All Winter - Esquire",
         "publishedAt": "2026-11-01 09:06 UTC",
         "source": "Esquire EN",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZnU5Z2RzWDBOZFVxeEk1RTdCVl9qTEZVS1ZwQ2JSMGhUUXV0WER5Rk9WbmpkSWhJZUprd2dBaU1ib1NveFFFOTlnRlpla0xpMk9hUEFva1hqV2g5WGpKdDZ5YVlHZmJ2OE1Ma1NxeTRHZGlRQnQ0ZHFWYTFFNHRFTHl2eG9haXdTRTZN?oc=5"
-      },
-      {
-        "title": "10 novelas recientes de menos de 150 páginas: intensas, adictivas y con buenas críticas - Esquire",
-        "publishedAt": "2026-11-01 09:05 UTC",
-        "source": "Esquire España",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONHZpelVjTlIzRjZNaVVmb0RmSC1hNWFWSnVVaDJiWUgtWWQ1TFFTYmtXT2tlYy1LRXVXMF9sb3RQUDRRYXJvTkstUzl3Y1BJV1QyQUdrSkRnUXNCeUJ1TzAwa2IzX3EzU1VHU0pYZ0ttRkZhUGhER2VxbU9XaGt1V1VVY3VPMjNNM0w1bkRtTFM3UnRtUENLRlRpMVAtRzA?oc=5"
       },
       {
         "title": "Uno de los coleccionistas de relojes más interesantes del mundo está vendiendo sus Cartier, y son de una rareza extraordinaria - GQ España",
@@ -9093,7 +9141,7 @@
       {
         "title": "Marriott Bonvoy, la NFL y el Bernabéu: el viaje ya no se hace por la ciudad, sino por el partido - GQ España",
         "publishedAt": "2026-11-01 07:29 UTC",
-        "source": "GQ España",
+        "source": "GQ España Lifestyle",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOXFZdzcyNkt2NGJWcEJCMHZkNXRBVHE1dEFvdkVPYnRJM3puVDlEblFoVm5fU1VYQjFVLVAxTWt0VUNtQzlfc245bm1XdDh2aWhzVnhuV2h1RmkzUFUwb3ZzLWswZ1dzZ2pKc2tiM2Vnb19yb0pBRkhPMXdTdk1CRnItN2w3aWFfX3FoamktNkhiVVdPdlFIMVRkSGFqNFNFaFRXa0NVeFlkMWdCTFFIeGpvcVBNYkVrbVA2ZHRvYXRkRUxuellZ?oc=5"
       },
       {
@@ -9107,6 +9155,12 @@
         "publishedAt": "2026-11-01 07:15 UTC",
         "source": "Esquire EN",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZVnBWR19FaHY4cnRqRC1qS1NCM2dWeWtPTjh1V1BMMGdTU2p4Y0dYYi1MZWhXWTZPLVFOd3lFV3RtZFRJYTNuTi1UNnpzUkdCX3VFQW8xYVl4N012WjVITFVTZ2xJU21IekxtZlBLR2FTUFR1U05BbQ?oc=5"
+      },
+      {
+        "title": "Fabletics Made Its Name in Workout Gear. Now It Wants the Rest of Your Closet - Men's Journal",
+        "publishedAt": "2026-11-01 00:39 UTC",
+        "source": "Menswear International",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ0tfNG5idjAxR1ZYWjNfMU8zWUZVczlxY1JLVFRlWmZBQTlodUNGaEIxY2U0WnhOX2tzaVlORkRJU21Fa2NFdy1leG5IZDg4MDk1bWY1WTRuZklJWllaTHdaQnhzYUpLeDBRY0d2NnJWZEFOV1JpTzVPSmU2S29QRklfaDd6NW1QX2VURTdRSXQyMnJ5WG5WN0szN3hSc1oxMkxSXzdOUkhTLXZaampZ?oc=5"
       }
     ],
     "eventos": [
@@ -9173,6 +9227,12 @@
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeGlCTzRQcW0xTi1RSlhxLUVHMGxHWFQzVlJJQkdjTnFoN282NnRMaEI0a3gyZTJpX0t4eVFvUVNncDhMZUFtRUxlcC1PRU42UDRKdmVNaXM5YTU0b3dtYmhxUVFqbnRSZG1wWFVQODZxS1lpWHl5TkVkNzdwU3QzWnZ1OGxXYkFqQkw5ZkI4NURLOGpOejhtMVB1TnM3a2dNLVJUanZUXzdERkU3SXpfVlJkMDc5RmJYdTlBQ3VLS1RITlhuQ1RxZmttMDdDQmE2NnN3V2hZaUZOUHl3VGxudktpMA?oc=5"
       },
       {
+        "title": "¡Es un papucho! Policía roba miradas y suspiros en plena detención (+VIDEO) - Azteca Veracruz",
+        "publishedAt": "2026-10-31 22:08 UTC",
+        "source": "Viral ES",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMEtINTNGTm1ieUxPTDFNODM5TDZva2VETTNQMG5YTnBLc2xsOUladVBuME5qYlp5R1dfeXVhUmVrZTliREg4Qk5KenZ3ZmJfTm5KQVdYZ0RMczI3dGtFdExVQl9maDM0SzlZWEVGTXRrMGkxN2JQckM3RXY2M1NRaDUzLW4xTE9MelM5ak5NQkRfN0RZZkl0Yl85X1hOU3dfTkt5TlIyNmNPVGZGTFFF?oc=5"
+      },
+      {
         "title": "Red Baron Pizza Stocker Who Ripped Instagram Pranksters Raises $700,000 - PJ Media",
         "publishedAt": "2026-10-31 22:06 UTC",
         "source": "Viral EN",
@@ -9183,12 +9243,6 @@
         "publishedAt": "2026-10-31 21:47 UTC",
         "source": "Viral ES",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZ0lFQXpuU2Z4OTYxUl9ZbFp6SXVLSUdkT0VvWnpsYjVCUEtuS3h5Y0pYLWI0QWkyTWdWWjkxOWZYejV0cnR0Z1lheW5ackJlZU0yMmdzcmpaNE1mN3B1R3NjUzhwaW9iWEhyQkpTZzllcW5vWGNFVkpEcHBoRnp5YzdmbWJvZk0weHVmcXZwbnBWR05nRDFxcUg2a0pRTTJPakZLOUlNWVN6V0Y2VEN0aDFYUUF4YmRYYXRBSW1MY1l3Q2JFT2I0WWk3bVhDYVRXMEQ3eF9HblU?oc=5"
-      },
-      {
-        "title": "Video de mujer supuestamente queda pegada a su perro: esta es la verdadera historia - TV Azteca Jalisco",
-        "publishedAt": "2026-10-31 21:47 UTC",
-        "source": "Viral ES",
-        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPUDN2UW9zaWlGbl81X1BNUlJnTUY1ZVNZQmxFMlI1djVEcUR1T1hzODdPcjNSMWwweTNReW9ZdnJud0cwTkF0aXdnTWFGUXNncVdPdDc1YjBhWllJVHEwdDltMkdCdFJadk5nWGd1WGlkWVNkT2hZbGc5cVNWcjhuMXpKclU2NkpDWElvYkJfMmhGLVhGRndWV003d2NmdExNckVyZ3NlcTBwQzhERE1oWGM4X254RWo0QjY2WkdOV1F3MGtLVTdPbG95ZENaT3FkeGxwMVJhWXlOQ1V2X0tKWWVBZkpzckFjNzVCZDFITDloRGNJUEpycUNpalBMUUtMRDhvN0x2azRyMFE?oc=5"
       }
     ]
   }
