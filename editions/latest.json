@@ -1,16 +1,16 @@
 {
-  "edition": "THE DAILY · Mañana · 05/11/2026 10:23",
-  "generatedAt": "2026-11-05T09:23:25.384684+00:00",
+  "edition": "THE DAILY · Mañana · 05/11/2026 11:37",
+  "generatedAt": "2026-11-05T10:37:32.353673+00:00",
   "mode": "rss-excerpts",
   "stories": [
     {
       "id": "espana|https://elpais.com/espana/2026-11-05/ultima-hora-de-la-cumbre-iberoamericana-de-madrid-en-directo.html",
       "section": "espana",
       "category": "El País",
-      "title": "Última hora de la Cumbre Iberoamericana, en directo | Milei equipara socialismo y fascismo en su intervención en la reunión",
-      "summary": "Sánchez reclama unidad frente “al repliegue y el unilateralismo” | El presidente del Gobierno saluda con frialdad al presidente argentino | El Rey pide que los mandatarios se “ciñan a la partitura” para que la música de la cumbre suene “armónica” pese a los distintos instrumentos",
+      "title": "Última hora de la Cumbre Iberoamericana, en directo | Milei homologa el socialismo democrático con el fascismo ante Pedro Sánchez",
+      "summary": "El presidente del Gobierno de España reclama unidad frente “al repliegue y el unilateralismo” | El jefe del Ejecutivo saluda con frialdad al mandatario argentino | El Rey pide que los líderes se “ciñan a la partitura” para que la música de la cumbre suene “armónica” pese a los distintos instrumentos",
       "image": "https://imagenes.elpais.com/resizer/v2/ELX7ZZRRUNFUTKLDLQPHAJWTEU.jpg?auth=372f413c7cfed7081753c42a236ec28444fe99bf9e5d83727a94e3980a3e92a5",
-      "publishedAt": "2026-11-05 09:21 UTC",
+      "publishedAt": "2026-11-05 10:35 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
@@ -22,74 +22,128 @@
       ]
     },
     {
-      "id": "espana|https://www.elmundo.es/espana/2026/11/05/6aec3c2821efa0b2518b4597.html",
+      "id": "espana|https://www.elmundo.es/espana/2026/11/05/6aec4851e9cf4ac94c8b459e.html",
       "section": "espana",
       "category": "El Mundo",
-      "title": "Javier Milei, tras su frío saludo con Sánchez, eleva la tensión en la cumbre iberoamericana: \"La equivalencia entre socialistas y fascistas no es casual\"",
+      "title": "La UCO lanza una nueva operación anticorrupción donde se persona en casa de Ábalos, detiene al ex chófer de Sánchez y reclama información a Adif",
+      "summary": "El juez Ismael Moreno abrió ayer una nueva pieza separada tras recibir un atestado de la UCO. Leer",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/30/17907641196914.jpg",
+      "publishedAt": "2026-11-05 10:33 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "El Mundo",
+          "url": "https://www.elmundo.es/espana/2026/11/05/6aec4851e9cf4ac94c8b459e.html"
+        }
+      ]
+    },
+    {
+      "id": "espana|https://www.elmundo.es/espana/2026/11/05/6aec5b1fe85ece59048b458d.html",
+      "section": "espana",
+      "category": "El Mundo",
+      "title": "El Supremo amnistía a la ex consejera Clara Ponsatí y archiva la acusación de desobediencia",
       "summary": "Leer",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/05/17938673716907.jpg",
-      "publishedAt": "2026-11-05 09:17 UTC",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/05/17938741782352.jpg",
+      "publishedAt": "2026-11-05 10:32 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "El Mundo",
-          "url": "https://www.elmundo.es/espana/2026/11/05/6aec3c2821efa0b2518b4597.html"
+          "url": "https://www.elmundo.es/espana/2026/11/05/6aec5b1fe85ece59048b458d.html"
         }
       ]
     },
     {
-      "id": "espana|https://www.elmundo.es/salud/2026/11/05/6aeb16a0e9cf4a6f6b8b45ae.html",
+      "id": "espana|https://www.elmundo.es/economia/2026/11/05/6aec51cdfdddff8b218b4583.html",
       "section": "espana",
       "category": "El Mundo",
-      "title": "La investigadora que encontró en el \"ADN basura\" claves sobre el funcionamiento de nuestros genes",
-      "summary": "Maite Huarte, directora de la División de Medicina de ADN y ARN del CIMA Universidad de Navarra ha sido galardonada con el Premio Carmen y Severo Ochoa en Biología Molecular Leer",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/04/17938003299141.jpg",
-      "publishedAt": "2026-11-05 09:09 UTC",
+      "title": "Una nueva oleada de amenazas de bomba obliga a desviar varios vuelos y a realizar aterrizajes de emergencia en Francia, Italia, Bulgaria, Bélgica y Austria",
+      "summary": "Esta amenaza llega después de que el pasado martes nueve vuelos en Europa tuvieran que activar dispositivos de seguridad por falsas alertas de bomba Leer",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/05/17938730729254.jpg",
+      "publishedAt": "2026-11-05 10:32 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "El Mundo",
-          "url": "https://www.elmundo.es/salud/2026/11/05/6aeb16a0e9cf4a6f6b8b45ae.html"
+          "url": "https://www.elmundo.es/economia/2026/11/05/6aec51cdfdddff8b218b4583.html"
         }
       ]
     },
     {
-      "id": "espana|https://www.europapress.es/nacional/noticia-colau-propone-impuesto-ultrarricos-recaudar-10000-millones-elevar-tributacion-banca-20261105100844.html",
+      "id": "espana|https://elpais.com/espana/elecciones-generales/2026-11-05/colau-propone-aumentar-los-impuestos-a-ultrarricos-y-grandes-empresas-para-recaudar-10000-millones-de-euros.html",
+      "section": "espana",
+      "category": "El País",
+      "title": "Colau propone aumentar los impuestos a ultrarricos y grandes empresas para recaudar 10.000 millones de euros",
+      "summary": "La candidata de Frente Amplio aboga por gravar el patrimonio de las grandes fortunas, los beneficios de la banca y la acumulación de vivienda",
+      "image": "https://imagenes.elpais.com/resizer/v2/4BX2P63L6ZHMPIXDHI5H3R7XUM.jpg?auth=e5e3a2ba62b637d33fbb031a80eafe460a69b326bf78a429fceb7ecf45f9a48b",
+      "publishedAt": "2026-11-05 10:28 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "El País",
+          "url": "https://elpais.com/espana/elecciones-generales/2026-11-05/colau-propone-aumentar-los-impuestos-a-ultrarricos-y-grandes-empresas-para-recaudar-10000-millones-de-euros.html"
+        }
+      ]
+    },
+    {
+      "id": "espana|https://www.elmundo.es/elecciones/elecciones-generales/2026/11/05/6aec580ce4d4d88e5c8b45a6.html",
+      "section": "espana",
+      "category": "El Mundo",
+      "title": "Colau propone más impuestos a la banca, empresas, grandes patrimonios y vivienda para recaudar 10.000 millones",
+      "summary": "La candidata del Frente Amplio detalla medidas de su programa respaldada por el que fue el gurú económico de Podemos, Nacho Álvarez Leer",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/05/17938739720063.jpg",
+      "publishedAt": "2026-11-05 10:21 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "El Mundo",
+          "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/05/6aec580ce4d4d88e5c8b45a6.html"
+        }
+      ]
+    },
+    {
+      "id": "espana|https://www.europapress.es/internacional/noticia-desviado-francia-avion-cubria-ruta-irlanda-italia-causa-amenaza-bomba-20261105111352.html",
       "section": "espana",
       "category": "Europa Press",
-      "title": "Colau propone un impuesto a ultrarricos para recaudar 10.000 millones y elevar la tributación a la banca",
-      "summary": "La candidata de Frente Amplio a las elecciones del 29N, Ada Colau, ha planteado un impuesto a los ultrarricos, centrado a partir de patrimonios de un millón de euros, para recaudar más de 10.000 millones.",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261105100844_120.jpg",
-      "publishedAt": "2026-11-05 09:08 UTC",
+      "title": "Desviado a Francia un avión que cubría la ruta entre Irlanda e Italia a causa de una amenaza de bomba",
+      "summary": "Un vuelo de la compañía irlandesa Aer Lingus que cubría la ruta entre las capitales de Irlanda e Italia, Dublín y Roma, respectivamente, ha sido desviado este jueves a una base aérea en el norte de Francia a causa de una amenaza de bomba, según han confirmado las autoridades francesas, que han recalcado que los equipos de artificieros están ya inspeccionando…",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261105111352_120.jpg",
+      "publishedAt": "2026-11-05 10:13 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Europa Press",
-          "url": "https://www.europapress.es/nacional/noticia-colau-propone-impuesto-ultrarricos-recaudar-10000-millones-elevar-tributacion-banca-20261105100844.html"
+          "url": "https://www.europapress.es/internacional/noticia-desviado-francia-avion-cubria-ruta-irlanda-italia-causa-amenaza-bomba-20261105111352.html"
         }
       ]
     },
     {
-      "id": "espana|https://www.europapress.es/nacional/noticia-cumbre-ibesanchez-pide-ambicion-socios-iberoamericanos-mundo-dividido-facil-seria-no-estar-aqui-hoy-20261105100339.html",
+      "id": "espana|https://elpais.com/espana/2026-11-05/la-fiscalia-rebaja-la-pena-de-carcel-que-solicita-para-ignacio-gonzalez-en-su-primer-juicio-por-corrupcion.html",
       "section": "espana",
-      "category": "Europa Press",
-      "title": "Sánchez pide ambición a los socios iberoamericanos ante un mundo dividido: \"Lo fácil sería no estar aquí hoy\"",
-      "summary": "El presidente del Gobierno, Pedro Sánchez, ha reclamado \"ambición\" a los estados que participan en la XXX Cumbre Iberoamericana que se celebra en Madrid en un contexto internacional de división y frente a quienes optan por el unilateralismo y la guerra: \"Lo fácil en un mundo como el de hoy sería no estar aquí\", ha señalado en la apertura del plenario en seña…",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261105100339_120.jpg",
-      "publishedAt": "2026-11-05 09:03 UTC",
+      "category": "El País",
+      "title": "La Fiscalía rebaja la pena de cárcel que solicita para Ignacio González en su primer juicio por corrupción",
+      "summary": "El ministerio público aprecia la atenuante de dilaciones indebidas y reduce ligeramente su reclamación hasta los cinco años de prisión",
+      "image": "https://imagenes.elpais.com/resizer/v2/EBVYZMYY2RO73F77IWOCZONFVY.jpg?auth=09914b411f17f6a1b1a4c621fccf8feddb1c965525a9ebd3174d778591a81800",
+      "publishedAt": "2026-11-05 10:10 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "Europa Press",
-          "url": "https://www.europapress.es/nacional/noticia-cumbre-ibesanchez-pide-ambicion-socios-iberoamericanos-mundo-dividido-facil-seria-no-estar-aqui-hoy-20261105100339.html"
+          "name": "El País",
+          "url": "https://elpais.com/espana/2026-11-05/la-fiscalia-rebaja-la-pena-de-carcel-que-solicita-para-ignacio-gonzalez-en-su-primer-juicio-por-corrupcion.html"
         }
       ]
     },
@@ -100,7 +154,7 @@
       "title": "Koldo García asegura que acordó con el abogado del PP un millón de euros a cambio de información para hacer caer a Sánchez",
       "summary": "En un audio publicado por la Cadena SER, el exasesor de Ábalos afirma que el letrado le ofreció una rebaja de la pena que suponía no entrar en la cárcel",
       "image": "https://imagenes.elpais.com/resizer/v2/BUZMYTYS3ZGQFLHIPLDUXMRX2U.jpg?auth=2d4f8b666e483fa3e9cb9f63ad337af38fa4c1996b02c5ee58b55a6313862b1c",
-      "publishedAt": "2026-11-05 09:03 UTC",
+      "publishedAt": "2026-11-05 10:07 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
@@ -112,92 +166,38 @@
       ]
     },
     {
-      "id": "espana|https://www.elmundo.es/espana/2026/11/05/6aec4463e85ece1b2d8b4598.html",
+      "id": "espana|https://elpais.com/internacional/2026-11-05/cinco-aviones-con-destino-a-ciudades-europeas-realizan-aterrizajes-de-emergencia-tras-recibir-amenazas-de-bomba.html",
+      "section": "espana",
+      "category": "El País",
+      "title": "Una decena de aviones con destino a ciudades europeas realizan aterrizajes de emergencia tras recibir amenazas de bomba",
+      "summary": "Una de las aeronaves ha sido escoltada por aviones militares italianos. La incidencia es similar a la registrada el martes en otros siete vuelos",
+      "image": "https://imagenes.elpais.com/resizer/v2/C2E7YKCGXVCJ7OIYKFNFEDSTSQ.JPG?auth=dd8e32fb4ce37e277e88c7cb569782f57940f090aa5b762c05811d5c87fccf7d",
+      "publishedAt": "2026-11-05 10:04 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "El País",
+          "url": "https://elpais.com/internacional/2026-11-05/cinco-aviones-con-destino-a-ciudades-europeas-realizan-aterrizajes-de-emergencia-tras-recibir-amenazas-de-bomba.html"
+        }
+      ]
+    },
+    {
+      "id": "espana|https://www.elmundo.es/internacional/2026/11/05/6aec548bfc6c835e518b4599.html",
       "section": "espana",
       "category": "El Mundo",
-      "title": "Amnistía Internacional eleva a 50 los casos documentados de maltrato de militares a inmigrantes en Ceuta",
-      "summary": "La ONG señala en un informe que se han producido agresiones con puñetazos, patadas, golpes con porras y uso de táser por parte de militares, generalmente regulares, a personas que dormían en la calle Leer",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/05/17938688441149.jpg",
-      "publishedAt": "2026-11-05 08:59 UTC",
+      "title": "Abandona a su mujer y se va a vivir con sus dos amantes, que lo matan para cobrar una póliza de seguro millonaria",
+      "summary": "Los jueces del tribunal de Siena consideran que \"el contrato es nulo y la esposa no tiene derecho a nada\" en el caso de la muerte de Paolo Vaj y un seguro de vida de 310.000 euros. Los abogados anuncian que recurrirán la sentencia, que consideran injusta Leer",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/05/17938724649620.jpg",
+      "publishedAt": "2026-11-05 10:03 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "El Mundo",
-          "url": "https://www.elmundo.es/espana/2026/11/05/6aec4463e85ece1b2d8b4598.html"
-        }
-      ]
-    },
-    {
-      "id": "espana|https://www.europapress.es/nacional/noticia-uco-lanza-operacion-nueva-pieza-secreta-caso-koldo-audiencia-nacional-20261105095740.html",
-      "section": "espana",
-      "category": "Europa Press",
-      "title": "La UCO lanza una operación por una nueva pieza secreta del 'caso Koldo' en la Audiencia Nacional",
-      "summary": "Agentes de la Unidad Central Operativa (UCO) de la Guardia Civil llevan a cabo una operación desde primera hora de la mañana de este jueves relacionada con la apertura de una pieza separada secreta del 'caso Koldo' en la Audiencia Nacional, según han confirmado a Europa Press fuentes del caso.",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261105095740_120.jpg",
-      "publishedAt": "2026-11-05 08:57 UTC",
-      "language": "es",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Europa Press",
-          "url": "https://www.europapress.es/nacional/noticia-uco-lanza-operacion-nueva-pieza-secreta-caso-koldo-audiencia-nacional-20261105095740.html"
-        }
-      ]
-    },
-    {
-      "id": "espana|https://elpais.com/espana/2026-11-05/la-uco-despliega-un-nuevo-operativo-tras-entregar-un-informe-sobre-amanos-en-el-caso-koldo.html",
-      "section": "espana",
-      "category": "El País",
-      "title": "La UCO registra la casa de Ábalos en Valencia en un nuevo operativo sobre amaños del ‘caso Koldo’",
-      "summary": "El juez Moreno abrió este miércoles una pieza secreta tras un informe de la Guardia Civil que apunta a supuestas irregularidades desconocidas hasta ahora",
-      "image": "https://imagenes.elpais.com/resizer/v2/3MMTHOSLWFFLBBOBUBTEPDC3YQ.jpg?auth=b5c9172faf4708e52f29b9c4f777cf8f6fbcf99bcbefe3d6cf3f3ae424e98922",
-      "publishedAt": "2026-11-05 08:50 UTC",
-      "language": "es",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "El País",
-          "url": "https://elpais.com/espana/2026-11-05/la-uco-despliega-un-nuevo-operativo-tras-entregar-un-informe-sobre-amanos-en-el-caso-koldo.html"
-        }
-      ]
-    },
-    {
-      "id": "espana|https://elpais.com/espana/madrid/2026-11-05/ayuso-vuelve-a-la-asamblea-de-madrid-entre-el-luto-por-la-tragedia-de-urda-y-la-precampana.html",
-      "section": "espana",
-      "category": "El País",
-      "title": "Ayuso vuelve a la Asamblea de Madrid entre el luto por la tragedia de Urda y la precampaña",
-      "summary": "Los partidos de la izquierda encararán a la presidenta con las huelgas de educación y sanidad",
-      "image": "https://www.youtube.com/watch?v=ME8_8g6NxHo",
-      "publishedAt": "2026-11-05 08:50 UTC",
-      "language": "es",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "El País",
-          "url": "https://elpais.com/espana/madrid/2026-11-05/ayuso-vuelve-a-la-asamblea-de-madrid-entre-el-luto-por-la-tragedia-de-urda-y-la-precampana.html"
-        }
-      ]
-    },
-    {
-      "id": "espana|https://www.europapress.es/nacional/noticia-sanchez-milei-mantienen-frio-saludo-inicio-cumbre-iberoamericana-madrid-20261105093924.html",
-      "section": "espana",
-      "category": "Europa Press",
-      "title": "Sánchez y Milei mantienen un frío saludo al inicio de la Cumbre Iberoamericana en Madrid",
-      "summary": "El presidente del Gobierno, Pedro Sánchez, y el presidente de Argentina, Javier Milei, han mantenido este jueves un frío saludo al inicio de la Cumbre Iberoamericana de Madrid, en el primer encuentro entre ambos durante la visita del líder argentino a España.",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261105093924_120_v2.jpg",
-      "publishedAt": "2026-11-05 08:39 UTC",
-      "language": "es",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Europa Press",
-          "url": "https://www.europapress.es/nacional/noticia-sanchez-milei-mantienen-frio-saludo-inicio-cumbre-iberoamericana-madrid-20261105093924.html"
+          "url": "https://www.elmundo.es/internacional/2026/11/05/6aec548bfc6c835e518b4599.html"
         }
       ]
     },
@@ -205,10 +205,10 @@
       "id": "espana|https://elpais.com/videos/2026-11-05/jan-martinez-ahrens-director-de-el-pais-habla-en-hoy-por-hoy-de-la-cadena-ser-de-los-500000-suscriptores-del-diario.html",
       "section": "espana",
       "category": "El País",
-      "title": "Jan Martínez Ahrens, director de EL PAÍS, habla en ‘Hoy por hoy’, de la Cadena SER, de los 500.000 suscriptores del diario",
-      "summary": "El periódico ha alcanzado el medio millón de personas suscritas en el año de su 50 aniversario",
-      "image": "https://www.youtube.com/watch?v=fnpeKOiuPtg",
-      "publishedAt": "2026-11-05 08:33 UTC",
+      "title": "Jan Martínez Ahrens, director de EL PAÍS: “Los suscriptores son la piedra angular del periódico”",
+      "summary": "El responsable del diario explica en el programa ‘Hoy por hoy’ cómo ha alcanzado el medio millón de personas suscritas en el año de su 50º aniversario",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261105/1234090_093641_video_1800.mp4",
+      "publishedAt": "2026-11-05 09:56 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
@@ -220,146 +220,146 @@
       ]
     },
     {
-      "id": "espana|https://elpais.com/television/2026-11-05/marc-giro-saca-la-motosierra-y-vuelve-al-armario-si-yo-ahora-entrevisto-a-un-candidato-de-ultraderecha-que-va-a-promocionar-el-fascismo.html",
+      "id": "espana|https://www.elmundo.es/espana/2026/11/05/6aec3c2821efa0b2518b4597.html",
+      "section": "espana",
+      "category": "El Mundo",
+      "title": "Javier Milei, tras su frío saludo con Sánchez, eleva la tensión en la Cumbre Iberoamericana: \"La equivalencia entre socialistas y fascistas no es casual\"",
+      "summary": "Leer",
+      "image": "http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&cg=rss-elmundo&ci=es-widgetueditorial&si=http://www.elmundo.es/rss/index.xml",
+      "publishedAt": "2026-11-05 09:56 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "El Mundo",
+          "url": "https://www.elmundo.es/espana/2026/11/05/6aec3c2821efa0b2518b4597.html"
+        }
+      ]
+    },
+    {
+      "id": "espana|https://elpais.com/espana/madrid/2026-11-05/ayuso-vuelve-a-la-asamblea-de-madrid-entre-el-luto-por-la-tragedia-de-urda-y-la-precampana.html",
       "section": "espana",
       "category": "El País",
-      "title": "Marc Giró saca la motosierra y vuelve al armario: “Si yo ahora entrevisto a un candidato de ultraderecha, ¿qué va a promocionar?, ¿el fascismo?”",
-      "summary": "El presentador de ‘Cara al Show’ explicó en su habitual monólogo semanal la razón por la que no piensa invitar a políticos de ultraderecha y recibe en el plató al candidato Gabriel Rufián",
-      "image": "https://imagenes.elpais.com/resizer/v2/NMPPQKI4A5DF3MRNJXRH6E4VBU.png?auth=20c730a0227512058d496aaaed14b53b54ae1bb5044be72c67bcf5b48b9594ce",
-      "publishedAt": "2026-11-05 08:32 UTC",
+      "title": "Ayuso no se contenta con la dimisión de Puente y pide la de Sánchez: “Ha habido dos tragedias que no ocurren ni en los países tercermundistas”",
+      "summary": "PSOE y Más Madrid confían en la remontada del progresismo tras las victorias de Lula y los demócratas en Estados Unidos",
+      "image": "https://imagenes.elpais.com/resizer/v2/KZJCU37MPZMN3J2PADXQFFIE5M.jpg?auth=a017916d4f5c911f9d068e110092b6bad782fb2b223af103ea5b3914a5f8de83",
+      "publishedAt": "2026-11-05 09:55 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "El País",
-          "url": "https://elpais.com/television/2026-11-05/marc-giro-saca-la-motosierra-y-vuelve-al-armario-si-yo-ahora-entrevisto-a-un-candidato-de-ultraderecha-que-va-a-promocionar-el-fascismo.html"
+          "url": "https://elpais.com/espana/madrid/2026-11-05/ayuso-vuelve-a-la-asamblea-de-madrid-entre-el-luto-por-la-tragedia-de-urda-y-la-precampana.html"
         }
       ]
     },
     {
-      "id": "espana|https://www.elmundo.es/espana/2026/11/04/6aeb8622e4d4d84d628b45a2.html",
-      "section": "espana",
-      "category": "El Mundo",
-      "title": "Adif prevé un grave deterioro de la \"fiabilidad\" de los trenes hasta 2030",
-      "summary": "Pronostica un 20% más de \"sucesos con afectación al tráfico\" y reconoce que no cumplirá sus planes de mantenimiento ni un solo año Leer",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/04/17938222226220.jpg",
-      "publishedAt": "2026-11-05 08:17 UTC",
-      "language": "es",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "El Mundo",
-          "url": "https://www.elmundo.es/espana/2026/11/04/6aeb8622e4d4d84d628b45a2.html"
-        }
-      ]
-    },
-    {
-      "id": "espana|https://www.elmundo.es/internacional/2026/11/04/6aeb8f31fdddff8b458b4593.html",
-      "section": "espana",
-      "category": "El Mundo",
-      "title": "El poder quebrado de Trump: el tsunami azul pone fin al mito de su invulnerabilidad",
-      "summary": "El castigo a la corrupción y al coste de la vida deja al presidente sin mayorías. Los republicanos constatan que él es el problema y arranca la campaña por su sucesión Leer",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/04/17938226885158.jpg",
-      "publishedAt": "2026-11-05 07:46 UTC",
-      "language": "es",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "El Mundo",
-          "url": "https://www.elmundo.es/internacional/2026/11/04/6aeb8f31fdddff8b458b4593.html"
-        }
-      ]
-    },
-    {
-      "id": "espana|https://www.elmundo.es/internacional/2026/11/05/6aeb10aae4d4d86d528b4586.html",
-      "section": "espana",
-      "category": "El Mundo",
-      "title": "Claves del tsunami demócrata: principio del fin de la era Trump",
-      "summary": "El desgaste inevitable del poder, la mala imagen de Trump, sobre todo entre los jóvenes y los hispanos, la inflación y la impopular guerra en Irán han catapultado a los demócratas Leer",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/04/17938014564786.jpg",
-      "publishedAt": "2026-11-05 07:45 UTC",
-      "language": "es",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "El Mundo",
-          "url": "https://www.elmundo.es/internacional/2026/11/05/6aeb10aae4d4d86d528b4586.html"
-        }
-      ]
-    },
-    {
-      "id": "espana|https://elpais.com/internacional/2026-11-05/hong-kong-condena-a-otros-10-anos-de-prision-al-activista-joshua-wong-que-debia-salir-de-prision-el-proximo-enero.html",
-      "section": "espana",
-      "category": "El País",
-      "title": "Hong Kong condena a otros 10 años de prisión al activista Joshua Wong, que debía salir de prisión el próximo enero",
-      "summary": "Símbolo de la lucha prodemocracia, el preso recibe su segunda condena bajo la Ley de Seguridad Nacional por ‘coludir con fuerzas extranjeras’",
-      "image": "https://imagenes.elpais.com/resizer/v2/4JDTYCMJ45KWDFM2SADXYIOMMU.jpg?auth=b66037b770785a9455b8315e0c1d9de920b13399844b96fda6d80b2b6876850c",
-      "publishedAt": "2026-11-05 07:42 UTC",
-      "language": "es",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "El País",
-          "url": "https://elpais.com/internacional/2026-11-05/hong-kong-condena-a-otros-10-anos-de-prision-al-activista-joshua-wong-que-debia-salir-de-prision-el-proximo-enero.html"
-        }
-      ]
-    },
-    {
-      "id": "espana|https://www.europapress.es/economia/laboral-00346/noticia-trabajo-mejora-propuesta-expertos-plantea-subir-smi-53-2027-1286-euros-20261105084223.html",
+      "id": "espana|https://www.europapress.es/nacional/noticia-psoe-acusa-guerra-sucia-pp-derribar-gobierno-legitimo-intentar-comprar-testimonio-koldo-20261105105421.html",
       "section": "espana",
       "category": "Europa Press",
-      "title": "Trabajo mejora la propuesta de los expertos y plantea subir el SMI un 5,3% en 2027, hasta los 1.286 euros",
-      "summary": "El Ministerio de Trabajo y Economía Social ha elaborado un borrador de real decreto en el que fija una subida del Salario Mínimo Interprofesional (SMI) para 2027 del 5,3%, hasta los 1.286 euros al mes en 14 pagas (42,87 euros al día) o un total de 18.004 euros anuales.",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261105084223_120.jpg",
-      "publishedAt": "2026-11-05 07:42 UTC",
+      "title": "PSOE acusa al PP de \"intentar comprar\" el testimonio de Koldo para derribar a Sánchez y 'Génova' dice que es \"falso\"",
+      "summary": "El PSOE ha acusado de \"guerra sucia\" al Partido Popular para \"derribar a un Gobierno legítimo\", en respuesta a las informaciones que recogen la declaración del exasesor ministerial Koldo García, que asegura que pactó con el hasta ahora abogado del PP pagar sus defensas y un millón de euros a cambio de información para \"derrocar\" a Pedro Sánchez. Fuentes de l…",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261105105421_120.jpg",
+      "publishedAt": "2026-11-05 09:54 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Europa Press",
-          "url": "https://www.europapress.es/economia/laboral-00346/noticia-trabajo-mejora-propuesta-expertos-plantea-subir-smi-53-2027-1286-euros-20261105084223.html"
+          "url": "https://www.europapress.es/nacional/noticia-psoe-acusa-guerra-sucia-pp-derribar-gobierno-legitimo-intentar-comprar-testimonio-koldo-20261105105421.html"
         }
       ]
     },
     {
-      "id": "espana|https://www.elmundo.es/cataluna/2026/11/05/6aec322efc6c83be3b8b458d.html",
+      "id": "espana|https://www.elmundo.es/economia/2026/11/05/6aec46bee85ece22718b4593.html",
       "section": "espana",
       "category": "El Mundo",
-      "title": "Suspenden 24 días de empleo y sueldo a un agente de la Guardia Urbana de Barcelona por negarse a hablar en catalán",
-      "summary": "El Ayuntamiento de Barcelona asegura que se debe a un \"trato inadecuado\" a una ciudadana Leer",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/05/17938641497628.jpg",
-      "publishedAt": "2026-11-05 07:37 UTC",
+      "title": "Cuerpo cita esta tarde a los maquinistas tras descabezar Adif para que desactiven sus protestas en plena campaña electoral",
+      "summary": "El nuevo responsable de Transportes trata de aplacar a la plantilla mientras el regulador llama a Adif para imponerle la reducción de velocidades cuando los sistemas LZB caigan, como en Urda Leer",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/05/17938714561382.jpg",
+      "publishedAt": "2026-11-05 09:44 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "El Mundo",
-          "url": "https://www.elmundo.es/cataluna/2026/11/05/6aec322efc6c83be3b8b458d.html"
+          "url": "https://www.elmundo.es/economia/2026/11/05/6aec46bee85ece22718b4593.html"
         }
       ]
     },
     {
-      "id": "espana|https://www.elmundo.es/internacional/2026/11/05/6aec0fae21efa0a21a8b4579.html",
+      "id": "espana|https://www.europapress.es/nacional/noticia-milei-equipara-socialismo-fascismo-delante-sanchez-cumbre-iberoamericana-20261105103357.html",
       "section": "espana",
-      "category": "El Mundo",
-      "title": "Joshua Wong, rostro de las protestas prodemocráticas de Hong Kong, condenado a 10 años de prisión",
-      "summary": "El juez asegura que Wong visitó EEUU para \"buscar injerencia extranjera\". Su sentencia se suma a las duras condenas contra políticos de la oposición, activistas y periodistas en una ciudad donde apenas queda rastro del movimiento prodemocrático Leer",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/05/17938552915266.jpg",
-      "publishedAt": "2026-11-05 07:25 UTC",
+      "category": "Europa Press",
+      "title": "Milei equipara el socialismo con el fascismo delante de Sánchez durante la Cumbre Iberoamericana",
+      "summary": "El presidente de Argentina, Javier Milei, ha equiparado este jueves el socialismo con el fascismo en un discurso ante el presidente del Gobierno, Pedro Sánchez, y los líderes iberoamericanos durante la XXX Cumbre Iberoamericana.",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261105103357_120_v2.jpg",
+      "publishedAt": "2026-11-05 09:33 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "El Mundo",
-          "url": "https://www.elmundo.es/internacional/2026/11/05/6aec0fae21efa0a21a8b4579.html"
+          "name": "Europa Press",
+          "url": "https://www.europapress.es/nacional/noticia-milei-equipara-socialismo-fascismo-delante-sanchez-cumbre-iberoamericana-20261105103357.html"
+        }
+      ]
+    },
+    {
+      "id": "espana|https://elpais.com/us/2026-11-05/impulsar-la-economia-investigar-la-corrupcion-todo-junto-el-nuevo-congreso-democrata-en-estados-unidos-decide-sus-primeros-pasos.html",
+      "section": "espana",
+      "category": "El País",
+      "title": "¿Impulsar la economía? ¿Investigar la corrupción? ¿Todo junto? El nuevo Congreso demócrata en Estados Unidos decide sus primeros pasos",
+      "summary": "Los líderes demócratas prometen escuchar las demandas de los votantes en la nueva legislatura",
+      "image": "https://imagenes.elpais.com/resizer/v2/E5RB36HHAJKWBITC5TDMN25KOU.jpg?auth=9bb661bbd2d8800f950bc7c83b4b04613f7ba54765f1e000358dbdb3a027cd75",
+      "publishedAt": "2026-11-05 09:30 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "El País",
+          "url": "https://elpais.com/us/2026-11-05/impulsar-la-economia-investigar-la-corrupcion-todo-junto-el-nuevo-congreso-democrata-en-estados-unidos-decide-sus-primeros-pasos.html"
+        }
+      ]
+    },
+    {
+      "id": "espana|https://elpais.com/us/2026-11-05/los-latinos-castigan-a-trump-y-lideran-el-giro-hacia-el-partido-democrata-en-las-midterms.html",
+      "section": "espana",
+      "category": "El País",
+      "title": "Los latinos castigan a Trump y lideran el giro hacia el Partido Demócrata en las ‘midterms’",
+      "summary": "El apoyo de los hispanos al partido azul subió 28 puntos, hasta el 69% en la Cámara de Representantes, y se volcaron en dar la victoria a los demócratas en Texas",
+      "image": "https://imagenes.elpais.com/resizer/v2/TJVFD6HGH5KXLI3CZI4ZB4D4BY.jpg?auth=4d3f10e6837bc33ec8936ccc1f150e351f0c290100f764bc5c9a274bc3ef6ca0",
+      "publishedAt": "2026-11-05 09:30 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "El País",
+          "url": "https://elpais.com/us/2026-11-05/los-latinos-castigan-a-trump-y-lideran-el-giro-hacia-el-partido-democrata-en-las-midterms.html"
+        }
+      ]
+    },
+    {
+      "id": "espana|https://elpais.com/us/2026-11-05/en-mapas-la-frontera-con-mexico-vuelve-a-los-democratas-tras-su-breve-coqueteo-con-trump.html",
+      "section": "espana",
+      "category": "El País",
+      "title": "En mapas: la frontera con México vuelve a los demócratas tras su breve coqueteo con Trump",
+      "summary": "Los candidatos demócratas ganan o van por delante en todos los distritos de la Cámara de Representantes que son limítrofes con el vecino del sur",
+      "image": "",
+      "publishedAt": "2026-11-05 09:30 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "El País",
+          "url": "https://elpais.com/us/2026-11-05/en-mapas-la-frontera-con-mexico-vuelve-a-los-democratas-tras-su-breve-coqueteo-con-trump.html"
         }
       ]
     },
@@ -367,10 +367,10 @@
       "id": "mundo|https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
       "section": "mundo",
       "category": "The Guardian World",
-      "title": "Aer Lingus flight to Rome diverted to military base after latest bomb threat, France says – Europe live",
-      "summary": "French prime minister’s office says Aer Lingus flight from Dublin to Rome now heading to military base in Evreux The plane appears to have just touched down in Evreux, according to Flightradar24’s tracking service. We will no doubt hear more from authorities in due course. Continue reading...",
+      "title": "Planes diverted as bomb threats to commercial flights reported across Europe – live",
+      "summary": "France confirms Dublin-Rome flight has landed in military base, while threats also reported in Italy, Bulgaria and Belgium And the Italian news agency Ansa reported that two more planes with links to Italy were affected by bomb threats this morning: that’s a WizzAir service from Milan Malpensa to Warsaw, which reportedly landed in Vienna, and a Finnair fligh…",
       "image": "https://i.guim.co.uk/img/media/f88047fff40cd32f637f149cc85a181ed5d2d471/177_0_2183_1747/master/2183.jpg?width=140&quality=85&auto=format&fit=max&s=1b0fe384171a62bd094571977272ab33",
-      "publishedAt": "2026-11-05 09:07 UTC",
+      "publishedAt": "2026-11-05 10:18 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
@@ -378,6 +378,24 @@
         {
           "name": "The Guardian World",
           "url": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://www.abc.net.au/news/2026-11-05/bomb-threat-diverts-planes-across-europe/107352984",
+      "section": "mundo",
+      "category": "ABC Australia",
+      "title": "Breaking: More bomb threats divert planes across Europe",
+      "summary": "Bomb threats have affected at least seven flights in Europe today, including three in Bulgaria, one in Italy and one flying over France.",
+      "image": "https://live-production.wcms.abc-cdn.net.au/cd7b3fc9afdf6c5dc107cb3211078706?impolicy=wcms_crop_resize&cropH=2810&cropW=4995&xPos=0&yPos=377&width=862&height=485",
+      "publishedAt": "2026-11-05 09:41 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "ABC Australia",
+          "url": "https://www.abc.net.au/news/2026-11-05/bomb-threat-diverts-planes-across-europe/107352984"
         }
       ]
     },
@@ -886,20 +904,38 @@
       ]
     },
     {
-      "id": "mundo|https://www.abc.net.au/news/2026-11-05/brendan-nugent-linked-dog-incident-victoria-police-helen-haines/107349240",
-      "section": "mundo",
-      "category": "ABC Australia",
-      "title": "Police 'aware' of allegation dog lost leg in incident involving alleged Helen Haines attacker",
-      "summary": "Victoria Police says it is \"aware\" of allegations that a vehicle linked to Helen Haines's alleged attacker Brendan Nugent ran over a dog in 2020.",
-      "image": "https://live-production.wcms.abc-cdn.net.au/ded0e46808cc77e03583128b472f91b8?impolicy=wcms_crop_resize&cropH=871&cropW=1549&xPos=0&yPos=81&width=862&height=485",
-      "publishedAt": "2026-11-05 05:44 UTC",
+      "id": "television|https://variety.com/2026/tv/global/married-at-first-sight-uk-canceled-1236940065/",
+      "section": "television",
+      "category": "Variety TV",
+      "title": "‘Married at First Sight’ U.K. Canceled by Channel 4 Following Sexual Assault Allegations",
+      "summary": "“Married at First Sight” U.K. has been canceled by Channel 4 following allegations of sexual assault on the show, the broadcaster confirmed today. Based on an Australian format, the series sees experts match two single strangers who meet for the first time on their wedding day before immediately moving in together. It is produced for […]",
+      "image": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2171258321.jpg",
+      "publishedAt": "2026-11-05 10:30 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "ABC Australia",
-          "url": "https://www.abc.net.au/news/2026-11-05/brendan-nugent-linked-dog-incident-victoria-police-helen-haines/107349240"
+          "name": "Variety TV",
+          "url": "https://variety.com/2026/tv/global/married-at-first-sight-uk-canceled-1236940065/"
+        }
+      ]
+    },
+    {
+      "id": "television|https://variety.com/2026/tv/global/sky-news-james-matthews-abdul-el-sayed-proud-1236940080/",
+      "section": "television",
+      "category": "Variety TV",
+      "title": "Sky News Stands by Journalist Following Heated Exchange With Abdul El-Sayed: ‘We’re Proud of Our Correspondent, Who Was Doing His Job’",
+      "summary": "Sky News has said it is “proud” of U.S. correspondent James Matthews following his heated exchange with newly-elected Senator Abdul El-Sayed, telling Variety the journalist “was doing his job.” Meanwhile Matthews himself has weighed in on the confrontation, saying he hadn’t had a chance to ask the politician any questions directly before El-Sayed made a […]",
+      "image": "https://variety.com/wp-content/uploads/2026/11/Sky-News2.jpg",
+      "publishedAt": "2026-11-05 10:06 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Variety TV",
+          "url": "https://variety.com/2026/tv/global/sky-news-james-matthews-abdul-el-sayed-proud-1236940080/"
         }
       ]
     },
@@ -1174,24 +1210,6 @@
       ]
     },
     {
-      "id": "television|https://variety.com/lists/variety-10-comics-to-watch-2026/",
-      "section": "television",
-      "category": "Variety TV",
-      "title": "Variety’s 10 Comics to Watch for 2026",
-      "summary": "Since the turn of the century, Variety has scoped out the next generation of comedy stars through our annual 10 Comics to Watch franchise. The inaugural lineup in 2000 included future industry favorites Zach Galifianakis, Maria Bamford, Patton Oswalt and Louis C.K. And 15 years later, this magazine identified Nate Bargatze and Nikki Glaser as […]",
-      "image": "https://variety.com/wp-content/uploads/2026/11/split-image-1000-1-2.jpg",
-      "publishedAt": "2026-11-04 20:00 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Variety TV",
-          "url": "https://variety.com/lists/variety-10-comics-to-watch-2026/"
-        }
-      ]
-    },
-    {
       "id": "television|https://www.eldiario.es/vertele/noticias/la-septima-llega-objetivo-realista-audiencias-respuesta-pp-invitacion-tv-plural-no-entiende-mesa_1_13636509.html",
       "section": "television",
       "category": "Vertele",
@@ -1206,24 +1224,6 @@
         {
           "name": "Vertele",
           "url": "https://www.eldiario.es/vertele/noticias/la-septima-llega-objetivo-realista-audiencias-respuesta-pp-invitacion-tv-plural-no-entiende-mesa_1_13636509.html"
-        }
-      ]
-    },
-    {
-      "id": "television|https://variety.com/2026/tv/news/matt-friend-range-media-partners-1236938846/",
-      "section": "television",
-      "category": "Variety TV",
-      "title": "Matt Friend Signs With Range Media Partners (EXCLUSIVE)",
-      "summary": "Matt Friend has signed with Range Media Partners for representation. The 28-year-old comedian has gone viral on social media for his arsenal of impressions, which includes 250 distinct voices from Donald Trump to Rami Malek. Friend has made a name for himself performing impressions in front of the subjects themselves. He’s done Barack Obama with […]",
-      "image": "https://variety.com/wp-content/uploads/2026/11/Matt-Friend-Oscars-Photo-Credit-Getty-Images65-e1793740602160.jpg",
-      "publishedAt": "2026-11-04 19:30 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Variety TV",
-          "url": "https://variety.com/2026/tv/news/matt-friend-range-media-partners-1236938846/"
         }
       ]
     },
@@ -1393,9 +1393,9 @@
       "id": "television|https://www.eldiario.es/vertele/noticias/rtve-anuncia-fecha-horario-estreno-nuevo-cine-de-barrio-primera-pelicula-emitira-la-2_1_13636792.html",
       "section": "television",
       "category": "Vertele",
-      "title": "RTVE anuncia la fecha y el horario de estreno del nuevo 'Cine de barrio' y la primera película que emitirá en La 2",
-      "summary": "RTVE fija la fecha de estreno y el horario de emisión de la nueva etapa de 'Cine de barrio', que a partir de esta temporada se emitirá en La 2. Además, anuncia cuál será la película que inaugure el reinicio del mítico contenedor cinematográfico Vídeo - Wyoming aplaude en 'El Intermedio' la dimisión de Óscar Puente: “Esperemos que otros muchos tomen nota” Guí…",
-      "image": "https://static.eldiario.es/clip/37b4c349-4425-437f-8cd1-67950e3e4938_16-9-discover-aspect-ratio_default_0.jpg",
+      "title": "RTVE anuncia los presentadores del renovado 'Cine de barrio' de La 2: de Jorge Ponce a Lourdes Maldonado",
+      "summary": "RTVE fija la fecha de estreno y el horario de emisión de la nueva etapa de 'Cine de barrio', que a partir de esta temporada se emitirá en La 2. Además, anuncia cuál será la película que inaugure el reinicio del mítico contenedor cinematográfico, así como los presentadores que introducirán los primeros largometrajes a emitir Vídeo - Wyoming aplaude en 'El Int…",
+      "image": "https://static.eldiario.es/clip/e3c1e11a-d2fd-4f25-892a-ec408d9580bd_16-9-discover-aspect-ratio_default_0.jpg",
       "publishedAt": "2026-11-04 10:45 UTC",
       "language": "es",
       "topic": null,
@@ -1624,6 +1624,24 @@
       ]
     },
     {
+      "id": "mundo|https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc2lKdjUxbkg3UmVxdVUtaWQ0cURFTzM5QWZaazNldjNRaFdRWWMtRXFVR3gzMDZpT3ZMZjRjNkVOdEY4N1JlM2c3VmJCTWljX1pSVlVKcnRZaWhiY1MzN1FzMHZwTFBXQWJqODItaS1nVzlCYmNuNW9fT0JKOGJhZUNIalJoM1U10gGIAUFVX3lxTE9IMzR1YVZqalg0X01fTGZEdVNwWEpDMF93NTFwQWxvOGVBSDVFZnZRbFhHeDFuTFBzLUpLY3d1c3dUUDFXTVpQbG5ZNXNhenU0QXczZjIyNjd3Q010eW1VYUE0WHBJM0tEUFUxcUFtYjU3OG92MTN6cXRaOTdoeWNtWnpvMkN5b3A?oc=5",
+      "section": "mundo",
+      "category": "Noticias internacionales",
+      "title": "De 'ariete' de Sánchez contra Ayuso a Tragsa: el ex delegado del Gobierno en Madrid vuelve a la empresa pública al día siguiente de su cese - El Mundo",
+      "summary": "De 'ariete' de Sánchez contra Ayuso a Tragsa: el ex delegado del Gobierno en Madrid vuelve a la empresa pública al día siguiente de su cese El Mundo",
+      "image": "",
+      "publishedAt": "2026-11-05 00:34 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Noticias internacionales",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc2lKdjUxbkg3UmVxdVUtaWQ0cURFTzM5QWZaazNldjNRaFdRWWMtRXFVR3gzMDZpT3ZMZjRjNkVOdEY4N1JlM2c3VmJCTWljX1pSVlVKcnRZaWhiY1MzN1FzMHZwTFBXQWJqODItaS1nVzlCYmNuNW9fT0JKOGJhZUNIalJoM1U10gGIAUFVX3lxTE9IMzR1YVZqalg0X01fTGZEdVNwWEpDMF93NTFwQWxvOGVBSDVFZnZRbFhHeDFuTFBzLUpLY3d1c3dUUDFXTVpQbG5ZNXNhenU0QXczZjIyNjd3Q010eW1VYUE0WHBJM0tEUFUxcUFtYjU3OG92MTN6cXRaOTdoeWNtWnpvMkN5b3A?oc=5"
+        }
+      ]
+    },
+    {
       "id": "mundo|https://news.google.com/rss/articles/CBMihAFBVV95cUxOY2RVLWJWNFhaNHFGaHRlczMxTXdMZ3RqUnZtYjI2YWVRZVFqN2MwUU01LUE0U01GX1ctQ1BjZVg5LUJqYjQzb3JHWV91OUhCcnl1eXlrUzUwcTZuQ0JueThSeGlpUEdsdmRfdERjNEk5a3NpR1F3YTBIUmRWRnpDWjd1WFTSAYQBQVVfeXFMTUFOV0V4cWxJUVBZOVNjRXZoNEtrVmVnRzJTMm9xWEkxREZXaXQ2d1NUb2pGbDZOVmNvY29ybEVQcXk2aXJGSUthNFNoSEJJZmRZN2VSZ2tCbVJIbzZZTUVQUEFKbXh5X29PazF3QnhfMWtnQzY0N1N0QnVxYy03UkZaYWhR?oc=5",
       "section": "mundo",
       "category": "Noticias internacionales",
@@ -1750,20 +1768,20 @@
       ]
     },
     {
-      "id": "television|https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMGNtVXJndGI0OXBXYUV4Vms1dG1UazE1ZWRCLU9QQWJIWFpUeDdqSTd0VnFVS0RnSXEyVm8yNDRpY2ZwVEpRVmdDX2JjS0lJZ3FjeHV5ekNsU1pmRmF3cklOMkQ3LURDYVNCN1JNOTh1bEp3bDVkMzdxQVpMbnF5LXRxMU93M296dWFEMVNkeEs0MTJTV0JNWWw2X21kc2VPRTRQMkhqNWZDUXN3UDg0SGlWdmUtQ0VoRTdkN0xoc1J5S19fTzBhWHFMUmVqc2lRVTl2YlZYcw?oc=5",
+      "id": "television|https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT211TUM0Y09oU1dTdGN1azRQMm9vMUhYY0dwYlFSWEh2UlpPcDdwZTlQekFKYllQTVlFeFRoQXJMWm0wNlUzRUdwZXhhZGp3Mkp2YWh2YUhsMVdpeEpXYlBJVzJaVUdkQXk0YTkwNEFLSTZiamk0clFfSlU0UEg3bTR6ZEF4V21BeGpna0tMLXJoOG00ekFfV1JiVUtldlJYcWxrN2RKQ3BlV2VER3JjRnI3UDZvVnNKa0lZcUI4MHUwSm9HRkdwV0NjNENSV3RfV2c?oc=5",
       "section": "television",
       "category": "Televisión España",
-      "title": "Audiencias TV | 'El perro andaluz' (TVE) pierde el duelo contra 'El hormiguero', que lidera con Kiko Rivera, e incluso contra 'Horizonte' - El Confidencial",
-      "summary": "Audiencias TV | 'El perro andaluz' (TVE) pierde el duelo contra 'El hormiguero', que lidera con Kiko Rivera, e incluso contra 'Horizonte' El Confidencial",
+      "title": "Jorge Ponce da el salto a presentador en TVE este sábado: se pone al frente del renovado 'Cine de barrio' en su traslado a La 2 - El Confidencial",
+      "summary": "Jorge Ponce da el salto a presentador en TVE este sábado: se pone al frente del renovado 'Cine de barrio' en su traslado a La 2 El Confidencial",
       "image": "",
-      "publishedAt": "2026-11-03 07:59 UTC",
+      "publishedAt": "2026-11-04 14:48 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Televisión España",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMGNtVXJndGI0OXBXYUV4Vms1dG1UazE1ZWRCLU9QQWJIWFpUeDdqSTd0VnFVS0RnSXEyVm8yNDRpY2ZwVEpRVmdDX2JjS0lJZ3FjeHV5ekNsU1pmRmF3cklOMkQ3LURDYVNCN1JNOTh1bEp3bDVkMzdxQVpMbnF5LXRxMU93M296dWFEMVNkeEs0MTJTV0JNWWw2X21kc2VPRTRQMkhqNWZDUXN3UDg0SGlWdmUtQ0VoRTdkN0xoc1J5S19fTzBhWHFMUmVqc2lRVTl2YlZYcw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT211TUM0Y09oU1dTdGN1azRQMm9vMUhYY0dwYlFSWEh2UlpPcDdwZTlQekFKYllQTVlFeFRoQXJMWm0wNlUzRUdwZXhhZGp3Mkp2YWh2YUhsMVdpeEpXYlBJVzJaVUdkQXk0YTkwNEFLSTZiamk0clFfSlU0UEg3bTR6ZEF4V21BeGpna0tMLXJoOG00ekFfV1JiVUtldlJYcWxrN2RKQ3BlV2VER3JjRnI3UDZvVnNKa0lZcUI4MHUwSm9HRkdwV0NjNENSV3RfV2c?oc=5"
         }
       ]
     },
@@ -1786,20 +1804,20 @@
       ]
     },
     {
-      "id": "television|https://news.google.com/rss/articles/CBMif0FVX3lxTE80TlBQZkZ4ZVJPX1hwejk3UjNpMHVGNm1jcG5RT1luNnppRVFxalJNZnh1TXVCUnpJclA0alBRMFZrbHJmRk15anFkanZwd2VyQUNYcnhESUlCLTF3Ny11VVU0RnhxazVwbC1wLUR0OVItX2pQNl9vYWQxX1I0ZHfSAX9BVV95cUxPNE5QUGZGeGVST19YcHo5N1IzaTB1RjZtY3BuUU9ZbjZ6aUVRcWpSTWZ4dU11QlJ6SXJQNGpQUTBWa2xyZkZNeWpxZGp2cHdlckFDWHJ4RElJQi0xdzctdVVVNEZ4cWs1cGwtcC1EdDlSLV9qUDZfb2FkMV9SNGR3?oc=5",
+      "id": "television|https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMGNtVXJndGI0OXBXYUV4Vms1dG1UazE1ZWRCLU9QQWJIWFpUeDdqSTd0VnFVS0RnSXEyVm8yNDRpY2ZwVEpRVmdDX2JjS0lJZ3FjeHV5ekNsU1pmRmF3cklOMkQ3LURDYVNCN1JNOTh1bEp3bDVkMzdxQVpMbnF5LXRxMU93M296dWFEMVNkeEs0MTJTV0JNWWw2X21kc2VPRTRQMkhqNWZDUXN3UDg0SGlWdmUtQ0VoRTdkN0xoc1J5S19fTzBhWHFMUmVqc2lRVTl2YlZYcw?oc=5",
       "section": "television",
       "category": "Televisión España",
-      "title": "Chenoa vuelve a ¡Feliz 2027! con un fichaje sorpresa de La Promesa: la nueva apuesta de RTVE para Nochevieja - El Mundo",
-      "summary": "Chenoa vuelve a ¡Feliz 2027! con un fichaje sorpresa de La Promesa: la nueva apuesta de RTVE para Nochevieja El Mundo",
+      "title": "Audiencias TV | 'El perro andaluz' (TVE) pierde el duelo contra 'El hormiguero', que lidera con Kiko Rivera, e incluso contra 'Horizonte' - El Confidencial",
+      "summary": "Audiencias TV | 'El perro andaluz' (TVE) pierde el duelo contra 'El hormiguero', que lidera con Kiko Rivera, e incluso contra 'Horizonte' El Confidencial",
       "image": "",
-      "publishedAt": "2026-11-03 11:30 UTC",
+      "publishedAt": "2026-11-03 07:59 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Televisión España",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80TlBQZkZ4ZVJPX1hwejk3UjNpMHVGNm1jcG5RT1luNnppRVFxalJNZnh1TXVCUnpJclA0alBRMFZrbHJmRk15anFkanZwd2VyQUNYcnhESUlCLTF3Ny11VVU0RnhxazVwbC1wLUR0OVItX2pQNl9vYWQxX1I0ZHfSAX9BVV95cUxPNE5QUGZGeGVST19YcHo5N1IzaTB1RjZtY3BuUU9ZbjZ6aUVRcWpSTWZ4dU11QlJ6SXJQNGpQUTBWa2xyZkZNeWpxZGp2cHdlckFDWHJ4RElJQi0xdzctdVVVNEZ4cWs1cGwtcC1EdDlSLV9qUDZfb2FkMV9SNGR3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMGNtVXJndGI0OXBXYUV4Vms1dG1UazE1ZWRCLU9QQWJIWFpUeDdqSTd0VnFVS0RnSXEyVm8yNDRpY2ZwVEpRVmdDX2JjS0lJZ3FjeHV5ekNsU1pmRmF3cklOMkQ3LURDYVNCN1JNOTh1bEp3bDVkMzdxQVpMbnF5LXRxMU93M296dWFEMVNkeEs0MTJTV0JNWWw2X21kc2VPRTRQMkhqNWZDUXN3UDg0SGlWdmUtQ0VoRTdkN0xoc1J5S19fTzBhWHFMUmVqc2lRVTl2YlZYcw?oc=5"
         }
       ]
     },
@@ -1818,6 +1836,42 @@
         {
           "name": "Televisión España",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVGxpekdUcnF1cUlJWTZEUUhPdHlQS09Zc0ZDTU1aOFdfeUhBd1l5U1MtYlEzRzhTU01ZTmdMbFY4UnBKUHpBY2RKaC1kSXlPREJaWWlfbm5pOUY4TnZYWGpHOXJpMVVkWG9MRm0xQTFabWRnNzNnS1M3a0lmR3pUbTdHWTh6aEx3WG9ZX2w0eUc2MWpQVVVsVFJONDFzd3ZQcmpGR3JDVDNaeVhxNmo2Z1c2ZFkySUZFd2YzWjVIOGpldG1BM0JDYmhVWXhGSEVr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "television|https://news.google.com/rss/articles/CBMirwFBVV95cUxNaEQ5c0JhbHkxTnAyZFZpVzAwYVR1YWsyTnFZc2NhLXVQQ3BDN0ZxNXJqWXVsRzIwci13YXExUmxqQjJCTzdtemVRVV9KMzNJV3JMem9CMDhaYkdWSnJSWWw1cDVBZFA2LUFkNG9XbktDNVE2ZVU0LTdDRXM3Wjh6Uzd1NkpTeGRIZkNxYm9FbWs4RHRpdS12ejVCY3FQUXVrWUVjbzhBMVNSSm1QZTlv?oc=5",
+      "section": "television",
+      "category": "Televisión España",
+      "title": "Televisión Española fija el estreno del nuevo 'Cine de barrio' y desvela la película que ofrecerá desde La 2 - El Confidencial",
+      "summary": "Televisión Española fija el estreno del nuevo 'Cine de barrio' y desvela la película que ofrecerá desde La 2 El Confidencial",
+      "image": "",
+      "publishedAt": "2026-11-03 18:23 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Televisión España",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaEQ5c0JhbHkxTnAyZFZpVzAwYVR1YWsyTnFZc2NhLXVQQ3BDN0ZxNXJqWXVsRzIwci13YXExUmxqQjJCTzdtemVRVV9KMzNJV3JMem9CMDhaYkdWSnJSWWw1cDVBZFA2LUFkNG9XbktDNVE2ZVU0LTdDRXM3Wjh6Uzd1NkpTeGRIZkNxYm9FbWs4RHRpdS12ejVCY3FQUXVrWUVjbzhBMVNSSm1QZTlv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "television|https://news.google.com/rss/articles/CBMif0FVX3lxTE80TlBQZkZ4ZVJPX1hwejk3UjNpMHVGNm1jcG5RT1luNnppRVFxalJNZnh1TXVCUnpJclA0alBRMFZrbHJmRk15anFkanZwd2VyQUNYcnhESUlCLTF3Ny11VVU0RnhxazVwbC1wLUR0OVItX2pQNl9vYWQxX1I0ZHfSAX9BVV95cUxPNE5QUGZGeGVST19YcHo5N1IzaTB1RjZtY3BuUU9ZbjZ6aUVRcWpSTWZ4dU11QlJ6SXJQNGpQUTBWa2xyZkZNeWpxZGp2cHdlckFDWHJ4RElJQi0xdzctdVVVNEZ4cWs1cGwtcC1EdDlSLV9qUDZfb2FkMV9SNGR3?oc=5",
+      "section": "television",
+      "category": "Televisión España",
+      "title": "Chenoa vuelve a ¡Feliz 2027! con un fichaje sorpresa de La Promesa: la nueva apuesta de RTVE para Nochevieja - El Mundo",
+      "summary": "Chenoa vuelve a ¡Feliz 2027! con un fichaje sorpresa de La Promesa: la nueva apuesta de RTVE para Nochevieja El Mundo",
+      "image": "",
+      "publishedAt": "2026-11-03 11:30 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Televisión España",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80TlBQZkZ4ZVJPX1hwejk3UjNpMHVGNm1jcG5RT1luNnppRVFxalJNZnh1TXVCUnpJclA0alBRMFZrbHJmRk15anFkanZwd2VyQUNYcnhESUlCLTF3Ny11VVU0RnhxazVwbC1wLUR0OVItX2pQNl9vYWQxX1I0ZHfSAX9BVV95cUxPNE5QUGZGeGVST19YcHo5N1IzaTB1RjZtY3BuUU9ZbjZ6aUVRcWpSTWZ4dU11QlJ6SXJQNGpQUTBWa2xyZkZNeWpxZGp2cHdlckFDWHJ4RElJQi0xdzctdVVVNEZ4cWs1cGwtcC1EdDlSLV9qUDZfb2FkMV9SNGR3?oc=5"
         }
       ]
     },
@@ -2038,6 +2092,24 @@
       ]
     },
     {
+      "id": "viral|https://news.google.com/rss/articles/CBMi6wFBVV95cUxOT0VOdHZyVndSN2dOWnZtUmpDU3QzeFR5anV4MkZCMkJaZk1NTEUzWFBXdWhOVS1JLVp3RHU3Ylg0bU9zZUdNR2FoWHdLdHFIZFM2Q2RNQllLQkhHVkN3ZElpYXZLZGNhazZQZkZIV2ktX0txcWRwTGZrRTRNT0JPZkNpdmRDVU1vNURMOXRPMndQQUo1clhmdF9acU96eHZhbGtuWFpySzhfYkNLTmdwTVFtOWt2Qld6U0RCTlB5QzFNSm8tYWREeHoxa3MwLS1fTmZHdFNNYlJaMFp2MTlzTGUyd2NPRmNpQ2Ew0gHwAUFVX3lxTE4zUkFweDZlbmlHajVfT0N1eWY1SFZZaWVYUGFKWlVrTWo3VWJjLXBfMnhpRGRTX3Y4aGtjN3hCaGdEeDVWWGZPZjhTZTJBLVVzcmR0MFBranhjYzhCaVNmSEZzUERrMnJqa1gxbVJkU3dRVnhsOUFJTlFCYlhhOTI3UkFIa002MHlZcE4xX3V1Um0wMzJyXzBhdE5pZEU3TmhiS041Rk9HMHlEaVJzQndLYldNdXI4eERfLUtlZmFHdlJUTlktbUh6VGFJZ1lpTXBleWFuc2FqZXc0b1FSbDBJbVpVZU1zMkJyUzlDV0lZYw?oc=5",
+      "section": "viral",
+      "category": "Viral EN",
+      "title": "'He Started It': Mumbai Auto Driver's Fluent English During Roadside Feud Stuns Internet - Viral Video - Asianet Newsable",
+      "summary": "'He Started It': Mumbai Auto Driver's Fluent English During Roadside Feud Stuns Internet - Viral Video Asianet Newsable",
+      "image": "",
+      "publishedAt": "2026-11-05 10:09 UTC",
+      "language": "en",
+      "topic": "Tendencias",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Viral EN",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOT0VOdHZyVndSN2dOWnZtUmpDU3QzeFR5anV4MkZCMkJaZk1NTEUzWFBXdWhOVS1JLVp3RHU3Ylg0bU9zZUdNR2FoWHdLdHFIZFM2Q2RNQllLQkhHVkN3ZElpYXZLZGNhazZQZkZIV2ktX0txcWRwTGZrRTRNT0JPZkNpdmRDVU1vNURMOXRPMndQQUo1clhmdF9acU96eHZhbGtuWFpySzhfYkNLTmdwTVFtOWt2Qld6U0RCTlB5QzFNSm8tYWREeHoxa3MwLS1fTmZHdFNNYlJaMFp2MTlzTGUyd2NPRmNpQ2Ew0gHwAUFVX3lxTE4zUkFweDZlbmlHajVfT0N1eWY1SFZZaWVYUGFKWlVrTWo3VWJjLXBfMnhpRGRTX3Y4aGtjN3hCaGdEeDVWWGZPZjhTZTJBLVVzcmR0MFBranhjYzhCaVNmSEZzUERrMnJqa1gxbVJkU3dRVnhsOUFJTlFCYlhhOTI3UkFIa002MHlZcE4xX3V1Um0wMzJyXzBhdE5pZEU3TmhiS041Rk9HMHlEaVJzQndLYldNdXI4eERfLUtlZmFHdlJUTlktbUh6VGFJZ1lpTXBleWFuc2FqZXc0b1FSbDBJbVpVZU1zMkJyUzlDV0lZYw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "viral|https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbXZOZjZ3cE9JcUxEVDVodVBLQVBldDFKRjhkckpmUThlUWt0R1pIeGNtWDFLSl9ZbGFYV1ZJeHFOZ2FWZjIyX3lLVXpuSXVMeC00V3dXMDltTXRseGhNWkt0RzU5ZGtiRU5ZSDREeHhCRFplcFNrVEVGeGxNbDJnWEdDaHNUZTNXOXMycGozSmFvZmlDQ3Q1ZTBod25NODl5R3Fjdmd2X2JVb1dERjh4T1BEMFZaODB1cXk2eTQ3OEQxeFFGc3RtZF90VWVSdUVQaXFBWm1IWXNES1J2b2fSAeIBQVVfeXFMUGNOWS1ZYUdyRkxueGVDREtLeFBnRXdtbk4tTlpyVmNoSnpPOFVtbUh0Q0Ixazk2U252a0NMZHZBeHJDVmVXOUU4VDNPS3RkTXlpNUdHOFRhUjJpS2YtZnZBNWYzUXNsbHRxTC14R3U3MzBRcVJnU1EyUUptZzg2bGplU0pPVmFCUVlhZW1qSzBlWnB3N3cxWGtlSHdEa1AwaWZlb215Si1LZEtNMjI1dW5ZbjdWRWk4NVBnbzY0UlNCeGRxSGVlTkIycGtYVFRQcTB1QVAtbmJXRFpDU3lkcnBHdw?oc=5",
       "section": "viral",
       "category": "Viral EN",
@@ -2236,24 +2308,6 @@
       ]
     },
     {
-      "id": "viral|https://news.google.com/rss/articles/CBMitAJBVV95cUxPSVRsVnVFVTdGdFhQSFRDQ1ktZUFqTU1LUURCNjdLNk9MQllNaU5qSmlKRHltcG9fNmdfUG9jR3REbTZvZGd3UF81WmwyTUk4RTYxVi03NXdFM3lnNk5FZjJ0TjZwaGEwZDhKZlNLSWhraXl3QTlmbFhYY25NSEVxdDhpY1pTVUdVQnBUT241TU1ZYkU1VGJTbDFWV2diQlhMLXhWdlNrZG5vVFA2V19GVmU4RW13SzlpSUlHajdwSjFrUU5rQlJ1YTN0NmNIZVlObkxFeVhvN1M4a1pmS3BLN1BZQmRBRDNCSkVXa3VqRDFSNkRqSmI3cDN0REV3N1J4SWxLdkdNWVhUdkUtMGtzUUtUSDZXbi1YdXljREx1aEs1TmpWcHRLLTRndGRrQklkd3NLRdIBugJBVV95cUxNck16Vlp5V1U4aS11VlRKNnNqMWJqdnVTNW05d2pMMC00TktHRTNVNklkSTZfcVZ3NnlyM0MwN0lnRkV3cWxZQjBMN2wxcUJ3bEV0R1cxOFlNc192QnpRNkE4VGI0cGE0MFc1SGlBU2E5RjZJRS1TREVadFdqY0k1ZElOUzJPN2N1SW1sZFQ0V3JKQno5T0Jiblo2MVgxMXpJbUtCZDNDZFduLTJrcmNfb0NOOHc2S1g1eUxfQjdOMm4xYjZuWC1URFVZcDh1M1I5d0FoSTNQa0V2elRIY0NyMmszRDBZaUpIVm5Yd1VpQ1pENTVmYy1QRTBJVnhjWjJxV194MHA2MnJMX3pnZjQwNGhPcmRyYkFLZy1NajVmRHJod2NiZ3B2c0xVX2EtcE53OXgweU0yTThudw?oc=5",
-      "section": "viral",
-      "category": "Viral EN",
-      "title": "Watch Viral Memes: ‘That Is A Blue Tsunami’ – Internet Erupts With Jokes After Democrats Sweep US Midterm Elections 2026, Donald Trump Trolled With ‘Hazardous Waste’ Meme - The Sunday Guardian",
-      "summary": "Watch Viral Memes: ‘That Is A Blue Tsunami’ – Internet Erupts With Jokes After Democrats Sweep US Midterm Elections 2026, Donald Trump Trolled With ‘Hazardous Waste’ Meme The Sunday Guardian",
-      "image": "",
-      "publishedAt": "2026-11-04 09:27 UTC",
-      "language": "en",
-      "topic": "Tendencias",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Viral EN",
-          "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPSVRsVnVFVTdGdFhQSFRDQ1ktZUFqTU1LUURCNjdLNk9MQllNaU5qSmlKRHltcG9fNmdfUG9jR3REbTZvZGd3UF81WmwyTUk4RTYxVi03NXdFM3lnNk5FZjJ0TjZwaGEwZDhKZlNLSWhraXl3QTlmbFhYY25NSEVxdDhpY1pTVUdVQnBUT241TU1ZYkU1VGJTbDFWV2diQlhMLXhWdlNrZG5vVFA2V19GVmU4RW13SzlpSUlHajdwSjFrUU5rQlJ1YTN0NmNIZVlObkxFeVhvN1M4a1pmS3BLN1BZQmRBRDNCSkVXa3VqRDFSNkRqSmI3cDN0REV3N1J4SWxLdkdNWVhUdkUtMGtzUUtUSDZXbi1YdXljREx1aEs1TmpWcHRLLTRndGRrQklkd3NLRdIBugJBVV95cUxNck16Vlp5V1U4aS11VlRKNnNqMWJqdnVTNW05d2pMMC00TktHRTNVNklkSTZfcVZ3NnlyM0MwN0lnRkV3cWxZQjBMN2wxcUJ3bEV0R1cxOFlNc192QnpRNkE4VGI0cGE0MFc1SGlBU2E5RjZJRS1TREVadFdqY0k1ZElOUzJPN2N1SW1sZFQ0V3JKQno5T0Jiblo2MVgxMXpJbUtCZDNDZFduLTJrcmNfb0NOOHc2S1g1eUxfQjdOMm4xYjZuWC1URFVZcDh1M1I5d0FoSTNQa0V2elRIY0NyMmszRDBZaUpIVm5Yd1VpQ1pENTVmYy1QRTBJVnhjWjJxV194MHA2MnJMX3pnZjQwNGhPcmRyYkFLZy1NajVmRHJod2NiZ3B2c0xVX2EtcE53OXgweU0yTThudw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "viral|https://news.google.com/rss/articles/CBMiogFBVV95cUxOTmNPc1hxb1lXYk1iLWh2bk52Ml80eXp2ZjA1R2dRUGYwY1ota2ppRkt4bW00MzBaejVNdlJoNy1NQ2stZWxVN2c0TGxGU1JwdzZNb2ZZQXA3dmZveEszTi1jcnZoN21wNEljckVsRWZDN0dYa3BSV1BwX1NkemlFRV9yLUt5Tk1DZTRwQk9QbXEyYmhvLS12MjdZRG5BVzFzRnc?oc=5",
       "section": "viral",
       "category": "Viral medios ES",
@@ -2314,7 +2368,7 @@
       "title": "‘The point was to dehumanise’: London Holocaust archive examines world’s first ‘viral’ antisemitism scandal - The Guardian",
       "summary": "‘The point was to dehumanise’: London Holocaust archive examines world’s first ‘viral’ antisemitism scandal The Guardian",
       "image": "",
-      "publishedAt": "2026-11-04 11:31 UTC",
+      "publishedAt": "2026-11-04 10:58 UTC",
       "language": "en",
       "topic": "Tendencias",
       "verification": "fuente identificada; no contrastada independientemente",
@@ -2322,6 +2376,24 @@
         {
           "name": "Viral Guardian",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOFBmYUlPVTUxYUZCWnNUU1V2TTZrTl9SOGlVdnJoNUNLaDVmQ0dFb0Z6RVc5YWNCa19NNm5XTlNVR3JyNW1ja0dQVVhTSWh4clFYZXV2S1ZaSmpkYUVIUHpkc05ud0tIcTA5by02b25iTUVjODdnNmR0WWVPNWh0UzdmVlBqaFpEbTV1VkRoY19MQU95Nmx0TXNRTU02QmpLTVZVbnU5cw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "tecnologia|https://www.theguardian.com/games/2026/nov/05/its-so-glossy-and-sexy-10-movies-and-one-tv-show-that-inspired-grand-theft-auto",
+      "section": "tecnologia",
+      "category": "Tech EN",
+      "title": "‘It’s so glossy and sexy!’: 10 movies (and one TV show) that inspired Grand Theft Auto",
+      "summary": "As GTA 6 looms, we look at the films that have influenced Rockstar’s creatives, from Heat to Bonnie and Clyde, via Boyz n the Hood and Speed Grand Theft Auto is arguably the most cinematic video game series ever made. Over the past three decades, the games have studied and stolen the themes, conventions and visual dynamism of great gangster and action movies…",
+      "image": "https://i.guim.co.uk/img/media/d9382ec3a10ac54e97ce33041895c49e9050bf35/61_0_1125_900/master/1125.jpg?width=140&quality=85&auto=format&fit=max&s=429c4943a80c461c8118113aa54c93d5",
+      "publishedAt": "2026-11-05 10:00 UTC",
+      "language": "en",
+      "topic": "Tecnología",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Tech EN",
+          "url": "https://www.theguardian.com/games/2026/nov/05/its-so-glossy-and-sexy-10-movies-and-one-tv-show-that-inspired-grand-theft-auto"
         }
       ]
     },
@@ -2520,24 +2592,6 @@
         {
           "name": "Tech EN",
           "url": "https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe"
-        }
-      ]
-    },
-    {
-      "id": "tecnologia|https://www.theguardian.com/technology/2026/nov/04/uk-deploy-facial-recognition-biggest-ever-immigration-crackdown",
-      "section": "tecnologia",
-      "category": "Tech EN",
-      "title": "UK to deploy facial recognition in biggest-ever immigration crackdown",
-      "summary": "Documents show Home Office developing programme to use technology for general immigration enforcement The Home Office is preparing to deploy facial recognition technology at transport hubs and public events as part of the biggest immigration enforcement crackdown in British history. Policy documents show the government has been developing a programme to depl…",
-      "image": "https://i.guim.co.uk/img/media/7dae8a8f1193d4f6ba98a2f706a36b65a4dc2a10/222_0_1781_1425/master/1781.jpg?width=140&quality=85&auto=format&fit=max&s=02a871bd76b3863b7ce46866ab81cc4d",
-      "publishedAt": "2026-11-04 12:15 UTC",
-      "language": "en",
-      "topic": "Tecnología",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Tech EN",
-          "url": "https://www.theguardian.com/technology/2026/nov/04/uk-deploy-facial-recognition-biggest-ever-immigration-crackdown"
         }
       ]
     },
@@ -2758,6 +2812,24 @@
       ]
     },
     {
+      "id": "estilo|https://news.google.com/rss/articles/CBMisgFBVV95cUxNMTdSLUZVNHZGN1FZbGJmZ1BRcndRbHJFajFkMllaNzhudFdnZmRFWlVwUUNOeHItLTZwWG9nTVBLQklhaVNnbHZ4V29tbFdWaExGTkkwSnFna0V1X1RoS2trRElQbUV4cTJ3cTN4RW0xX2k4aUNRb2dfd3JRcTlyNGVQamxELVlrdnpCTnVmY3lJUWxTczZ5TzFPbTJCZjZlNUhuWGdnNkdmYjh2a1JCWG13?oc=5",
+      "section": "estilo",
+      "category": "GQ España",
+      "title": "Milo Ventimiglia tiene el Rolex de oro que desean todos los entusiastas de los relojes - GQ España",
+      "summary": "Milo Ventimiglia tiene el Rolex de oro que desean todos los entusiastas de los relojes GQ España",
+      "image": "",
+      "publishedAt": "2026-11-05 09:00 UTC",
+      "language": "es",
+      "topic": "Moda",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "GQ España",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMTdSLUZVNHZGN1FZbGJmZ1BRcndRbHJFajFkMllaNzhudFdnZmRFWlVwUUNOeHItLTZwWG9nTVBLQklhaVNnbHZ4V29tbFdWaExGTkkwSnFna0V1X1RoS2trRElQbUV4cTJ3cTN4RW0xX2k4aUNRb2dfd3JRcTlyNGVQamxELVlrdnpCTnVmY3lJUWxTczZ5TzFPbTJCZjZlNUhuWGdnNkdmYjh2a1JCWG13?oc=5"
+        }
+      ]
+    },
+    {
       "id": "estilo|https://news.google.com/rss/articles/CBMidkFVX3lxTE12Wmk2NXFQLXdqYjNFZzdCcFVmc0FuWThBMko0TVgzaGNxRGg1MF9yVmtHMUFjQ1h1bV9IdXdCXzVLVXozUm1LR0ZFWFliRG1Rc0hGVUY5ZXd3V1ZLa3ZFVUZ6TC1tZUpaV0VvQU11RndzV1lWUUE?oc=5",
       "section": "estilo",
       "category": "GQ España",
@@ -2884,20 +2956,38 @@
       ]
     },
     {
-      "id": "estilo|https://news.google.com/rss/articles/CBMixwFBVV95cUxNOXFZdzcyNkt2NGJWcEJCMHZkNXRBVHE1dEFvdkVPYnRJM3puVDlEblFoVm5fU1VYQjFVLVAxTWt0VUNtQzlfc245bm1XdDh2aWhzVnhuV2h1RmkzUFUwb3ZzLWswZ1dzZ2pKc2tiM2Vnb19yb0pBRkhPMXdTdk1CRnItN2w3aWFfX3FoamktNkhiVVdPdlFIMVRkSGFqNFNFaFRXa0NVeFlkMWdCTFFIeGpvcVBNYkVrbVA2ZHRvYXRkRUxuellZ?oc=5",
+      "id": "estilo|https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOGNDU2dGVEdLdVlxSkRfdzhyd1RyZzlfTC0xQjRkOXM1OFpLaFpVcWVQRzNGN19WeHBxM1pkeGFESjA4dFZjdTlHLTBkQ3FCWUhQOS0xdndxREFEUUZTcHNJVTc2NzBGQU5iOWNKMzJ5TEZlQnctTWlNd3kwaFNNSTMtS29FNnF1el96VFk1cWZoSkZPTTB4WThtR2xYNjJ2dzlkbDh5OTV5V0xtOGZCdkFJZkdkRjZBQUx4c09vUlY?oc=5",
       "section": "estilo",
-      "category": "GQ España",
-      "title": "Marriott Bonvoy, la NFL y el Bernabéu: el viaje ya no se hace por la ciudad, sino por el partido - GQ España",
-      "summary": "Marriott Bonvoy, la NFL y el Bernabéu: el viaje ya no se hace por la ciudad, sino por el partido GQ España",
+      "category": "Esquire España",
+      "title": "Javier Cercas recomienda esta breve novela de un premio Nobel ambientada en Barcelona: “Una pequeña obra maestra” - Esquire",
+      "summary": "Javier Cercas recomienda esta breve novela de un premio Nobel ambientada en Barcelona: “Una pequeña obra maestra” Esquire",
       "image": "",
-      "publishedAt": "2026-11-01 07:29 UTC",
+      "publishedAt": "2026-11-05 10:07 UTC",
       "language": "es",
       "topic": "Moda",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "GQ España",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOXFZdzcyNkt2NGJWcEJCMHZkNXRBVHE1dEFvdkVPYnRJM3puVDlEblFoVm5fU1VYQjFVLVAxTWt0VUNtQzlfc245bm1XdDh2aWhzVnhuV2h1RmkzUFUwb3ZzLWswZ1dzZ2pKc2tiM2Vnb19yb0pBRkhPMXdTdk1CRnItN2w3aWFfX3FoamktNkhiVVdPdlFIMVRkSGFqNFNFaFRXa0NVeFlkMWdCTFFIeGpvcVBNYkVrbVA2ZHRvYXRkRUxuellZ?oc=5"
+          "name": "Esquire España",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOGNDU2dGVEdLdVlxSkRfdzhyd1RyZzlfTC0xQjRkOXM1OFpLaFpVcWVQRzNGN19WeHBxM1pkeGFESjA4dFZjdTlHLTBkQ3FCWUhQOS0xdndxREFEUUZTcHNJVTc2NzBGQU5iOWNKMzJ5TEZlQnctTWlNd3kwaFNNSTMtS29FNnF1el96VFk1cWZoSkZPTTB4WThtR2xYNjJ2dzlkbDh5OTV5V0xtOGZCdkFJZkdkRjZBQUx4c09vUlY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "estilo|https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRk9tQ1ozZnN1d19xVEVTZVRyRFBfMlJIMnFtczFDczZHQnhncmtuNDV0ZGNSdnB5WFJhMXFxNGhEZXhYZWVELUVVb0VtQm5zS1c5NUVnemNlQkt3cS1iY0ExUmRES1gyZmV4azNWSWltWEVGOE03OGdYV0JsZVdtckxqb2lnaUlxZ0N5Z3prY1JicVdUU1VoM2c4ZzU4Vjgzbkt0YzY1VGlIR3IxZGlma1lsRWZaV3NCeTZZNEd3UFluZw?oc=5",
+      "section": "estilo",
+      "category": "Esquire España",
+      "title": "Casio lanza un reloj automático para competir con Seiko - Esquire",
+      "summary": "Casio lanza un reloj automático para competir con Seiko Esquire",
+      "image": "",
+      "publishedAt": "2026-11-05 09:38 UTC",
+      "language": "es",
+      "topic": "Moda",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Esquire España",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRk9tQ1ozZnN1d19xVEVTZVRyRFBfMlJIMnFtczFDczZHQnhncmtuNDV0ZGNSdnB5WFJhMXFxNGhEZXhYZWVELUVVb0VtQm5zS1c5NUVnemNlQkt3cS1iY0ExUmRES1gyZmV4azNWSWltWEVGOE03OGdYV0JsZVdtckxqb2lnaUlxZ0N5Z3prY1JicVdUU1VoM2c4ZzU4Vjgzbkt0YzY1VGlIR3IxZGlma1lsRWZaV3NCeTZZNEd3UFluZw?oc=5"
         }
       ]
     },
@@ -3010,38 +3100,20 @@
       ]
     },
     {
-      "id": "estilo|https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWW93VUhlNnZfTFlfUVZ5VFBRWVFfeGZfcmlGSWhBajdhVGJ6U2RUSE1XbUFzOTJMYjdieEo2UmR2b0VRZTZCNFpRQmhQMUxFWmp0cFJNbkFGUW9KRG5NQlM3NWtUSF93c1ZzQ2UybUlCUFJBZXI1X0ZyOTlMemtTbDY0ekZselR6VkR0aUY5TkxwZVdaMmZyX2ctaFhwaTE0X1RBRWVvdmJZT0pEWE96anVzdERJdnFDd0dHTEJPR0tmWkoyeS1iOWpFUEdCVG41S19HNnpPZUlxcTRab0Yyc053?oc=5",
+      "id": "estilo|https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaC1XeXlLRFZnYkQ5ZlpiTkEzd3RHYlVfV1d6UHFWSllmTnZEUFhqVXY4NUx3c3VjYzY3c1RNZ0t0T205QUxrREliZU1JbE40SEQ2clVKeVh2ZlJGRWVsZk9FU1dyQWNPbFF4X013VWstQndyS2Fhd25ieVdGUU4ycnVDbHJHbjRJd2pBUjc4MGlsXzF3a29XUU54SWdhdXpVemRuV1JsTEhPdUQyaVlSVGpOaXJBMXozS0ZxQ1JuQWFTNW5ZV0NDLQ?oc=5",
       "section": "estilo",
-      "category": "Esquire España",
-      "title": "La escritora Cristina Fernández Cubas ha ganado el Premio Cervantes 2026 y es la autora del que para mí es uno de los mejores cuentos de la historia de la literatura - Esquire",
-      "summary": "La escritora Cristina Fernández Cubas ha ganado el Premio Cervantes 2026 y es la autora del que para mí es uno de los mejores cuentos de la historia de la literatura Esquire",
+      "category": "GQ España Lifestyle",
+      "title": "Joan García: “Ser auténtico es enseñar quién eres de verdad, no vender una vida diferente en redes” - GQ España",
+      "summary": "Joan García: “Ser auténtico es enseñar quién eres de verdad, no vender una vida diferente en redes” GQ España",
       "image": "",
-      "publishedAt": "2026-11-04 12:06 UTC",
+      "publishedAt": "2026-11-05 08:33 UTC",
       "language": "es",
-      "topic": "Moda",
+      "topic": "Estilo de vida",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "Esquire España",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWW93VUhlNnZfTFlfUVZ5VFBRWVFfeGZfcmlGSWhBajdhVGJ6U2RUSE1XbUFzOTJMYjdieEo2UmR2b0VRZTZCNFpRQmhQMUxFWmp0cFJNbkFGUW9KRG5NQlM3NWtUSF93c1ZzQ2UybUlCUFJBZXI1X0ZyOTlMemtTbDY0ekZselR6VkR0aUY5TkxwZVdaMmZyX2ctaFhwaTE0X1RBRWVvdmJZT0pEWE96anVzdERJdnFDd0dHTEJPR0tmWkoyeS1iOWpFUEdCVG41S19HNnpPZUlxcTRab0Yyc053?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "estilo|https://news.google.com/rss/articles/CBMimgFBVV95cUxQWWlKUlN0LW1DeEpsQjNMcTdlRGVDcmNTdFl0OHMzbWZKdlJZanNNZktrWXRKWHVYWjVDMXVQMUpZaFZJV2VsQ09VY2NPV3VsbTlUbUJJeGI5M3FDWEQ0Tl96Z2RGOHVnYmN4Z3k3YnYwLWdlMm9wN1lvY1RNbDVDWUNXZVk0elJvTWlTSFdHb1ZFamVfSER4aEZn?oc=5",
-      "section": "estilo",
-      "category": "Esquire España",
-      "title": "El nuevo reloj de Angelus es capaz de medir velocidades de hasta 1.000 km/h y solo mide 37 mm - Esquire",
-      "summary": "El nuevo reloj de Angelus es capaz de medir velocidades de hasta 1.000 km/h y solo mide 37 mm Esquire",
-      "image": "",
-      "publishedAt": "2026-11-04 10:00 UTC",
-      "language": "es",
-      "topic": "Moda",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Esquire España",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWWlKUlN0LW1DeEpsQjNMcTdlRGVDcmNTdFl0OHMzbWZKdlJZanNNZktrWXRKWHVYWjVDMXVQMUpZaFZJV2VsQ09VY2NPV3VsbTlUbUJJeGI5M3FDWEQ0Tl96Z2RGOHVnYmN4Z3k3YnYwLWdlMm9wN1lvY1RNbDVDWUNXZVk0elJvTWlTSFdHb1ZFamVfSER4aEZn?oc=5"
+          "name": "GQ España Lifestyle",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaC1XeXlLRFZnYkQ5ZlpiTkEzd3RHYlVfV1d6UHFWSllmTnZEUFhqVXY4NUx3c3VjYzY3c1RNZ0t0T205QUxrREliZU1JbE40SEQ2clVKeVh2ZlJGRWVsZk9FU1dyQWNPbFF4X013VWstQndyS2Fhd25ieVdGUU4ycnVDbHJHbjRJd2pBUjc4MGlsXzF3a29XUU54SWdhdXpVemRuV1JsTEhPdUQyaVlSVGpOaXJBMXozS0ZxQ1JuQWFTNW5ZV0NDLQ?oc=5"
         }
       ]
     },
@@ -3132,24 +3204,6 @@
         {
           "name": "GQ España Lifestyle",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbXZnX1d3R1hDaTR3YzEweWRydk9Qd01odjZSMGZqRk9MSFFNZUhpaFhBdVVsSlA0cVg2YS00TVpMalJ5UG1icjQxdUQ4azBFY2RqV09FY2JpRWRvODFmUE1PTmx0MUxITEh1SlRucHZSRmNpMFNxMkxJUnBfZXpxNVZJdVFnQTVWNlI3OWlQcEc3d0FEY1JZZjBaaG51OUF0QWln?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "estilo|https://news.google.com/rss/articles/CBMiakFVX3lxTE9QR24wVUxkODBlRkhEUjI4VkpQSHpKMFA3WWFPVWZPUzNQWGwtbmFFdkYwMXFIUHhKZ25qLXdDT2llX1VGSUtTSWpwRmJ1T0NKdEgzU29QT2tTUzYtalVGbWlTZ2hxdDRKVXc?oc=5",
-      "section": "estilo",
-      "category": "GQ España Lifestyle",
-      "title": "iPad mini 2026, análisis: la pantalla OLED es brutal, pero me he enamorado de sus 255 gramos de peso - GQ España",
-      "summary": "iPad mini 2026, análisis: la pantalla OLED es brutal, pero me he enamorado de sus 255 gramos de peso GQ España",
-      "image": "",
-      "publishedAt": "2026-11-03 14:00 UTC",
-      "language": "es",
-      "topic": "Estilo de vida",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "GQ España Lifestyle",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QR24wVUxkODBlRkhEUjI4VkpQSHpKMFA3WWFPVWZPUzNQWGwtbmFFdkYwMXFIUHhKZ25qLXdDT2llX1VGSUtTSWpwRmJ1T0NKdEgzU29QT2tTUzYtalVGbWlTZ2hxdDRKVXc?oc=5"
         }
       ]
     },
@@ -3442,31 +3496,13 @@
       ]
     },
     {
-      "id": "estilo|https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vNk1HdWhKaXlLM09IMUxXaGJtbGVQYXROWXdIdkJObkNiUl9HOEFxbzJRT3RMRnQwQ3FxR2JPV3dNZjlhUXQ0MGlPUzJtdng3eFluT3RYYnczbV84bHkxQw?oc=5",
-      "section": "estilo",
-      "category": "Menswear International",
-      "title": "All the style news happening in menswear this November - Esquire Australia",
-      "summary": "All the style news happening in menswear this November Esquire Australia",
-      "image": "",
-      "publishedAt": "2026-11-04 23:56 UTC",
-      "language": "en",
-      "topic": "Moda",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Menswear International",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vNk1HdWhKaXlLM09IMUxXaGJtbGVQYXROWXdIdkJObkNiUl9HOEFxbzJRT3RMRnQwQ3FxR2JPV3dNZjlhUXQ0MGlPUzJtdng3eFluT3RYYnczbV84bHkxQw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "estilo|https://news.google.com/rss/articles/CBMiekFVX3lxTFBHUl82U1BhWTJkSDZHZzhrc3FlT3NkNHNBaUdvNkRXLXRuOWtab0huNkkxNDVMSU1QdEJzeTMwb0JNQW5ER0lCTDBqR0Fqa0lJZFNCd3lWOHZPcXdnX1dmYzVwYWJ3OFdJTUgtNG0tQzRKWGM4UkFhSmhn?oc=5",
       "section": "estilo",
       "category": "Menswear International",
       "title": "Men’s Winter Fashion Trend: Layers for Life On and Off the Slopes - Sharp Magazine",
       "summary": "Men’s Winter Fashion Trend: Layers for Life On and Off the Slopes Sharp Magazine",
       "image": "",
-      "publishedAt": "2026-11-04 21:23 UTC",
+      "publishedAt": "2026-11-05 08:15 UTC",
       "language": "en",
       "topic": "Moda",
       "verification": "fuente identificada; no contrastada independientemente",
@@ -3532,6 +3568,24 @@
       ]
     },
     {
+      "id": "estilo|https://news.google.com/rss/articles/CBMid0FVX3lxTE5mMGlLaEc3Q3A0UkVLWUltV0hDMFRFVjNqSWZsNFRkTUlud3NkOU5FNnFqbU1JblAwUHhxQUk0cU83Qk5WYmhuNU9RNklXMWJ1NWljbHQzcUcwNUpwNTNRNUlDbmYxOEdsMUw1eVBzM3N4b0FaaWg4?oc=5",
+      "section": "estilo",
+      "category": "Menswear International",
+      "title": "The best corduroy trousers are equal parts plush and slouchy - British GQ",
+      "summary": "The best corduroy trousers are equal parts plush and slouchy British GQ",
+      "image": "",
+      "publishedAt": "2026-11-03 17:36 UTC",
+      "language": "en",
+      "topic": "Moda",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Menswear International",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mMGlLaEc3Q3A0UkVLWUltV0hDMFRFVjNqSWZsNFRkTUlud3NkOU5FNnFqbU1JblAwUHhxQUk0cU83Qk5WYmhuNU9RNklXMWJ1NWljbHQzcUcwNUpwNTNRNUlDbmYxOEdsMUw1eVBzM3N4b0FaaWg4?oc=5"
+        }
+      ]
+    },
+    {
       "id": "estilo|https://news.google.com/rss/articles/CBMie0FVX3lxTE5xWV9qRTh2cnZrUThQYmRuYUFaUkpBVUpGWTlGMUsxdmV5U2cwdXNuWjdWNDdmSTZUd0Q3cVpWaUFXMEpGVmViVUNIQjRUU0pvU3B3MVJhLXpRdm83N1p2R0tlM1RBampoSW9nTWtUSVZUN0lzMzJjME5rOA?oc=5",
       "section": "estilo",
       "category": "Menswear International",
@@ -3586,24 +3640,6 @@
       ]
     },
     {
-      "id": "espana|https://news.google.com/rss/articles/CBMikgFBVV95cUxOVmN2alVsOFZ2T01BZFN5UUh3cmpuZTM3dUxxRktyemlVSy1BcWdHNng2dXRPa3dLcUNzVW5rVFNWNENOTU4zVXVzbVUwTWdiWGVDUTFoX0dHVEtDYW8wSzFtX2UySy1XN2lNaFMyVzhZYldwZXlDWjluQjJJNTF0eV9NUlFxRm4xeTgtaEItVlpQZw?oc=5",
-      "section": "espana",
-      "category": "Agencia EFE",
-      "title": "El Mando del Ciberespacio avisa de que hay que prepararse para el peor escenario posible - EFE - Agencia de noticias",
-      "summary": "El Mando del Ciberespacio avisa de que hay que prepararse para el peor escenario posible EFE - Agencia de noticias",
-      "image": "",
-      "publishedAt": "2026-11-04 12:22 UTC",
-      "language": "es",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Agencia EFE",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVmN2alVsOFZ2T01BZFN5UUh3cmpuZTM3dUxxRktyemlVSy1BcWdHNng2dXRPa3dLcUNzVW5rVFNWNENOTU4zVXVzbVUwTWdiWGVDUTFoX0dHVEtDYW8wSzFtX2UySy1XN2lNaFMyVzhZYldwZXlDWjluQjJJNTF0eV9NUlFxRm4xeTgtaEItVlpQZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "espana|https://news.google.com/rss/articles/CBMic0FVX3lxTE9LTFRzZnBwSTNrR3U5eWdzakR1WF80cDNrM2ZWRXExX3Y2c0xfeWVJdzE2blFvTDZ2UXYzc3V5Z1VtZmhQOTAyYy1FZkZIRnhKTmJIWEJBLUh1QlNiZjhEMjJNSWI4NUt4S2ZTaW5GNWR1TlU?oc=5",
       "section": "espana",
       "category": "Agencia EFE",
@@ -3622,13 +3658,31 @@
       ]
     },
     {
+      "id": "espana|https://news.google.com/rss/articles/CBMie0FVX3lxTE5zNmV0ejk5dVlxWXpVWWEwdHdzSWxEY253STZKc2FzRFc3dnVIMEhnQXIwenhHZFlVRHcwSS1hMFIyRmowV3hIczBVdVUyRDQ0bmtGUTg1T2xqcVRpX1EtRDlPTERmZmJRcWVRcEdLSW03QmIwVmtJalVaRQ?oc=5",
+      "section": "espana",
+      "category": "Agencia EFE",
+      "title": "La Séptima se estrena con un sondeo electoral diario y con una entrevista a Carlos Cuerpo - EFE - Agencia de noticias",
+      "summary": "La Séptima se estrena con un sondeo electoral diario y con una entrevista a Carlos Cuerpo EFE - Agencia de noticias",
+      "image": "",
+      "publishedAt": "2026-11-04 14:37 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Agencia EFE",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zNmV0ejk5dVlxWXpVWWEwdHdzSWxEY253STZKc2FzRFc3dnVIMEhnQXIwenhHZFlVRHcwSS1hMFIyRmowV3hIczBVdVUyRDQ0bmtGUTg1T2xqcVRpX1EtRDlPTERmZmJRcWVRcEdLSW03QmIwVmtJalVaRQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "espana|https://news.google.com/rss/articles/CBMihwJBVV95cUxPNS0yMHpKbnNmVFVIa0d3LTlYNHlhVGhScFo1U2F0WlJPR3pSWDF3d2ZBZzZVSzkzV0NHamRldWUwd0tTbW4zVzhEX0hzYzhpSFVYRHAzSTBBYl9fQTA4WTVLci1FS1lET2Y5OEl3VnpRdG9wM3RoXzY1cEJJNjUzV2FBcE9OdXhEa29qWlYwRmppeXprTTJKQjQ4SFRWaTM0M3M5QlJMZi1rTV9ReS0zUHV0empENWl0QUF6OFhIVVZKaFZQVG9GU1JEcE1taWl6UEZtOWkydzBqbTBjUmgtZTc3LTgtWkluU1FLMXBpVkVYUF9qNVZYcnVHU3VQQ2pxSjJYWG1hb9IBjAJBVV95cUxOdmF6OVh0bDhRMXZHcFd0aHQwWlhmR0N2MmlrdEd5amh6LXNnY3pkaUVLY0RIbTZudWJlTkdYOTk5d1UzYVZTOThfUE1tZEF4Z084Y0NoSGg5SS1BN1VhNWZTbkxUVFFFTUY1cXlqV3JkdG0xNWYtTzBvY1QzQlBTLTZ3bnJiWi01amo3bFphOWZKTzJpQmJ4M2p5LUFEWXpham8zQlFNN3VkRDlzS1MzSnFCOFIwZ0htSENnRVd2b1RaaktBcmNLazcxVFFPakhtc3RoMkREWnBzQkx0R0dzaVJMWVVSZ3dFUUNDVk8zU3g4UkRuU2twZld4NnRQTUxnODF6WGNYREh5eHRW?oc=5",
       "section": "espana",
       "category": "La Vanguardia",
       "title": "Dimite el presidente de Adif, Luis Pedro Marco de la Peña, tras reunirse con el ministro Cuerpo - La Vanguardia",
       "summary": "Dimite el presidente de Adif, Luis Pedro Marco de la Peña, tras reunirse con el ministro Cuerpo La Vanguardia",
       "image": "",
-      "publishedAt": "2026-11-05 06:24 UTC",
+      "publishedAt": "2026-11-04 18:07 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
@@ -3700,7 +3754,7 @@
       "title": "Las aceiteras españolas DCOOP y Acesur compran Deoleo (Carbonell) por 520 millones - 20Minutos",
       "summary": "Las aceiteras españolas DCOOP y Acesur compran Deoleo (Carbonell) por 520 millones 20Minutos",
       "image": "",
-      "publishedAt": "2026-11-05 08:36 UTC",
+      "publishedAt": "2026-11-05 07:03 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
@@ -3712,56 +3766,56 @@
       ]
     },
     {
-      "id": "espana|https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSlJ5NzNaRTZfRi1iR1N2NktFN0NEZFNfVGlKNmgxZHB0bjZhbzBVVUZSUVA0dVowcVZBN0poVUZJTGNaNURBTWRmLUYwUHVzQXNhUldaOWFzNHpSaHUyb0tIVlZjZ0VnZktrZzRPUXkweWhEU24yM3drWC1LN3Bva1NrTEJqejlzOS1wZjVTRDJFWkVwUDNXSERCS0lIN2JRM3pNXzQtYWNjRVN0eWJuc1RSVzFmYmRvRkRSZVl2VmFiamZuRzRWV3ByQ0dQRVBOVkJkOHBFa2VGalpRQU84WkFsMWRmdlZx0gHuAUFVX3lxTFBVNjR4QVFQTHVTMFlJdFdFNjlxOFhONFNjQnlOX3JUaVZmUE9CaU9pNU15UXNQenQyUkt4bzE3b095SjhkN0xqWHlKdkFjRU9oUVF3dEwtZTNjclNUbG1lWUp0bHA3QjM0RVJDMjIwcUhqZFFRWkFUb3ctQWNjZzE2eFhCd3pYczZKSjg3Q1ZYdTRxQ1VLZmhhOVN5cTJoczJzRXBJZE56Uk9ENTdDd0kxOEZFUmhsa2kzbGFxNUdwNm9nNDZFRUJHRlk4dGxMNnBqTmRoUmllMU9TMjlUSjlNaUpUVkwxdlZOTmhseHc?oc=5",
+      "id": "espana|https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ3VVNnp0MjdDZHozMlBpVkFRWnJrUjhibFVsd2xCb1N6OFk4UDFLT1VuUkQwWnluUElBT09vR0EzLWZRTDNvbDNxQ0hPQzFqbVloVXJLdlpzOHhpVS0zbVVHUVlZS2IzN3VYU1ZwYlI4eUlKai1GR2pHR1NSYmRDTG4xWXRKSk4wUlhtcnJMRTkyak14MXhhOURfbkpZN1ktYlE1VHlMSGViSjJTN0FzeTFha1h0VzRnaWhoY3dONDZBQy1aNUg3aUtjTQ?oc=5",
       "section": "espana",
       "category": "20minutos",
-      "title": "El PSOE utiliza la dimisión de Puente como bandera con el \"no todos somos iguales\" y carga a Cuerpo con el frente ferroviario - 20Minutos",
-      "summary": "El PSOE utiliza la dimisión de Puente como bandera con el \"no todos somos iguales\" y carga a Cuerpo con el frente ferroviario 20Minutos",
+      "title": "Frío saludo entre Sánchez y Milei en su primer encuentro cara a cara tras su encontronazo - 20Minutos",
+      "summary": "Frío saludo entre Sánchez y Milei en su primer encuentro cara a cara tras su encontronazo 20Minutos",
       "image": "",
-      "publishedAt": "2026-11-05 04:00 UTC",
+      "publishedAt": "2026-11-05 08:29 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "20minutos",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSlJ5NzNaRTZfRi1iR1N2NktFN0NEZFNfVGlKNmgxZHB0bjZhbzBVVUZSUVA0dVowcVZBN0poVUZJTGNaNURBTWRmLUYwUHVzQXNhUldaOWFzNHpSaHUyb0tIVlZjZ0VnZktrZzRPUXkweWhEU24yM3drWC1LN3Bva1NrTEJqejlzOS1wZjVTRDJFWkVwUDNXSERCS0lIN2JRM3pNXzQtYWNjRVN0eWJuc1RSVzFmYmRvRkRSZVl2VmFiamZuRzRWV3ByQ0dQRVBOVkJkOHBFa2VGalpRQU84WkFsMWRmdlZx0gHuAUFVX3lxTFBVNjR4QVFQTHVTMFlJdFdFNjlxOFhONFNjQnlOX3JUaVZmUE9CaU9pNU15UXNQenQyUkt4bzE3b095SjhkN0xqWHlKdkFjRU9oUVF3dEwtZTNjclNUbG1lWUp0bHA3QjM0RVJDMjIwcUhqZFFRWkFUb3ctQWNjZzE2eFhCd3pYczZKSjg3Q1ZYdTRxQ1VLZmhhOVN5cTJoczJzRXBJZE56Uk9ENTdDd0kxOEZFUmhsa2kzbGFxNUdwNm9nNDZFRUJHRlk4dGxMNnBqTmRoUmllMU9TMjlUSjlNaUpUVkwxdlZOTmhseHc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ3VVNnp0MjdDZHozMlBpVkFRWnJrUjhibFVsd2xCb1N6OFk4UDFLT1VuUkQwWnluUElBT09vR0EzLWZRTDNvbDNxQ0hPQzFqbVloVXJLdlpzOHhpVS0zbVVHUVlZS2IzN3VYU1ZwYlI4eUlKai1GR2pHR1NSYmRDTG4xWXRKSk4wUlhtcnJMRTkyak14MXhhOURfbkpZN1ktYlE1VHlMSGViSjJTN0FzeTFha1h0VzRnaWhoY3dONDZBQy1aNUg3aUtjTQ?oc=5"
         }
       ]
     },
     {
-      "id": "espana|https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeEluYTh2WGFKMDBjWjJma0ZCQVdES3FZWkxFQUdWRW5ERlJwRVI1cnN5eG1zRWRLT0JCcl8yQ0E4RmFNSEVYc2dyWHlzRFVIaVE3eC1iTURVZG1XS3RRVElGYlRuS25kdFRDak12OE9EdzZSaVRWWVJuTDc4aFdRY3dSTFNXaVpUUEc4MEdLQnhRbFpNSVFVNUsyem11ZFJYVklVTHVlYl9RV3U2TnhQZDJaaXp3UUFyWnRLSVdzdlJJNnd2dzZqY1d0UDFXR202WVY3M1dxT2RpMmhNNlhj0gHkAUFVX3lxTE1NbWw5aVY1bVJ0SXNwZnN2Qk5BMm1EWU15cFNzSkswM3JMT2ljdmNoV09RRjc5WEFGOENGVGpwSUNIeFhaN3I5ZU9GVDl3aEdrYWtlODVDOUZ6X19Pc2UtQ21DZ1hPS1dsbzR6TzhjYlhOWEpxTllKUUhiWjBZTjJtRWp4UDZrZ1ZKVGZ5Y185b1p1bE9TWFA0LUVHcjlDMV84X0paQkZQTW5ub2tXOTNSb3RwN2dxVTg3QUR2QVJPbjdDRWpOTDZDUE9xOVFJbnNoTUpCbzZORWZRQVNvRllVcGQ4Mg?oc=5",
+      "id": "espana|https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUVFIamp0cXdRcWl3YTZSSlE0Y1dUZ05CQTZqZi10LWpsWFhxaWVPWEs4UHl4S0RJeUROTXJSR2ZHZ0hBeGpEYW9lMzVOQ2xCWFc3ZUw1QjN3N1dKcjQyN3J0TnlmUXBWYVVORjVQa2hPUWpiSlh6c1IxZDFUTnF2SEZ1VHdlQmVfdXhpazNRd08xX0JBY1pnLU1IdHV2V1prTEVFZHJnMzRYSTlFOXhRczNkZFpZSzhTbEpXOEEwLU0xMGt0ek56LV9HaV9vWUdzX0dhY1p2ZVRMMkJSdHlCSExJTjk3SE5RelZiZ29DaE5YMm_SAfgBQVVfeXFMT1VuSzhxLVRMYUIxT09jU283bmZxQTlsblpEY3U5Qm1oSUg0c1czaFRKbURKVG1WREhxUmV2d1RKSFUwblJkQ1dlWG5TNXd4S2N2Q0VzMlVsWG5OOXlEclRRS2pLU1dqbjJ6ZzdFTFlfdTR2VmVaTWV3VjFUSXh6MDk0SS1rMkF4UG9zdEhsV2ZHYUJHcFVVZnpPYUhtWW9sWWVXT0lWdWcyU2hRMnV4QS15YmNJT0hrMGxiQ1JnWXZ1UU9meDc4SG9XeXRWWmd3aHVka29fZEF1ZGJHbFdRRTA4aFoxYUF4ckt4SkhNQzc1TlBjZ1hMZXg?oc=5",
       "section": "espana",
       "category": "El Español",
-      "title": "El Gobierno subirá el SMI un 5,3%, hasta los 1.286 euros mensuales, por encima de la recomendación de los expertos - El Español",
-      "summary": "El Gobierno subirá el SMI un 5,3%, hasta los 1.286 euros mensuales, por encima de la recomendación de los expertos El Español",
+      "title": "La Audiencia Nacional ordena a la UCO registrar la casa de Ábalos en Valencia en una nueva operación del 'caso Koldo' - El Español",
+      "summary": "La Audiencia Nacional ordena a la UCO registrar la casa de Ábalos en Valencia en una nueva operación del 'caso Koldo' El Español",
       "image": "",
-      "publishedAt": "2026-11-05 06:54 UTC",
+      "publishedAt": "2026-11-05 09:09 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "El Español",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeEluYTh2WGFKMDBjWjJma0ZCQVdES3FZWkxFQUdWRW5ERlJwRVI1cnN5eG1zRWRLT0JCcl8yQ0E4RmFNSEVYc2dyWHlzRFVIaVE3eC1iTURVZG1XS3RRVElGYlRuS25kdFRDak12OE9EdzZSaVRWWVJuTDc4aFdRY3dSTFNXaVpUUEc4MEdLQnhRbFpNSVFVNUsyem11ZFJYVklVTHVlYl9RV3U2TnhQZDJaaXp3UUFyWnRLSVdzdlJJNnd2dzZqY1d0UDFXR202WVY3M1dxT2RpMmhNNlhj0gHkAUFVX3lxTE1NbWw5aVY1bVJ0SXNwZnN2Qk5BMm1EWU15cFNzSkswM3JMT2ljdmNoV09RRjc5WEFGOENGVGpwSUNIeFhaN3I5ZU9GVDl3aEdrYWtlODVDOUZ6X19Pc2UtQ21DZ1hPS1dsbzR6TzhjYlhOWEpxTllKUUhiWjBZTjJtRWp4UDZrZ1ZKVGZ5Y185b1p1bE9TWFA0LUVHcjlDMV84X0paQkZQTW5ub2tXOTNSb3RwN2dxVTg3QUR2QVJPbjdDRWpOTDZDUE9xOVFJbnNoTUpCbzZORWZRQVNvRllVcGQ4Mg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUVFIamp0cXdRcWl3YTZSSlE0Y1dUZ05CQTZqZi10LWpsWFhxaWVPWEs4UHl4S0RJeUROTXJSR2ZHZ0hBeGpEYW9lMzVOQ2xCWFc3ZUw1QjN3N1dKcjQyN3J0TnlmUXBWYVVORjVQa2hPUWpiSlh6c1IxZDFUTnF2SEZ1VHdlQmVfdXhpazNRd08xX0JBY1pnLU1IdHV2V1prTEVFZHJnMzRYSTlFOXhRczNkZFpZSzhTbEpXOEEwLU0xMGt0ek56LV9HaV9vWUdzX0dhY1p2ZVRMMkJSdHlCSExJTjk3SE5RelZiZ29DaE5YMm_SAfgBQVVfeXFMT1VuSzhxLVRMYUIxT09jU283bmZxQTlsblpEY3U5Qm1oSUg0c1czaFRKbURKVG1WREhxUmV2d1RKSFUwblJkQ1dlWG5TNXd4S2N2Q0VzMlVsWG5OOXlEclRRS2pLU1dqbjJ6ZzdFTFlfdTR2VmVaTWV3VjFUSXh6MDk0SS1rMkF4UG9zdEhsV2ZHYUJHcFVVZnpPYUhtWW9sWWVXT0lWdWcyU2hRMnV4QS15YmNJT0hrMGxiQ1JnWXZ1UU9meDc4SG9XeXRWWmd3aHVka29fZEF1ZGJHbFdRRTA4aFoxYUF4ckt4SkhNQzc1TlBjZ1hMZXg?oc=5"
         }
       ]
     },
     {
-      "id": "espana|https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcnlWWnJlNE9CZUdWMm9vemdaUTRsV0JwM0EybzlXVzZHRnEteG84YllmZlJtN2lXT1pXalhyOFhmZEZRRlh1Y28yT05rSDRmbE5PRXRzQzhjei1uU3NhdmdEOFRoOFNOc3dOZHV5TTRlRWFnUXNoRS1VZEpqOGVfcGcwSko3OGRmYWJZQkk3VnVRV2tpdFBWWXBjY0xzbWc0c2I5X0pfVjlodEZDMWhVU0NfcndjUkoyRUtxTmNwc1BMSEE0MEMwU2owbVdublNYWUp1Y3NmN3BJQTgtc3hYdGNZQTVvRzFxS1HSAe8BQVVfeXFMTmVmcE53aUQ2UFYwMHJDdTJMblczTzZucC1ZX1VjNm5NN2E4MmNGV0tHT283UG9KOVBoY3lLY1UxVGpzYS1NbWE1QlZpMXMzczdCNmJrYXd3Mm1GQVFGS2xlQmNwT19zM1FKMkVna19EQXMzSFJiQTg5SUd1OVFVRkJGX20tSjRrQTREV2hVdVJtdDc0NWw4bjc3YTJ0UmRZemp4Z1dfQVVycUlwWUFGTlBkQ0pMODdZRWtic214Q0lJcnhrRE9sWFhwR2hUbVBYaWZ2TUhjMWVUOEtvR18ySG5JWDlqS0pfX1l4N093cmM?oc=5",
+      "id": "espana|https://news.google.com/rss/articles/CBMi8wFBVV95cUxNV19wTGVzUzV3UzBISEE1WmlaeUxhanNmSVV1NFNZbXVtd0dPT2d1REs4WHc0OWN6RGdWZDhkcTBLZWp3anZMT0c4QlIzN3NyQmJKNEF0c1J6dlNiS2FhVG8wQ3ZwQmF2OXV0empVb0ktRDE2RUNrYTZUZmpyRzJqZUtldWhNNDhXN2NneWN3ZjJvYUpZNlFJZnRKV0RUZWZqeTMyNEZMUk4ydkpiMlhTZjNkWmlMVDlEdWlVRHFrWVVQVHRrSFVlN1ltSl93YVJzbmxibG9vU2JaNTZzQktraHpLUndDaVRQQnBGZHJNUE1uZlHSAfgBQVVfeXFMT3hEYzlyQXl5eHZWVnJ3bHU2X1NFSWpPV3FISTVtRkZhQXR0NW5lc2plNVRuTDlVa0o3OWVSZG5FMEEybXZSNDBuLXhCR1pteHFkdkVtbUlTN2RoSlQ5QUM1dGV2LWdWSGpqcEQ2clRzaGI0QW1zNDBIbnFwWFpJSFBiNC1LVEUyUFNvTHVibmczYmE1bXRNd2h0WjlCYmZwLUl4bVlLR0tIQkI0S0ZlMjUwMl9TNG5jTkVvZWJiWEdiMl9vaDJzc192Z3FhaE15VlRId1RhS19qc2FpU3dSSGxzZGVnaE8wbXZFSHpERUdhcDd5dkhGQmE?oc=5",
       "section": "espana",
       "category": "El Español",
-      "title": "El Papa León XIV recibe en el Vaticano a Bob Dylan, que acudió encapuchado e íntegramente vestido de negro - El Español",
-      "summary": "El Papa León XIV recibe en el Vaticano a Bob Dylan, que acudió encapuchado e íntegramente vestido de negro El Español",
+      "title": "Sánchez recibe a Milei con un gélido saludo: tensión en la Cumbre Iberoamericana tras los insultos del líder argentino - El Español",
+      "summary": "Sánchez recibe a Milei con un gélido saludo: tensión en la Cumbre Iberoamericana tras los insultos del líder argentino El Español",
       "image": "",
-      "publishedAt": "2026-11-05 06:35 UTC",
+      "publishedAt": "2026-11-05 08:51 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "El Español",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcnlWWnJlNE9CZUdWMm9vemdaUTRsV0JwM0EybzlXVzZHRnEteG84YllmZlJtN2lXT1pXalhyOFhmZEZRRlh1Y28yT05rSDRmbE5PRXRzQzhjei1uU3NhdmdEOFRoOFNOc3dOZHV5TTRlRWFnUXNoRS1VZEpqOGVfcGcwSko3OGRmYWJZQkk3VnVRV2tpdFBWWXBjY0xzbWc0c2I5X0pfVjlodEZDMWhVU0NfcndjUkoyRUtxTmNwc1BMSEE0MEMwU2owbVdublNYWUp1Y3NmN3BJQTgtc3hYdGNZQTVvRzFxS1HSAe8BQVVfeXFMTmVmcE53aUQ2UFYwMHJDdTJMblczTzZucC1ZX1VjNm5NN2E4MmNGV0tHT283UG9KOVBoY3lLY1UxVGpzYS1NbWE1QlZpMXMzczdCNmJrYXd3Mm1GQVFGS2xlQmNwT19zM1FKMkVna19EQXMzSFJiQTg5SUd1OVFVRkJGX20tSjRrQTREV2hVdVJtdDc0NWw4bjc3YTJ0UmRZemp4Z1dfQVVycUlwWUFGTlBkQ0pMODdZRWtic214Q0lJcnhrRE9sWFhwR2hUbVBYaWZ2TUhjMWVUOEtvR18ySG5JWDlqS0pfX1l4N093cmM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNV19wTGVzUzV3UzBISEE1WmlaeUxhanNmSVV1NFNZbXVtd0dPT2d1REs4WHc0OWN6RGdWZDhkcTBLZWp3anZMT0c4QlIzN3NyQmJKNEF0c1J6dlNiS2FhVG8wQ3ZwQmF2OXV0empVb0ktRDE2RUNrYTZUZmpyRzJqZUtldWhNNDhXN2NneWN3ZjJvYUpZNlFJZnRKV0RUZWZqeTMyNEZMUk4ydkpiMlhTZjNkWmlMVDlEdWlVRHFrWVVQVHRrSFVlN1ltSl93YVJzbmxibG9vU2JaNTZzQktraHpLUndDaVRQQnBGZHJNUE1uZlHSAfgBQVVfeXFMT3hEYzlyQXl5eHZWVnJ3bHU2X1NFSWpPV3FISTVtRkZhQXR0NW5lc2plNVRuTDlVa0o3OWVSZG5FMEEybXZSNDBuLXhCR1pteHFkdkVtbUlTN2RoSlQ5QUM1dGV2LWdWSGpqcEQ2clRzaGI0QW1zNDBIbnFwWFpJSFBiNC1LVEUyUFNvTHVibmczYmE1bXRNd2h0WjlCYmZwLUl4bVlLR0tIQkI0S0ZlMjUwMl9TNG5jTkVvZWJiWEdiMl9vaDJzc192Z3FhaE15VlRId1RhS19qc2FpU3dSSGxzZGVnaE8wbXZFSHpERUdhcDd5dkhGQmE?oc=5"
         }
       ]
     },
@@ -3802,38 +3856,56 @@
       ]
     },
     {
-      "id": "mundo|https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbzVZOXU1MHFuS1FtMGNkX3ctR3N2ZkVrV3cxeEk4UXA2azBiQWt5S2RiNW1nbEE3V0hENkVkUlZKSm9wY0I4VlRBWnkxZDNLRjhhQzZGVm5CcFQ5d25tbl9DOHVaQWZsZnYyYjBVWl9jTm8zWHlLNW1DdmJxSEUyM2FoUHJFZ1JjbzI4MXppQkYtSGZ5cEV5aW1XLVR2dUJmeGRpUElCTFVkMV82YVk0dmV0MW5tUm5hQjFiQnM0VUJYSWViNldFNG1oczNFNC1tVFFtZg?oc=5",
+      "id": "mundo|https://news.google.com/rss/articles/CBMizAFBVV95cUxNSUllcFZWajRSZE9PZE82Zl9aMHl5SlF6b09IejNjUjdqLTRJb2hKemVORDZGVDdkZkFaUksyV3hxMXNCNXlHZnR2QjY5anN0RkFpeC1UMzBQcjkxRC05S0tBcVhSOTA1dWw5d2s3ZDNkX1FadkI3SGh0Ti1zaWloUFVteWRfNlJNQl9uUkRVY0FyXzNDTEo2dkI5R3NveEd2eVVSeHFTOXhGQ0V3ZjRGOFpfcWJ6dm9VUXR3bGNxXzhrLXYtV29sRkR1NTc?oc=5",
       "section": "mundo",
       "category": "Reuters",
-      "title": "Russia may have rehearsed attack on satellite, specialist says, flagging another approach - Reuters",
-      "summary": "Russia may have rehearsed attack on satellite, specialist says, flagging another approach Reuters",
+      "title": "Bomb alerts force flights to land in France, Bulgaria, Belgium - Reuters",
+      "summary": "Bomb alerts force flights to land in France, Bulgaria, Belgium Reuters",
       "image": "",
-      "publishedAt": "2026-11-05 06:06 UTC",
+      "publishedAt": "2026-11-05 10:27 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbzVZOXU1MHFuS1FtMGNkX3ctR3N2ZkVrV3cxeEk4UXA2azBiQWt5S2RiNW1nbEE3V0hENkVkUlZKSm9wY0I4VlRBWnkxZDNLRjhhQzZGVm5CcFQ5d25tbl9DOHVaQWZsZnYyYjBVWl9jTm8zWHlLNW1DdmJxSEUyM2FoUHJFZ1JjbzI4MXppQkYtSGZ5cEV5aW1XLVR2dUJmeGRpUElCTFVkMV82YVk0dmV0MW5tUm5hQjFiQnM0VUJYSWViNldFNG1oczNFNC1tVFFtZg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSUllcFZWajRSZE9PZE82Zl9aMHl5SlF6b09IejNjUjdqLTRJb2hKemVORDZGVDdkZkFaUksyV3hxMXNCNXlHZnR2QjY5anN0RkFpeC1UMzBQcjkxRC05S0tBcVhSOTA1dWw5d2s3ZDNkX1FadkI3SGh0Ti1zaWloUFVteWRfNlJNQl9uUkRVY0FyXzNDTEo2dkI5R3NveEd2eVVSeHFTOXhGQ0V3ZjRGOFpfcWJ6dm9VUXR3bGNxXzhrLXYtV29sRkR1NTc?oc=5"
         }
       ]
     },
     {
-      "id": "mundo|https://news.google.com/rss/articles/CBMipgFBVV95cUxPcU1hLV8xaWd0U2UwXzdWNHRsSU1UaV9uM3BQTkd2MHVSRXFBSXRzMjFtMkZrSVJ2YUF5Wjl2YVpnVHI5d3BsSEVJTjhFMFZkUEtkUDJxNE1rMmcwaTUxYUdxU1lLekJCd2R0cWljTS1YREFWd2RJemdyRVIxNk9CUDNIZXRwSlQ1UW9NUUJBQjZXTjhOSUFSVktZcGIySjJQS0hQb2VB?oc=5",
+      "id": "mundo|https://news.google.com/rss/articles/CBMiugFBVV95cUxQQVBkVEFRMUNIQ0xmQVZXR1lLZmJBeVJiMXJMalZKLTRCaG00cmhCWjVKQjZmUUh3ajlGY3hjejlwRm40M1BNVXlwWFJjcXU0Um40QVNQY1BjNEZFbGF0RUdvamZYNlBCelY2UFBuOHVzU2pRYWk5RXRPbjU5QkdwcUo2cXhKU2JqMy01ZHpoQk5MbTg2a19rdXRCR1JLeFI2RzJMNDNtMm9LelZOWS1vaVpyNG5GS2pManc?oc=5",
       "section": "mundo",
       "category": "Reuters",
-      "title": "Dozens of pilot whales stranded on New Zealand coast - Reuters",
-      "summary": "Dozens of pilot whales stranded on New Zealand coast Reuters",
+      "title": "Trump's political humbling signals short-term gain, long-term pain for China - Reuters",
+      "summary": "Trump's political humbling signals short-term gain, long-term pain for China Reuters",
       "image": "",
-      "publishedAt": "2026-11-05 07:00 UTC",
+      "publishedAt": "2026-11-05 07:57 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcU1hLV8xaWd0U2UwXzdWNHRsSU1UaV9uM3BQTkd2MHVSRXFBSXRzMjFtMkZrSVJ2YUF5Wjl2YVpnVHI5d3BsSEVJTjhFMFZkUEtkUDJxNE1rMmcwaTUxYUdxU1lLekJCd2R0cWljTS1YREFWd2RJemdyRVIxNk9CUDNIZXRwSlQ1UW9NUUJBQjZXTjhOSUFSVktZcGIySjJQS0hQb2VB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQVBkVEFRMUNIQ0xmQVZXR1lLZmJBeVJiMXJMalZKLTRCaG00cmhCWjVKQjZmUUh3ajlGY3hjejlwRm40M1BNVXlwWFJjcXU0Um40QVNQY1BjNEZFbGF0RUdvamZYNlBCelY2UFBuOHVzU2pRYWk5RXRPbjU5QkdwcUo2cXhKU2JqMy01ZHpoQk5MbTg2a19rdXRCR1JLeFI2RzJMNDNtMm9LelZOWS1vaVpyNG5GS2pManc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://news.google.com/rss/articles/CBMiowFBVV95cUxQSnhHSjgtSFByNEdJbE1STEozdDdWdDlFMnZFZjY5Ni1qTmlzN3R3UEdST1VueFNpWkZkNnVmQnVoMUhBYXBIajlScDkxWnk2Zllac3JxOEgxU3lIR0d6N092WjNudFhoTHdOME44YVBreVJDR0dobm4wa0dfby0xQ1pZLU9IUmVqWUdtY0hjeGdMcWxrUllfdUJLbnF3V2cxWXlR?oc=5",
+      "section": "mundo",
+      "category": "AP News",
+      "title": "Canadian authorities say multiple grizzlies may have attacked mother and daughter found dead - AP News",
+      "summary": "Canadian authorities say multiple grizzlies may have attacked mother and daughter found dead AP News",
+      "image": "",
+      "publishedAt": "2026-11-05 01:00 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSnhHSjgtSFByNEdJbE1STEozdDdWdDlFMnZFZjY5Ni1qTmlzN3R3UEdST1VueFNpWkZkNnVmQnVoMUhBYXBIajlScDkxWnk2Zllac3JxOEgxU3lIR0d6N092WjNudFhoTHdOME44YVBreVJDR0dobm4wa0dfby0xQ1pZLU9IUmVqWUdtY0hjeGdMcWxrUllfdUJLbnF3V2cxWXlR?oc=5"
         }
       ]
     },
@@ -3856,24 +3928,6 @@
       ]
     },
     {
-      "id": "mundo|https://news.google.com/rss/articles/CBMijwFBVV95cUxOa2J0LXl6djVuN2xHa2VndjNMcmZQTTdzNDRRb1RIVzU3NHpkMWxHcWNxUWxaUHctOHlQbFM0VEFDS3ZtZE9xcFBid0pDalZ5dlpWb0Q4Z21rOFRrb2V1VHZwNTlIVE9sUUx0bGQwam9YZHdXa1pLckNfaG5TZHd0ejVaVGtxcHhvMFhfVWFfdw?oc=5",
-      "section": "mundo",
-      "category": "AP News",
-      "title": "Bob Dylan comes knockin’ on pope’s door as Leo welcomes legend to Vatican - AP News",
-      "summary": "Bob Dylan comes knockin’ on pope’s door as Leo welcomes legend to Vatican AP News",
-      "image": "",
-      "publishedAt": "2026-11-04 20:00 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa2J0LXl6djVuN2xHa2VndjNMcmZQTTdzNDRRb1RIVzU3NHpkMWxHcWNxUWxaUHctOHlQbFM0VEFDS3ZtZE9xcFBid0pDalZ5dlpWb0Q4Z21rOFRrb2V1VHZwNTlIVE9sUUx0bGQwam9YZHdXa1pLckNfaG5TZHd0ejVaVGtxcHhvMFhfVWFfdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "mundo|https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ0Q1VWtaeXpoeUNSbm44YmthamNhOWhjRE1sckxKVzhZeXNkX3NGanp1SXZtNlRpY1dRQlVjM3d1SVh3TDR0ZWQtcUhmUThET3VUVjEyUDhHYU9JeEpDNHVIOENWOFVfMm1la3c5UHpsU0JTUHBnamdGY01kUXRRQkpLUXprYXV5NzJDdVI4MGVyQmN1Q0dVdGtIVQ?oc=5",
       "section": "mundo",
       "category": "France 24",
@@ -3892,20 +3946,20 @@
       ]
     },
     {
-      "id": "mundo|https://news.google.com/rss/articles/CBMiywFBVV95cUxORzRYeWNscWlpc0RBX2VCaG5EVHpzSmRfaVg1cHI4RDVPakVSbm1VREJoMmFNZ2FoUV9WcnA5djJ6UG9JT29hSm5BMU5pamRQby04dmVQcjZMZTNGdjl3NTJFM3ZZSVFsZXB6MzJJbFVxTlVTVEJNXzFPWVltUERpX0RRZC1ER3F1LTROXzlxcks1SXBXeFJ1MFhhaDk5cndETWlBd0x3OGxQc3l0NzJGT0JwOUVWQ2VQakF0OWtYWUVGbTZMd1loc2l1NA?oc=5",
+      "id": "mundo|https://news.google.com/rss/articles/CBMiuAFBVV95cUxQREpTRkNySmU5NnRhbE9PT21PZmYxbUNpbDYzZEl4cEx5aTdobTVPTE1DUGJ3SEV4QlIyak5LajVXYTFSdFh2ZktrS3hHSnJjNjIxc3pYdE1nT3dSUE9WQ1VXZnczcnN6Q0wtdE45MkMzUVRLOFhaS3M1TFJJekk1amIyQVZ3QmxfdTBWVWFhbHF3eWN2WVNHNVVuZGt1V0JCc0xOdEswQ3Y3TGdsY1luZXJiVnF2UmJN?oc=5",
       "section": "mundo",
       "category": "France 24",
-      "title": "Democrats warn Trump camp to ‘lawyer up’ as anger over corruption drives midterms wipeout - France 24",
-      "summary": "Democrats warn Trump camp to ‘lawyer up’ as anger over corruption drives midterms wipeout France 24",
+      "title": "Trump congratulates Democrats on midterms win, says Iran war played role - France 24",
+      "summary": "Trump congratulates Democrats on midterms win, says Iran war played role France 24",
       "image": "",
-      "publishedAt": "2026-11-04 18:01 UTC",
+      "publishedAt": "2026-11-04 07:13 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "France 24",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORzRYeWNscWlpc0RBX2VCaG5EVHpzSmRfaVg1cHI4RDVPakVSbm1VREJoMmFNZ2FoUV9WcnA5djJ6UG9JT29hSm5BMU5pamRQby04dmVQcjZMZTNGdjl3NTJFM3ZZSVFsZXB6MzJJbFVxTlVTVEJNXzFPWVltUERpX0RRZC1ER3F1LTROXzlxcks1SXBXeFJ1MFhhaDk5cndETWlBd0x3OGxQc3l0NzJGT0JwOUVWQ2VQakF0OWtYWUVGbTZMd1loc2l1NA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQREpTRkNySmU5NnRhbE9PT21PZmYxbUNpbDYzZEl4cEx5aTdobTVPTE1DUGJ3SEV4QlIyak5LajVXYTFSdFh2ZktrS3hHSnJjNjIxc3pYdE1nT3dSUE9WQ1VXZnczcnN6Q0wtdE45MkMzUVRLOFhaS3M1TFJJekk1amIyQVZ3QmxfdTBWVWFhbHF3eWN2WVNHNVVuZGt1V0JCc0xOdEswQ3Y3TGdsY1luZXJiVnF2UmJN?oc=5"
         }
       ]
     },
@@ -3964,20 +4018,20 @@
       ]
     },
     {
-      "id": "television|https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zMlctQTRyWUFldkJKbGdteEdpNkhCQ3ZKdExOaGJMYTNtNV82NUVlUUJyNURta0I5cEs2MUl4bFpuQWR2SmRRY1RON1A1NDNUMjUwcVF2WkpIdw?oc=5",
+      "id": "television|https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pMGc2YW5XVEM5bjc3b05Qa2E5aDZ3V2ZSdGZCN1dWSDdPVWdCc1RNNHd2MHpiX05SSmphOHVXdno5R1g4c2o3ZW14VmNWWGUyNGNJaVBEVGhBQQ?oc=5",
       "section": "television",
       "category": "FormulaTV",
-      "title": "Luke Burke: trayectoria - FormulaTV",
-      "summary": "Luke Burke: trayectoria FormulaTV",
+      "title": "Etan Simon: edad y trayectoria - FormulaTV",
+      "summary": "Etan Simon: edad y trayectoria FormulaTV",
       "image": "",
-      "publishedAt": "2026-11-04 17:26 UTC",
+      "publishedAt": "2026-11-04 23:26 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "FormulaTV",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zMlctQTRyWUFldkJKbGdteEdpNkhCQ3ZKdExOaGJMYTNtNV82NUVlUUJyNURta0I5cEs2MUl4bFpuQWR2SmRRY1RON1A1NDNUMjUwcVF2WkpIdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pMGc2YW5XVEM5bjc3b05Qa2E5aDZ3V2ZSdGZCN1dWSDdPVWdCc1RNNHd2MHpiX05SSmphOHVXdno5R1g4c2o3ZW14VmNWWGUyNGNJaVBEVGhBQQ?oc=5"
         }
       ]
     },
@@ -4000,20 +4054,20 @@
       ]
     },
     {
-      "id": "television|https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZEViMzAyc24xeGxLbDl5SVBEeU5BS24teUdTLW9FOVVRb0xCRGNXbVZmSU1HSklvd0FEZHZ6SEx3SFZYRThEYWpwY2xReFFHUFVfZHU4bmlWM205NTQ2dU5IdGdlRHBDRGstZHZ2UnFhMXEtZm1ZUzY5VGducGd3S1R3eUZ2REpJRzVmRF9Qb0tPbDNQczNhOVdKbmJ1RGJhZ1B5R3I0cE9tRXB3QW42YkNzWnlXYm5Eakg3NVdnZE5iWXkwRWoxedIBzwFBVV95cUxNVDNIbW96Ykc4T1JwY2dBT2ZfSjV0YS1zNkczU3N4MXdFbzVVRGJBSEVMVVVFZGNQRktNZlFYMDFiQW9tRkI2TXpILXAzOFd6X2VpVFRDRm5lT0tuT0paQ1lUT3pkbm9RbU5wX1RZXzM3SGJlc3lyQ3J6Skt3T2F6SGhKMkdta3lKalJZWVJ1YjE5MWZqNlhWYnhFTE5QdVU0RDFWUHdqMDdITHZfVUlfS0dnYzhwTWpTcEtyS0h5Um5kRzJYODhfMjBObnlqRG8?oc=5",
+      "id": "television|https://news.google.com/rss/articles/CBMixgFBVV95cUxNVlZoRjNLaVlxUnVRSzV2N091Rk9Ub0tmaFplR2Zqc0V0bDBSVm9FT2hnMTVHZVBjMHlGcDJuLU13V3g3S1phQkpGZXN1VVZ2cFpiQndod1JoQXNHZU9JYTlUek05TWxveUVTbU9BSUtzRXhNUnBoVkF3ZWYxRGRITDRMMkQweG51cmFlUGlwYXVvZXhwQmU1SlRmRW9kNzFxbnVIdmJrbHVCUUNVbTZZMmFxZTllTm1kQ0g3Z2V6WVduaW9WREHSAcwBQVVfeXFMUGh6MXkxZlB0U051bmRHUEFrenR1X0lDOUNLUnZDaGFpT3dTc29vWDl5ZnpTcDhvekVFX21oVzdvZEZQaVAwTk9VSUQtQ2VYdEFQQUVUaS1XRGJUQWd0aE8wSjktOTFVN0NPZWIwUTdJX2MxWWNLUlVFbEJEd1lzS3dIaDJ1NHl2aVpadGhjY29fQl9CRHJRWkNxZmpUVm5oSzk4ZGZ1Y3VkYm5yNDZTa2pOdjM2bUxwQnQyc0JjSDAwSmVvZndyX3I0a253?oc=5",
       "section": "television",
       "category": "Yotele",
-      "title": "Marcos Benito rompe a llorar en 'El Chiringuito' al recordar a Jesús de Miguel: \"Es lo más duro que he vivido\" - El Periódico",
-      "summary": "Marcos Benito rompe a llorar en 'El Chiringuito' al recordar a Jesús de Miguel: \"Es lo más duro que he vivido\" El Periódico",
+      "title": "Audiencias TV ayer | 'El túnel' se despide de La 1 con récord, aunque no puede con 'La isla de las tentaciones' - El Periódico",
+      "summary": "Audiencias TV ayer | 'El túnel' se despide de La 1 con récord, aunque no puede con 'La isla de las tentaciones' El Periódico",
       "image": "",
-      "publishedAt": "2026-11-04 14:24 UTC",
+      "publishedAt": "2026-11-05 08:00 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Yotele",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZEViMzAyc24xeGxLbDl5SVBEeU5BS24teUdTLW9FOVVRb0xCRGNXbVZmSU1HSklvd0FEZHZ6SEx3SFZYRThEYWpwY2xReFFHUFVfZHU4bmlWM205NTQ2dU5IdGdlRHBDRGstZHZ2UnFhMXEtZm1ZUzY5VGducGd3S1R3eUZ2REpJRzVmRF9Qb0tPbDNQczNhOVdKbmJ1RGJhZ1B5R3I0cE9tRXB3QW42YkNzWnlXYm5Eakg3NVdnZE5iWXkwRWoxedIBzwFBVV95cUxNVDNIbW96Ykc4T1JwY2dBT2ZfSjV0YS1zNkczU3N4MXdFbzVVRGJBSEVMVVVFZGNQRktNZlFYMDFiQW9tRkI2TXpILXAzOFd6X2VpVFRDRm5lT0tuT0paQ1lUT3pkbm9RbU5wX1RZXzM3SGJlc3lyQ3J6Skt3T2F6SGhKMkdta3lKalJZWVJ1YjE5MWZqNlhWYnhFTE5QdVU0RDFWUHdqMDdITHZfVUlfS0dnYzhwTWpTcEtyS0h5Um5kRzJYODhfMjBObnlqRG8?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVlZoRjNLaVlxUnVRSzV2N091Rk9Ub0tmaFplR2Zqc0V0bDBSVm9FT2hnMTVHZVBjMHlGcDJuLU13V3g3S1phQkpGZXN1VVZ2cFpiQndod1JoQXNHZU9JYTlUek05TWxveUVTbU9BSUtzRXhNUnBoVkF3ZWYxRGRITDRMMkQweG51cmFlUGlwYXVvZXhwQmU1SlRmRW9kNzFxbnVIdmJrbHVCUUNVbTZZMmFxZTllTm1kQ0g3Z2V6WVduaW9WREHSAcwBQVVfeXFMUGh6MXkxZlB0U051bmRHUEFrenR1X0lDOUNLUnZDaGFpT3dTc29vWDl5ZnpTcDhvekVFX21oVzdvZEZQaVAwTk9VSUQtQ2VYdEFQQUVUaS1XRGJUQWd0aE8wSjktOTFVN0NPZWIwUTdJX2MxWWNLUlVFbEJEd1lzS3dIaDJ1NHl2aVpadGhjY29fQl9CRHJRWkNxZmpUVm5oSzk4ZGZ1Y3VkYm5yNDZTa2pOdjM2bUxwQnQyc0JjSDAwSmVvZndyX3I0a253?oc=5"
         }
       ]
     },
@@ -4234,6 +4288,24 @@
       ]
     },
     {
+      "id": "tecnologia|https://news.google.com/rss/articles/CBMi3gFBVV95cUxPalFTUjF6eVduQzFzNFlrRlBlaWY2cEpvRVF2Z2Q3MnJjRWd2aGIwUzNJSVNvVHI1cHh2R0JqUHFuNGhPZVMwQzBCdUdCRnJQM1NaVkVlUzFtSk40UG1YbkJialNESFhJSTFaM1Z5dVVfS1pIdGFCanBJeVNlbHFrTnJyYkFrOXBPeEdoekZBZVRHckUwYTZzUHJ4Z3diTjRFWldfWTBtLUd2Wmc2Y25rSFhjX1p6c19Qb0FBWHBta2NlRnF4VS14YnNIdEVmbjFSN0lwR0JadEpWbGlLR0HSAeMBQVVfeXFMT1hmSmhpNVY3LU4ta1UwSVg5cGFrVmRiYnZGTzRmb1kxSUlfQ1RPd2x0ejJNOTFRQ0dpdDZNMFpMUHZWLXpEWGJCcE4zZ2dabVdHMmZyV002VUdsX1VKdXB4WjRhZlFEbVgzOGFuUTRHZ0N3WFgxYl9MVHo1ZnJmbkNuNXlOOGRMajFsVGNlclJabHQ3elJHYll5WDFaVFRoZTg4VkJTUEVEVl9TZ0JKajRPSXNVSzkyT0NWYjhOR05WeENTVndqVWZhZ1pTNVVtRUpGd19tZ0ktRDdXQkVVaEpudGs?oc=5",
+      "section": "tecnologia",
+      "category": "Xataka",
+      "title": "“No todos los tokens que producen los modelos valen lo mismo”: Dario Amodei sugiere un modelo de precios dinámicos en función de la tarea - Xataka",
+      "summary": "“No todos los tokens que producen los modelos valen lo mismo”: Dario Amodei sugiere un modelo de precios dinámicos en función de la tarea Xataka",
+      "image": "",
+      "publishedAt": "2026-11-05 06:01 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Xataka",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPalFTUjF6eVduQzFzNFlrRlBlaWY2cEpvRVF2Z2Q3MnJjRWd2aGIwUzNJSVNvVHI1cHh2R0JqUHFuNGhPZVMwQzBCdUdCRnJQM1NaVkVlUzFtSk40UG1YbkJialNESFhJSTFaM1Z5dVVfS1pIdGFCanBJeVNlbHFrTnJyYkFrOXBPeEdoekZBZVRHckUwYTZzUHJ4Z3diTjRFWldfWTBtLUd2Wmc2Y25rSFhjX1p6c19Qb0FBWHBta2NlRnF4VS14YnNIdEVmbjFSN0lwR0JadEpWbGlLR0HSAeMBQVVfeXFMT1hmSmhpNVY3LU4ta1UwSVg5cGFrVmRiYnZGTzRmb1kxSUlfQ1RPd2x0ejJNOTFRQ0dpdDZNMFpMUHZWLXpEWGJCcE4zZ2dabVdHMmZyV002VUdsX1VKdXB4WjRhZlFEbVgzOGFuUTRHZ0N3WFgxYl9MVHo1ZnJmbkNuNXlOOGRMajFsVGNlclJabHQ3elJHYll5WDFaVFRoZTg4VkJTUEVEVl9TZ0JKajRPSXNVSzkyT0NWYjhOR05WeENTVndqVWZhZ1pTNVVtRUpGd19tZ0ktRDdXQkVVaEpudGs?oc=5"
+        }
+      ]
+    },
+    {
       "id": "tecnologia|https://news.google.com/rss/articles/CBMivAFBVV95cUxPaFo1Z3BBQkhKVnVOMkdzRUNZY2llRGp4MHFpZ2FFUGRyZ1YwVUZmdHdDVXdpUmZrZmdiUHJEM0RqRnVzWDJIak1UZl9aSXd5NnZCdVRKR3FjWE9YZjBTbmlnaUFldVFPamlxNFY1UkpNQ3hLMFoxWGxpTkFuMGhsSFgya05NbDVvbE4zVkFPakFZb3ZkNW1YQ0RTRHllOHJTTEViNWlnRkpFMXRPWWZLcU9YNWxlTHRzYmd3V9IBwgFBVV95cUxPWEV0dFJlNTcyY1VKcFJ2eVd2RkwyaWh1ZWdwVzR5SFdxcnZhS25Ja3NhVUVKRDJHTkh2T3dOVjg2ZjNXejhuRDFfQmVuMXhYbWVmUXo3WndZOXliUDZJZ0xWNWlRczZGVklKRjB6SUtpaUgzQXhzbmtxc0RSZUF6eXptbHhmYnNfOWpwVmNjMmdaeUxWM295SVRsU2t0RTlNUk56S3FFd0hSUm9SVDVLSEVEWnV4ZzJ5N2ktUG5qYnFhdw?oc=5",
       "section": "tecnologia",
       "category": "Xataka",
@@ -4252,20 +4324,20 @@
       ]
     },
     {
-      "id": "tecnologia|https://news.google.com/rss/articles/CBMi3gFBVV95cUxPalFTUjF6eVduQzFzNFlrRlBlaWY2cEpvRVF2Z2Q3MnJjRWd2aGIwUzNJSVNvVHI1cHh2R0JqUHFuNGhPZVMwQzBCdUdCRnJQM1NaVkVlUzFtSk40UG1YbkJialNESFhJSTFaM1Z5dVVfS1pIdGFCanBJeVNlbHFrTnJyYkFrOXBPeEdoekZBZVRHckUwYTZzUHJ4Z3diTjRFWldfWTBtLUd2Wmc2Y25rSFhjX1p6c19Qb0FBWHBta2NlRnF4VS14YnNIdEVmbjFSN0lwR0JadEpWbGlLR0HSAeMBQVVfeXFMT1hmSmhpNVY3LU4ta1UwSVg5cGFrVmRiYnZGTzRmb1kxSUlfQ1RPd2x0ejJNOTFRQ0dpdDZNMFpMUHZWLXpEWGJCcE4zZ2dabVdHMmZyV002VUdsX1VKdXB4WjRhZlFEbVgzOGFuUTRHZ0N3WFgxYl9MVHo1ZnJmbkNuNXlOOGRMajFsVGNlclJabHQ3elJHYll5WDFaVFRoZTg4VkJTUEVEVl9TZ0JKajRPSXNVSzkyT0NWYjhOR05WeENTVndqVWZhZ1pTNVVtRUpGd19tZ0ktRDdXQkVVaEpudGs?oc=5",
+      "id": "tecnologia|https://news.google.com/rss/articles/CBMijAFBVV95cUxQSmpCNlVpUlAtR1k1bWlKYmdveEZBMFBla1JFSTBMTU1mYUJXNXZNZzJXQzVmWVF5UG5UcWd3bEJmdmp5dERMQVc1V1RSYXNBbjc5ME04Ri1aME92V1ZoT3Q3YmxiM0xlR0dvQldUQVNWaUk4RGg1NjFkQnNFc2xWNVN5bEtUNEQxVnEwUA?oc=5",
       "section": "tecnologia",
-      "category": "Xataka",
-      "title": "“No todos los tokens que producen los modelos valen lo mismo”: Dario Amodei sugiere un modelo de precios dinámicos en función de la tarea - Xataka",
-      "summary": "“No todos los tokens que producen los modelos valen lo mismo”: Dario Amodei sugiere un modelo de precios dinámicos en función de la tarea Xataka",
+      "category": "Applesfera",
+      "title": "Ya conocemos las novedades de iOS 27.3 beta 1. Estas son las más importantes - Applesfera",
+      "summary": "Ya conocemos las novedades de iOS 27.3 beta 1. Estas son las más importantes Applesfera",
       "image": "",
-      "publishedAt": "2026-11-05 06:01 UTC",
+      "publishedAt": "2026-11-04 07:23 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "Xataka",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPalFTUjF6eVduQzFzNFlrRlBlaWY2cEpvRVF2Z2Q3MnJjRWd2aGIwUzNJSVNvVHI1cHh2R0JqUHFuNGhPZVMwQzBCdUdCRnJQM1NaVkVlUzFtSk40UG1YbkJialNESFhJSTFaM1Z5dVVfS1pIdGFCanBJeVNlbHFrTnJyYkFrOXBPeEdoekZBZVRHckUwYTZzUHJ4Z3diTjRFWldfWTBtLUd2Wmc2Y25rSFhjX1p6c19Qb0FBWHBta2NlRnF4VS14YnNIdEVmbjFSN0lwR0JadEpWbGlLR0HSAeMBQVVfeXFMT1hmSmhpNVY3LU4ta1UwSVg5cGFrVmRiYnZGTzRmb1kxSUlfQ1RPd2x0ejJNOTFRQ0dpdDZNMFpMUHZWLXpEWGJCcE4zZ2dabVdHMmZyV002VUdsX1VKdXB4WjRhZlFEbVgzOGFuUTRHZ0N3WFgxYl9MVHo1ZnJmbkNuNXlOOGRMajFsVGNlclJabHQ3elJHYll5WDFaVFRoZTg4VkJTUEVEVl9TZ0JKajRPSXNVSzkyT0NWYjhOR05WeENTVndqVWZhZ1pTNVVtRUpGd19tZ0ktRDdXQkVVaEpudGs?oc=5"
+          "name": "Applesfera",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSmpCNlVpUlAtR1k1bWlKYmdveEZBMFBla1JFSTBMTU1mYUJXNXZNZzJXQzVmWVF5UG5UcWd3bEJmdmp5dERMQVc1V1RSYXNBbjc5ME04Ri1aME92V1ZoT3Q3YmxiM0xlR0dvQldUQVNWaUk4RGg1NjFkQnNFc2xWNVN5bEtUNEQxVnEwUA?oc=5"
         }
       ]
     },
@@ -4288,20 +4360,20 @@
       ]
     },
     {
-      "id": "tecnologia|https://news.google.com/rss/articles/CBMixwFBVV95cUxNOTRlMGtsb2cwZnhBVy02NVYyRTdlQXNBcXBkY2xoQ2syQnVRUllnOGN6RW43NEZjNElXcEF0cTVIa0VWS2xBS28wU09nRy1ucHJsaElSQW5sekowYkZQdml2cms1XzVWWUVOSENkUXNfZlhhTGlMMVVmd2FKbkEyRW9GZmVWR0sza1R6TVMxVlVQZ3haX0wydU9EZVpDMjUzWG00eDlUVU9ueGhiOUxLMWJtTWpKdS0zWEdBdTF3YWZkeWNiZjlV?oc=5",
+      "id": "tecnologia|https://news.google.com/rss/articles/CBMihwFBVV95cUxOZndDZ2FaZVA0ZVktUXdWZ0xMRDU1SE9KTlRJcjdJWU1yNzZ6Rm55Qi05YkFURjEtRzlCVHpUX3VWUk00RnlLbHYtdC1ybFkwd1pRUnpEY1dJYkRpdWZya1l3TTNwRkc4VmhFWWdSZ0xsbFdQdlJxZGxvUUpia3IyMVdvZUdDLXc?oc=5",
       "section": "tecnologia",
-      "category": "Applesfera",
-      "title": "Noviembre comienza con nuevas ofertas en AirPods: estos dos modelos bajan de precio antes del Black Friday - Applesfera",
-      "summary": "Noviembre comienza con nuevas ofertas en AirPods: estos dos modelos bajan de precio antes del Black Friday Applesfera",
+      "category": "MacRumors",
+      "title": "Apple Launching Five New Products Tomorrow - MacRumors",
+      "summary": "Apple Launching Five New Products Tomorrow MacRumors",
       "image": "",
-      "publishedAt": "2026-11-04 11:31 UTC",
-      "language": "es",
+      "publishedAt": "2026-11-05 08:59 UTC",
+      "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "Applesfera",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOTRlMGtsb2cwZnhBVy02NVYyRTdlQXNBcXBkY2xoQ2syQnVRUllnOGN6RW43NEZjNElXcEF0cTVIa0VWS2xBS28wU09nRy1ucHJsaElSQW5sekowYkZQdml2cms1XzVWWUVOSENkUXNfZlhhTGlMMVVmd2FKbkEyRW9GZmVWR0sza1R6TVMxVlVQZ3haX0wydU9EZVpDMjUzWG00eDlUVU9ueGhiOUxLMWJtTWpKdS0zWEdBdTF3YWZkeWNiZjlV?oc=5"
+          "name": "MacRumors",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZndDZ2FaZVA0ZVktUXdWZ0xMRDU1SE9KTlRJcjdJWU1yNzZ6Rm55Qi05YkFURjEtRzlCVHpUX3VWUk00RnlLbHYtdC1ybFkwd1pRUnpEY1dJYkRpdWZya1l3TTNwRkc4VmhFWWdSZ0xsbFdQdlJxZGxvUUpia3IyMVdvZUdDLXc?oc=5"
         }
       ]
     },
@@ -4324,38 +4396,20 @@
       ]
     },
     {
-      "id": "tecnologia|https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xMVdQUDJpc19NdURZbjNIR19ucnU3S0x3YUJSTHJQSGtNR3kzOER0YVl5Q3oyOXVxNTVQV3JLLVA5SHFLYTN1OVVWRHFCclU5dFo0NWRrSWhqeDJYWUthdnp6V2NnRGM?oc=5",
-      "section": "tecnologia",
-      "category": "MacRumors",
-      "title": "HomePod Mini 2's Amount of RAM Confirmed - MacRumors",
-      "summary": "HomePod Mini 2's Amount of RAM Confirmed MacRumors",
-      "image": "",
-      "publishedAt": "2026-11-04 21:50 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "MacRumors",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xMVdQUDJpc19NdURZbjNIR19ucnU3S0x3YUJSTHJQSGtNR3kzOER0YVl5Q3oyOXVxNTVQV3JLLVA5SHFLYTN1OVVWRHFCclU5dFo0NWRrSWhqeDJYWUthdnp6V2NnRGM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "tecnologia|https://news.google.com/rss/articles/CBMickFVX3lxTE9XQU1PckIzb2ZDZU8yR2E2UmgxVmR2ZWtUVUtDM0ZsOUJNSFQ5OGRRTDFUWGRPbEFIdk01dEw0VlV6LUo0MXpiYW9Ka0FsQUY0NGU2c3FWdklMVTRURzhSay0zcU1ZcXFnWkl6WUF0eFYtUQ?oc=5",
+      "id": "tecnologia|https://news.google.com/rss/articles/CBMifEFVX3lxTE1EazJTRHVHbWFKOEswNDN0OVVIaDVSWi1neDdoOERfdHBjS2dGeExydW9SWnFudGxnOVN4bjFWWmhMcV9fM1pjaU1Hb0NZSkhHWXRwbjM3eXlJS3ItNXlNaV84T1dDY1lfZnAtLXJqalZEVlFIaGdHVW13ZHY?oc=5",
       "section": "tecnologia",
       "category": "The Verge",
-      "title": "The biggest modding site in PC gaming is taking a stance on AI - The Verge",
-      "summary": "The biggest modding site in PC gaming is taking a stance on AI The Verge",
+      "title": "Google is entirely disabling Search in schools that don’t want AI - The Verge",
+      "summary": "Google is entirely disabling Search in schools that don’t want AI The Verge",
       "image": "",
-      "publishedAt": "2026-11-04 00:42 UTC",
+      "publishedAt": "2026-11-03 17:00 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XQU1PckIzb2ZDZU8yR2E2UmgxVmR2ZWtUVUtDM0ZsOUJNSFQ5OGRRTDFUWGRPbEFIdk01dEw0VlV6LUo0MXpiYW9Ka0FsQUY0NGU2c3FWdklMVTRURzhSay0zcU1ZcXFnWkl6WUF0eFYtUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EazJTRHVHbWFKOEswNDN0OVVIaDVSWi1neDdoOERfdHBjS2dGeExydW9SWnFudGxnOVN4bjFWWmhMcV9fM1pjaU1Hb0NZSkhHWXRwbjM3eXlJS3ItNXlNaV84T1dDY1lfZnAtLXJqalZEVlFIaGdHVW13ZHY?oc=5"
         }
       ]
     },
@@ -4378,24 +4432,6 @@
       ]
     },
     {
-      "id": "tecnologia|https://news.google.com/rss/articles/CBMidkFVX3lxTE1sOHB2REF6bVUxMThfaE1WbEg0UjhWNGlvdWUyZFZXVVRFdjQ5R2ZrOUUybVpPWGR3YkgtTlBSbkhIVk52RjRIcDJSSVJiUlBnUnhzM0RONHpWOTR4RGE1TmdSOHlSbTFJeWJEeGJyU3JSQU5ONGc?oc=5",
-      "section": "tecnologia",
-      "category": "Wired",
-      "title": "‘Musk’ Director Alex Gibney Wants to Know if Democrats Can Now Hold Elon Musk Accountable - WIRED",
-      "summary": "‘Musk’ Director Alex Gibney Wants to Know if Democrats Can Now Hold Elon Musk Accountable WIRED",
-      "image": "",
-      "publishedAt": "2026-11-04 14:15 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Wired",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sOHB2REF6bVUxMThfaE1WbEg0UjhWNGlvdWUyZFZXVVRFdjQ5R2ZrOUUybVpPWGR3YkgtTlBSbkhIVk52RjRIcDJSSVJiUlBnUnhzM0RONHpWOTR4RGE1TmdSOHlSbTFJeWJEeGJyU3JSQU5ONGc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "tecnologia|https://news.google.com/rss/articles/CBMimAFBVV95cUxQOE4zSnNWNjE1ZEd3YXI1bnRqSERlTWZjYjRKNGtjamJyUnp5b2FzcGtHV0YyZlhCdmlnamZYRXZZcENESjY0Zm15eS1HQXJDOW8zT29HZVQ5SVdPbkhyTi1fR0xNdlVxaHFqd3ZjMFl6WEVYY3NtVlZKLV9nQWpxNVZRazZyZkJGZWlWbTV4dkJwVjJfNUNrbQ?oc=5",
       "section": "tecnologia",
       "category": "Wired",
@@ -4410,6 +4446,24 @@
         {
           "name": "Wired",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOE4zSnNWNjE1ZEd3YXI1bnRqSERlTWZjYjRKNGtjamJyUnp5b2FzcGtHV0YyZlhCdmlnamZYRXZZcENESjY0Zm15eS1HQXJDOW8zT29HZVQ5SVdPbkhyTi1fR0xNdlVxaHFqd3ZjMFl6WEVYY3NtVlZKLV9nQWpxNVZRazZyZkJGZWlWbTV4dkJwVjJfNUNrbQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "tecnologia|https://news.google.com/rss/articles/CBMidkFVX3lxTE1sOHB2REF6bVUxMThfaE1WbEg0UjhWNGlvdWUyZFZXVVRFdjQ5R2ZrOUUybVpPWGR3YkgtTlBSbkhIVk52RjRIcDJSSVJiUlBnUnhzM0RONHpWOTR4RGE1TmdSOHlSbTFJeWJEeGJyU3JSQU5ONGc?oc=5",
+      "section": "tecnologia",
+      "category": "Wired",
+      "title": "‘Musk’ Director Alex Gibney Wants to Know if Democrats Can Now Hold Elon Musk Accountable - WIRED",
+      "summary": "‘Musk’ Director Alex Gibney Wants to Know if Democrats Can Now Hold Elon Musk Accountable WIRED",
+      "image": "",
+      "publishedAt": "2026-11-04 14:15 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Wired",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sOHB2REF6bVUxMThfaE1WbEg0UjhWNGlvdWUyZFZXVVRFdjQ5R2ZrOUUybVpPWGR3YkgtTlBSbkhIVk52RjRIcDJSSVJiUlBnUnhzM0RONHpWOTR4RGE1TmdSOHlSbTFJeWJEeGJyU3JSQU5ONGc?oc=5"
         }
       ]
     },
@@ -4682,6 +4736,26 @@
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbmowZHNIdWdNdGp3LXVFMEJsa0Q1aUNYbTZWMTlUQW1CRXp1NGdEUV9UZFpyaU1lWlVnMlRoQzFzbjh1MkUyMGF4X2Y0N09OTDFqbjJlMFpYcnBJald1SjZzODlYWFJPZ3BSUnVGNEFhSzJyN2hiNFlNZS0ta0hNSGhidzR2NkQ0dFdmZHIwTTYzakRhWm5HSFlvLVE1Y2UxNDgwcy1HWQ?oc=5"
         }
       ]
+    },
+    {
+      "id": "eventos|https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ2xjcVMzblllNkhZOWVUS3NWal9Sd0xCQVRvQ2dYWXJtenhzcTk2ajVFTXZyUGJjX2IyMm1LVmxPLWxiOHA2MjMwM1VWUTBYSkNBTk9iWklmNVBmWWwyT3hiWmwzeXZOVFhvNy1Jcy1pUTYwa3RrOXJ1RnM5TmpjX0pmeFNQbHdDeGRhRFFJVWRvbktOZ0hsTGxCMUNSMy12aUo2NkQteEtQUFpBMXRrczdIMFFpSG9TZzZZN3ExcUQ5bm1JdEpaeEdEVDFpTUNMZlRHUktsbGZmYmJ1N3c?oc=5",
+      "section": "eventos",
+      "category": "Madrid POP",
+      "title": "El Festival de Otoño de la Comunidad de Madrid arranca su 44ª edición con un espectáculo de Robert Wilson en homenaje a Pessoa - Comunidad de Madrid |",
+      "summary": "El Festival de Otoño de la Comunidad de Madrid arranca su 44ª edición con un espectáculo de Robert Wilson en homenaje a Pessoa Comunidad de Madrid |",
+      "image": "",
+      "publishedAt": "2026-11-05 09:14 UTC",
+      "language": "es",
+      "topic": "Arte y cultura",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Madrid POP",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ2xjcVMzblllNkhZOWVUS3NWal9Sd0xCQVRvQ2dYWXJtenhzcTk2ajVFTXZyUGJjX2IyMm1LVmxPLWxiOHA2MjMwM1VWUTBYSkNBTk9iWklmNVBmWWwyT3hiWmwzeXZOVFhvNy1Jcy1pUTYwa3RrOXJ1RnM5TmpjX0pmeFNQbHdDeGRhRFFJVWRvbktOZ0hsTGxCMUNSMy12aUo2NkQteEtQUFpBMXRrczdIMFFpSG9TZzZZN3ExcUQ5bm1JdEpaeEdEVDFpTUNMZlRHUktsbGZmYmJ1N3c?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "popHorizon": "ahora"
     },
     {
       "id": "eventos|https://news.google.com/rss/articles/CBMingFBVV95cUxPY0hBVVRSQWNxRlJ1VDlsM2VYdmF4STZLRDJBTWwwSUdQNEk1MGVGNk14S3o1NG9ZUTR0d0V2Zi1SMUFWVlJjZ0NGM0lfNHo1eGdNTzNNb3FUYkpsM3pRNXVCTmppdkN1dWM3U2JOcEpKZlRrMXlBY1BmY1dhaWI4a3NqakZ2MnBfZ3kwdVRreDBmTGlhbzFOX2dXa0Zldw?oc=5",
@@ -5998,26 +6072,6 @@
         {
           "name": "Agenda Ayuntamiento Madrid",
           "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxOMHN4a1JCZ29rZmZwbDZBM0NJUHhsQmdpQU9ybjR3TlNObTJSd2Faa1ltc1d4dFV6aE5JaDFkVmJQcDI2R2tNXzUtUG85NGRpSHRvd3RXR0tvVEZZcDlvMGJqUkxGbUpCS044WTdHUS1IbnBBSURuaDQxZmxxRU9qSzdmZzJVWDkxaGg0OEdiMDdfZ1VlNElYZW9Zd2RrT3lJSE1QS3MyQjYxaVRzZkwwd0psd0tlcTgySktpOWRMbXlyMjM5T2pyaER0d21oR0s0M0RmbzNKOWU5X3R2WGpnZ1JrX0l5VzVIUmhfWV9IeTBkdzZ4S0dkajloNXA3amU0Z0dXa2p1STBHakpETXdiZFB6OXBDSG45dm95ZHgydEtzV0NkUXJJZExlenJFSXU3MXZJZ2ZISEFOdXRDbzhhR0dIRklDTjFWUGNuVzlNZVNfVng3Y1RoVTEtLTJMaWNHQnJSQXAyTHltRF85aTUzVlkxckJzV1hQdmRQVEdkLUpaM1AtemduT3RodHZ3STBneUVLVUU2TmhIemJmaWlWSDZzenRNZGtJUHNkMDlHSVlEcVRwNWlEcFJlQ1o1TlB2LUlLNXVvSkJPWWhaMXhHOFYtRmNVcHJ1SlhZ?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "popHorizon": "ahora"
-    },
-    {
-      "id": "eventos|https://news.google.com/rss/articles/CBMipANBVV95cUxPQTFMd0dIMm9CTTI2ZkNaNERGQkIxNWJIZGMtN1RqTnRXM3hoN0pFUmhJeWpPaGZOSU1NeGkxMjNabWF1aWVlbVpWblRRQ2Vha0RHZXJxTUJtOHJ4TERQZ1hsY1JQeE9xVkVjYVpHTkMwSS05bEdYWmxwUlc2djNyNkYyNkZUdjM3NzBOWEpJOG15MTZFWmg4TDJLMjRGZ1doRzlzUVJTVzROUXRiSWFGejFRU0xGbWZ6bF8xYWxBS2dtVmhPTVUwa2dZWWJEQV9FMFU3dUM0LUloOWxQYnlHVlBOQ09TaHhrczVpSzU4eWt1NVpEUnZ1QmFleDNQanZYV0hsS2ZSeXBxNGo2S1ZnVGMyb3kxaWd4YTNhTmJmNndfdklPQXJlb1ZBbkdUeWVfT1otVXhvQ2RldTVUSUIxUnpjVTFlYXh4TUxLcXRuczRWdWdGdkRHazZWd1VBMlR6NkJ1TVRVVHlrTlpWZXJhTGpzeDhBQm92b2NhN05LT3lWU1g3ZVNUYUFYampETmI1UVI5d2ljQVdkMjk5X0plQ00zN0Q?oc=5",
-      "section": "eventos",
-      "category": "Agenda Ayuntamiento Madrid",
-      "title": "Fernández inaugura la jornada ‘Bienestar digital de la infancia y adolescencia en Madrid’ - Ayuntamiento de Madrid",
-      "summary": "Fernández inaugura la jornada ‘Bienestar digital de la infancia y adolescencia en Madrid’ Ayuntamiento de Madrid",
-      "image": "",
-      "publishedAt": "2026-11-03 23:27 UTC",
-      "language": "es",
-      "topic": "Planes y ocio",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Agenda Ayuntamiento Madrid",
-          "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxPQTFMd0dIMm9CTTI2ZkNaNERGQkIxNWJIZGMtN1RqTnRXM3hoN0pFUmhJeWpPaGZOSU1NeGkxMjNabWF1aWVlbVpWblRRQ2Vha0RHZXJxTUJtOHJ4TERQZ1hsY1JQeE9xVkVjYVpHTkMwSS05bEdYWmxwUlc2djNyNkYyNkZUdjM3NzBOWEpJOG15MTZFWmg4TDJLMjRGZ1doRzlzUVJTVzROUXRiSWFGejFRU0xGbWZ6bF8xYWxBS2dtVmhPTVUwa2dZWWJEQV9FMFU3dUM0LUloOWxQYnlHVlBOQ09TaHhrczVpSzU4eWt1NVpEUnZ1QmFleDNQanZYV0hsS2ZSeXBxNGo2S1ZnVGMyb3kxaWd4YTNhTmJmNndfdklPQXJlb1ZBbkdUeWVfT1otVXhvQ2RldTVUSUIxUnpjVTFlYXh4TUxLcXRuczRWdWdGdkRHazZWd1VBMlR6NkJ1TVRVVHlrTlpWZXJhTGpzeDhBQm92b2NhN05LT3lWU1g3ZVNUYUFYampETmI1UVI5d2ljQVdkMjk5X0plQ00zN0Q?oc=5"
         }
       ],
       "region": "Madrid",
@@ -7404,13 +7458,33 @@
       ]
     },
     {
+      "id": "cultura|https://news.google.com/rss/articles/CBMiekFVX3lxTE93ZXhhQndHYmF5UDNqRDEtWFFlWm9jRlhpdHBNRXdFZl9Mam1jT0ZKUTI4U1JZb0FnVWd0WUwxVkZEYUV4Wmdqd21objlia0ZyR3J0a1hlRnFNVWRJSFByOU9NcE5Ha0U0alVuX0NzYW0xQmtwZDJ4ZFdn?oc=5",
+      "section": "cultura",
+      "category": "Agenda Madrid",
+      "title": "NFL Madrid 2026: planes gratis, actividades y dónde vivir el ambiente antes del partido - Guía del Ocio",
+      "summary": "NFL Madrid 2026: planes gratis, actividades y dónde vivir el ambiente antes del partido Guía del Ocio",
+      "image": "",
+      "publishedAt": "2026-11-05 05:40 UTC",
+      "language": "es",
+      "topic": "Música",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Agenda Madrid",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93ZXhhQndHYmF5UDNqRDEtWFFlWm9jRlhpdHBNRXdFZl9Mam1jT0ZKUTI4U1JZb0FnVWd0WUwxVkZEYUV4Wmdqd21objlia0ZyR3J0a1hlRnFNVWRJSFByOU9NcE5Ha0U0alVuX0NzYW0xQmtwZDJ4ZFdn?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "cultureView": "agenda"
+    },
+    {
       "id": "cultura|https://news.google.com/rss/articles/CBMia0FVX3lxTE0tS1B0c2ZGMDJYQXkyeFdyckx6dC1oUTFaS0laYll1UHpSYmVDTFY0WGxjb2hVNjdhbHRxeXV6WjhzcVNEeW5XamhlM3M4UHlUdDZTdmdHQ3Q0MkNab2ktSFc3QXI0YzBQSUFr?oc=5",
       "section": "cultura",
       "category": "Museo del Prado",
       "title": "- Museo del Prado",
       "summary": "Museo del Prado",
       "image": "",
-      "publishedAt": "2026-11-05 07:53 UTC",
+      "publishedAt": "2026-11-05 02:14 UTC",
       "language": "es",
       "topic": "Cultura general",
       "verification": "fuente identificada; no contrastada independientemente",
@@ -7884,26 +7958,6 @@
       "cultureView": "agenda"
     },
     {
-      "id": "cultura|https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZFNESUp1TnJySkFraFc0X1pkd3hRVWI5NWV5Vlo0Q182U0NMN2RxWFFOMElsU3l3NTBxZUpuNEdLM2hibEV5b1JiQktRUTczVDJUMk5OYXVleVRWUzkzVWNJdUJMaHlHLXhOVC05aUQ0d3lULXhleEJJUi1vWVVXUl9EVmhuUGdyZWVOVU1tQjIxazczTHJ2S0tHOVBlbzNDVDlsRjc4QW5NUTloMXlfMnJQNGpPQXJD0gG-AUFVX3lxTE5wQmd1X0szY1BnM09MYWdkc092Z2lGNUdON0hpcTdScUlBTGFZWTVndndYakUyNmx6LUQ3NXBXY3lGMmR2eHF5VjFzR2VnLTBGaGNfLXVMVmxEMUVhLXRwdFh2NXZULWZQUGpSZGp0V3pjRTVrcVJBelR5Z1pDY0RfcHlLblVBWklURWQwd3F6c2N2dmxrRkszMTYtLTJ3WVowRkZfZy10enI4TG53aHpQMmFnNWtiYWNJRVRMSVE?oc=5",
-      "section": "cultura",
-      "category": "Música España",
-      "title": "Estos son los diez conciertos de noviembre que no te puedes perder en Sevilla - ABC",
-      "summary": "Estos son los diez conciertos de noviembre que no te puedes perder en Sevilla ABC",
-      "image": "",
-      "publishedAt": "2026-11-04 07:04 UTC",
-      "language": "es",
-      "topic": "Música",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Música España",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZFNESUp1TnJySkFraFc0X1pkd3hRVWI5NWV5Vlo0Q182U0NMN2RxWFFOMElsU3l3NTBxZUpuNEdLM2hibEV5b1JiQktRUTczVDJUMk5OYXVleVRWUzkzVWNJdUJMaHlHLXhOVC05aUQ0d3lULXhleEJJUi1vWVVXUl9EVmhuUGdyZWVOVU1tQjIxazczTHJ2S0tHOVBlbzNDVDlsRjc4QW5NUTloMXlfMnJQNGpPQXJD0gG-AUFVX3lxTE5wQmd1X0szY1BnM09MYWdkc092Z2lGNUdON0hpcTdScUlBTGFZWTVndndYakUyNmx6LUQ3NXBXY3lGMmR2eHF5VjFzR2VnLTBGaGNfLXVMVmxEMUVhLXRwdFh2NXZULWZQUGpSZGp0V3pjRTVrcVJBelR5Z1pDY0RfcHlLblVBWklURWQwd3F6c2N2dmxrRkszMTYtLTJ3WVowRkZfZy10enI4TG53aHpQMmFnNWtiYWNJRVRMSVE?oc=5"
-        }
-      ],
-      "region": "España",
-      "cultureView": "agenda"
-    },
-    {
       "id": "cultura|https://news.google.com/rss/articles/CBMiiwJBVV95cUxPa0xteE55bWZXZ21PRlVLSzZtRmlxdHpBUGZmcEZoT2IxU01YVEdyM0lfQl83NDNjNzQ2b0ZHekFoTGp0bUp3ZEprZFVmb1JPQnZFNlcxeHVINW9XSjduSmxBMzhvYV92R3VqSzR6czY5aHZBOU51ZEROdkIxdi1rYmRGdkl0c29ZSHMtM2FYM2VGbXZnbnNKOTZneGE1ZEtNSDNKckdYX0ZQOVZ4WldONk1OZnpsbXNhZ2JUbkhlSGlHbjg1VWJHUWNrNUY5RWk2VTZFWG5MbElabnhMTU5RZVo3R0FxcmxwZEtDaThDTTZhOXNZM0RuOVQ0WW4xNlc3TG5MRl8zUWRVdDg?oc=5",
       "section": "cultura",
       "category": "Kinótico",
@@ -8044,24 +8098,64 @@
       "cultureView": "agenda"
     },
     {
-      "id": "cultura|https://news.google.com/rss/articles/CBMi_gFBVV95cUxOWjdKOU9QMElCeHF4YkVqdC1nMHJSS0djVEJPbml3LVVmRl9xNEpkd0VoOENiaWMxOUhuWGtabklKUkUzcUJNQ3FORVc3ZEg1QUhUM243a25YWmFJLWFRRGlzZ1hGaGZZMFJRalhEaGFaMmlqck9ZdFZSM1ZPdnZkV0hRUUNGLXJKcnFvN3RnLUJjT05lZEFiV05zam4tbmhxTUNoeW8wV1JPR3F2VXQ4QW1PZEVicm5pUUxLSmc4VU9Ic0h6UUJQMEljS3U1X1BRN1NfVWFJdDQxLVl0WnlVZWhfSnZCazBlNGl3T1FPdEFpRk5ISExrUkpKLTY4dw?oc=5",
+      "id": "cultura|https://news.google.com/rss/articles/CBMingFBVV95cUxQNi05ZURHeEwxR29POU53SHUtQkhiUHMyTlBSM2xlWDRINGxnSURwb3FNQWlhOV9FWkthamlCdlJwRWZENDFfQzdRSVN6QlpSa3VVdUVkbGVuM09RNHU2SndLZ3BVOFZiNGZXdklBck82RXBpUlpWcDM3YUN1bGdscXZNREpUMU9UVDFDNWNGNG9kLVNhdkRKaGxjUkVuQQ?oc=5",
       "section": "cultura",
-      "category": "Kinótico",
-      "title": "Seminci abre su 71 edición con un claro objetivo: mantener la racha ascendente del festival en su primera edición sin Cienfuegos - Kinótico",
-      "summary": "Seminci abre su 71 edición con un claro objetivo: mantener la racha ascendente del festival en su primera edición sin Cienfuegos Kinótico",
+      "category": "MondoSonoro",
+      "title": "Dani Nel·lo & Organ Trio dan el pistoletazo de salida al Blues Hotsak 2026 - MondoSonoro",
+      "summary": "Dani Nel·lo & Organ Trio dan el pistoletazo de salida al Blues Hotsak 2026 MondoSonoro",
       "image": "",
-      "publishedAt": "2026-10-23 07:00 UTC",
+      "publishedAt": "2026-11-05 10:26 UTC",
       "language": "es",
+      "topic": "Música",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "MondoSonoro",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNi05ZURHeEwxR29POU53SHUtQkhiUHMyTlBSM2xlWDRINGxnSURwb3FNQWlhOV9FWkthamlCdlJwRWZENDFfQzdRSVN6QlpSa3VVdUVkbGVuM09RNHU2SndLZ3BVOFZiNGZXdklBck82RXBpUlpWcDM3YUN1bGdscXZNREpUMU9UVDFDNWNGNG9kLVNhdkRKaGxjUkVuQQ?oc=5"
+        }
+      ],
+      "region": "Internacional",
+      "cultureView": "noticias"
+    },
+    {
+      "id": "cultura|https://www.theguardian.com/film/2026/nov/05/jimmy-james-stewart-movie-review",
+      "section": "cultura",
+      "category": "Film EN",
+      "title": "Jimmy review – simple-minded James Stewart biopic is too straightforward",
+      "summary": "Riverdale’s KJ Apa gives surprisingly solid performance but this corny look at iconic actor’s life is missed opportunity The last time New Zealand actor KJ Apa took on a midcentury American pop-cultural icon, he was playing a nominally sexy yet often weirdly bloodless version of Archie Andrews, the feckless teen next door on the comic-book riff Riverdale. He…",
+      "image": "https://i.guim.co.uk/img/media/3b4548217e0b97672e70a8abbe9e9f43a7adedcd/732_128_2537_2032/master/2537.jpg?width=140&quality=85&auto=format&fit=max&s=3390bbcfdd97166404da4fcc037d33e6",
+      "publishedAt": "2026-11-05 10:00 UTC",
+      "language": "en",
       "topic": "Cine",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "Kinótico",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOWjdKOU9QMElCeHF4YkVqdC1nMHJSS0djVEJPbml3LVVmRl9xNEpkd0VoOENiaWMxOUhuWGtabklKUkUzcUJNQ3FORVc3ZEg1QUhUM243a25YWmFJLWFRRGlzZ1hGaGZZMFJRalhEaGFaMmlqck9ZdFZSM1ZPdnZkV0hRUUNGLXJKcnFvN3RnLUJjT05lZEFiV05zam4tbmhxTUNoeW8wV1JPR3F2VXQ4QW1PZEVicm5pUUxLSmc4VU9Ic0h6UUJQMEljS3U1X1BRN1NfVWFJdDQxLVl0WnlVZWhfSnZCazBlNGl3T1FPdEFpRk5ISExrUkpKLTY4dw?oc=5"
+          "name": "Film EN",
+          "url": "https://www.theguardian.com/film/2026/nov/05/jimmy-james-stewart-movie-review"
         }
       ],
-      "region": "España",
-      "cultureView": "agenda"
+      "region": "Internacional",
+      "cultureView": "noticias"
+    },
+    {
+      "id": "cultura|https://news.google.com/rss/articles/CBMilAFBVV95cUxQTkxKT2ExOU41aW5GbzEtTG1CUHZnUGN3S2dVTVI1VE9PckFqdEJITTdrZFlPS2xXZnFTY0Y5TFpNTC1HUWItSkw2VmNlemd6MTN1aXpnSmwxc2FLalpNYTJyZ0VUUGlfSXhTNnlrM1FTLXA4N29IMGdxbTdZMFo0ODNnVjNKMXFOVU9OV2E3azd0UlU0?oc=5",
+      "section": "cultura",
+      "category": "MondoSonoro",
+      "title": "QOTSA, critica de Perfecth en Mondo Sonoro (2026) - MondoSonoro",
+      "summary": "QOTSA, critica de Perfecth en Mondo Sonoro (2026) MondoSonoro",
+      "image": "",
+      "publishedAt": "2026-11-05 09:31 UTC",
+      "language": "es",
+      "topic": "Música",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "MondoSonoro",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTkxKT2ExOU41aW5GbzEtTG1CUHZnUGN3S2dVTVI1VE9PckFqdEJITTdrZFlPS2xXZnFTY0Y5TFpNTC1HUWItSkw2VmNlemd6MTN1aXpnSmwxc2FLalpNYTJyZ0VUUGlfSXhTNnlrM1FTLXA4N29IMGdxbTdZMFo0ODNnVjNKMXFOVU9OV2E3azd0UlU0?oc=5"
+        }
+      ],
+      "region": "Internacional",
+      "cultureView": "noticias"
     },
     {
       "id": "cultura|https://www.theguardian.com/film/2026/nov/05/think-of-england-review",
@@ -8444,66 +8538,6 @@
       "cultureView": "noticias"
     },
     {
-      "id": "cultura|https://news.google.com/rss/articles/CBMilwFBVV95cUxOemhKQlJfdXpRVFdNanJSV0NMZ05SUTVzUGdkMlVvRlFRd282SGQ0ZUMycFNmVy1vUnB3am1NclhVMVllUGpCbXdZb1VueWlBQWk0bWpXVV9LQ3JFV3VydkVmQm5RT0k2RUZ3ZUsxamw5RzdTLXhMVkR0c2YtOHA4WC1aV3AyM0ROY1VJeWVtWmdiVWFDSG8w?oc=5",
-      "section": "cultura",
-      "category": "MondoSonoro",
-      "title": "Standstill vuelven a la actualidad con “Si de algo hay que morir” - MondoSonoro",
-      "summary": "Standstill vuelven a la actualidad con “Si de algo hay que morir” MondoSonoro",
-      "image": "",
-      "publishedAt": "2026-11-04 13:14 UTC",
-      "language": "es",
-      "topic": "Música",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "MondoSonoro",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOemhKQlJfdXpRVFdNanJSV0NMZ05SUTVzUGdkMlVvRlFRd282SGQ0ZUMycFNmVy1vUnB3am1NclhVMVllUGpCbXdZb1VueWlBQWk0bWpXVV9LQ3JFV3VydkVmQm5RT0k2RUZ3ZUsxamw5RzdTLXhMVkR0c2YtOHA4WC1aV3AyM0ROY1VJeWVtWmdiVWFDSG8w?oc=5"
-        }
-      ],
-      "region": "Internacional",
-      "cultureView": "noticias"
-    },
-    {
-      "id": "cultura|https://www.theguardian.com/film/2026/nov/04/ramayana-rise-of-a-legend-review-indias-most-expensive-film-ever-becomes-spectacular-huge-scale-epic",
-      "section": "cultura",
-      "category": "Film EN",
-      "title": "Ramayana: Rise of a Legend review – India’s most expensive film ever becomes spectacular, huge-scale epic",
-      "summary": "Based on the ancient classical poem about Rama, the avatar of the Hindu god Vishnu, this three-hour blockbuster is highly enjoyable Here is a thoroughly engaging, rousing and spectacular Indian epic melodrama from director Nitesh Tiwari, with music by Hans Zimmer and AR Rahman, based on the ancient classical poem about Rama, the avatar of the Hindu god Vishn…",
-      "image": "https://i.guim.co.uk/img/media/12eb62d74a294db635745f2c7c9b1e8210c29723/1288_0_2699_2160/master/2699.jpg?width=140&quality=85&auto=format&fit=max&s=3e7856daa89c2657ea01985e5598f2b9",
-      "publishedAt": "2026-11-04 13:00 UTC",
-      "language": "en",
-      "topic": "Cine",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Film EN",
-          "url": "https://www.theguardian.com/film/2026/nov/04/ramayana-rise-of-a-legend-review-indias-most-expensive-film-ever-becomes-spectacular-huge-scale-epic"
-        }
-      ],
-      "region": "Internacional",
-      "cultureView": "noticias"
-    },
-    {
-      "id": "cultura|https://news.google.com/rss/articles/CBMiigFBVV95cUxOSDE5WVVrQi1nUTZEbVQ0MXBHUFloQzk1V05xOEJ2a3pJdFBKbGlXeURvZmstbUw0NnJBVTZKZHVlYzQ3bG1ad1V3WjQ0cXgyQW9QY3h5YXVoSlBDM2F0dVAzR0NHLVBtQjNuaC0wTnFvV1RhRHYwdWJiSnliNExrT3ZnTEJtc2tGYXc?oc=5",
-      "section": "cultura",
-      "category": "MondoSonoro",
-      "title": "C. Tangana sorprende volviendo al rap con “Milko Freestyle” - MondoSonoro",
-      "summary": "C. Tangana sorprende volviendo al rap con “Milko Freestyle” MondoSonoro",
-      "image": "",
-      "publishedAt": "2026-11-04 12:29 UTC",
-      "language": "es",
-      "topic": "Música",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "MondoSonoro",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSDE5WVVrQi1nUTZEbVQ0MXBHUFloQzk1V05xOEJ2a3pJdFBKbGlXeURvZmstbUw0NnJBVTZKZHVlYzQ3bG1ad1V3WjQ0cXgyQW9QY3h5YXVoSlBDM2F0dVAzR0NHLVBtQjNuaC0wTnFvV1RhRHYwdWJiSnliNExrT3ZnTEJtc2tGYXc?oc=5"
-        }
-      ],
-      "region": "Internacional",
-      "cultureView": "noticias"
-    },
-    {
       "id": "cultura|https://www.theguardian.com/stage/2026/nov/04/emperor-nero-steven-sater-duncan-sheik-spring-awakening-jfk",
       "section": "cultura",
       "category": "Stage EN",
@@ -8767,84 +8801,96 @@
   "breaking": {
     "espana": [
       {
-        "title": "Última hora de la Cumbre Iberoamericana, en directo | Milei equipara socialismo y fascismo en su intervención en la reunión",
-        "publishedAt": "2026-11-05 09:21 UTC",
+        "title": "Última hora de la Cumbre Iberoamericana, en directo | Milei homologa el socialismo democrático con el fascismo ante Pedro Sánchez",
+        "publishedAt": "2026-11-05 10:35 UTC",
         "source": "El País",
         "url": "https://elpais.com/espana/2026-11-05/ultima-hora-de-la-cumbre-iberoamericana-de-madrid-en-directo.html"
       },
       {
-        "title": "Javier Milei, tras su frío saludo con Sánchez, eleva la tensión en la cumbre iberoamericana: \"La equivalencia entre socialistas y fascistas no es casual\"",
-        "publishedAt": "2026-11-05 09:17 UTC",
+        "title": "La UCO lanza una nueva operación anticorrupción donde se persona en casa de Ábalos, detiene al ex chófer de Sánchez y reclama información a Adif",
+        "publishedAt": "2026-11-05 10:33 UTC",
         "source": "El Mundo",
-        "url": "https://www.elmundo.es/espana/2026/11/05/6aec3c2821efa0b2518b4597.html"
+        "url": "https://www.elmundo.es/espana/2026/11/05/6aec4851e9cf4ac94c8b459e.html"
       },
       {
-        "title": "La investigadora que encontró en el \"ADN basura\" claves sobre el funcionamiento de nuestros genes",
-        "publishedAt": "2026-11-05 09:09 UTC",
+        "title": "El Supremo amnistía a la ex consejera Clara Ponsatí y archiva la acusación de desobediencia",
+        "publishedAt": "2026-11-05 10:32 UTC",
         "source": "El Mundo",
-        "url": "https://www.elmundo.es/salud/2026/11/05/6aeb16a0e9cf4a6f6b8b45ae.html"
+        "url": "https://www.elmundo.es/espana/2026/11/05/6aec5b1fe85ece59048b458d.html"
       },
       {
-        "title": "Colau propone un impuesto a ultrarricos para recaudar 10.000 millones y elevar la tributación a la banca",
-        "publishedAt": "2026-11-05 09:08 UTC",
-        "source": "Europa Press",
-        "url": "https://www.europapress.es/nacional/noticia-colau-propone-impuesto-ultrarricos-recaudar-10000-millones-elevar-tributacion-banca-20261105100844.html"
+        "title": "Una nueva oleada de amenazas de bomba obliga a desviar varios vuelos y a realizar aterrizajes de emergencia en Francia, Italia, Bulgaria, Bélgica y Austria",
+        "publishedAt": "2026-11-05 10:32 UTC",
+        "source": "El Mundo",
+        "url": "https://www.elmundo.es/economia/2026/11/05/6aec51cdfdddff8b218b4583.html"
       },
       {
-        "title": "Sánchez pide ambición a los socios iberoamericanos ante un mundo dividido: \"Lo fácil sería no estar aquí hoy\"",
-        "publishedAt": "2026-11-05 09:03 UTC",
+        "title": "Colau propone aumentar los impuestos a ultrarricos y grandes empresas para recaudar 10.000 millones de euros",
+        "publishedAt": "2026-11-05 10:28 UTC",
+        "source": "El País",
+        "url": "https://elpais.com/espana/elecciones-generales/2026-11-05/colau-propone-aumentar-los-impuestos-a-ultrarricos-y-grandes-empresas-para-recaudar-10000-millones-de-euros.html"
+      },
+      {
+        "title": "Colau propone más impuestos a la banca, empresas, grandes patrimonios y vivienda para recaudar 10.000 millones",
+        "publishedAt": "2026-11-05 10:21 UTC",
+        "source": "El Mundo",
+        "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/05/6aec580ce4d4d88e5c8b45a6.html"
+      },
+      {
+        "title": "Desviado a Francia un avión que cubría la ruta entre Irlanda e Italia a causa de una amenaza de bomba",
+        "publishedAt": "2026-11-05 10:13 UTC",
         "source": "Europa Press",
-        "url": "https://www.europapress.es/nacional/noticia-cumbre-ibesanchez-pide-ambicion-socios-iberoamericanos-mundo-dividido-facil-seria-no-estar-aqui-hoy-20261105100339.html"
+        "url": "https://www.europapress.es/internacional/noticia-desviado-francia-avion-cubria-ruta-irlanda-italia-causa-amenaza-bomba-20261105111352.html"
+      },
+      {
+        "title": "La Fiscalía rebaja la pena de cárcel que solicita para Ignacio González en su primer juicio por corrupción",
+        "publishedAt": "2026-11-05 10:10 UTC",
+        "source": "El País",
+        "url": "https://elpais.com/espana/2026-11-05/la-fiscalia-rebaja-la-pena-de-carcel-que-solicita-para-ignacio-gonzalez-en-su-primer-juicio-por-corrupcion.html"
       },
       {
         "title": "Koldo García asegura que acordó con el abogado del PP un millón de euros a cambio de información para hacer caer a Sánchez",
-        "publishedAt": "2026-11-05 09:03 UTC",
+        "publishedAt": "2026-11-05 10:07 UTC",
         "source": "El País",
         "url": "https://elpais.com/espana/2026-11-05/koldo-garcia-asegura-que-acordo-con-el-abogado-del-pp-un-millon-de-euros-a-cambio-de-informacion-para-hacer-caer-a-sanchez.html"
       },
       {
-        "title": "Amnistía Internacional eleva a 50 los casos documentados de maltrato de militares a inmigrantes en Ceuta",
-        "publishedAt": "2026-11-05 08:59 UTC",
+        "title": "Una decena de aviones con destino a ciudades europeas realizan aterrizajes de emergencia tras recibir amenazas de bomba",
+        "publishedAt": "2026-11-05 10:04 UTC",
+        "source": "El País",
+        "url": "https://elpais.com/internacional/2026-11-05/cinco-aviones-con-destino-a-ciudades-europeas-realizan-aterrizajes-de-emergencia-tras-recibir-amenazas-de-bomba.html"
+      },
+      {
+        "title": "Abandona a su mujer y se va a vivir con sus dos amantes, que lo matan para cobrar una póliza de seguro millonaria",
+        "publishedAt": "2026-11-05 10:03 UTC",
         "source": "El Mundo",
-        "url": "https://www.elmundo.es/espana/2026/11/05/6aec4463e85ece1b2d8b4598.html"
+        "url": "https://www.elmundo.es/internacional/2026/11/05/6aec548bfc6c835e518b4599.html"
       },
       {
-        "title": "La UCO lanza una operación por una nueva pieza secreta del 'caso Koldo' en la Audiencia Nacional",
-        "publishedAt": "2026-11-05 08:57 UTC",
-        "source": "Europa Press",
-        "url": "https://www.europapress.es/nacional/noticia-uco-lanza-operacion-nueva-pieza-secreta-caso-koldo-audiencia-nacional-20261105095740.html"
-      },
-      {
-        "title": "La UCO registra la casa de Ábalos en Valencia en un nuevo operativo sobre amaños del ‘caso Koldo’",
-        "publishedAt": "2026-11-05 08:50 UTC",
+        "title": "Jan Martínez Ahrens, director de EL PAÍS: “Los suscriptores son la piedra angular del periódico”",
+        "publishedAt": "2026-11-05 09:56 UTC",
         "source": "El País",
-        "url": "https://elpais.com/espana/2026-11-05/la-uco-despliega-un-nuevo-operativo-tras-entregar-un-informe-sobre-amanos-en-el-caso-koldo.html"
-      },
-      {
-        "title": "Ayuso vuelve a la Asamblea de Madrid entre el luto por la tragedia de Urda y la precampaña",
-        "publishedAt": "2026-11-05 08:50 UTC",
-        "source": "El País",
-        "url": "https://elpais.com/espana/madrid/2026-11-05/ayuso-vuelve-a-la-asamblea-de-madrid-entre-el-luto-por-la-tragedia-de-urda-y-la-precampana.html"
-      },
-      {
-        "title": "Sánchez y Milei mantienen un frío saludo al inicio de la Cumbre Iberoamericana en Madrid",
-        "publishedAt": "2026-11-05 08:39 UTC",
-        "source": "Europa Press",
-        "url": "https://www.europapress.es/nacional/noticia-sanchez-milei-mantienen-frio-saludo-inicio-cumbre-iberoamericana-madrid-20261105093924.html"
-      },
-      {
-        "title": "Las aceiteras españolas DCOOP y Acesur compran Deoleo (Carbonell) por 520 millones - 20Minutos",
-        "publishedAt": "2026-11-05 08:36 UTC",
-        "source": "20minutos",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeWs3LXJqTmV2Z2VQSkpLekh1aFVYWnVSa244NnJ4STJwMi1TUU9YVGlULXJJeTZOeUF5cGplcVBndUQ3Zk9vSGkwZ1BIZm04eEIxaUlrVTlEeWNnWUNUM1lLOVpWTWUwWm5lVTN6M0FfcmpwSzhJUm5kenVzTHlwdEYydTIzM3FCMDJrV2pidTY0dWpzcUZZdVdfc2drN1NwLV9GR3RtVFMzU213UjR3SFNPcjB1UDJzSV9JYXNxTEkyMFJuUkhXcFpDNHlNdw?oc=5"
+        "url": "https://elpais.com/videos/2026-11-05/jan-martinez-ahrens-director-de-el-pais-habla-en-hoy-por-hoy-de-la-cadena-ser-de-los-500000-suscriptores-del-diario.html"
       }
     ],
     "mundo": [
       {
-        "title": "Aer Lingus flight to Rome diverted to military base after latest bomb threat, France says – Europe live",
-        "publishedAt": "2026-11-05 09:07 UTC",
+        "title": "Bomb alerts force flights to land in France, Bulgaria, Belgium - Reuters",
+        "publishedAt": "2026-11-05 10:27 UTC",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSUllcFZWajRSZE9PZE82Zl9aMHl5SlF6b09IejNjUjdqLTRJb2hKemVORDZGVDdkZkFaUksyV3hxMXNCNXlHZnR2QjY5anN0RkFpeC1UMzBQcjkxRC05S0tBcVhSOTA1dWw5d2s3ZDNkX1FadkI3SGh0Ti1zaWloUFVteWRfNlJNQl9uUkRVY0FyXzNDTEo2dkI5R3NveEd2eVVSeHFTOXhGQ0V3ZjRGOFpfcWJ6dm9VUXR3bGNxXzhrLXYtV29sRkR1NTc?oc=5"
+      },
+      {
+        "title": "Planes diverted as bomb threats to commercial flights reported across Europe – live",
+        "publishedAt": "2026-11-05 10:18 UTC",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates"
+      },
+      {
+        "title": "Breaking: More bomb threats divert planes across Europe",
+        "publishedAt": "2026-11-05 09:41 UTC",
+        "source": "ABC Australia",
+        "url": "https://www.abc.net.au/news/2026-11-05/bomb-threat-diverts-planes-across-europe/107352984"
       },
       {
         "title": "Union pushes for mandatory sentences after alleged assault on Mount Isa police",
@@ -8883,6 +8929,12 @@
         "url": "https://www.abc.net.au/news/2026-11-05/frances-crawford-murder-trial/107348514"
       },
       {
+        "title": "Trump's political humbling signals short-term gain, long-term pain for China - Reuters",
+        "publishedAt": "2026-11-05 07:57 UTC",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQVBkVEFRMUNIQ0xmQVZXR1lLZmJBeVJiMXJMalZKLTRCaG00cmhCWjVKQjZmUUh3ajlGY3hjejlwRm40M1BNVXlwWFJjcXU0Um40QVNQY1BjNEZFbGF0RUdvamZYNlBCelY2UFBuOHVzU2pRYWk5RXRPbjU5QkdwcUo2cXhKU2JqMy01ZHpoQk5MbTg2a19rdXRCR1JLeFI2RzJMNDNtMm9LelZOWS1vaVpyNG5GS2pManc?oc=5"
+      },
+      {
         "title": "Italian chef fired after refusing to put pineapple on pizza",
         "publishedAt": "2026-11-05 07:56 UTC",
         "source": "BBC World",
@@ -8893,27 +8945,27 @@
         "publishedAt": "2026-11-05 07:56 UTC",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case"
-      },
-      {
-        "title": "Raiders 'couldn't have offered any more' to want-away Hudson Young",
-        "publishedAt": "2026-11-05 07:55 UTC",
-        "source": "ABC Australia",
-        "url": "https://www.abc.net.au/news/2026-11-05/ricky-stuart-upset-over-hudson-young-money-move/107352580"
-      },
-      {
-        "title": "Teen charged over motorhome fire that left man inside critically injured",
-        "publishedAt": "2026-11-05 07:53 UTC",
-        "source": "ABC Australia",
-        "url": "https://www.abc.net.au/news/2026-11-05/teen-charged-over-newcastle-motorhome-fire/107352712"
-      },
-      {
-        "title": "El poder quebrado de Trump: el tsunami azul pone fin al mito de su invulnerabilidad - El Mundo",
-        "publishedAt": "2026-11-05 07:46 UTC",
-        "source": "Noticias internacionales",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZEVmS0ZBN3FITzQ2RUxlVU9ZVnJXUUl6Z0FKVkdRSXd4WTZyUUtLcklFZ2tWWW9fcmxibFhiNFRmcTFQTHBmcS00Uklob3U5eUI1ZEdwVEl2eGVWZVRXbmN4eG44eW5xVGZIVzBRbG42aHk2VE1KTU14SExLdlRZX1RZQdIBgwFBVV95cUxQdTEwQV93b1VOdDdGMlROZHR2b0psU3ppcTdkUzJzVmdZN3ZTcFlKaERqUFc4bWFPcWtCZV9FSk5sN3JCQ2dpS3U5SmwzVG9mS1labFNFQXQzSnRPZWhHSU1CUXlRNHdDSzdEM2V4OGd2QTA3bUZXYWg0dDVkenVEeUY4SQ?oc=5"
       }
     ],
     "cultura": [
+      {
+        "title": "Dani Nel·lo & Organ Trio dan el pistoletazo de salida al Blues Hotsak 2026 - MondoSonoro",
+        "publishedAt": "2026-11-05 10:26 UTC",
+        "source": "MondoSonoro",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNi05ZURHeEwxR29POU53SHUtQkhiUHMyTlBSM2xlWDRINGxnSURwb3FNQWlhOV9FWkthamlCdlJwRWZENDFfQzdRSVN6QlpSa3VVdUVkbGVuM09RNHU2SndLZ3BVOFZiNGZXdklBck82RXBpUlpWcDM3YUN1bGdscXZNREpUMU9UVDFDNWNGNG9kLVNhdkRKaGxjUkVuQQ?oc=5"
+      },
+      {
+        "title": "Jimmy review – simple-minded James Stewart biopic is too straightforward",
+        "publishedAt": "2026-11-05 10:00 UTC",
+        "source": "Film EN",
+        "url": "https://www.theguardian.com/film/2026/nov/05/jimmy-james-stewart-movie-review"
+      },
+      {
+        "title": "QOTSA, critica de Perfecth en Mondo Sonoro (2026) - MondoSonoro",
+        "publishedAt": "2026-11-05 09:31 UTC",
+        "source": "MondoSonoro",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTkxKT2ExOU41aW5GbzEtTG1CUHZnUGN3S2dVTVI1VE9PckFqdEJITTdrZFlPS2xXZnFTY0Y5TFpNTC1HUWItSkw2VmNlemd6MTN1aXpnSmwxc2FLalpNYTJyZ0VUUGlfSXhTNnlrM1FTLXA4N29IMGdxbTdZMFo0ODNnVjNKMXFOVU9OV2E3azd0UlU0?oc=5"
+      },
       {
         "title": "Think of England review – far-fetched tale of state-sponsored second world war porn turns deadly serious",
         "publishedAt": "2026-11-05 09:00 UTC",
@@ -8933,12 +8985,6 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNamJaTXNaRFFlM3JvRWdKaGlEZVUwU2FOQWMwUUkyT0ZQak44eW9aZXR3ZXJocmdXTzJ4ZFk1NmRjTDRVSHpyUjJham9kMWJBeGotX2drLTFvQ1FnUE9xYXFPTEZobVBYVERQYi1nd0g2SmxIQnkzdDZyQmY1N013dmVnTHhMeUVGRU5BVUtfT3A?oc=5"
       },
       {
-        "title": "- Museo del Prado",
-        "publishedAt": "2026-11-05 07:53 UTC",
-        "source": "Museo del Prado",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tS1B0c2ZGMDJYQXkyeFdyckx6dC1oUTFaS0laYll1UHpSYmVDTFY0WGxjb2hVNjdhbHRxeXV6WjhzcVNEeW5XamhlM3M4UHlUdDZTdmdHQ3Q0MkNab2ktSFc3QXI0YzBQSUFr?oc=5"
-      },
-      {
         "title": "El Festival 'Actual 2027' combina artistas consolidados del pop y el rock español con propuestas más jóvenes y experimentales: Hay guitarras, flamenco, electrónica, mestizaje y música para bailar - COPE",
         "publishedAt": "2026-11-05 07:14 UTC",
         "source": "Música España",
@@ -8949,6 +8995,12 @@
         "publishedAt": "2026-11-05 07:00 UTC",
         "source": "Film EN",
         "url": "https://www.theguardian.com/film/2026/nov/05/being-heumann-review-disability-rights-judy-heumann"
+      },
+      {
+        "title": "NFL Madrid 2026: planes gratis, actividades y dónde vivir el ambiente antes del partido - Guía del Ocio",
+        "publishedAt": "2026-11-05 05:40 UTC",
+        "source": "Agenda Madrid",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93ZXhhQndHYmF5UDNqRDEtWFFlWm9jRlhpdHBNRXdFZl9Mam1jT0ZKUTI4U1JZb0FnVWd0WUwxVkZEYUV4Wmdqd21objlia0ZyR3J0a1hlRnFNVWRJSFByOU9NcE5Ha0U0alVuX0NzYW0xQmtwZDJ4ZFdn?oc=5"
       },
       {
         "title": "‘I was given the big picture early’: Rory Kinnear on love, drama – and how his father’s death changed his life",
@@ -8963,31 +9015,25 @@
         "url": "https://www.theguardian.com/stage/2026/nov/05/christos-papadopoulos-my-fierce-ignorant-step-sadlers-wells"
       },
       {
-        "title": "La Benéfica de Piloña - MondoSonoro",
-        "publishedAt": "2026-11-04 23:05 UTC",
-        "source": "MondoSonoro",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZSkN4QVpHLTZYMXFBd1E4M2hEeURYTEZnYUstS21KdUg5Q0tSM2xQYW9IOFptTnVfRjlhZW0tYTdQbG50aGt0RWJNeFkyWkVZR0NfWGRLTW9PcnZ2XzRuLWNTVmNYZw?oc=5"
-      },
-      {
-        "title": "A Dog’s Perfect Christmas review: Netflix kicks off holiday movie season with a whimper",
-        "publishedAt": "2026-11-04 21:14 UTC",
-        "source": "Culture EN",
-        "url": "https://www.theguardian.com/film/2026/nov/04/a-dogs-perfect-christmas-review-netflix"
-      },
-      {
-        "title": "Madonna sigue exprimiendo ‘Confessions II’, ahora sin Madonna - Jenesaispop",
-        "publishedAt": "2026-11-04 18:50 UTC",
-        "source": "Jenesaispop",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1YUndaZmZSRjRyNW9FNG5oNi1tLTIwajRTWnpTNU8tT2Vmb3RfemZRUmJWZ0tDdmlISkl3eTAwWVlFOUFvNlYyUmVtR01ET1FDc2xnYWhnZXZQTWVpaFF0QVlYdTlGQi1xbkplaEhLTTBGWVROcHRPdnpSc1LSAYIBQVVfeXFMUHRvOTZCNXdNTlZ2SkVxcE5naXFYaDZkSk9HMXlfc1BvOVlJakNDMUhwYXpGY1puZURGVy1pSElMYlpZSzNLRVVlUkk4aUh2OUlNSW9udnNjdnBVOU1mM1NhRExKS0ZDWGVSTnE4YjBNTFNOZC1oM3VrcVRpT0k0Yk5hdw?oc=5"
-      },
-      {
-        "title": "Florence Pugh (30 años), sobre España: \"Viví allí cuando era pequeña, y recuerdo el jazmín, la sal del mar y el olor a puerto\" - Espinof",
-        "publishedAt": "2026-11-04 18:00 UTC",
-        "source": "Espinof",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTmpkLUNYamJNWWtZRjQwSG1SaHpYTVVZVTZ4bkJfZGJBbDFkYkEzU3puX2YzeXQ5SEdEdXBCZFFveWdwUWtiaUU2djhia3Q4YWJZVE9XeFg3WGlFdmhORUQ4ZVJFWl9rSUcyMUtSeVU4S3hvRUNXTVFEWUxPVG5wdXE2cnA4TG5aZ2hJVWc4VlpzSVhZZEpHOEJIeXJpeHppWURzaTVtZldSTlk4MnI5N3FrRkxvbVEyc3RWaUtITDZuRHNNUFduTmRmMUJjRGpscXZGStIB2gFBVV95cUxQeWZUcVdkR2xpVnA2RWRhY21qcGQwTWdNNENXS0w5anliakJJWm5nRzI0V2VGZmZJY3UyTDNMZHFpbUJWLXRZWlg2NGRnTndsWmc2c2NkU1V4U0RidDlOM3NzLTRmaXQwaDh0N1hOZklFV19xQzRoaU1LVjBaQVo1QmxPdW5BdUZRT3ptQXd4dWZpTUYyQ1djNFNYYm01bWVsZjhEUFJRMHpqaUZDRy1PcDVQbktpdEE0Mm1WeDN1ODFscjVRX1BFREFYV0dGcTIzSE96ZG1ZbTRhUQ?oc=5"
+        "title": "- Museo del Prado",
+        "publishedAt": "2026-11-05 02:14 UTC",
+        "source": "Museo del Prado",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tS1B0c2ZGMDJYQXkyeFdyckx6dC1oUTFaS0laYll1UHpSYmVDTFY0WGxjb2hVNjdhbHRxeXV6WjhzcVNEeW5XamhlM3M4UHlUdDZTdmdHQ3Q0MkNab2ktSFc3QXI0YzBQSUFr?oc=5"
       }
     ],
     "television": [
+      {
+        "title": "‘Married at First Sight’ U.K. Canceled by Channel 4 Following Sexual Assault Allegations",
+        "publishedAt": "2026-11-05 10:30 UTC",
+        "source": "Variety TV",
+        "url": "https://variety.com/2026/tv/global/married-at-first-sight-uk-canceled-1236940065/"
+      },
+      {
+        "title": "Sky News Stands by Journalist Following Heated Exchange With Abdul El-Sayed: ‘We’re Proud of Our Correspondent, Who Was Doing His Job’",
+        "publishedAt": "2026-11-05 10:06 UTC",
+        "source": "Variety TV",
+        "url": "https://variety.com/2026/tv/global/sky-news-james-matthews-abdul-el-sayed-proud-1236940080/"
+      },
       {
         "title": "'La que se avecina' (2%) despunta en la TDT a la espera de sus nuevos capítulos y el Madrid de Champions (7.3%) brilla en el pago",
         "publishedAt": "2026-11-05 09:05 UTC",
@@ -9011,6 +9057,12 @@
         "publishedAt": "2026-11-05 08:03 UTC",
         "source": "Televisión España",
         "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPbzVlMW1scjdtRnd3aWk1cHpPRXdXdU1ucEhUVVo1YXZjZ1JLcTZhc0gxOXlTWU5TR3NpNnJQakp2Ykpnb0paSkRXc1VHWHVRSTRpQ1YxbUFJSUpYNTA0ZFltbEY1ZUlzS3JxeVhZN0NLeGxTa3FIVzFheldXNURCc19senpDYmJBRUotNkN1LW9TN2R5Q000eFpXZUhKdHhBR1ZjMkdTdW9SWktqVlVTbWJEcW1NUUdPbVdPNjN2M3JrVHBCeWdFUTJKdW9QNFYyeXN3SmphWENlaG52WHhqS0xEenl0QlhvRWc3YWR1WS00UU9OQm1RRVkzNGh2MVZMOUwwckY2WWg3dFRRQTVlaVZtWUxJR0RTeFhBbtIBogJBVV95cUxPZ1Zkb2VRY1VyUUFCY2VxUjEyVzJqMG9US2tiQ3BkNm1VNjFYdW5oYzcyOVI4NXF2M3RUT1BnWDlxd3JNRlR5MTROMWNjM0RnRnoxMzdxRmNMYUhyU0RKOXBZNXNXODRWbTBPM2k5Z1VJVUMxd1Y4dC0zZlBXVG1NWEJCWi1BNU9COUdJQXZtX3BVWUw2cE5Fdm1LcmM0UkNsZXRsMndUVzAybWZTZHpyellqOHlKcVdROXlTWEVWUF9sMlhvV1FFMnp5RG0wQkhUYXhNUjlrTlFXVFh6aHdoamxJU0xWdzh1YUZzNmZBdnhCQlhvMmp3V3VGdWFVdjdQcllYZW9QWnRSYnBTZjhRZ3NyOXpLYWhpWjJVcFRsbjc0QQ?oc=5"
+      },
+      {
+        "title": "Audiencias TV ayer | 'El túnel' se despide de La 1 con récord, aunque no puede con 'La isla de las tentaciones' - El Periódico",
+        "publishedAt": "2026-11-05 08:00 UTC",
+        "source": "Yotele",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVlZoRjNLaVlxUnVRSzV2N091Rk9Ub0tmaFplR2Zqc0V0bDBSVm9FT2hnMTVHZVBjMHlGcDJuLU13V3g3S1phQkpGZXN1VVZ2cFpiQndod1JoQXNHZU9JYTlUek05TWxveUVTbU9BSUtzRXhNUnBoVkF3ZWYxRGRITDRMMkQweG51cmFlUGlwYXVvZXhwQmU1SlRmRW9kNzFxbnVIdmJrbHVCUUNVbTZZMmFxZTllTm1kQ0g3Z2V6WVduaW9WREHSAcwBQVVfeXFMUGh6MXkxZlB0U051bmRHUEFrenR1X0lDOUNLUnZDaGFpT3dTc29vWDl5ZnpTcDhvekVFX21oVzdvZEZQaVAwTk9VSUQtQ2VYdEFQQUVUaS1XRGJUQWd0aE8wSjktOTFVN0NPZWIwUTdJX2MxWWNLUlVFbEJEd1lzS3dIaDJ1NHl2aVpadGhjY29fQl9CRHJRWkNxZmpUVm5oSzk4ZGZ1Y3VkYm5yNDZTa2pOdjM2bUxwQnQyc0JjSDAwSmVvZndyX3I0a253?oc=5"
       },
       {
         "title": "Audiencias TV | La entrevista de Susanna Griso a Alberto Núñez Feijóo se convierte en la más vista del último año y medio - El Confidencial",
@@ -9041,32 +9093,26 @@
         "publishedAt": "2026-11-05 00:30 UTC",
         "source": "Vertele",
         "url": "https://www.eldiario.es/vertele/noticias/concursante-estratega-gana-tunel-provocar-desmayo-jesus-vazquez-maquina-pensar_1_13639432.html"
-      },
-      {
-        "title": "‘The Pitt’ and ‘ER’ Are Similar Enough to Allow Crichton Suit, Appeals Court Rules",
-        "publishedAt": "2026-11-05 00:27 UTC",
-        "source": "Variety TV",
-        "url": "https://variety.com/2026/tv/news/the-pitt-noah-wyle-crichton-lawsuit-1236939852/"
-      },
-      {
-        "title": "‘The Secret Lives of Mormon Wives’ Star Jen Affleck Files for Divorce from Zac Affleck",
-        "publishedAt": "2026-11-04 23:25 UTC",
-        "source": "Variety TV",
-        "url": "https://variety.com/2026/tv/news/the-secret-lives-of-mormon-wives-jen-affleck-divorce-zac-affleck-1236939836/"
-      },
-      {
-        "title": "Marc Giró explica en 'Cara al Show' la razón por la que no va a invitar a candidatos de ultraderecha: \"No lo escondemos\"",
-        "publishedAt": "2026-11-04 22:59 UTC",
-        "source": "Vertele",
-        "url": "https://www.eldiario.es/vertele/noticias/marc-giro-explica-cara-show-razon-no-invitar-candidatos-ultraderecha-no-escondemos_1_13639431.html"
       }
     ],
     "tecnologia": [
+      {
+        "title": "‘It’s so glossy and sexy!’: 10 movies (and one TV show) that inspired Grand Theft Auto",
+        "publishedAt": "2026-11-05 10:00 UTC",
+        "source": "Tech EN",
+        "url": "https://www.theguardian.com/games/2026/nov/05/its-so-glossy-and-sexy-10-movies-and-one-tv-show-that-inspired-grand-theft-auto"
+      },
       {
         "title": "Tech barons cozied up to Trump. What will they do in newly blue America?",
         "publishedAt": "2026-11-05 09:00 UTC",
         "source": "Tech EN",
         "url": "https://www.theguardian.com/technology/2026/nov/05/tech-barons-america-musk-bezos-zuckerberg"
+      },
+      {
+        "title": "Apple Launching Five New Products Tomorrow - MacRumors",
+        "publishedAt": "2026-11-05 08:59 UTC",
+        "source": "MacRumors",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZndDZ2FaZVA0ZVktUXdWZ0xMRDU1SE9KTlRJcjdJWU1yNzZ6Rm55Qi05YkFURjEtRzlCVHpUX3VWUk00RnlLbHYtdC1ybFkwd1pRUnpEY1dJYkRpdWZya1l3TTNwRkc4VmhFWWdSZ0xsbFdQdlJxZGxvUUpia3IyMVdvZUdDLXc?oc=5"
       },
       {
         "title": "Apple iPad mini A20 Pro review: the best small tablet but with a big price",
@@ -9121,26 +9167,44 @@
         "publishedAt": "2026-11-04 23:00 UTC",
         "source": "Tech EN",
         "url": "https://www.theguardian.com/australia-news/2026/nov/05/victoria-election-2026-ai-generated-video-ads-ntwnfb"
-      },
-      {
-        "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-        "publishedAt": "2026-11-04 22:45 UTC",
-        "source": "TechCrunch EN",
-        "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/"
-      },
-      {
-        "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-        "publishedAt": "2026-11-04 22:13 UTC",
-        "source": "TechCrunch EN",
-        "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/"
       }
     ],
     "estilo": [
+      {
+        "title": "Javier Cercas recomienda esta breve novela de un premio Nobel ambientada en Barcelona: “Una pequeña obra maestra” - Esquire",
+        "publishedAt": "2026-11-05 10:07 UTC",
+        "source": "Esquire España",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOGNDU2dGVEdLdVlxSkRfdzhyd1RyZzlfTC0xQjRkOXM1OFpLaFpVcWVQRzNGN19WeHBxM1pkeGFESjA4dFZjdTlHLTBkQ3FCWUhQOS0xdndxREFEUUZTcHNJVTc2NzBGQU5iOWNKMzJ5TEZlQnctTWlNd3kwaFNNSTMtS29FNnF1el96VFk1cWZoSkZPTTB4WThtR2xYNjJ2dzlkbDh5OTV5V0xtOGZCdkFJZkdkRjZBQUx4c09vUlY?oc=5"
+      },
+      {
+        "title": "Casio lanza un reloj automático para competir con Seiko - Esquire",
+        "publishedAt": "2026-11-05 09:38 UTC",
+        "source": "Esquire España",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRk9tQ1ozZnN1d19xVEVTZVRyRFBfMlJIMnFtczFDczZHQnhncmtuNDV0ZGNSdnB5WFJhMXFxNGhEZXhYZWVELUVVb0VtQm5zS1c5NUVnemNlQkt3cS1iY0ExUmRES1gyZmV4azNWSWltWEVGOE03OGdYV0JsZVdtckxqb2lnaUlxZ0N5Z3prY1JicVdUU1VoM2c4ZzU4Vjgzbkt0YzY1VGlIR3IxZGlma1lsRWZaV3NCeTZZNEd3UFluZw?oc=5"
+      },
       {
         "title": "El crítico Luis Gutiérrez, sobre el vino en España: “Lo que ha pasado en las últimas dos décadas es inaudito\" - Esquire",
         "publishedAt": "2026-11-05 09:07 UTC",
         "source": "Esquire España",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ041Q0FoS0psQURWRUhyakZTc1B4X1lCeXAyd2RuM1JkSk9ZWUowUmdrUzI2R3Izc3FfTFFTM1dJWkpGX0lMNGc0cmtmdkJKa0Y0OTFlNC12Y283cHVPTHloUm5ldjEtd210NXk5b3VTM2xSVmZqM0tUOEpnLU5OaTJYWmNWcnZOZ2x5ZlBzVUtxZUFSZmtUUUUtSGxHX00?oc=5"
+      },
+      {
+        "title": "Milo Ventimiglia tiene el Rolex de oro que desean todos los entusiastas de los relojes - GQ España",
+        "publishedAt": "2026-11-05 09:00 UTC",
+        "source": "GQ España",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMTdSLUZVNHZGN1FZbGJmZ1BRcndRbHJFajFkMllaNzhudFdnZmRFWlVwUUNOeHItLTZwWG9nTVBLQklhaVNnbHZ4V29tbFdWaExGTkkwSnFna0V1X1RoS2trRElQbUV4cTJ3cTN4RW0xX2k4aUNRb2dfd3JRcTlyNGVQamxELVlrdnpCTnVmY3lJUWxTczZ5TzFPbTJCZjZlNUhuWGdnNkdmYjh2a1JCWG13?oc=5"
+      },
+      {
+        "title": "Joan García: “Ser auténtico es enseñar quién eres de verdad, no vender una vida diferente en redes” - GQ España",
+        "publishedAt": "2026-11-05 08:33 UTC",
+        "source": "GQ España Lifestyle",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaC1XeXlLRFZnYkQ5ZlpiTkEzd3RHYlVfV1d6UHFWSllmTnZEUFhqVXY4NUx3c3VjYzY3c1RNZ0t0T205QUxrREliZU1JbE40SEQ2clVKeVh2ZlJGRWVsZk9FU1dyQWNPbFF4X013VWstQndyS2Fhd25ieVdGUU4ycnVDbHJHbjRJd2pBUjc4MGlsXzF3a29XUU54SWdhdXpVemRuV1JsTEhPdUQyaVlSVGpOaXJBMXozS0ZxQ1JuQWFTNW5ZV0NDLQ?oc=5"
+      },
+      {
+        "title": "Men’s Winter Fashion Trend: Layers for Life On and Off the Slopes - Sharp Magazine",
+        "publishedAt": "2026-11-05 08:15 UTC",
+        "source": "Menswear International",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHUl82U1BhWTJkSDZHZzhrc3FlT3NkNHNBaUdvNkRXLXRuOWtab0huNkkxNDVMSU1QdEJzeTMwb0JNQW5ER0lCTDBqR0Fqa0lJZFNCd3lWOHZPcXdnX1dmYzVwYWJ3OFdJTUgtNG0tQzRKWGM4UkFhSmhn?oc=5"
       },
       {
         "title": "Audi A2 e-tron: Único en cada detalle - GQ España",
@@ -9161,12 +9225,6 @@
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUUV0SEVNanEtRXZfa2U1Z2xMMktJVC1Nb3pBWU5FVHlfX1V5eTA5SnpwWW5RaUFfYnJqZ2x1MFlvdjdLbEdoNWNKTFV1N2VaMXk4SktlX0J5ZElXRG1Fa1lOLTBTWHZkLU5PYVhBWXhOT0tXaC01TXU4bXViQ2t2czd6S0NFd0tMdEJfYV82NWJqT2hf?oc=5"
       },
       {
-        "title": "All the style news happening in menswear this November - Esquire Australia",
-        "publishedAt": "2026-11-04 23:56 UTC",
-        "source": "Menswear International",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vNk1HdWhKaXlLM09IMUxXaGJtbGVQYXROWXdIdkJObkNiUl9HOEFxbzJRT3RMRnQwQ3FxR2JPV3dNZjlhUXQ0MGlPUzJtdng3eFluT3RYYnczbV84bHkxQw?oc=5"
-      },
-      {
         "title": "The GOP Is Already Counting Down the Days Until Trump Is Gone - Esquire",
         "publishedAt": "2026-11-04 22:37 UTC",
         "source": "Esquire EN",
@@ -9183,33 +9241,15 @@
         "publishedAt": "2026-11-04 21:42 UTC",
         "source": "Esquire EN",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNGdjaWM4V1pSOENyVTV1SG4xZUJJNEMtWm56YlFjemR4YS03R2s3RkZPamJBbFZ6Uno4SjdobDJneElkMDlxd1FjcEoxckJDdkE1T19WSGFmckxvTFFGUmtNQmxPSU1nRExTaUFWeGdhQXFiR3lZM0NrbjBVWHFsanZDTmpVVGk4X1VadnI5Wm5XY1BnbTlz?oc=5"
-      },
-      {
-        "title": "Men’s Winter Fashion Trend: Layers for Life On and Off the Slopes - Sharp Magazine",
-        "publishedAt": "2026-11-04 21:23 UTC",
-        "source": "Menswear International",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHUl82U1BhWTJkSDZHZzhrc3FlT3NkNHNBaUdvNkRXLXRuOWtab0huNkkxNDVMSU1QdEJzeTMwb0JNQW5ER0lCTDBqR0Fqa0lJZFNCd3lWOHZPcXdnX1dmYzVwYWJ3OFdJTUgtNG0tQzRKWGM4UkFhSmhn?oc=5"
-      },
-      {
-        "title": "Bob Dylan Dressed Like Timothée Chalamet to Meet the Pope - GQ",
-        "publishedAt": "2026-11-04 20:51 UTC",
-        "source": "GQ",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zT2VfSzJpVjBMeHFMMXA5WU9lX3EzalBNdW80ejhud2ZmUUt2bURJYjZHWWw2VGd0VHBITHl6Y0tVbjQ2WTFwV29vYlpxNGpENG9QVVF2QVdCNFhfa2lz?oc=5"
-      },
-      {
-        "title": "A Straight Razor Will Give You the Best Shave of Your Life. Here Are 6 Great Options to Buy. - Esquire",
-        "publishedAt": "2026-11-04 20:35 UTC",
-        "source": "Esquire EN",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNck96dmZRZnhFaTJfMGJhSjQwaXFENWdZZGE3TU9kVWVudmZHYjZxYURZWUNOa2djaENmSl80bVRzd0taSC1mTUJaSHhRdVpQTXpnSklUd29VdHdvUldrU0pFVWEyM0pTbUVYUG1aRVdQVGRIbVY5djVmOTI5aE1kVA?oc=5"
-      },
-      {
-        "title": "Please Just Tell Me Who the Next James Bond Is Already - Esquire",
-        "publishedAt": "2026-11-04 19:21 UTC",
-        "source": "Esquire EN",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQjFfTzVDSENVUUhsMmo3Yl9sa2xIMFBMeDBiM1lVS1dGRUxnRkwzVVVUY1lnOC1RZHVjYkhlR1BxTFF6QUZnNzlWVTVnUzdPdUlTZFFoSXBhU2FQR2JveGxZYnZYbS1sTm1Bd3Q3UnZQUnRoZERBNHFwT09GZGkzSHJGcGt2UmVEZHhaWnNFaEhSZw?oc=5"
       }
     ],
     "eventos": [
+      {
+        "title": "El Festival de Otoño de la Comunidad de Madrid arranca su 44ª edición con un espectáculo de Robert Wilson en homenaje a Pessoa - Comunidad de Madrid |",
+        "publishedAt": "2026-11-05 09:14 UTC",
+        "source": "Madrid POP",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ2xjcVMzblllNkhZOWVUS3NWal9Sd0xCQVRvQ2dYWXJtenhzcTk2ajVFTXZyUGJjX2IyMm1LVmxPLWxiOHA2MjMwM1VWUTBYSkNBTk9iWklmNVBmWWwyT3hiWmwzeXZOVFhvNy1Jcy1pUTYwa3RrOXJ1RnM5TmpjX0pmeFNQbHdDeGRhRFFJVWRvbktOZ0hsTGxCMUNSMy12aUo2NkQteEtQUFpBMXRrczdIMFFpSG9TZzZZN3ExcUQ5bm1JdEpaeEdEVDFpTUNMZlRHUktsbGZmYmJ1N3c?oc=5"
+      },
       {
         "title": "Mentalismo con Javi Drama @ La Bruja Canalla | MADRID - sáb., 07/11/2026 - Entradas",
         "publishedAt": "2026-11-05 00:19 UTC",
@@ -9275,15 +9315,15 @@
         "publishedAt": "2026-11-04 11:13 UTC",
         "source": "Movistar Arena Madrid",
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNnAxaTJVZldad0FGaHIzUU1GLUpOcVB4S3hRUm5rLXFvWmticW9WbEhPR1l1QWdXbm1tU2VRWHBqN1ZQbEN3RjRUczlZczZERTgzclE4azNuMkZ1bzg0NlRXNkRELW16Y0hCeGgtbmYteXRlWXpGcjVaQzhOVjlnMVJLVVlxWkY3V0dlR0pKc2o4eFRzckdoWXB0b3lRV1RCS2tQbTNOb2k4SHlFb2M5SEF0eUNXaVRFbHNhUGtXT1dxUGltbFpORUlBR3gtQTdEMEdBQzNfQQ?oc=5"
-      },
-      {
-        "title": "Programación de septiembre del Cine Doré - web del Ministerio de Cultura",
-        "publishedAt": "2026-11-04 10:34 UTC",
-        "source": "Agenda Ministerio Cultura",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcHFQQUtZdldZS1R5UmtFRmZrR3djdmJWUjlWNXBMSjJpUlo0bEh1cGJtZ0ttYzNkU0xEbHdJdlMyQ1REZFFDSHNfd3dZQ0FFNUV3M1FkQkEtOV9ROVI5TkhCRjFnS0Y5OTBRNGcwRXRwUFNxeDlQa3RNbVhUUU91NnBJRHFDeEt2b0tPNUt0UWR2Tzk2WHhUd0ZBUS1nODZTRHRr?oc=5"
       }
     ],
     "viral": [
+      {
+        "title": "'He Started It': Mumbai Auto Driver's Fluent English During Roadside Feud Stuns Internet - Viral Video - Asianet Newsable",
+        "publishedAt": "2026-11-05 10:09 UTC",
+        "source": "Viral EN",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOT0VOdHZyVndSN2dOWnZtUmpDU3QzeFR5anV4MkZCMkJaZk1NTEUzWFBXdWhOVS1JLVp3RHU3Ylg0bU9zZUdNR2FoWHdLdHFIZFM2Q2RNQllLQkhHVkN3ZElpYXZLZGNhazZQZkZIV2ktX0txcWRwTGZrRTRNT0JPZkNpdmRDVU1vNURMOXRPMndQQUo1clhmdF9acU96eHZhbGtuWFpySzhfYkNLTmdwTVFtOWt2Qld6U0RCTlB5QzFNSm8tYWREeHoxa3MwLS1fTmZHdFNNYlJaMFp2MTlzTGUyd2NPRmNpQ2Ew0gHwAUFVX3lxTE4zUkFweDZlbmlHajVfT0N1eWY1SFZZaWVYUGFKWlVrTWo3VWJjLXBfMnhpRGRTX3Y4aGtjN3hCaGdEeDVWWGZPZjhTZTJBLVVzcmR0MFBranhjYzhCaVNmSEZzUERrMnJqa1gxbVJkU3dRVnhsOUFJTlFCYlhhOTI3UkFIa002MHlZcE4xX3V1Um0wMzJyXzBhdE5pZEU3TmhiS041Rk9HMHlEaVJzQndLYldNdXI4eERfLUtlZmFHdlJUTlktbUh6VGFJZ1lpTXBleWFuc2FqZXc0b1FSbDBJbVpVZU1zMkJyUzlDV0lZYw?oc=5"
+      },
       {
         "title": "'Vacancy hai kya?' Employees at Delhi company get iPhone 16 for Diwali, viral video takes internet by storm - News24Online",
         "publishedAt": "2026-11-05 06:45 UTC",
@@ -9349,12 +9389,6 @@
         "publishedAt": "2026-11-04 20:15 UTC",
         "source": "Viral ES",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUDl0OVl1dmxILVhMQ1pSeDNSQ2dzdGVjaURYQVVfVk1IdzlRNzJWX3BsYmtic0x3TGZkekphS085eGw0b0kzRV84Q3h4Z3NwQzhjdXEzM09ENWVkTWc3WGVhVlZmcEZKeE9xczZGVVZWTS0wWEFyQmtoSmRaSzN4SlMyaC1tQUhVQWtfQU1KZ3FKREpYbXU2YmZGM08yanFJa0FfN1ZMZ2RudlJKNmNuRmRTRFlLaksxNXVoR3hGRzlpTDJrZ1BSRmNza1NnYl9KRE9yeFljN0Q?oc=5"
-      },
-      {
-        "title": "¡Todo por un like! Las duras críticas que recibió Isabella Ladera tras video viral con su hija - 2001 Online",
-        "publishedAt": "2026-11-04 18:17 UTC",
-        "source": "Viral ES",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORUp6QjZralVwOUhwbXdMNXVSSGxvZmpMSjNyVEJpVnFIVGtvWE9XWE44czg4a19PUjRLVlhfamF6Y3ZDVDRVa1ozZFFpUXRHdGVmc0RaV0Z0ZXlPN1Y4czVkS0RiaGVzMzFQQW9yX1BQeE1oSmNsRVhfMHVmOEdxeUdjajdFUzFNRnpsS3l4TGd4LVZvMmpQUEdrM3k1OHF0eTNxaTFWTTZtb0xjRXJ0MnBtNDY5SnREdXhfcXNjbm4tSWExODJ5THRlMWpVLXlWb1dtcA?oc=5"
       }
     ]
   }
