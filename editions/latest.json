@@ -1,23 +1,41 @@
 {
-  "edition": "THE DAILY · Mañana · 05/11/2026 03:41",
-  "generatedAt": "2026-11-05T02:41:01.800253+00:00",
+  "edition": "THE DAILY · Mañana · 05/11/2026 04:38",
+  "generatedAt": "2026-11-05T03:38:47.380493+00:00",
   "mode": "rss-excerpts",
   "stories": [
     {
-      "id": "espana|https://elpais.com/us/2026-11-04/las-midterms-2026-en-vivo.html",
+      "id": "espana|https://elpais.com/gastronomia/2026-11-05/el-asador-etxebarri-elegido-el-mejor-restaurante-del-mundo.html",
       "section": "espana",
       "category": "El País",
-      "title": "Las ‘midterms’ 2026, en vivo | Trump admite que la guerra en Irán influyó en la derrota, pero que “lo haría de nuevo”",
-      "summary": "El vicepresidente, J. D. Vance, había previamente señalado el conflicto como la causa de la debacle republicana en las legislativas",
-      "image": "https://imagenes.elpais.com/resizer/v2/2LESBGV5NFKNLK7TK7A26E5EY4.jpg?auth=2b430e9940757b33fc35c3349fc198f55e6edd6b84da827a72483f8a48464ef1",
-      "publishedAt": "2026-11-05 01:17 UTC",
+      "title": "El Asador Etxebarri, elegido el mejor restaurante del mundo",
+      "summary": "Gaggan, en Bangkok, y Alchemist, en Copenhague, ocupan la segunda y la tercera posición, respectivamente, en la lista de The World’s 50 Best Restaurants 2026. DiverXO cae del cuarto al noveno puesto",
+      "image": "https://imagenes.elpais.com/resizer/v2/LX76747OAVCOPLRR5A6J4Q4YVE.jpg?auth=4bc7637a292794f7b248665ac609a18b33d31d6f1cda49b99481e8c2c1aa83f6",
+      "publishedAt": "2026-11-05 03:34 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "El País",
-          "url": "https://elpais.com/us/2026-11-04/las-midterms-2026-en-vivo.html"
+          "url": "https://elpais.com/gastronomia/2026-11-05/el-asador-etxebarri-elegido-el-mejor-restaurante-del-mundo.html"
+        }
+      ]
+    },
+    {
+      "id": "espana|https://elpais.com/us/2026-11-04/los-republicanos-buscan-culpables-de-la-debacle-electoral-sin-atreverse-a-senalar-a-trump.html",
+      "section": "espana",
+      "category": "El País",
+      "title": "Los republicanos buscan culpables de la debacle electoral sin atreverse a señalar a Trump",
+      "summary": "El presidente descarga en Irán su responsabilidad en la derrota en las ‘midterms’ mientras presume de avances en las obras del salón de baile de la Casa Blanca",
+      "image": "https://imagenes.elpais.com/resizer/v2/KUL4DY5RJVEC3D24ZD7NCLIN7Y.JPG?auth=12a86a688d92574e04031545b4d0255b044566c8fc5a0c59a000eb72e67d5b96",
+      "publishedAt": "2026-11-05 02:46 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "El País",
+          "url": "https://elpais.com/us/2026-11-04/los-republicanos-buscan-culpables-de-la-debacle-electoral-sin-atreverse-a-senalar-a-trump.html"
         }
       ]
     },
@@ -346,20 +364,38 @@
       ]
     },
     {
-      "id": "espana|https://www.elmundo.es/cataluna/2026/11/04/6aeb6df4fdddffb96a8b4594.html",
-      "section": "espana",
-      "category": "El Mundo",
-      "title": "Los maquinistas reclamaron la \"intervención de la UE\" para \"proteger la vida\" de los usuarios del AVE: \"Existe un deterioro de las condiciones de seguridad\"",
-      "summary": "En marzo, tras el accidente de Adamuz, elevaron una queja al Parlamento Europeo en la que pedían a Europa \"amparo\" y que \"tutelase\" al Gobierno Leer",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/04/17938139662017.jpg",
-      "publishedAt": "2026-11-04 21:41 UTC",
-      "language": "es",
+      "id": "mundo|https://www.abc.net.au/news/2026-11-05/alleged-drink-driver-followed-home-police-vigilantism-warning/107349272",
+      "section": "mundo",
+      "category": "ABC Australia",
+      "title": "Tradies film, follow alleged drink driver as police urge against vigilantism",
+      "summary": "Two men responsible for filming, following and alerting police to a motorist allegedly driving erratically on the Gold Coast say they were thinking of the safety of other motorists.",
+      "image": "https://live-production.wcms.abc-cdn.net.au/7bc78654d46babbaf0a182651cecf3ff?impolicy=wcms_crop_resize&cropH=1919&cropW=3411&xPos=0&yPos=105&width=862&height=485",
+      "publishedAt": "2026-11-05 03:32 UTC",
+      "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "El Mundo",
-          "url": "https://www.elmundo.es/cataluna/2026/11/04/6aeb6df4fdddffb96a8b4594.html"
+          "name": "ABC Australia",
+          "url": "https://www.abc.net.au/news/2026-11-05/alleged-drink-driver-followed-home-police-vigilantism-warning/107349272"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
+      "section": "mundo",
+      "category": "The Guardian World",
+      "title": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
+      "summary": "Wong, 30, has been imprisoned since 2020 and is the only activist in Hong Kong prosecuted twice under national security law Hong Kong activist Joshua Wong was sentenced on Thursday to 10 years in prison after pleading guilty to “foreign collusion”, his second conviction under a national security law that critics say has been used to silence political opposit…",
+      "image": "https://i.guim.co.uk/img/media/d9bf9f9b9523e26c98269088295afe0101408a09/745_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=284bff972880f241577f2f12b909e083",
+      "publishedAt": "2026-11-05 03:28 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case"
         }
       ]
     },
@@ -369,8 +405,8 @@
       "category": "The Guardian World",
       "title": "Beau Lamarre-Condon trial live updates: accused double murderer gives evidence in high-profile case",
       "summary": "The 31-year-old former police officer is accused of fatally shooting couple Jesse Baird and Luke Davies in Sydney in 2024 Former police officer Beau Lamarre-Condon enters witness box in Sydney double murder trial Get our breaking news email , free app or daily news podcast The court has adjourned for lunch. Lamarre-Condon will continue giving evidence at 2pm…",
-      "image": "https://i.guim.co.uk/img/media/83556f77433668ba8656e3e68bdde36d96c3d05c/204_0_3099_2480/master/3099.jpg?width=140&quality=85&auto=format&fit=max&s=9c671c388d920851d20299834e65a6b2",
-      "publishedAt": "2026-11-05 02:28 UTC",
+      "image": "https://i.guim.co.uk/img/media/ebfc885f7db8935002487a469a0f9baba836690e/317_347_2279_1823/master/2279.jpg?width=140&quality=85&auto=format&fit=max&s=b33c7ad733982967cf75a684d0a83644",
+      "publishedAt": "2026-11-05 03:27 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
@@ -378,6 +414,96 @@
         {
           "name": "The Guardian World",
           "url": "https://www.theguardian.com/australia-news/live/2026/nov/05/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://www.abc.net.au/news/2026-11-05/data-centres-ai-australia-us-midterms/107349238",
+      "section": "mundo",
+      "category": "ABC Australia",
+      "title": "US rejection of data centres is a warning for Australia — and maybe leverage",
+      "summary": "The US midterms cemented data centres as a politically toxic issue. But now the industry will be looking for a new place to call home. Will Australia answer the call?",
+      "image": "https://live-production.wcms.abc-cdn.net.au/78e2db42c5c2e387c7837279fa019d12?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=339&width=862&height=485",
+      "publishedAt": "2026-11-05 03:27 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "ABC Australia",
+          "url": "https://www.abc.net.au/news/2026-11-05/data-centres-ai-australia-us-midterms/107349238"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://www.abc.net.au/news/2026-11-05/canberra-big-battery-storage-system/107348964",
+      "section": "mundo",
+      "category": "ABC Australia",
+      "title": "Big batteries ready to power one-third of ACT for hours if needed",
+      "summary": "The ACT government expects the project to eventually be cost-positive, generating revenue for the territory.",
+      "image": "https://live-production.wcms.abc-cdn.net.au/9015844640061a8fdbe97fb6cf9774ae?impolicy=wcms_crop_resize&cropH=3942&cropW=7008&xPos=0&yPos=1&width=862&height=485",
+      "publishedAt": "2026-11-05 03:16 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "ABC Australia",
+          "url": "https://www.abc.net.au/news/2026-11-05/canberra-big-battery-storage-system/107348964"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://www.theguardian.com/australia-news/2026/nov/05/beau-lamarre-condon-witness-trial-ntwnfb",
+      "section": "mundo",
+      "category": "The Guardian World",
+      "title": "Beau Lamarre-Condon tells double murder trial he suffered ‘daily bullying’ when working for NSW police",
+      "summary": "Lamarre-Condon gives evidence in court after pleading not guilty to murdering Jesse Baird and Luke Davies in early 2024 Live updates: Beau Lamarre-Condon gives evidence in murder trial Get our breaking news email , free app or daily news podcast Former officer Beau Lamarre-Condon has alleged he heard homophobic abuse and was bullied when working for New Sout…",
+      "image": "https://i.guim.co.uk/img/media/44608c2394601d9f8dad83d90b1a5867b69d293a/514_185_992_794/master/992.jpg?width=140&quality=85&auto=format&fit=max&s=2187ec8c32e3445ac5d54778c2d88893",
+      "publishedAt": "2026-11-05 03:16 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/05/beau-lamarre-condon-witness-trial-ntwnfb"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://www.theguardian.com/business/2026/nov/05/david-jones-stores-closing-down-collapse-administration",
+      "section": "mundo",
+      "category": "The Guardian World",
+      "title": "David Jones goes into administration, with store closures expected and thousands of jobs at risk",
+      "summary": "Future of Australia’s upmarket department store in jeopardy after years of steep losses, and outer suburban and regional locations vulnerable Get our breaking news email , free app or daily news podcast Australia’s premier upmarket department store David Jones has collapsed into voluntary administration, putting thousands of jobs at risk amid warnings “diffi…",
+      "image": "https://i.guim.co.uk/img/media/77ef609db0a2cf50eb0f5ffeb7321102d010fa9c/1944_0_3844_3077/master/3844.jpg?width=140&quality=85&auto=format&fit=max&s=ab908f701cebafd7576bd4900ddd3da3",
+      "publishedAt": "2026-11-05 03:12 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/business/2026/nov/05/david-jones-stores-closing-down-collapse-administration"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://www.abc.net.au/news/2026-11-05/infants-diagnosed-with-peanut-allergy-may-not-be-study-shows/107348650",
+      "section": "mundo",
+      "category": "ABC Australia",
+      "title": "Research could reverse peanut allergy diagnosis for some infants",
+      "summary": "A study by the Murdoch Children's Research Institute has found more than one third of infants diagnosed with a peanut allergy may actually be able to tolerate the food.",
+      "image": "https://live-production.wcms.abc-cdn.net.au/a06b7f0834ba650f85e4709edcb635f3?impolicy=wcms_crop_resize&cropH=573&cropW=1019&xPos=0&yPos=125&width=862&height=485",
+      "publishedAt": "2026-11-05 02:39 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "ABC Australia",
+          "url": "https://www.abc.net.au/news/2026-11-05/infants-diagnosed-with-peanut-allergy-may-not-be-study-shows/107348650"
         }
       ]
     },
@@ -493,7 +619,7 @@
       "id": "mundo|https://www.abc.net.au/news/2026-11-05/australian-motor-racing-icon-alan-jones-dies-aged-80/107350036",
       "section": "mundo",
       "category": "ABC Australia",
-      "title": "Breaking: Australian racing icon and F1 world champion Alan Jones dies",
+      "title": "Australian racing icon and F1 world champion Alan Jones dies",
       "summary": "Alan Jones, the 1980 Formula 1 world champion, has died aged 80.",
       "image": "https://live-production.wcms.abc-cdn.net.au/a2f9fed9b4a4a27937f028c1a46ffdba?impolicy=wcms_crop_resize&cropH=2093&cropW=3721&xPos=0&yPos=190&width=862&height=485",
       "publishedAt": "2026-11-05 01:56 UTC",
@@ -526,24 +652,6 @@
       ]
     },
     {
-      "id": "mundo|https://www.theguardian.com/australia-news/2026/nov/05/beau-lamarre-condon-witness-trial-ntwnfb",
-      "section": "mundo",
-      "category": "The Guardian World",
-      "title": "Former police officer Beau Lamarre-Condon tells double murder trial he heard homophobic abuse at work",
-      "summary": "Lamarre-Condon gives evidence in court after pleading not guilty to murdering Jesse Baird and Luke Davies in early 2024 Live updates: Beau Lamarre-Condon gives evidence in murder trial Get our breaking news email , free app or daily news podcast Former officer Beau Lamarre-Condon has alleged he heard homophobic abuse when working for New South Wales police,…",
-      "image": "https://i.guim.co.uk/img/media/44608c2394601d9f8dad83d90b1a5867b69d293a/514_185_992_794/master/992.jpg?width=140&quality=85&auto=format&fit=max&s=2187ec8c32e3445ac5d54778c2d88893",
-      "publishedAt": "2026-11-05 01:47 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/nov/05/beau-lamarre-condon-witness-trial-ntwnfb"
-        }
-      ]
-    },
-    {
       "id": "mundo|https://www.abc.net.au/news/2026-11-05/woman-shot-in-head-during-canberra-burglary/107349770",
       "section": "mundo",
       "category": "ABC Australia",
@@ -565,7 +673,7 @@
       "id": "mundo|https://www.abc.net.au/news/2026-11-05/nsw-sydney-mardi-gras-party-2027-announcement/107346014",
       "section": "mundo",
       "category": "ABC Australia",
-      "title": "Sydney Mardi Gras party to return in 2027 after financial woes",
+      "title": "Sydney Mardi Gras party returns for an 'unapologetic queer celebration'",
       "summary": "The much-anticipated post Mardi Gras parade celebration will return after the 2026 event was abruptly cancelled due to significant financial losses.",
       "image": "https://live-production.wcms.abc-cdn.net.au/b7b23a07a465ccd839a6dd8f597b67e4?impolicy=wcms_crop_resize&cropH=4608&cropW=8192&xPos=0&yPos=428&width=862&height=485",
       "publishedAt": "2026-11-05 01:41 UTC",
@@ -657,7 +765,7 @@
       "category": "ABC Australia",
       "title": "The swing maps bathed in blue that show how voters turned on Trump",
       "summary": "The New York Times called it a rout, Fox News called it a bloodbath and CNN called it stunning as voters delivered an emphatic defeat to US President Donald Trump and the Republican Party.",
-      "image": "https://live-production.wcms.abc-cdn.net.au/7c18ab7f4a5bb44dda0fab2c39c3a010?impolicy=wcms_crop_resize&cropH=1360&cropW=2418&xPos=21&yPos=0&width=862&height=485",
+      "image": "https://live-production.wcms.abc-cdn.net.au/c84dbeb9d1fcd5fc137a2c1ca0d1f90b?impolicy=wcms_crop_resize&cropH=384&cropW=683&xPos=0&yPos=25&width=862&height=485",
       "publishedAt": "2026-11-05 00:24 UTC",
       "language": "en",
       "topic": null,
@@ -778,24 +886,6 @@
       ]
     },
     {
-      "id": "mundo|https://www.theguardian.com/business/2026/nov/05/david-jones-stores-closing-down-collapse-administration",
-      "section": "mundo",
-      "category": "The Guardian World",
-      "title": "David Jones goes into administration, with store closures expected and thousands of jobs at risk",
-      "summary": "Future of department store in jeopardy after years of steep losses, with outer suburban and regional locations vulnerable Get our breaking news email , free app or daily news podcast Australia’s premier upmarket department store David Jones has collapsed into voluntary administration, putting thousands of jobs at risk and leaving the future of the 188-year-o…",
-      "image": "https://i.guim.co.uk/img/media/77ef609db0a2cf50eb0f5ffeb7321102d010fa9c/1944_0_3844_3077/master/3844.jpg?width=140&quality=85&auto=format&fit=max&s=ab908f701cebafd7576bd4900ddd3da3",
-      "publishedAt": "2026-11-04 22:53 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/business/2026/nov/05/david-jones-stores-closing-down-collapse-administration"
-        }
-      ]
-    },
-    {
       "id": "mundo|https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
       "section": "mundo",
       "category": "BBC World",
@@ -810,96 +900,6 @@
         {
           "name": "BBC World",
           "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.abc.net.au/news/2026-11-05/david-jones-collapses-into-voluntary-administration/107347878",
-      "section": "mundo",
-      "category": "ABC Australia",
-      "title": "Retailer's future in doubt as David Jones calls in administrators",
-      "summary": "Customers are left wondering as the retailer calls in administrators while it struggles to pay its rent.",
-      "image": "https://live-production.wcms.abc-cdn.net.au/e261b8ee248ac78eb0fbaf208d7aae5c?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=280&width=862&height=485",
-      "publishedAt": "2026-11-04 22:44 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "ABC Australia",
-          "url": "https://www.abc.net.au/news/2026-11-05/david-jones-collapses-into-voluntary-administration/107347878"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.abc.net.au/news/2026-11-05/french-blood-banks-hit-alongside-cyberattack-on-european-superma/107348302",
-      "section": "mundo",
-      "category": "ABC Australia",
-      "title": "Cyber attack hits French blood banks but no blood products compromised",
-      "summary": "The refrigerators at three regional blood banks in France were hit by a cyber attack overnight from Sunday into Monday, at the same time hackers struck supermarkets from Sweden to Belgium.",
-      "image": "https://live-production.wcms.abc-cdn.net.au/db127830a9930d81248f31111477593c?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=273&width=862&height=485",
-      "publishedAt": "2026-11-04 22:41 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "ABC Australia",
-          "url": "https://www.abc.net.au/news/2026-11-05/french-blood-banks-hit-alongside-cyberattack-on-european-superma/107348302"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.abc.net.au/news/2026-11-05/crocodile-sighting-fitzroy-island-fnq-warnings-ramped-up/107347500",
-      "section": "mundo",
-      "category": "ABC Australia",
-      "title": "Crocodile's day trip to popular resort island sparks commotion",
-      "summary": "A saltwater crocodile has caused a commotion at one of Queensland’s most popular tourist islands, forcing snorkellers out of the water and a resort to ramp up safety precautions.",
-      "image": "https://live-production.wcms.abc-cdn.net.au/6d213c7cab68ca9f83c214f589e2ecb7?impolicy=wcms_crop_resize&cropH=810&cropW=1440&xPos=0&yPos=666&width=862&height=485",
-      "publishedAt": "2026-11-04 22:36 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "ABC Australia",
-          "url": "https://www.abc.net.au/news/2026-11-05/crocodile-sighting-fitzroy-island-fnq-warnings-ramped-up/107347500"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.abc.net.au/news/2026-11-05/urandangi-residents-cannot-return-three-years-after-floods/107342290",
-      "section": "mundo",
-      "category": "ABC Australia",
-      "title": "Residents say outback town forgotten after council 'drops the ball'",
-      "summary": "More than three years after floods destroyed the remote outback town of Urandangi, residents still cannot return home, with the local council unable to fund essential rebuilds.",
-      "image": "https://live-production.wcms.abc-cdn.net.au/f1e5a28fb4d91cbeaf05d069745bae26?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=30&width=862&height=485",
-      "publishedAt": "2026-11-04 22:34 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "ABC Australia",
-          "url": "https://www.abc.net.au/news/2026-11-05/urandangi-residents-cannot-return-three-years-after-floods/107342290"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.abc.net.au/news/2026-11-05/tas-lonely-echidna-on-lungtalanana-clarke-island-has-buddies/107344584",
-      "section": "mundo",
-      "category": "ABC Australia",
-      "title": "'Australia's loneliest echidna' no longer solo after trail-cam discoveries",
-      "summary": "At first, there was just one; now, new trail camera footage from Tasmania's Lungtalanana/Clarke Island has shown multiple echidnas survived a near-island-wide bushfire in 2014, exciting conservationists.",
-      "image": "https://live-production.wcms.abc-cdn.net.au/9851bc18a6e262a6e1e39dcd1a418f69?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=519&width=862&height=485",
-      "publishedAt": "2026-11-04 22:20 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "ABC Australia",
-          "url": "https://www.abc.net.au/news/2026-11-05/tas-lonely-echidna-on-lungtalanana-clarke-island-has-buddies/107344584"
         }
       ]
     },
@@ -1462,24 +1462,6 @@
       ]
     },
     {
-      "id": "espana|https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWGNFSjN2YlllNHZzUVB0Vkt6Q2ZxNFZjWUtZZk1XSVJMNnIyMW1BYlM2VnFSVXppQndNT3hXQjl1WFZGa2MzRzJSR09vSjdCbnp1dVRXR2ZTei1ZUUtVNVVzWUV6OGE4WmJwS0gzc1p2TG1JZHpkU3dJaTRfX1lDVHA4Z0NVMTBKLUY0aldoMkwwRDctSDFpVlZEZ0lBV3NOV2ZlQkdBYlg0VFlzVGJuMktZTjQ4aFdpejVz?oc=5",
-      "section": "espana",
-      "category": "English coverage",
-      "title": "Spain's transport minister resigns over deadly train crash - Reuters",
-      "summary": "Spain's transport minister resigns over deadly train crash Reuters",
-      "image": "",
-      "publishedAt": "2026-11-03 21:42 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "English coverage",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWGNFSjN2YlllNHZzUVB0Vkt6Q2ZxNFZjWUtZZk1XSVJMNnIyMW1BYlM2VnFSVXppQndNT3hXQjl1WFZGa2MzRzJSR09vSjdCbnp1dVRXR2ZTei1ZUUtVNVVzWUV6OGE4WmJwS0gzc1p2TG1JZHpkU3dJaTRfX1lDVHA4Z0NVMTBKLUY0aldoMkwwRDctSDFpVlZEZ0lBV3NOV2ZlQkdBYlg0VFlzVGJuMktZTjQ4aFdpejVz?oc=5"
-        }
-      ]
-    },
-    {
       "id": "mundo|https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVVpBUEw4eElTTG5TLV9iRk84YTlFbEZnOHlwekZSdGhkcnlZWVNSWDJ6a3RtOTA5Mk1YWmMyY2k2cEphOTlWX2g3UU9wVzczcGNPT3huQ284bVA4X2hWTUluN04tclNpRjdsakI0VzdRZVFjd3h6N2JvVzE1SnJpTURUZ05sUXIwNHhzbVNkRjJBT2ZMZUpVZUZ6S1ZsZk95M29DeXMzVW9vSE1CN2hxbi1SeE5MbVIyUHNSWEhqaHlSb05BTEdkbWxCLVVyQk1qT292NHF5Rk4zd2Q5ZU5DQ1dMZUvSAfgBQVVfeXFMTndXbmdkQ0ZWb09JMXJULUxHWVhpSXlKYmFFSnl4Q0V1Tk12bjdiNTZnX3RLYmN5OWt6b3lmc2tHQmZsNEMzWExGQmNsRFNWZnpDbzNUNnRGVGJReF95NUE5cWo2Ym00UTMzU2JVaHFVaU90MTFFV0NGNll6ZEswTzhtUzVLNWZ3cmE0elA0X2FPRzJpajh2OVNNaFVqNm9Pdm40S3VXa1NabnBqUk02TlNwYy10R3d5WDRxaHNldTB4eGlEb3dZck9XM18zVzVRSHZ3ZDlZSWs5dGY5Y0pZR004Qm1lV09lUVRLS2JjbV9FNU4yLTNvN3c?oc=5",
       "section": "mundo",
       "category": "Noticias internacionales",
@@ -1570,20 +1552,20 @@
       ]
     },
     {
-      "id": "mundo|https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiUDI4OUtLTHp5bV8xY3cxdmd5a2M1LXNhWnhQR2FvbEl0WDcwTVNPN003bThXOXRIVV91UVJNNXJGZDVINklydnhUMXlVN09PQkE5Nld6UllNVUQt0gFiQVVfeXFMTkRIbFN4ZVkyUmhCODkyT3F0dklqU1VXZl9Pd0ZCWXRsSmlRcmdvU3A3WHdGbW8wbGhSMlB4V0MtT3ZMTURmb1YzdkhGbGl4OFJ3QWhqamdVanNrYTE0Y3k5WFE?oc=5",
+      "id": "mundo|https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yaUdXaWd5bFBFbzI5VXRjaW1NOW5MWU9JMGg3VFJGam5kZ3dwZTg4WHJ6aW9EOTk1YlRmc1JYMEY3dVdYMzhvY3Q5c24yUWJzdkY5VU5zOFA?oc=5",
       "section": "mundo",
       "category": "Noticias internacionales",
-      "title": "Qué es el \"zeptoverso\", el mundo más pequeño jamás detectado en la naturaleza, y por qué es clave para entender el universo - BBC",
-      "summary": "Qué es el \"zeptoverso\", el mundo más pequeño jamás detectado en la naturaleza, y por qué es clave para entender el universo BBC",
+      "title": "\"¡Sí, se puede votar incluso desde el espacio!\" - BBC",
+      "summary": "\"¡Sí, se puede votar incluso desde el espacio!\" BBC",
       "image": "",
-      "publishedAt": "2026-11-03 11:52 UTC",
+      "publishedAt": "2026-11-04 01:27 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Noticias internacionales",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiUDI4OUtLTHp5bV8xY3cxdmd5a2M1LXNhWnhQR2FvbEl0WDcwTVNPN003bThXOXRIVV91UVJNNXJGZDVINklydnhUMXlVN09PQkE5Nld6UllNVUQt0gFiQVVfeXFMTkRIbFN4ZVkyUmhCODkyT3F0dklqU1VXZl9Pd0ZCWXRsSmlRcmdvU3A3WHdGbW8wbGhSMlB4V0MtT3ZMTURmb1YzdkhGbGl4OFJ3QWhqamdVanNrYTE0Y3k5WFE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yaUdXaWd5bFBFbzI5VXRjaW1NOW5MWU9JMGg3VFJGam5kZ3dwZTg4WHJ6aW9EOTk1YlRmc1JYMEY3dVdYMzhvY3Q5c24yUWJzdkY5VU5zOFA?oc=5"
         }
       ]
     },
@@ -1750,6 +1732,24 @@
       ]
     },
     {
+      "id": "television|https://news.google.com/rss/articles/CBMi_wFBVV95cUxPcG04cEVpdERlSHVaN2NlMTFjVHdCZ2paOXhoVTNyVXZYdWhhX2R2cVRaZVkyRGNhY3RuWG9kQXdpTXpPS3ptNzdvZTV4OXdNbDVOQ2ltZDh2UUpMRUJNUzJUVmFaVTllT0FEeERGY2pRRjJmbk9HMDI0WDFNOVBOMl9jUmVvWjdsMktZSU54Wm9IaG5PVUZMbVZReGo0Yi16Rzc4aUpFaUt6a2NrZXFXWFJCQTBQZjBxWGpjdnZxZUtqS3N0aXFSZGNxV0JQRzdkRkp5cnNXYW0yU2t6d1F5U0VFMDRRN0hYb1M4cVJBbnU2RXRMQkFqR3lzU0ZPaU0?oc=5",
+      "section": "television",
+      "category": "Televisión España",
+      "title": "La Séptima da un paso atrás antes de su estreno: el nuevo canal generalista confirma que sí incluirá cine en su programación - 20Minutos",
+      "summary": "La Séptima da un paso atrás antes de su estreno: el nuevo canal generalista confirma que sí incluirá cine en su programación 20Minutos",
+      "image": "",
+      "publishedAt": "2026-11-04 17:00 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Televisión España",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPcG04cEVpdERlSHVaN2NlMTFjVHdCZ2paOXhoVTNyVXZYdWhhX2R2cVRaZVkyRGNhY3RuWG9kQXdpTXpPS3ptNzdvZTV4OXdNbDVOQ2ltZDh2UUpMRUJNUzJUVmFaVTllT0FEeERGY2pRRjJmbk9HMDI0WDFNOVBOMl9jUmVvWjdsMktZSU54Wm9IaG5PVUZMbVZReGo0Yi16Rzc4aUpFaUt6a2NrZXFXWFJCQTBQZjBxWGpjdnZxZUtqS3N0aXFSZGNxV0JQRzdkRkp5cnNXYW0yU2t6d1F5U0VFMDRRN0hYb1M4cVJBbnU2RXRMQkFqR3lzU0ZPaU0?oc=5"
+        }
+      ]
+    },
+    {
       "id": "television|https://news.google.com/rss/articles/CBMiiwJBVV95cUxONDlOOGh1bWcwN3p5QXBCZGFnRkxiNHZXcUFOWmJfcmFRMTN2eFozeTFqZWFRZktGeUIwaFBhN2VyUHM0bUlGOGdXQTNmSDBzaGdBSlVjdXJTRmljb1lqUTExcUNkOXlfcF85R1RtSDV1ZmtMTUt2dEhDVVEzcHdwZEFaeFNZNXBRd3Z1NTR6UE10bmxCUkZJeTlHbmtVc0N5eG83QkpabzNfQ2F1aml0czUwblBGT1N6RC1IemhJckxZUWFvUjVNT3piVmF5TE03UEtwcWliVnAxem5ZVjlOVjJQSGVheXp5QVFEbVBjMjJJRUFldXRQYm5DUVl1WWpXd1l0Z3FJcGliMU3SAZACQVVfeXFMTkxvd3NnVEtJZDJEc003VnBHS2t2N3RDV1FSd0dUU2VuOFEzcWNGYlZncXJPWjRzTUgyLTgwamFVWUplbU9rTktKdXVIdm1tMkQtdmhHdnhXeHBSWXlNQk5LWFczNzNmaE5WeWpEZWo5SDBSeXFURWJBaDhpOTRha1AtQjRwTUN5Z3lCZnhWU0lQaWxkRDlWSDdsTXlxa0hIQ0JDWHdHSjBtYXVBcjYxekUyMDhRdk44Ulk2cm8xd1lUczhaN2pTYzFiOEVsMFZYMTIxZEhWeWc3UmVxMTJpQkhkN1ctWEx6T0kwSzFBZEh6VVZhM3RBM0hvanJtZUVSZFl0aGJPM2lNNzF0ZlU2cDU?oc=5",
       "section": "television",
       "category": "Televisión España",
@@ -1836,6 +1836,24 @@
         {
           "name": "Televisión España",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVGxpekdUcnF1cUlJWTZEUUhPdHlQS09Zc0ZDTU1aOFdfeUhBd1l5U1MtYlEzRzhTU01ZTmdMbFY4UnBKUHpBY2RKaC1kSXlPREJaWWlfbm5pOUY4TnZYWGpHOXJpMVVkWG9MRm0xQTFabWRnNzNnS1M3a0lmR3pUbTdHWTh6aEx3WG9ZX2w0eUc2MWpQVVVsVFJONDFzd3ZQcmpGR3JDVDNaeVhxNmo2Z1c2ZFkySUZFd2YzWjVIOGpldG1BM0JDYmhVWXhGSEVr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "viral|https://news.google.com/rss/articles/CBMivgFBVV95cUxPRW1ONEpNZjZMX1RkUUluRV9GMzFzbGNreHZoTkRzQ290RlN6NncyNmtjdjBxWGNnRUdrZEl4eG90QnBMZXFmYkRzUEFmR1dYczFwS0FLSTE3em5LRGFuUHRjVkdmUXhoYUhwWXlzN3Q2cmFOakxsWnpOTEVuYWFMWEJIdV8wSXJTNTBMUFNMRGl4eGVhSHNacWVyXzZwM3EzNTdHMEtfSWpkM1lzVXltZjRMbFpvUGl6WU12RHJn?oc=5",
+      "section": "viral",
+      "category": "Viral ES",
+      "title": "VIDEO | Captan a mujer G0LP34ND0 a un instructor de gimnasio y a un automovilista en Tijuana - TV Azteca Jalisco",
+      "summary": "VIDEO | Captan a mujer G0LP34ND0 a un instructor de gimnasio y a un automovilista en Tijuana TV Azteca Jalisco",
+      "image": "",
+      "publishedAt": "2026-11-04 23:56 UTC",
+      "language": "es",
+      "topic": "Tendencias",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Viral ES",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRW1ONEpNZjZMX1RkUUluRV9GMzFzbGNreHZoTkRzQ290RlN6NncyNmtjdjBxWGNnRUdrZEl4eG90QnBMZXFmYkRzUEFmR1dYczFwS0FLSTE3em5LRGFuUHRjVkdmUXhoYUhwWXlzN3Q2cmFOakxsWnpOTEVuYWFMWEJIdV8wSXJTNTBMUFNMRGl4eGVhSHNacWVyXzZwM3EzNTdHMEtfSWpkM1lzVXltZjRMbFpvUGl6WU12RHJn?oc=5"
         }
       ]
     },
@@ -2038,24 +2056,6 @@
       ]
     },
     {
-      "id": "viral|https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcS1KaGRKWmNiN2hBTV84WjhpaTNjZXpkR3N2UGVtY3VlZmM2MHZWZU5kcjJMWThfalR5UWFMcC13QWlsOXFkRG1RSXczYzBaUThlVjA4Ty11OE10dVRLMnRYTEhmNUwtTS1jYjhBWlRycjVZUENIYVJoZzE5Z3g3N2VoZk1xblRZQ0RhTjY4bUZGSzNmUmRiOGlUV1RseFlZaUdQQjAzVUNLODdnSVJUN1kycmdpSl93NEZ6WTFqMERrcWh4Z0lYZTd3Z0lMNnFHOUFBNVZyYnliMUVDcWVabw?oc=5",
-      "section": "viral",
-      "category": "Viral ES",
-      "title": "¿OVNI o confusión colectiva? Video de presunta nave alienígena en Puebla divide a las redes sociales - Azteca Morelos",
-      "summary": "¿OVNI o confusión colectiva? Video de presunta nave alienígena en Puebla divide a las redes sociales Azteca Morelos",
-      "image": "",
-      "publishedAt": "2026-11-03 22:55 UTC",
-      "language": "es",
-      "topic": "Tendencias",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Viral ES",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcS1KaGRKWmNiN2hBTV84WjhpaTNjZXpkR3N2UGVtY3VlZmM2MHZWZU5kcjJMWThfalR5UWFMcC13QWlsOXFkRG1RSXczYzBaUThlVjA4Ty11OE10dVRLMnRYTEhmNUwtTS1jYjhBWlRycjVZUENIYVJoZzE5Z3g3N2VoZk1xblRZQ0RhTjY4bUZGSzNmUmRiOGlUV1RseFlZaUdQQjAzVUNLODdnSVJUN1kycmdpSl93NEZ6WTFqMERrcWh4Z0lYZTd3Z0lMNnFHOUFBNVZyYnliMUVDcWVabw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "viral|https://news.google.com/rss/articles/CBMi3AJBVV95cUxQQzJTUUR2TmxrZ2xtR09sVFkzMVV5Zzlwek5zNDlSMmRKanhPVk53WF9GOGFaQ1FJSnpDd2VEeHlocTZEVTFNVG5uTkVWMlRDbDZQYTBBSUprRjdPc05lbTRtdVlSck15TEFtR0dhM2RDakF0bFNEUEFtbWl4UGRMOUo2Z0UxQXVtV1pfbE42OUNWZHF3M0dUcEh1WHVLdkRoWEt0T0xQUmYzWDd0ZXUwaXUwMXlqS2k3MzdvWXA1UmMyMWJkaTRZZEpWb3M0UFlLcE1DYkFwblFTSVE4bzRabGxMbDJRYTg2QUNGNVJUYThZSG9hVVVaRm1sQUVfSFpOSkdHRWxCYWlJdnV0aXhIQjNVQTJ0TS0tN0VJZVE1NFlfdHJfQ241ekREdnRmeDdneHJpcWNPRVoyRXdySVU1SE1yN1RIUzNRVjhyb1NoODlsbHZFdWFvOTRzWEvSAdwCQVVfeXFMUEMyU1FEdk5sa2dsbUdPbFRZMzFVeWc5cHpOczQ5UjJkSmp4T1ZOd1hfRjhhWkNRSUp6Q3dlRHh5aHE2RFUxTVRubk5FVjJUQ2w2UGEwQUlKa0Y3T3NOZW00bXVZUnJNeUxBbUdHYTNkQ2pBdGxTRFBBbW1peFBkTDlKNmdFMUF1bVdaX2xONjlDVmRxdzNHVHBIdVh1S3ZEaFhLdE9MUFJmM1g3dGV1MGl1MDF5aktpNzM3b1lwNVJjMjFiZGk0WWRKVm9zNFBZS3BNQ2JBcG5RU0lROG80WmxsTGwyUWE4NkFDRjVSVGE4WUhvYVVVWkZtbEFFX0haTkpHR0VsQmFpSXZ1dGl4SEIzVUEydE0tLTdFSWVRNTRZX3RyX0NuNXpERHZ0Zng3Z3hyaXFjT0VaMkV3cklVNUhNcjdUSFMzUVY4cm9TaDg5bGx2RXVhbzk0c1hL?oc=5",
       "section": "viral",
       "category": "Viral EN",
@@ -2128,7 +2128,7 @@
       ]
     },
     {
-      "id": "viral|https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbTNDTGtDOE9kVTJMSUotZWFPcW5UY05pQU1wZnRCRmdQcXpZMFlzMjJxLU53WmpFTHB6WWNZR0FIVXE0dU9zdWZYSkpoRGJwMjVNMTBEbE1YbGowZTE0eWpKQzFhNVRKOXd5YnNLRUFUWWFyY0RIYTZpQ2wwUG9GdE5qeW54b0F2MnFmbG1qNDZ6WHRDZ0RMV2xyQzBjNmZzSHozWXJVeW5iOFN4VWt6N2hYUndLYi1FRHRDdEZTMklDR3psUXBRdHloVzNid19OeDZBZTZsX1B0aTZ0MTBPZ25HUdIB6AFBVV95cUxOb0s0TGxTLXFyeENpNk9fUk5rWklIbHYtSGhzUnlNZDk4eGlyeERic1FNdi15WlZzNDVEVjRxTXU3NTdUWDJCRF9YOE94VzBlVnNjcmJVS1J6MF9LdlBiS1VpaHBMRWczdWpsM3NvVHRHcGhoWlhjTHRxT2ZfUk9mREllZ2J2QWpjT0RxcFc3Wm9GdTh3UmZxWjFocGU3TGxtSVdweER4QXFYenhkUVktVnozdEVuRHJhbHVqTU1neFpIblpNUkZZNW5mWllDRU1SaHZYTUxjOVJvMHpZSnQyaUFtdVYyNmQ4?oc=5",
+      "id": "viral|https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbTNDTGtDOE9kVTJMSUotZWFPcW5UY05pQU1wZnRCRmdQcXpZMFlzMjJxLU53WmpFTHB6WWNZR0FIVXE0dU9zdWZYSkpoRGJwMjVNMTBEbE1YbGowZTE0eWpKQzFhNVRKOXd5YnNLRUFUWWFyY0RIYTZpQ2wwUG9GdE5qeW54b0F2MnFmbG1qNDZ6WHRDZ0RMV2xyQzBjNmZzSHozWXJVeW5iOFN4VWt6N2hYUndLYi1FRHRDdEZTMklDR3psUXBRdHloVzNid19OeDZBZTZsX1B0aTZ0MTBPZ25HUQ?oc=5",
       "section": "viral",
       "category": "Viral EN",
       "title": "Delhi company gifts employees ₹70,000 iPhone 16s for Diwali, internet reacts: ‘Aapko kya mila?’ - Livemint",
@@ -2141,7 +2141,7 @@
       "sources": [
         {
           "name": "Viral EN",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbTNDTGtDOE9kVTJMSUotZWFPcW5UY05pQU1wZnRCRmdQcXpZMFlzMjJxLU53WmpFTHB6WWNZR0FIVXE0dU9zdWZYSkpoRGJwMjVNMTBEbE1YbGowZTE0eWpKQzFhNVRKOXd5YnNLRUFUWWFyY0RIYTZpQ2wwUG9GdE5qeW54b0F2MnFmbG1qNDZ6WHRDZ0RMV2xyQzBjNmZzSHozWXJVeW5iOFN4VWt6N2hYUndLYi1FRHRDdEZTMklDR3psUXBRdHloVzNid19OeDZBZTZsX1B0aTZ0MTBPZ25HUdIB6AFBVV95cUxOb0s0TGxTLXFyeENpNk9fUk5rWklIbHYtSGhzUnlNZDk4eGlyeERic1FNdi15WlZzNDVEVjRxTXU3NTdUWDJCRF9YOE94VzBlVnNjcmJVS1J6MF9LdlBiS1VpaHBMRWczdWpsM3NvVHRHcGhoWlhjTHRxT2ZfUk9mREllZ2J2QWpjT0RxcFc3Wm9GdTh3UmZxWjFocGU3TGxtSVdweER4QXFYenhkUVktVnozdEVuRHJhbHVqTU1neFpIblpNUkZZNW5mWllDRU1SaHZYTUxjOVJvMHpZSnQyaUFtdVYyNmQ4?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbTNDTGtDOE9kVTJMSUotZWFPcW5UY05pQU1wZnRCRmdQcXpZMFlzMjJxLU53WmpFTHB6WWNZR0FIVXE0dU9zdWZYSkpoRGJwMjVNMTBEbE1YbGowZTE0eWpKQzFhNVRKOXd5YnNLRUFUWWFyY0RIYTZpQ2wwUG9GdE5qeW54b0F2MnFmbG1qNDZ6WHRDZ0RMV2xyQzBjNmZzSHozWXJVeW5iOFN4VWt6N2hYUndLYi1FRHRDdEZTMklDR3psUXBRdHloVzNid19OeDZBZTZsX1B0aTZ0MTBPZ25HUQ?oc=5"
         }
       ]
     },
@@ -2332,7 +2332,7 @@
       "title": "TikTok - BBC",
       "summary": "TikTok BBC",
       "image": "",
-      "publishedAt": "2026-11-03 15:46 UTC",
+      "publishedAt": "2026-11-04 07:24 UTC",
       "language": "en",
       "topic": "Tendencias",
       "verification": "fuente identificada; no contrastada independientemente",
@@ -2340,6 +2340,24 @@
         {
           "name": "Viral BBC",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96TFAwY3BjTEVhUEt5Mk5vZ1VKMVlBaHJ0TkVrOTZZTWUtOUJVVVhCY2lhQzVYOWlHNlRqb0FlTnEwQUQwdkNYRGtDQXhZcW5SRk0yYkNZOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "viral|https://news.google.com/rss/articles/CBMipwFBVV95cUxQOFBmYUlPVTUxYUZCWnNUU1V2TTZrTl9SOGlVdnJoNUNLaDVmQ0dFb0Z6RVc5YWNCa19NNm5XTlNVR3JyNW1ja0dQVVhTSWh4clFYZXV2S1ZaSmpkYUVIUHpkc05ud0tIcTA5by02b25iTUVjODdnNmR0WWVPNWh0UzdmVlBqaFpEbTV1VkRoY19MQU95Nmx0TXNRTU02QmpLTVZVbnU5cw?oc=5",
+      "section": "viral",
+      "category": "Viral Guardian",
+      "title": "‘The point was to dehumanise’: London Holocaust archive examines world’s first ‘viral’ antisemitism scandal - The Guardian",
+      "summary": "‘The point was to dehumanise’: London Holocaust archive examines world’s first ‘viral’ antisemitism scandal The Guardian",
+      "image": "",
+      "publishedAt": "2026-11-04 11:31 UTC",
+      "language": "en",
+      "topic": "Tendencias",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Viral Guardian",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOFBmYUlPVTUxYUZCWnNUU1V2TTZrTl9SOGlVdnJoNUNLaDVmQ0dFb0Z6RVc5YWNCa19NNm5XTlNVR3JyNW1ja0dQVVhTSWh4clFYZXV2S1ZaSmpkYUVIUHpkc05ud0tIcTA5by02b25iTUVjODdnNmR0WWVPNWh0UzdmVlBqaFpEbTV1VkRoY19MQU95Nmx0TXNRTU02QmpLTVZVbnU5cw?oc=5"
         }
       ]
     },
@@ -3334,6 +3352,24 @@
       ]
     },
     {
+      "id": "estilo|https://news.google.com/rss/articles/CBMigwFBVV95cUxOQTFRb0ZEc1ViM2JUQS1jR29RRFpnUVNibGotUG5lTWktb0ZrTFlfcHdFM3cyZzVaNElENmtMQjFsMDBLNEJlMERQQnRqbnVfNWVKS3M1Z2FDQkZ2eFJ5Q2laek1iWVhxSGRpUUs2aXJNZXQ0NXB3NkVZZ1Qwd0VaY2FBcw?oc=5",
+      "section": "estilo",
+      "category": "Esquire EN",
+      "title": "The 40 Best Colognes of 2026 - Esquire",
+      "summary": "The 40 Best Colognes of 2026 Esquire",
+      "image": "",
+      "publishedAt": "2026-11-05 02:37 UTC",
+      "language": "en",
+      "topic": "Estilo de vida",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Esquire EN",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQTFRb0ZEc1ViM2JUQS1jR29RRFpnUVNibGotUG5lTWktb0ZrTFlfcHdFM3cyZzVaNElENmtMQjFsMDBLNEJlMERQQnRqbnVfNWVKS3M1Z2FDQkZ2eFJ5Q2laek1iWVhxSGRpUUs2aXJNZXQ0NXB3NkVZZ1Qwd0VaY2FBcw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "estilo|https://news.google.com/rss/articles/CBMirAFBVV95cUxOeEZpX3pyZ1ZsZkFpWWtjUzZTREF6bUp6eFBWWnpNNWlkQ3o1dU5QN0JraFRnWU9Ea3FmbkF2M3BmSU1wQmtORHhRR3BxS3ZfMzMwb3hEV2dxbDZXeWdfVm1ralotaVJVaVhGdUhfWWlsem00dVF5T0JpS2NTeVdvSHk3MDRPYWlDenNubklRT2RzaWNYMjByeno3RGlSdjRHZzJkZ1BvMlAwUHBo?oc=5",
       "section": "estilo",
       "category": "Esquire EN",
@@ -3424,20 +3460,20 @@
       ]
     },
     {
-      "id": "estilo|https://news.google.com/rss/articles/CBMigwFBVV95cUxOQTFRb0ZEc1ViM2JUQS1jR29RRFpnUVNibGotUG5lTWktb0ZrTFlfcHdFM3cyZzVaNElENmtMQjFsMDBLNEJlMERQQnRqbnVfNWVKS3M1Z2FDQkZ2eFJ5Q2laek1iWVhxSGRpUUs2aXJNZXQ0NXB3NkVZZ1Qwd0VaY2FBcw?oc=5",
+      "id": "estilo|https://news.google.com/rss/articles/CBMicEFVX3lxTE9NLXd1TGt5bXlBTW9yVXRkM2R6SUVMVGZuc0hxaUJPa3Z5WGwzb25pTEdwcC1qMTk3clNpWkhXdDF5RGNMUWc0Q1pXSl85Rndmb3c0Mm1oVFcxVXpTaUpNR3h4bTR6cWVlUWVLY2loSno?oc=5",
       "section": "estilo",
       "category": "Esquire EN",
-      "title": "The 40 Best Colognes of 2026 - Esquire",
-      "summary": "The 40 Best Colognes of 2026 Esquire",
+      "title": "The Best Mini PCs to Buy in 2026 - Esquire",
+      "summary": "The Best Mini PCs to Buy in 2026 Esquire",
       "image": "",
-      "publishedAt": "2026-11-04 17:12 UTC",
+      "publishedAt": "2026-11-04 18:42 UTC",
       "language": "en",
       "topic": "Estilo de vida",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Esquire EN",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQTFRb0ZEc1ViM2JUQS1jR29RRFpnUVNibGotUG5lTWktb0ZrTFlfcHdFM3cyZzVaNElENmtMQjFsMDBLNEJlMERQQnRqbnVfNWVKS3M1Z2FDQkZ2eFJ5Q2laek1iWVhxSGRpUUs2aXJNZXQ0NXB3NkVZZ1Qwd0VaY2FBcw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NLXd1TGt5bXlBTW9yVXRkM2R6SUVMVGZuc0hxaUJPa3Z5WGwzb25pTEdwcC1qMTk3clNpWkhXdDF5RGNMUWc0Q1pXSl85Rndmb3c0Mm1oVFcxVXpTaUpNR3h4bTR6cWVlUWVLY2loSno?oc=5"
         }
       ]
     },
@@ -3456,24 +3492,6 @@
         {
           "name": "Esquire EN",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVjg5TlFUaVRhZzdONzNPdnk3bDRTVWlfU0tMa0xxeXVUSkVTVG92dFcwWV9BVnFXNEt1OHVNLTY4ZnhRS3QyUndkaG1VbHRuWUU0dVJvV014VGRVZ0FxN3ZTM2xzVlhJaXhRQ1A4NF83U1gwWHN5VjJueTI4QmY3S3l1VnVMaGhxdDR5M2pPcw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "estilo|https://news.google.com/rss/articles/CBMifkFVX3lxTE1LQzhLdktLQ3RyUnB2d3FLQW5oY050NzM5RnZzeHA1YWJBQ29INlRQWnpfUU5GMGl3THFNNzVNVDNUcW9JT09laVk4R2xGUklUNHc5OUFLRW93Y21LdTVIVW9YV050bXdkTG1jeFVVY2ZmZEdndWVScTg0Qk5CQQ?oc=5",
-      "section": "estilo",
-      "category": "Esquire EN",
-      "title": "According to Tom Hardy, You Need a Trusty Trench Coat. These Are the 9 Affordable Options to Buy Now - Esquire",
-      "summary": "According to Tom Hardy, You Need a Trusty Trench Coat. These Are the 9 Affordable Options to Buy Now Esquire",
-      "image": "",
-      "publishedAt": "2026-11-04 15:51 UTC",
-      "language": "en",
-      "topic": "Estilo de vida",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Esquire EN",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LQzhLdktLQ3RyUnB2d3FLQW5oY050NzM5RnZzeHA1YWJBQ29INlRQWnpfUU5GMGl3THFNNzVNVDNUcW9JT09laVk4R2xGUklUNHc5OUFLRW93Y21LdTVIVW9YV050bXdkTG1jeFVVY2ZmZEdndWVScTg0Qk5CQQ?oc=5"
         }
       ]
     },
@@ -3802,56 +3820,56 @@
       ]
     },
     {
-      "id": "espana|https://news.google.com/rss/articles/CBMihAJBVV95cUxOcmtPRG95Zk5SRDdpemZ6Qnd0RDhETVh1ME1VRWk1cGJEVi01SEZ3cW5uUkZQSGRZa1Q4Q19GSjJyR3AxX0hpNWhST1B0dGFDWWpmSlRoVUVIbk5mNERjN1pJdUpRNTk0Y0ltSGpwTjZIOHNyMm5XdEV3MEhfMXhKanozS1N3Z1FUUzJ1M3FfVmdyUXk1MTYwSXpfbFI3RUtNTzJVbzdpQ3ZnZndjUWhLc0FUMFF1bFJtQUFEQjVNTGZjTC1vY29QUWxvWVJqRlpHUWdVWEJlSm1wWC1jZTFwQXhkc0luLUJXanZNeF9ueDE2Sk5vQnZpMjVFZUFLd3JHblpCSdIBmAJBVV95cUxOZlNUQW1KTDJmQ0RHQl9GSmFaWFlQcklEbTd4cU9BY2lLbE5LQjYwcjB1VEVvZ0VpYW1UamhzY0RIWHBTY0FDcldJWk85Ri1vdTE5Sk9XWTB6TW5BTVBJaE9vakdQa2JpYTVyM25RZ0cxNUFwd2J4TTVEbm5YSmRFSmQ1SW4tNUxkX0RHbl81ellrSHF5RVA4MlI0TFE3U0RNdTU1SG55eEF6TmFzaXJJZ1NaQzBnMloydVpmck1nX0wyRFZJLWFtWUphMDkxTUd5cUo5ZVhweExleGhSMW1vUWRpbkxYdVRWRlptdnhUSVhVei1QNjdxVWxGWllXRVBmZlpZWXVCd3NoOXhXblplbVV1WE10V1VV?oc=5",
+      "id": "espana|https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWngtcmR1cDk1QUJ5UHV2V3lSdkN3VnlKTHBhd1FxLS0xc3RMQUZsVjBicWp6dTJqaXNmdEZzQURMLTcxTUl0RUpCWTctZjMzYXprQnR5eFFYMFgtb0V0Y1ZyMDAwMHBGQjlLamZzT1hpODhBcVI0RmFtQW95Y3NmYTJ4QU5iOTdoSjhyX1paYkNkYVItcExwRVJkNHp1TDR0MjI5SmVBeTAycUtDdGJFUXYxZUY2RzhickdmQ3h5ZTdBVk1la2VjQnlmY2xnbU9PRnI00gHnAUFVX3lxTFBBYk5rQV9KbWljbWZGYWJ6d0tIMlBrUVQxbW1mMU1CdE5IWm04OURQX25JR0Z5c1cyZGdnVi1BSVd4MEFIUVdQY3Y5MnlUNmlDcmloenp4RjFZQlRsMktkZURGSlV4bkdrQ2tBc0F3dTRRYlpUM0F5c0h0b3NkbF96am5aSUMxWjUyOEFPZHlJZ01ybHRTaUdZOUVVQnF6WkM3bjBzNFdYazkzRkVVWlNVVnNzTTF6RGU2ZVdMOTVvWHhDV2FPbmdwWHg3RXBzVkdUZlBSOHlVbW9rX0xBOWFPRmEycDROMA?oc=5",
       "section": "espana",
       "category": "Cinco Días",
-      "title": "Seaya invierte en la fusión de las tecnológicas Veridas y Fourthline para impulsar su crecimiento con más adquisiciones - Cinco Días",
-      "summary": "Seaya invierte en la fusión de las tecnológicas Veridas y Fourthline para impulsar su crecimiento con más adquisiciones Cinco Días",
+      "title": "Los mercados celebran el histórico vuelco político en Estados Unidos - Cinco Días",
+      "summary": "Los mercados celebran el histórico vuelco político en Estados Unidos Cinco Días",
       "image": "",
-      "publishedAt": "2026-11-03 10:07 UTC",
+      "publishedAt": "2026-11-04 05:36 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Cinco Días",
-          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOcmtPRG95Zk5SRDdpemZ6Qnd0RDhETVh1ME1VRWk1cGJEVi01SEZ3cW5uUkZQSGRZa1Q4Q19GSjJyR3AxX0hpNWhST1B0dGFDWWpmSlRoVUVIbk5mNERjN1pJdUpRNTk0Y0ltSGpwTjZIOHNyMm5XdEV3MEhfMXhKanozS1N3Z1FUUzJ1M3FfVmdyUXk1MTYwSXpfbFI3RUtNTzJVbzdpQ3ZnZndjUWhLc0FUMFF1bFJtQUFEQjVNTGZjTC1vY29QUWxvWVJqRlpHUWdVWEJlSm1wWC1jZTFwQXhkc0luLUJXanZNeF9ueDE2Sk5vQnZpMjVFZUFLd3JHblpCSdIBmAJBVV95cUxOZlNUQW1KTDJmQ0RHQl9GSmFaWFlQcklEbTd4cU9BY2lLbE5LQjYwcjB1VEVvZ0VpYW1UamhzY0RIWHBTY0FDcldJWk85Ri1vdTE5Sk9XWTB6TW5BTVBJaE9vakdQa2JpYTVyM25RZ0cxNUFwd2J4TTVEbm5YSmRFSmQ1SW4tNUxkX0RHbl81ellrSHF5RVA4MlI0TFE3U0RNdTU1SG55eEF6TmFzaXJJZ1NaQzBnMloydVpmck1nX0wyRFZJLWFtWUphMDkxTUd5cUo5ZVhweExleGhSMW1vUWRpbkxYdVRWRlptdnhUSVhVei1QNjdxVWxGWllXRVBmZlpZWXVCd3NoOXhXblplbVV1WE10V1VV?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWngtcmR1cDk1QUJ5UHV2V3lSdkN3VnlKTHBhd1FxLS0xc3RMQUZsVjBicWp6dTJqaXNmdEZzQURMLTcxTUl0RUpCWTctZjMzYXprQnR5eFFYMFgtb0V0Y1ZyMDAwMHBGQjlLamZzT1hpODhBcVI0RmFtQW95Y3NmYTJ4QU5iOTdoSjhyX1paYkNkYVItcExwRVJkNHp1TDR0MjI5SmVBeTAycUtDdGJFUXYxZUY2RzhickdmQ3h5ZTdBVk1la2VjQnlmY2xnbU9PRnI00gHnAUFVX3lxTFBBYk5rQV9KbWljbWZGYWJ6d0tIMlBrUVQxbW1mMU1CdE5IWm04OURQX25JR0Z5c1cyZGdnVi1BSVd4MEFIUVdQY3Y5MnlUNmlDcmloenp4RjFZQlRsMktkZURGSlV4bkdrQ2tBc0F3dTRRYlpUM0F5c0h0b3NkbF96am5aSUMxWjUyOEFPZHlJZ01ybHRTaUdZOUVVQnF6WkM3bjBzNFdYazkzRkVVWlNVVnNzTTF6RGU2ZVdMOTVvWHhDV2FPbmdwWHg3RXBzVkdUZlBSOHlVbW9rX0xBOWFPRmEycDROMA?oc=5"
         }
       ]
     },
     {
-      "id": "mundo|https://news.google.com/rss/articles/CBMisgFBVV95cUxQamFhVEozSjRLb3lJNlFlTTZ4dmtZbjBGdTJHOGNXdmZqXzh6VGhqN3Z2czQ5VUdTaE5KeTMwdHNtUWhVRldhb2hhbGJMNUhDR3NfbF9sOWYyWHVFZHdPeU43OElBMzhnQnQzenpkdzJlQWVya0tMQUhaV1pPN1UwWlVlMXZpMXQxa191LVN5SEZSdWh5T21jcXRycHpOUkI5ZWhhZm4xSktCQnRfRnFhcDZn?oc=5",
+      "id": "mundo|https://news.google.com/rss/articles/CBMitwFBVV95cUxQdzM2c3YzcktwU285aS1QaVVzTk51WFR0UnpxMXlnaFdEd2RtZWYzMm81TDZQUTJZS0ZlLXFVV3ZhcGFibkdLZm9Remo3YjlhNHJTd1lxSXNMUFNzejhIMkt0TlFRXy1RZl9TdTkxbDhfdjQxUEIzcUhaYlpOMjZJSVViNmVPV0dRV0RmaTJ3dDJ3QUs4TTFleFlnZnNyUHhVYlQ5NldaZVRZRFd5dU5nVnRKVUQ0UFE?oc=5",
       "section": "mundo",
       "category": "Reuters",
-      "title": "Republicans call for Trump to change course after midterm drubbing - Reuters",
-      "summary": "Republicans call for Trump to change course after midterm drubbing Reuters",
+      "title": "Oil falls for a fourth day on expectations for lower risk of Iran war escalation - Reuters",
+      "summary": "Oil falls for a fourth day on expectations for lower risk of Iran war escalation Reuters",
       "image": "",
-      "publishedAt": "2026-11-04 22:59 UTC",
+      "publishedAt": "2026-11-05 02:20 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQamFhVEozSjRLb3lJNlFlTTZ4dmtZbjBGdTJHOGNXdmZqXzh6VGhqN3Z2czQ5VUdTaE5KeTMwdHNtUWhVRldhb2hhbGJMNUhDR3NfbF9sOWYyWHVFZHdPeU43OElBMzhnQnQzenpkdzJlQWVya0tMQUhaV1pPN1UwWlVlMXZpMXQxa191LVN5SEZSdWh5T21jcXRycHpOUkI5ZWhhZm4xSktCQnRfRnFhcDZn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdzM2c3YzcktwU285aS1QaVVzTk51WFR0UnpxMXlnaFdEd2RtZWYzMm81TDZQUTJZS0ZlLXFVV3ZhcGFibkdLZm9Remo3YjlhNHJTd1lxSXNMUFNzejhIMkt0TlFRXy1RZl9TdTkxbDhfdjQxUEIzcUhaYlpOMjZJSVViNmVPV0dRV0RmaTJ3dDJ3QUs4TTFleFlnZnNyUHhVYlQ5NldaZVRZRFd5dU5nVnRKVUQ0UFE?oc=5"
         }
       ]
     },
     {
-      "id": "mundo|https://news.google.com/rss/articles/CBMirgFBVV95cUxQWjFLdFdwNUNSQ1l4UnhlT3A0TTNua2ttWWJvNWtNQlpUVlZncVRzTnVZRUkydktKS1IwaHBQU243ajRzUC04N3lEZXhlV3hKczc3V1VvUjFCcy1ESXBUU09YVlBoVlNUaHVrTHR2SWFhMEIxNmlPazBWbTZZdEN2bWRmYmtrYzRqMy15ckpiWDdYNTJHYUUzdmZwZU05MnRiaTBVVTVmUnZtLXJyOEE?oc=5",
+      "id": "mundo|https://news.google.com/rss/articles/CBMiugFBVV95cUxOYTEzMDVoRDFiSGh1VHBhVGVTV2JlZ2g3dVk0a2VCMjNVdENMQkQ1bk5vVDA5OHBIS0daTVVfeUJWYnpZdzdBMld1VXZPTGdBdVRScG4xSlpKWHRScXpOcFhFS2MxbzZ6OGF2OHNwSXBEczh3b2doemhkSHFKWFFxZjZDWVpHVFVheFhXcWYxS0tyYlVBbS00dnl3aDlLYTd5MEx4MVMzdHl1TWJ0OHo4dF9aeWRhU3JPOWc?oc=5",
       "section": "mundo",
       "category": "Reuters",
-      "title": "Zelenskiy hopes US election outcome will generate more help for Ukraine - Reuters",
-      "summary": "Zelenskiy hopes US election outcome will generate more help for Ukraine Reuters",
+      "title": "Trump says Hegseth doing 'a very good job' as questions swirl about his future - Reuters",
+      "summary": "Trump says Hegseth doing 'a very good job' as questions swirl about his future Reuters",
       "image": "",
-      "publishedAt": "2026-11-04 22:20 UTC",
+      "publishedAt": "2026-11-04 23:32 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWjFLdFdwNUNSQ1l4UnhlT3A0TTNua2ttWWJvNWtNQlpUVlZncVRzTnVZRUkydktKS1IwaHBQU243ajRzUC04N3lEZXhlV3hKczc3V1VvUjFCcy1ESXBUU09YVlBoVlNUaHVrTHR2SWFhMEIxNmlPazBWbTZZdEN2bWRmYmtrYzRqMy15ckpiWDdYNTJHYUUzdmZwZU05MnRiaTBVVTVmUnZtLXJyOEE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYTEzMDVoRDFiSGh1VHBhVGVTV2JlZ2g3dVk0a2VCMjNVdENMQkQ1bk5vVDA5OHBIS0daTVVfeUJWYnpZdzdBMld1VXZPTGdBdVRScG4xSlpKWHRScXpOcFhFS2MxbzZ6OGF2OHNwSXBEczh3b2doemhkSHFKWFFxZjZDWVpHVFVheFhXcWYxS0tyYlVBbS00dnl3aDlLYTd5MEx4MVMzdHl1TWJ0OHo4dF9aeWRhU3JPOWc?oc=5"
         }
       ]
     },
@@ -3928,6 +3946,24 @@
       ]
     },
     {
+      "id": "mundo|https://news.google.com/rss/articles/CBMikwFBVV95cUxOWmZabTBlaGVyMnZ2SUo1c0tQU3BCSHZUNUdXUTFGRjZlQ2Y1aTJjd0VqbzJBcW1zTGpZNUF4X0VPdDQ4R2hKY0ZhXzBmaXVqNzFLaUhrVWFvZzdUcUVzc2xHYWs0Y2EyVGlFdVRNWFZEUTJmR2JRZTNfM0EtYmJRWXQ5c29jM1FVZXpvdXBKa29ZMEnSAZgBQVVfeXFMUGdrMG5Fd1NUQzVBQTVQZlEyc2EwNmZ6SGczNzlMYVBDOXFEQ2JDT2htVWVmYlJScndqa2hrdnZ5TmlXTjlzU1Y1anQxM1NITlZDVEZKcGN6SE5EYlZlcFZKVjNFZG45V0Yyb3d6ME1KN2VNbUFHbmVUNjRzMWV2V3k2bmlLcVBsRW5PTWJrOUJZUGlMVkJYN2s?oc=5",
+      "section": "mundo",
+      "category": "Al Jazeera",
+      "title": "US midterms 2026: What key races remain undecided? - Al Jazeera",
+      "summary": "US midterms 2026: What key races remain undecided? Al Jazeera",
+      "image": "",
+      "publishedAt": "2026-11-04 19:25 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWmZabTBlaGVyMnZ2SUo1c0tQU3BCSHZUNUdXUTFGRjZlQ2Y1aTJjd0VqbzJBcW1zTGpZNUF4X0VPdDQ4R2hKY0ZhXzBmaXVqNzFLaUhrVWFvZzdUcUVzc2xHYWs0Y2EyVGlFdVRNWFZEUTJmR2JRZTNfM0EtYmJRWXQ5c29jM1FVZXpvdXBKa29ZMEnSAZgBQVVfeXFMUGdrMG5Fd1NUQzVBQTVQZlEyc2EwNmZ6SGczNzlMYVBDOXFEQ2JDT2htVWVmYlJScndqa2hrdnZ5TmlXTjlzU1Y1anQxM1NITlZDVEZKcGN6SE5EYlZlcFZKVjNFZG45V0Yyb3d6ME1KN2VNbUFHbmVUNjRzMWV2V3k2bmlLcVBsRW5PTWJrOUJZUGlMVkJYN2s?oc=5"
+        }
+      ]
+    },
+    {
       "id": "mundo|https://news.google.com/rss/articles/CBMirwFBVV95cUxNRTZVaUFJX05FcnRzajNtVElPTXRLejBMZ3dfR0hRMjMwMEg2MnNpaGRZUXJxMk1pcmNWd1NBOGNZSXIxOEZIYUlpXzZSQUtVdms4ejByeEVjODlwOTl4bE95ZVdQbE9wc2JVLXJrZGZmZUdQQmRqMGJnbFY4ZkpJWUgwU0xOZHpUdktIYVpsdnJHWGlsR0Fkd2E0NGV4WF9ERWpkMkJlMVRaQ1gwZ19r0gG0AUFVX3lxTE02d1hZYjhReWdhY3lEMWx6RDNtbkVTVmZRY3I0bzRBYWRMSWNaVGhfQXhYTU1ydGFBdjluaW14VWl4THVPVFJMYWJKZnRVQ2RGQTVVREVNTHA3dHFqWnhpSUN1alpxaWNuWGhJZl9xTVVqMWtsbklnal9sZXNWOXplM1dQNUppaTBJX0FKR3VqOVZEOVY0M1ZYZXdaQ0M4U1ZCZDVVcFZ1NnFmM0dYZzZjdE1tdg?oc=5",
       "section": "mundo",
       "category": "Al Jazeera",
@@ -3942,24 +3978,6 @@
         {
           "name": "Al Jazeera",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRTZVaUFJX05FcnRzajNtVElPTXRLejBMZ3dfR0hRMjMwMEg2MnNpaGRZUXJxMk1pcmNWd1NBOGNZSXIxOEZIYUlpXzZSQUtVdms4ejByeEVjODlwOTl4bE95ZVdQbE9wc2JVLXJrZGZmZUdQQmRqMGJnbFY4ZkpJWUgwU0xOZHpUdktIYVpsdnJHWGlsR0Fkd2E0NGV4WF9ERWpkMkJlMVRaQ1gwZ19r0gG0AUFVX3lxTE02d1hZYjhReWdhY3lEMWx6RDNtbkVTVmZRY3I0bzRBYWRMSWNaVGhfQXhYTU1ydGFBdjluaW14VWl4THVPVFJMYWJKZnRVQ2RGQTVVREVNTHA3dHFqWnhpSUN1alpxaWNuWGhJZl9xTVVqMWtsbklnal9sZXNWOXplM1dQNUppaTBJX0FKR3VqOVZEOVY0M1ZYZXdaQ0M4U1ZCZDVVcFZ1NnFmM0dYZzZjdE1tdg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://news.google.com/rss/articles/CBMikgFBVV95cUxNVjgzNmFnVGs1TzI1R0tySFRlUmh1aWY1MXI1WjFwWVA0akRmMVRmcGZvVU5UWUVrQ01Lcy1NYVVwbmU1VnB0bWhOX2RUQWZRUll0bE14cF9PNmJneXNRdVF6ZjFOQVQ3bzhMSTBKTzBOR3gtNW5xRW1SNjBaZnNRNE43UXJINWFNVnFUOFZhTDM1QdIBlwFBVV95cUxNOHNQdWVoV3U2Tkxxei1YMUhPZ2cwV3JnSkdEUE9fZTVjUzd5THRGYUVjQ2tydUE3YzZUaUxzVTVscUVfaVFmQlRLZzFVcm1rWmpXeWt0RXRSVnFSUTZUNnR6Z0JQZktyUTRRUVU2TkNiU1plbWtXOVBfMk96Q2ZBYzVnTHdnVDdSczctVHhLbTVCdXRIdjlv?oc=5",
-      "section": "mundo",
-      "category": "Al Jazeera",
-      "title": "Democrats win Congress: How they did it, and what it means - Al Jazeera",
-      "summary": "Democrats win Congress: How they did it, and what it means Al Jazeera",
-      "image": "",
-      "publishedAt": "2026-11-04 13:10 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVjgzNmFnVGs1TzI1R0tySFRlUmh1aWY1MXI1WjFwWVA0akRmMVRmcGZvVU5UWUVrQ01Lcy1NYVVwbmU1VnB0bWhOX2RUQWZRUll0bE14cF9PNmJneXNRdVF6ZjFOQVQ3bzhMSTBKTzBOR3gtNW5xRW1SNjBaZnNRNE43UXJINWFNVnFUOFZhTDM1QdIBlwFBVV95cUxNOHNQdWVoV3U2Tkxxei1YMUhPZ2cwV3JnSkdEUE9fZTVjUzd5THRGYUVjQ2tydUE3YzZUaUxzVTVscUVfaVFmQlRLZzFVcm1rWmpXeWt0RXRSVnFSUTZUNnR6Z0JQZktyUTRRUVU2TkNiU1plbWtXOVBfMk96Q2ZBYzVnTHdnVDdSczctVHhLbTVCdXRIdjlv?oc=5"
         }
       ]
     },
@@ -4162,20 +4180,20 @@
       ]
     },
     {
-      "id": "television|https://news.google.com/rss/articles/CBMiogFBVV95cUxQeTNQVUFGWHJsLTlfSm9IWTNueHpDZzZCeV9vbEVvdTVERGxXNzROZ2txWVd1WWo2cTI5ejVoLUJKb0Vta0hxWTJpdjJnaUJ6S1pqVlp2MDlEbUZ2LTI3VW5YcENEODQwOEpBMWNFS0Z1ZlJBNkZvWFQtTS1MS1l2QkpDRzZ5T1JEVGZrbk9LQUlyVUJwLWhaNnk3SHdNR3JUbmc?oc=5",
+      "id": "television|https://news.google.com/rss/articles/CBMirAFBVV95cUxQMlBpSUE2TEVGc0NRZTBrLXpCNUliQzRjVk5LT2d6RW13QjdaS0ZtNTZpenR1WGR1VTFwUU5IV29naktBaTBNdmpPcFVHbGYxQ0pyd085dDE1QkVpRW10X1c2SzRQU05wdGdManMzSUwycWIwUVVocGgzVlRnVUI0TEFGUlhocmZEMG5WS3F2bHlseGxXczJzbkhXZFBHXzdFWXA0OHNsUTBtSWFa?oc=5",
       "section": "television",
       "category": "The Hollywood Reporter",
-      "title": "‘Prep’ Series Based on Curtis Sittenfeld Bestseller a Go at Netflix - The Hollywood Reporter",
-      "summary": "‘Prep’ Series Based on Curtis Sittenfeld Bestseller a Go at Netflix The Hollywood Reporter",
+      "title": "Alex Garland’s ‘Civil War’ Gets Second Look After Texas Turns Blue: “You Owe Him an Apology” - The Hollywood Reporter",
+      "summary": "Alex Garland’s ‘Civil War’ Gets Second Look After Texas Turns Blue: “You Owe Him an Apology” The Hollywood Reporter",
       "image": "",
-      "publishedAt": "2026-11-03 19:32 UTC",
+      "publishedAt": "2026-11-04 19:50 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeTNQVUFGWHJsLTlfSm9IWTNueHpDZzZCeV9vbEVvdTVERGxXNzROZ2txWVd1WWo2cTI5ejVoLUJKb0Vta0hxWTJpdjJnaUJ6S1pqVlp2MDlEbUZ2LTI3VW5YcENEODQwOEpBMWNFS0Z1ZlJBNkZvWFQtTS1MS1l2QkpDRzZ5T1JEVGZrbk9LQUlyVUJwLWhaNnk3SHdNR3JUbmc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMlBpSUE2TEVGc0NRZTBrLXpCNUliQzRjVk5LT2d6RW13QjdaS0ZtNTZpenR1WGR1VTFwUU5IV29naktBaTBNdmpPcFVHbGYxQ0pyd085dDE1QkVpRW10X1c2SzRQU05wdGdManMzSUwycWIwUVVocGgzVlRnVUI0TEFGUlhocmZEMG5WS3F2bHlseGxXczJzbkhXZFBHXzdFWXA0OHNsUTBtSWFa?oc=5"
         }
       ]
     },
@@ -4324,6 +4342,24 @@
       ]
     },
     {
+      "id": "tecnologia|https://news.google.com/rss/articles/CBMiekFVX3lxTE1pRng3SmYwaDVrTHJoUWlKUzBuTzFBdzVMRWJ0NG8ybHhmSnFjMl9mN1JiUkZiZWItSGNfVkdfSmdEaDVld0R2TXZNemwyZGw3M3ZTMnZfQV9Qa3d1OF90ejVLVGdsc1hHVkY5VFpBU3BSbVF2a3JJMFdR?oc=5",
+      "section": "tecnologia",
+      "category": "MacRumors",
+      "title": "Apps Can Now Try to Stop You From Canceling Subscriptions - MacRumors",
+      "summary": "Apps Can Now Try to Stop You From Canceling Subscriptions MacRumors",
+      "image": "",
+      "publishedAt": "2026-11-04 23:58 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "MacRumors",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pRng3SmYwaDVrTHJoUWlKUzBuTzFBdzVMRWJ0NG8ybHhmSnFjMl9mN1JiUkZiZWItSGNfVkdfSmdEaDVld0R2TXZNemwyZGw3M3ZTMnZfQV9Qa3d1OF90ejVLVGdsc1hHVkY5VFpBU3BSbVF2a3JJMFdR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "tecnologia|https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xMVdQUDJpc19NdURZbjNIR19ucnU3S0x3YUJSTHJQSGtNR3kzOER0YVl5Q3oyOXVxNTVQV3JLLVA5SHFLYTN1OVVWRHFCclU5dFo0NWRrSWhqeDJYWUthdnp6V2NnRGM?oc=5",
       "section": "tecnologia",
       "category": "MacRumors",
@@ -4338,24 +4374,6 @@
         {
           "name": "MacRumors",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xMVdQUDJpc19NdURZbjNIR19ucnU3S0x3YUJSTHJQSGtNR3kzOER0YVl5Q3oyOXVxNTVQV3JLLVA5SHFLYTN1OVVWRHFCclU5dFo0NWRrSWhqeDJYWUthdnp6V2NnRGM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "tecnologia|https://news.google.com/rss/articles/CBMifkFVX3lxTE9kZklaLWJKcHF3NEpINF9iZHkzTTktZGxISUlGc2tucXp2ZU9qXzgwOTI1SUFhYTBsMGoyUF9OMmV0VjJITVNFX05nYWp6cTdOS0d4X21xbEg2WV9wTUtONWZ5dGJIV3NuWF9XVHAzM1pQMFZDLUt2a0NVRk9Gdw?oc=5",
-      "section": "tecnologia",
-      "category": "MacRumors",
-      "title": "Apple is Putting Employees on an AI Budget - MacRumors",
-      "summary": "Apple is Putting Employees on an AI Budget MacRumors",
-      "image": "",
-      "publishedAt": "2026-11-04 20:20 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "MacRumors",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kZklaLWJKcHF3NEpINF9iZHkzTTktZGxISUlGc2tucXp2ZU9qXzgwOTI1SUFhYTBsMGoyUF9OMmV0VjJITVNFX05nYWp6cTdOS0d4X21xbEg2WV9wTUtONWZ5dGJIV3NuWF9XVHAzM1pQMFZDLUt2a0NVRk9Gdw?oc=5"
         }
       ]
     },
@@ -4450,6 +4468,24 @@
       ]
     },
     {
+      "id": "estilo|https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUUlwLXZXeU9ZeDdMUEhJM18zeHdad1VrWmp4VVZYRks3dGVUUWhNeVU0ZWlpMzQ3RTJ6YUowdjVzZ2ZLMVBLVzJ6NV9oZ25QUmxzQzV2UVB3Zk40NmdwV0swMWVGcThKZVM4b2c3b3pzSndzLUdmaW1lY2RKTHBnQUMyQ2JkRjRJVFdGZFlscUhkbEpBTjU4MnlvZ3E0Nm5jSUtwM2VDa0trd2dhRzd3UmhFRDdIbmZHLVNfMGl4b2dha0syVVk4Q09HdDZsVWI5OFJIMkNlTURNSjIwMWtoZDduMjRSSWxnWDJHWFV3QQ?oc=5",
+      "section": "estilo",
+      "category": "Men's Health España",
+      "title": "El entrenador personal de 53 años, Bryan Krahn, comparte las 4 estrategias para ganar masa muscular: \"Me encanta volver a ir al gimnasio\" - Men's Health",
+      "summary": "El entrenador personal de 53 años, Bryan Krahn, comparte las 4 estrategias para ganar masa muscular: \"Me encanta volver a ir al gimnasio\" Men's Health",
+      "image": "",
+      "publishedAt": "2026-11-04 19:20 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Men's Health España",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUUlwLXZXeU9ZeDdMUEhJM18zeHdad1VrWmp4VVZYRks3dGVUUWhNeVU0ZWlpMzQ3RTJ6YUowdjVzZ2ZLMVBLVzJ6NV9oZ25QUmxzQzV2UVB3Zk40NmdwV0swMWVGcThKZVM4b2c3b3pzSndzLUdmaW1lY2RKTHBnQUMyQ2JkRjRJVFdGZFlscUhkbEpBTjU4MnlvZ3E0Nm5jSUtwM2VDa0trd2dhRzd3UmhFRDdIbmZHLVNfMGl4b2dha0syVVk4Q09HdDZsVWI5OFJIMkNlTURNSjIwMWtoZDduMjRSSWxnWDJHWFV3QQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "estilo|https://news.google.com/rss/articles/CBMipgJBVV95cUxOUmkxMS1QRmxvYVhpVF9udXJyN1dwUkVwcERxaE54NkJJZFluVDROZzdGbk1iWDJPZE1LUG5JN0I2MGhtb2RXbU5WVk5RckVqdlJKckRRTFhwMHlDZURvTUtCSGR5b1N5QW9ZU0VPSWhLTWszNXVjMWQ5S0ZQSlJmQmVhN0lKU1NRTURzWGt5ekJYT2wyOUFaLWJqcUVONGhIR2ZnMlhoQ2hIRHlhV3BnOUhNaFpFX2JsU1d2ZTVHUnVTRl9waDNjcmY0TWRRYmV3UDY3YWNsbG84QlBPSi1YSFcxYlAtX2NUU1dTT3FBaXJYSVRuVHI5MV8ybkpEZi05azRCSzYycmV6a1MxRUFqd25jcDNiYnFvZWRQWkNiaGlTckJoU0E?oc=5",
       "section": "estilo",
       "category": "Men's Health España",
@@ -4468,42 +4504,6 @@
       ]
     },
     {
-      "id": "estilo|https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX21fNWpSY3dJVHVMWHpqckNTTVA1R2JvaDNfWWd5eXVta1VpWS1mWFBUZjRBbTBBN3Zsajhycy1lWGIzYVFzMFg3azg5bHA2VGNYcWNvd2d1ZlNGQ0JnWFc5d25VRnRoSkxla1laa0pRLW9aLW4zWkxoajNldFBsSTJZN215aHVwTkdyYlBDZkVPYWNIbTllbDZ3dnRJemw4cG9fOGVEbGFiWXJiV1paaVdBSzlmVm81Q212OW0xNVU?oc=5",
-      "section": "estilo",
-      "category": "Men's Health España",
-      "title": "La verdadera edad que debería tener Jack Reacher, el personaje de Alan Ritchson: \"Debemos creer en el mito\" - Men's Health",
-      "summary": "La verdadera edad que debería tener Jack Reacher, el personaje de Alan Ritchson: \"Debemos creer en el mito\" Men's Health",
-      "image": "",
-      "publishedAt": "2026-11-02 18:10 UTC",
-      "language": "es",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Men's Health España",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX21fNWpSY3dJVHVMWHpqckNTTVA1R2JvaDNfWWd5eXVta1VpWS1mWFBUZjRBbTBBN3Zsajhycy1lWGIzYVFzMFg3azg5bHA2VGNYcWNvd2d1ZlNGQ0JnWFc5d25VRnRoSkxla1laa0pRLW9aLW4zWkxoajNldFBsSTJZN215aHVwTkdyYlBDZkVPYWNIbTllbDZ3dnRJemw4cG9fOGVEbGFiWXJiV1paaVdBSzlmVm81Q212OW0xNVU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "estilo|https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbmlNTmNTZExCTjM0QmNvRlRMc1YzUWZmY2lUek1neE1oc1dXR0hGN0FXaG03N0NLYzVpZ3BaT055T0ZTNUp1ZzFzaU9MU3FzaS0zZ2JTYUlfYXppbFZJakVrZ3pGbXJUc1pDOGRrS0hXUkVjLVNSUlRkVlJ4SDd1ZUtCMUJHUno3Y0ww?oc=5",
-      "section": "estilo",
-      "category": "Vogue España",
-      "title": "Los 5 jerséis estampados que hay que tener en el radar este otoño-invierno 2026/27 - Vogue España",
-      "summary": "Los 5 jerséis estampados que hay que tener en el radar este otoño-invierno 2026/27 Vogue España",
-      "image": "",
-      "publishedAt": "2026-11-02 17:12 UTC",
-      "language": "es",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Vogue España",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbmlNTmNTZExCTjM0QmNvRlRMc1YzUWZmY2lUek1neE1oc1dXR0hGN0FXaG03N0NLYzVpZ3BaT055T0ZTNUp1ZzFzaU9MU3FzaS0zZ2JTYUlfYXppbFZJakVrZ3pGbXJUc1pDOGRrS0hXUkVjLVNSUlRkVlJ4SDd1ZUtCMUJHUno3Y0ww?oc=5"
-        }
-      ]
-    },
-    {
       "id": "estilo|https://news.google.com/rss/articles/CBMib0FVX3lxTE1BQVE1WkVKbV9hT2tfZWpEdEdrY2ctbDRMQXo5TlRNa19oTzh4aXFGNlBnajlRYmFoU0QzV3BFMFMxQUROR0w4a3RuVmRJSWxPbFhRWnlIaDhYMG9iLXNoTjMxTTQ0XzVlTGY5b194SQ?oc=5",
       "section": "estilo",
       "category": "Vogue España",
@@ -4518,6 +4518,24 @@
         {
           "name": "Vogue España",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BQVE1WkVKbV9hT2tfZWpEdEdrY2ctbDRMQXo5TlRNa19oTzh4aXFGNlBnajlRYmFoU0QzV3BFMFMxQUROR0w4a3RuVmRJSWxPbFhRWnlIaDhYMG9iLXNoTjMxTTQ0XzVlTGY5b194SQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "estilo|https://news.google.com/rss/articles/CBMiUEFVX3lxTE1aMDlqUHZ4ZUZZWnprSmVWWlE0WWVINFQ5YV9rXzc4U0tJSkFxVVYwcTktTGZMdUk4QjhfMGJTYTF6Y2Y4T1lPRGMzdU81bTFH?oc=5",
+      "section": "estilo",
+      "category": "Vogue España",
+      "title": "Joe Bobowicz últimas noticias, fotos y videos - Vogue España",
+      "summary": "Joe Bobowicz últimas noticias, fotos y videos Vogue España",
+      "image": "",
+      "publishedAt": "2026-11-04 14:01 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Vogue España",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1aMDlqUHZ4ZUZZWnprSmVWWlE0WWVINFQ5YV9rXzc4U0tJSkFxVVYwcTktTGZMdUk4QjhfMGJTYTF6Y2Y4T1lPRGMzdU81bTFH?oc=5"
         }
       ]
     },
@@ -4716,26 +4734,6 @@
         {
           "name": "Madrid POP",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY0hBVVRSQWNxRlJ1VDlsM2VYdmF4STZLRDJBTWwwSUdQNEk1MGVGNk14S3o1NG9ZUTR0d0V2Zi1SMUFWVlJjZ0NGM0lfNHo1eGdNTzNNb3FUYkpsM3pRNXVCTmppdkN1dWM3U2JOcEpKZlRrMXlBY1BmY1dhaWI4a3NqakZ2MnBfZ3kwdVRreDBmTGlhbzFOX2dXa0Zldw?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "popHorizon": "ahora"
-    },
-    {
-      "id": "eventos|https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcGFYTHFhdXdwT0ViclROa0N4Vl9TRXR4UjZ4WGNIZ3E5THllZEtWV2oyRTBQMGlKTU9yNUZMVjZXZkRrZEg1R19FeWtkSXZfeHlTa0xOWjZzSnZCeU84b0VLNjBVTUpJa1VPNEd3TXNVbW5vQmFYR2ZwTHppeE5nX2UycjJDcW4tTWlKUEJ4eUlwWnlCYkpReG9URzMwMDVJU0Z6azBZclF4YjVkU2xERm5kRDNDWW8w?oc=5",
-      "section": "eventos",
-      "category": "Madrid POP",
-      "title": "La Sala: Exposición RED ITINER 2026 C.M. Marisa Flórez. Un tiempo para mirar (1970-2020) - Comunidad de Madrid |",
-      "summary": "La Sala: Exposición RED ITINER 2026 C.M. Marisa Flórez. Un tiempo para mirar (1970-2020) Comunidad de Madrid |",
-      "image": "",
-      "publishedAt": "2026-10-30 12:00 UTC",
-      "language": "es",
-      "topic": "Arte y cultura",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Madrid POP",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcGFYTHFhdXdwT0ViclROa0N4Vl9TRXR4UjZ4WGNIZ3E5THllZEtWV2oyRTBQMGlKTU9yNUZMVjZXZkRrZEg1R19FeWtkSXZfeHlTa0xOWjZzSnZCeU84b0VLNjBVTUpJa1VPNEd3TXNVbW5vQmFYR2ZwTHppeE5nX2UycjJDcW4tTWlKUEJ4eUlwWnlCYkpReG9URzMwMDVJU0Z6azBZclF4YjVkU2xERm5kRDNDWW8w?oc=5"
         }
       ],
       "region": "Madrid",
@@ -5322,6 +5320,26 @@
       "popHorizon": "ahora"
     },
     {
+      "id": "eventos|https://news.google.com/rss/articles/CBMic0FVX3lxTE5qV2JwWWpnTThacFJUODBsOUdiWUVZR01oV0dlLTFTWTYteXdnOWFLODVuelpwZGVmYzRNVUFsTkpZb3hneXdJUDlEQTBoYTdaSGRYLU1zc1RFQi1RWXlWQzdkbXpyQ2JxeEZxSUZZNVlIYmM?oc=5",
+      "section": "eventos",
+      "category": "Madrid Secreto",
+      "title": "Supercopa de España 2027 en Estambul: horarios de los partidos y cómo conseguir las entradas antes que nadie - Madrid Secreto",
+      "summary": "Supercopa de España 2027 en Estambul: horarios de los partidos y cómo conseguir las entradas antes que nadie Madrid Secreto",
+      "image": "",
+      "publishedAt": "2026-11-03 15:20 UTC",
+      "language": "es",
+      "topic": "Planes y ocio",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Madrid Secreto",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5qV2JwWWpnTThacFJUODBsOUdiWUVZR01oV0dlLTFTWTYteXdnOWFLODVuelpwZGVmYzRNVUFsTkpZb3hneXdJUDlEQTBoYTdaSGRYLU1zc1RFQi1RWXlWQzdkbXpyQ2JxeEZxSUZZNVlIYmM?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "popHorizon": "entradas"
+    },
+    {
       "id": "eventos|https://news.google.com/rss/articles/CBMickFVX3lxTFBhQVhvX0NCckJ4emJuSlZsYnc2a2ttNUhHc0NiWF9KczdDZVdKY290UnFrbmNSYXJmYW01aE9UNFFoeURKZTdJT01BRElkTHdjaHNuNF9BdjA5a3JiekJleW91dl9wdHBjNGplTzdkeVQtQQ?oc=5",
       "section": "eventos",
       "category": "Madrid Secreto",
@@ -5340,6 +5358,26 @@
       ],
       "region": "Madrid",
       "popHorizon": "ahora"
+    },
+    {
+      "id": "eventos|https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BSGZYd29Hdlp6eXI2aDR3MTBLQnNCUl95aUxYQlpOVmgtTnNscG5oTk1Zd3ByWGJFd2lVV3hFVXFlbC1hSkFTQzZneW1FdHY0Rm96Q1pSUWhjU0VNWVdtOWN3a1hFdw?oc=5",
+      "section": "eventos",
+      "category": "Madrid Secreto",
+      "title": "El surf llega a Madrid a 15 minutos del centro: así será la laguna de olas artificiales más grande de Europa con entradas a partir de 39€ - Madrid Secreto",
+      "summary": "El surf llega a Madrid a 15 minutos del centro: así será la laguna de olas artificiales más grande de Europa con entradas a partir de 39€ Madrid Secreto",
+      "image": "",
+      "publishedAt": "2026-11-04 14:29 UTC",
+      "language": "es",
+      "topic": "Planes y ocio",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Madrid Secreto",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BSGZYd29Hdlp6eXI2aDR3MTBLQnNCUl95aUxYQlpOVmgtTnNscG5oTk1Zd3ByWGJFd2lVV3hFVXFlbC1hSkFTQzZneW1FdHY0Rm96Q1pSUWhjU0VNWVdtOWN3a1hFdw?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "popHorizon": "entradas"
     },
     {
       "id": "eventos|https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zYm1iTi1RZFVlY0xHYzZIV29Bd01IbHdFYmt4RlFfZGFPcE9lNkI1Zm9hYXYwVHg4MkdQcWs5aHZLTnc3YkgwOW94dnFyRlJOZlRQLUZiSDE?oc=5",
@@ -5400,46 +5438,6 @@
       ],
       "region": "Madrid",
       "popHorizon": "entradas"
-    },
-    {
-      "id": "eventos|https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BSGZYd29Hdlp6eXI2aDR3MTBLQnNCUl95aUxYQlpOVmgtTnNscG5oTk1Zd3ByWGJFd2lVV3hFVXFlbC1hSkFTQzZneW1FdHY0Rm96Q1pSUWhjU0VNWVdtOWN3a1hFdw?oc=5",
-      "section": "eventos",
-      "category": "Madrid Secreto",
-      "title": "El surf llega a Madrid a 15 minutos del centro: así será la laguna de olas artificiales más grande de Europa con entradas a partir de 39€ - Madrid Secreto",
-      "summary": "El surf llega a Madrid a 15 minutos del centro: así será la laguna de olas artificiales más grande de Europa con entradas a partir de 39€ Madrid Secreto",
-      "image": "",
-      "publishedAt": "2026-11-04 14:29 UTC",
-      "language": "es",
-      "topic": "Planes y ocio",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Madrid Secreto",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BSGZYd29Hdlp6eXI2aDR3MTBLQnNCUl95aUxYQlpOVmgtTnNscG5oTk1Zd3ByWGJFd2lVV3hFVXFlbC1hSkFTQzZneW1FdHY0Rm96Q1pSUWhjU0VNWVdtOWN3a1hFdw?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "popHorizon": "entradas"
-    },
-    {
-      "id": "eventos|https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qc1REWWpSZjlpTmtUM2RFaFJ5NnZ2WFNxWloydWsyZXUwMF9iNjhMQ3JCU2h4RXVsdEdUbER4RTlYQWk0NkNNQ0lLMTFIVy1JNy1aZQ?oc=5",
-      "section": "eventos",
-      "category": "Madrid Secreto",
-      "title": "Cultura en Madrid: exposiciones inmersivas, teatro, conciertos y más - Madrid Secreto",
-      "summary": "Cultura en Madrid: exposiciones inmersivas, teatro, conciertos y más Madrid Secreto",
-      "image": "",
-      "publishedAt": "2026-11-03 19:56 UTC",
-      "language": "es",
-      "topic": "Planes y ocio",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Madrid Secreto",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qc1REWWpSZjlpTmtUM2RFaFJ5NnZ2WFNxWloydWsyZXUwMF9iNjhMQ3JCU2h4RXVsdEdUbER4RTlYQWk0NkNNQ0lLMTFIVy1JNy1aZQ?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "popHorizon": "ahora"
     },
     {
       "id": "eventos|https://news.google.com/rss/articles/CBMiugFBVV95cUxQNDE3RHFmdEwtY1pfYi05YUN4SGxXVExtRm1qdXpodUdFbDNsN3dOU1ZtcE5SSVRwV1VmTVpRNzU1a0JQSGRxSDNMZWZZUUZReGxpWFJzQ0twenRWVGQ0dkVrQ3hFX3FiRkdhVEI1LVZ0QWExVjRhSFRBX3lvaFhQOWFWd2ZoUkxHY2tkVkdUX2xpY3FBQm02OWZGMThNaTJlRUM0VmRXb19sUWZqR3I2aFZ0cE9xeV9iOVE?oc=5",
@@ -6042,26 +6040,6 @@
       "popHorizon": "ahora"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMiqANBVV95cUxOYkZONDdQTmhJY3JVUmdQYzVqWTMwSUM5cTBrelIweHNKc01BNlJvamd5RVBqR2pwc0xCa1M3Y2lfbGZvdDBON19JUG1vVmJuWGRLNTlCT2xuOXlWaXlreUoxS2hnRm93S2hQUDVkX2xaZnBmdEVCcmU2bVNJQUVheXB6Y2QyM3EzTVdiOVd4eGY3NFltR3NnSWd3MFk2QTVsMEhfbWx2YkI0Ym1XUFBtTVJjNDdmeUhtc1hic3VDdnY5UVpBOWphbDFTaEo4N19VUXAzNlk4Y0JYTnFXWmJzcjJWRXYwNGJyV25fVzJIeXJtZmVQV3JSdDJPOUM4cEMyel90ZzR5WUtZVnFiMVZ6UHFiYXBaLWRSemNUNEFCb2d5SzZEaGtzWUtoOVBTM2ZIYUlXX1c1UXE4dmsxSGFmaTRkYlctam1TQVlmcGZVaWU3bDA3a2ppMTMweUZjWnlQcUcweUJLYlRWSWpqT3RSeWoxU05kS0IydHVzU1ItUEVDSlpPWTAxUlVvMmFFbW9sTFVWcmt6U2NDYTl3UnRpdkpLS05FZm9i?oc=5",
-      "section": "eventos",
-      "category": "Agenda Ayuntamiento Madrid",
-      "title": "Hernández de la Riva visita la exposición del concurso de pintura de las Fiestas del Pilar - Ayuntamiento de Madrid",
-      "summary": "Hernández de la Riva visita la exposición del concurso de pintura de las Fiestas del Pilar Ayuntamiento de Madrid",
-      "image": "",
-      "publishedAt": "2026-11-04 23:30 UTC",
-      "language": "es",
-      "topic": "Planes y ocio",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Agenda Ayuntamiento Madrid",
-          "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxOYkZONDdQTmhJY3JVUmdQYzVqWTMwSUM5cTBrelIweHNKc01BNlJvamd5RVBqR2pwc0xCa1M3Y2lfbGZvdDBON19JUG1vVmJuWGRLNTlCT2xuOXlWaXlreUoxS2hnRm93S2hQUDVkX2xaZnBmdEVCcmU2bVNJQUVheXB6Y2QyM3EzTVdiOVd4eGY3NFltR3NnSWd3MFk2QTVsMEhfbWx2YkI0Ym1XUFBtTVJjNDdmeUhtc1hic3VDdnY5UVpBOWphbDFTaEo4N19VUXAzNlk4Y0JYTnFXWmJzcjJWRXYwNGJyV25fVzJIeXJtZmVQV3JSdDJPOUM4cEMyel90ZzR5WUtZVnFiMVZ6UHFiYXBaLWRSemNUNEFCb2d5SzZEaGtzWUtoOVBTM2ZIYUlXX1c1UXE4dmsxSGFmaTRkYlctam1TQVlmcGZVaWU3bDA3a2ppMTMweUZjWnlQcUcweUJLYlRWSWpqT3RSeWoxU05kS0IydHVzU1ItUEVDSlpPWTAxUlVvMmFFbW9sTFVWcmt6U2NDYTl3UnRpdkpLS05FZm9i?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "popHorizon": "ahora"
-    },
-    {
       "id": "eventos|https://news.google.com/rss/articles/CBMi1gFBVV95cUxPR3R2M2V0bXZHWEVWeW5XN3YxQVA1ZkpNdWM1NVpnRlVqUnNaUnJYWXR0Z3E4bHg0ZXBLZmxSZFEtd1NiT1dNS09fYUVsUzZCZzVXeDdyWTBqbDFOMERmRHpnNXdTQlhQR3p2UjJwWG9WV2tONlQ3ckVCT2lSclBfNTB3VV9obzdJbGhHYlctYmlzRndlLVdEdjk2QVVIcmwxblhPamMwSTcyNmdLMzR6QkxuT0VRX2RzOEVZRVRpOWdvVmtPOEhiSGZFOTBzOEh0M2JXcmxB?oc=5",
       "section": "eventos",
       "category": "Agenda Ayuntamiento Madrid",
@@ -6076,6 +6054,26 @@
         {
           "name": "Agenda Ayuntamiento Madrid",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPR3R2M2V0bXZHWEVWeW5XN3YxQVA1ZkpNdWM1NVpnRlVqUnNaUnJYWXR0Z3E4bHg0ZXBLZmxSZFEtd1NiT1dNS09fYUVsUzZCZzVXeDdyWTBqbDFOMERmRHpnNXdTQlhQR3p2UjJwWG9WV2tONlQ3ckVCT2lSclBfNTB3VV9obzdJbGhHYlctYmlzRndlLVdEdjk2QVVIcmwxblhPamMwSTcyNmdLMzR6QkxuT0VRX2RzOEVZRVRpOWdvVmtPOEhiSGZFOTBzOEh0M2JXcmxB?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "popHorizon": "ahora"
+    },
+    {
+      "id": "eventos|https://news.google.com/rss/articles/CBMiqANBVV95cUxOYkZONDdQTmhJY3JVUmdQYzVqWTMwSUM5cTBrelIweHNKc01BNlJvamd5RVBqR2pwc0xCa1M3Y2lfbGZvdDBON19JUG1vVmJuWGRLNTlCT2xuOXlWaXlreUoxS2hnRm93S2hQUDVkX2xaZnBmdEVCcmU2bVNJQUVheXB6Y2QyM3EzTVdiOVd4eGY3NFltR3NnSWd3MFk2QTVsMEhfbWx2YkI0Ym1XUFBtTVJjNDdmeUhtc1hic3VDdnY5UVpBOWphbDFTaEo4N19VUXAzNlk4Y0JYTnFXWmJzcjJWRXYwNGJyV25fVzJIeXJtZmVQV3JSdDJPOUM4cEMyel90ZzR5WUtZVnFiMVZ6UHFiYXBaLWRSemNUNEFCb2d5SzZEaGtzWUtoOVBTM2ZIYUlXX1c1UXE4dmsxSGFmaTRkYlctam1TQVlmcGZVaWU3bDA3a2ppMTMweUZjWnlQcUcweUJLYlRWSWpqT3RSeWoxU05kS0IydHVzU1ItUEVDSlpPWTAxUlVvMmFFbW9sTFVWcmt6U2NDYTl3UnRpdkpLS05FZm9i?oc=5",
+      "section": "eventos",
+      "category": "Agenda Ayuntamiento Madrid",
+      "title": "Hernández de la Riva visita la exposición del concurso de pintura de las Fiestas del Pilar - Ayuntamiento de Madrid",
+      "summary": "Hernández de la Riva visita la exposición del concurso de pintura de las Fiestas del Pilar Ayuntamiento de Madrid",
+      "image": "",
+      "publishedAt": "2026-11-04 23:30 UTC",
+      "language": "es",
+      "topic": "Planes y ocio",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Agenda Ayuntamiento Madrid",
+          "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxOYkZONDdQTmhJY3JVUmdQYzVqWTMwSUM5cTBrelIweHNKc01BNlJvamd5RVBqR2pwc0xCa1M3Y2lfbGZvdDBON19JUG1vVmJuWGRLNTlCT2xuOXlWaXlreUoxS2hnRm93S2hQUDVkX2xaZnBmdEVCcmU2bVNJQUVheXB6Y2QyM3EzTVdiOVd4eGY3NFltR3NnSWd3MFk2QTVsMEhfbWx2YkI0Ym1XUFBtTVJjNDdmeUhtc1hic3VDdnY5UVpBOWphbDFTaEo4N19VUXAzNlk4Y0JYTnFXWmJzcjJWRXYwNGJyV25fVzJIeXJtZmVQV3JSdDJPOUM4cEMyel90ZzR5WUtZVnFiMVZ6UHFiYXBaLWRSemNUNEFCb2d5SzZEaGtzWUtoOVBTM2ZIYUlXX1c1UXE4dmsxSGFmaTRkYlctam1TQVlmcGZVaWU3bDA3a2ppMTMweUZjWnlQcUcweUJLYlRWSWpqT3RSeWoxU05kS0IydHVzU1ItUEVDSlpPWTAxUlVvMmFFbW9sTFVWcmt6U2NDYTl3UnRpdkpLS05FZm9i?oc=5"
         }
       ],
       "region": "Madrid",
@@ -6162,26 +6160,6 @@
       "popHorizon": "ahora"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMiowFBVV95cUxOemszdS1jWDMweUZFd3BzMnVVR3pBYXl2RW1EWF9mVmFCVzRxUjdyN05PZFVWdmRHbWd2d3lQcW14dmpGajh6YnlaR1o0dG9IemJfeFBPUjk0MW1lZXNwWEJOeUxBVXlwT2RUVzIxeWlGR21Qa1pLbzBhT1c4cnllS0J1Qnd1ekkyLTJjei1PVFV6cjNoMFlYSEJRbktmUklFUXln?oc=5",
-      "section": "eventos",
-      "category": "Agenda Ministerio Cultura",
-      "title": "Programación de septiembre del Cine Doré - web del Ministerio de Cultura",
-      "summary": "Programación de septiembre del Cine Doré web del Ministerio de Cultura",
-      "image": "",
-      "publishedAt": "2026-11-03 16:18 UTC",
-      "language": "es",
-      "topic": "Planes futuros",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Agenda Ministerio Cultura",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOemszdS1jWDMweUZFd3BzMnVVR3pBYXl2RW1EWF9mVmFCVzRxUjdyN05PZFVWdmRHbWd2d3lQcW14dmpGajh6YnlaR1o0dG9IemJfeFBPUjk0MW1lZXNwWEJOeUxBVXlwT2RUVzIxeWlGR21Qa1pLbzBhT1c4cnllS0J1Qnd1ekkyLTJjei1PVFV6cjNoMFlYSEJRbktmUklFUXln?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "popHorizon": "ahora"
-    },
-    {
       "id": "eventos|https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ2tiTjFHbzU5SHZZekFIdlZ2bEpvbjRNSG5FU2cwNm1IRTBpNmdUUVlmYnY0eksyakpieHRqWVRTM282ekJOQ1hhZ1FfS1BnQTlyTEV0d01kZXhXODluak5PQUd1VTVoZXkyMko4NzBGNkMxOVZRVWlXT2FKRE9kcktISlF0aUxlWHZBbXJNYm5uYVhSbVNhMG1LUDJOaU9neUJj?oc=5",
       "section": "eventos",
       "category": "Agenda Ministerio Cultura",
@@ -6220,6 +6198,26 @@
       ],
       "region": "Madrid",
       "popHorizon": "ahora"
+    },
+    {
+      "id": "eventos|https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FNU1RUE5tMFdHZGdsWXdfa0lpZnJ1QXExNW9LeDJ6WmJaWFdPQ296SlBoczlraGNiV2pta0lYYnRJeEo5RkRqNWFEY3pLcTNrYmdR?oc=5",
+      "section": "eventos",
+      "category": "Agenda Ministerio Cultura",
+      "title": "Compañía Nacional de Teatro Clásico. Temporada 2026-2027 - web del Ministerio de Cultura",
+      "summary": "Compañía Nacional de Teatro Clásico. Temporada 2026-2027 web del Ministerio de Cultura",
+      "image": "",
+      "publishedAt": "2025-03-11 15:46 UTC",
+      "language": "es",
+      "topic": "Planes futuros",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Agenda Ministerio Cultura",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FNU1RUE5tMFdHZGdsWXdfa0lpZnJ1QXExNW9LeDJ6WmJaWFdPQ296SlBoczlraGNiV2pta0lYYnRJeEo5RkRqNWFEY3pLcTNrYmdR?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "popHorizon": "futuro"
     },
     {
       "id": "eventos|https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVnQzelVuVFpuVlFaM0YwcVRaRXNnQmNzdnlLMlpiY0xSM3Vaa05NTVR4cHdEZV81eHduOWNZZ09IckZ6c2VnRWl6VGZ3NEFUNnVVUXZlZUZWTzNBelNEY2RLUFhLRENlOVJrXzNCYUk2cGJmN0g5LTZEQ2tMNkV1YVV2OG1IcUtQ?oc=5",
@@ -6542,26 +6540,6 @@
       "popHorizon": "ahora"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZFIyZTM0cE9hOTNSeDk5UnFuUmU0eWxQQTN3bVNIV0M5VTVkUUV1QkxfYzhZWFp6T2c1bjBjZXc0TlNmSEpmenFIZW1ibjQ4ZUVpbGkyNFNIVXE2aDRVSU1MQ3lGbzJlYXVwNWZkcXZfLUtRenRVc00zWHliYVZ5ZE1xd0NYOUJRRS03TXdlNjZycHRPZUdQRTl4Vl9aTVdrWV9IRHFva1pyQlN6MGNwNlNaTE1Hei1XOFBsbjdNTnlvNC00aWJpZGIyaWxNSFhzVzctODBwSmdYb284?oc=5",
-      "section": "eventos",
-      "category": "Teatro Fernán Gómez",
-      "title": "MAGICO DOSSIER - Teatro Fernán Gómez",
-      "summary": "MAGICO DOSSIER Teatro Fernán Gómez",
-      "image": "",
-      "publishedAt": "2026-10-31 01:59 UTC",
-      "language": "es",
-      "topic": "Teatro y musicales",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Teatro Fernán Gómez",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZFIyZTM0cE9hOTNSeDk5UnFuUmU0eWxQQTN3bVNIV0M5VTVkUUV1QkxfYzhZWFp6T2c1bjBjZXc0TlNmSEpmenFIZW1ibjQ4ZUVpbGkyNFNIVXE2aDRVSU1MQ3lGbzJlYXVwNWZkcXZfLUtRenRVc00zWHliYVZ5ZE1xd0NYOUJRRS03TXdlNjZycHRPZUdQRTl4Vl9aTVdrWV9IRHFva1pyQlN6MGNwNlNaTE1Hei1XOFBsbjdNTnlvNC00aWJpZGIyaWxNSFhzVzctODBwSmdYb284?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "popHorizon": "ahora"
-    },
-    {
       "id": "eventos|https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ0NoRmVaUTFaSUtOdThnM3lNR1N3TTFmV0RNXzF4eHlRV3g0dGhEVlAtbFFVc1RiUkdOaEgzNUpldWtaNnE2ZDlVYllfMmNlWnlUSWRTclJ0bVVuUk5FVjBIRFplX2dmMFNQYjNmZGN3OUI3SjhPbzJyUVVoM2NWM2ptX2tqdTBMb1p4OA?oc=5",
       "section": "eventos",
       "category": "Teatro Fernán Gómez",
@@ -6616,6 +6594,46 @@
         {
           "name": "Teatro Fernán Gómez",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV2dWVlZ4U1dBRUsyY0trVmpWa1dUd1JGakV6U05kRGR6YzZrcHp4QUtRTlZvX3cxT0tiSFBrRWJWa2d6Nk1WbHBNOWgzb3lXOHRwaUJMWXpFdUZUZVlQN2tnVDFoVjF4WEJhcm13SDk2dXdiZUVrMkRBcHktbEsyb0Nnc3NrWkFYVlQzdkRnRW55NVJLdmo5WVByV0ZYS0VTWEhUdlBiZmVQWV9K?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "popHorizon": "ahora"
+    },
+    {
+      "id": "eventos|https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTHFvR0JtTWZNdW5QR0ZXdElVODNvR2pTTDF3MlU2YjRQMG9kc0ZBOWp5SWZjV2pPWEUwZWQ0LWFycmVaVGd5V2tCOHo3dDF2TzZXbnRMUE1BVjNWN2FtcmpycnRmdWtnbE1VeFEwdFRZSW1QaVFoRF9UeTBBYWdWa0prNnlDNDBT?oc=5",
+      "section": "eventos",
+      "category": "Teatro Fernán Gómez",
+      "title": "L'OM IMPREBIS- Actividades pedagógicas - Teatro Fernán Gómez",
+      "summary": "L'OM IMPREBIS- Actividades pedagógicas Teatro Fernán Gómez",
+      "image": "",
+      "publishedAt": "2026-09-30 14:10 UTC",
+      "language": "es",
+      "topic": "Teatro y musicales",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Teatro Fernán Gómez",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTHFvR0JtTWZNdW5QR0ZXdElVODNvR2pTTDF3MlU2YjRQMG9kc0ZBOWp5SWZjV2pPWEUwZWQ0LWFycmVaVGd5V2tCOHo3dDF2TzZXbnRMUE1BVjNWN2FtcmpycnRmdWtnbE1VeFEwdFRZSW1QaVFoRF9UeTBBYWdWa0prNnlDNDBT?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "popHorizon": "ahora"
+    },
+    {
+      "id": "eventos|https://news.google.com/rss/articles/CBMixAFBVV95cUxQLVB4NDU1bVNpcmhMeWJnaWxkTU02Qm1YcDJ0ekV0Tzk2UHk0REdBQWpiRUdzZlpqSGRFSjFLbHdPbnVGMkF0aGx1YzdxdkVkSW5POTF5QW5adXVqM0xxcDJJRF95RUFiVFpyNDJUdVFUak5mZWN4UmMxTndvS3FNdFMySVJNbmFMb1lQeWN6Q0R4cGgxQ3c4c3Zwalp5OE1BZDRhTi1GT2pCNERtSDNHU2Z4RXc3NGRZQnAtMkNOQlJCbDlp?oc=5",
+      "section": "eventos",
+      "category": "CentroCentro",
+      "title": "CentroCentro presenta «Indómita pintura», la primera exposición institucional en Madrid de Juana González - CentroCentro",
+      "summary": "CentroCentro presenta «Indómita pintura», la primera exposición institucional en Madrid de Juana González CentroCentro",
+      "image": "",
+      "publishedAt": "2026-10-27 16:44 UTC",
+      "language": "es",
+      "topic": "Exposiciones",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "CentroCentro",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLVB4NDU1bVNpcmhMeWJnaWxkTU02Qm1YcDJ0ekV0Tzk2UHk0REdBQWpiRUdzZlpqSGRFSjFLbHdPbnVGMkF0aGx1YzdxdkVkSW5POTF5QW5adXVqM0xxcDJJRF95RUFiVFpyNDJUdVFUak5mZWN4UmMxTndvS3FNdFMySVJNbmFMb1lQeWN6Q0R4cGgxQ3c4c3Zwalp5OE1BZDRhTi1GT2pCNERtSDNHU2Z4RXc3NGRZQnAtMkNOQlJCbDlp?oc=5"
         }
       ],
       "region": "Madrid",
@@ -7942,24 +7960,24 @@
       "cultureView": "noticias"
     },
     {
-      "id": "cultura|https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNVd0MTd5cmVGVno1SkxJUzhHeWdzOHZObkt6RzByNzNETGtET1MzN0ZmVi1YUEZjb0d6bVNGZ3djdGRtUmlnOE10SUNmUGl2YlZSMl80MmpySmlSZVdFa0dmWE9pQnBScjNiMlFXd0N3QU1DRFhoMTBTdjRjNm4xY2hOWTJhTUpzaUpMTG9KSXRTYVJnQVlLYjZQMzhTTWROcTdwZUxtTVVFcnhzcnlxRzl4a2JrMXVtRnBoZUtYM3RoYWl3Z0VZOG1xN1BBNXEtMXlEX05QeEpDaEowei11ZV9ZQ1Qydllack0ySkx30gHzAUFVX3lxTFB4d21mdzhvUEF1MjAtUVVsSDhQNTRHbzZ3ay0yY09xUkkxZ3RvM1lrNTdPaEtzVE5neTVIc09QeWR1QmpoT0tOMEJyU29DYmdDdzdOc3VNOXZHZ1pKeFNMU0pTT29xSXZoSnkyUk9rMkNBQjVSSkJQRGlXZjVmcW13Y2F6RUF6LUc0QWFqR0o3RGdxdVdVdkdWWHpRdnBhajgxWkpib0lZaXY3RjE2MzdkN05QZUNNMEdLQXZNbXJWS1NLMk9jVjlDRXh2OFhCVnc5Y01HYk43WDVjcUNnLTFQWHo4U2kyNTlNbDJ5ZzZ2SUtNVQ?oc=5",
+      "id": "cultura|https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRVB2V0x3Q3ZwNWx0enp6NWhWc25YZEFLQnlWZm8yak00dXlCU0hrZE5CQmNmaEg1NGNLYjZ3bnl5RkRqWjcyb0VXbDlfVkoyeU9mN1FiUGNaaXlub2x4bjdVdV9POTJQcW5nRTVfLTJSZmVOU29NSjNGSm41cmd5d3Nsd0U0alJENTBBZXpfYkNqZTJkYXNYQ3B1RHU0TnJldDVZNldGVWVDTDFGQ2ZXczVadFpvZnExamFMY2pyU0ZVeDhrMFM1bmN6V1BtYkZBSHfSAdcBQVVfeXFMTUdrZlpQRmwzMmlwNlp1VW5OVVlvZ0NMeGhiNVp3WDJBN0RuMlhLcmVXanpzVFhGTU1Mdmo5S3RsYl9HajRFS0huU1QxbFB5UWdWRkFORERLRWR2eGJRcFBKZzJGTWlILTBJSzhzUXY4ak9ZT09XTXNpZVpuREhJcmYwWk56dTFzeHJ3NXhZQ0czNlVfR1NzQnkwZ3pvclRNcU9WdEJlZFB5Y0VPM2o4cW5lY1B2YjNuT2hpVHh5ZDV6S1ZBTThxMElJQnNoRk5uLXVMR0V2Rm8?oc=5",
       "section": "cultura",
       "category": "Espinof",
-      "title": "Charlton Heston visitó España en 1976 mostrando admiración por Juan Carlos I: \"Creo que el joven rey goza de las simpatías de todo el mundo\" - Espinof",
-      "summary": "Charlton Heston visitó España en 1976 mostrando admiración por Juan Carlos I: \"Creo que el joven rey goza de las simpatías de todo el mundo\" Espinof",
+      "title": "'La bola negra' se corona como la tercera película española más taquillera de la historia, y ni siquiera el nuevo estreno del Universo DC la baja del número 1 - Espinof",
+      "summary": "'La bola negra' se corona como la tercera película española más taquillera de la historia, y ni siquiera el nuevo estreno del Universo DC la baja del número 1 Espinof",
       "image": "",
-      "publishedAt": "2026-11-02 11:01 UTC",
+      "publishedAt": "2026-11-02 08:22 UTC",
       "language": "es",
       "topic": "Cine",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Espinof",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNVd0MTd5cmVGVno1SkxJUzhHeWdzOHZObkt6RzByNzNETGtET1MzN0ZmVi1YUEZjb0d6bVNGZ3djdGRtUmlnOE10SUNmUGl2YlZSMl80MmpySmlSZVdFa0dmWE9pQnBScjNiMlFXd0N3QU1DRFhoMTBTdjRjNm4xY2hOWTJhTUpzaUpMTG9KSXRTYVJnQVlLYjZQMzhTTWROcTdwZUxtTVVFcnhzcnlxRzl4a2JrMXVtRnBoZUtYM3RoYWl3Z0VZOG1xN1BBNXEtMXlEX05QeEpDaEowei11ZV9ZQ1Qydllack0ySkx30gHzAUFVX3lxTFB4d21mdzhvUEF1MjAtUVVsSDhQNTRHbzZ3ay0yY09xUkkxZ3RvM1lrNTdPaEtzVE5neTVIc09QeWR1QmpoT0tOMEJyU29DYmdDdzdOc3VNOXZHZ1pKeFNMU0pTT29xSXZoSnkyUk9rMkNBQjVSSkJQRGlXZjVmcW13Y2F6RUF6LUc0QWFqR0o3RGdxdVdVdkdWWHpRdnBhajgxWkpib0lZaXY3RjE2MzdkN05QZUNNMEdLQXZNbXJWS1NLMk9jVjlDRXh2OFhCVnc5Y01HYk43WDVjcUNnLTFQWHo4U2kyNTlNbDJ5ZzZ2SUtNVQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRVB2V0x3Q3ZwNWx0enp6NWhWc25YZEFLQnlWZm8yak00dXlCU0hrZE5CQmNmaEg1NGNLYjZ3bnl5RkRqWjcyb0VXbDlfVkoyeU9mN1FiUGNaaXlub2x4bjdVdV9POTJQcW5nRTVfLTJSZmVOU29NSjNGSm41cmd5d3Nsd0U0alJENTBBZXpfYkNqZTJkYXNYQ3B1RHU0TnJldDVZNldGVWVDTDFGQ2ZXczVadFpvZnExamFMY2pyU0ZVeDhrMFM1bmN6V1BtYkZBSHfSAdcBQVVfeXFMTUdrZlpQRmwzMmlwNlp1VW5OVVlvZ0NMeGhiNVp3WDJBN0RuMlhLcmVXanpzVFhGTU1Mdmo5S3RsYl9HajRFS0huU1QxbFB5UWdWRkFORERLRWR2eGJRcFBKZzJGTWlILTBJSzhzUXY4ak9ZT09XTXNpZVpuREhJcmYwWk56dTFzeHJ3NXhZQ0czNlVfR1NzQnkwZ3pvclRNcU9WdEJlZFB5Y0VPM2o4cW5lY1B2YjNuT2hpVHh5ZDV6S1ZBTThxMElJQnNoRk5uLXVMR0V2Rm8?oc=5"
         }
       ],
       "region": "España",
-      "cultureView": "noticias"
+      "cultureView": "agenda"
     },
     {
       "id": "cultura|https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTnJGeWhENWNaY0c4bWZTazBwUlhpQlh2eGJpX05FYm5pX1ZEODFCWlVEazdNUDlQQXhvX0FOLW5WSkZ2ZnpmaXFQRmtnRy1fWnpGLVZ4LXVLRUxISkVOeFVLX1pkMlF3QW5jNmxQRUM3S0NhbExEc1d5ZVBob1RhLWZfV0tNaHF5Sm4yc21GVEZxUWZWMFpvOEhmSzdsZzh2RU9vY0d5cEJkOWdibFBrM1dVVWpOaHNROWIxanBrNmVHamZfTzd0WTNhOVFMOXljWmFIUFp3?oc=5",
@@ -8765,10 +8783,16 @@
   "breaking": {
     "espana": [
       {
-        "title": "Las ‘midterms’ 2026, en vivo | Trump admite que la guerra en Irán influyó en la derrota, pero que “lo haría de nuevo”",
-        "publishedAt": "2026-11-05 01:17 UTC",
+        "title": "El Asador Etxebarri, elegido el mejor restaurante del mundo",
+        "publishedAt": "2026-11-05 03:34 UTC",
         "source": "El País",
-        "url": "https://elpais.com/us/2026-11-04/las-midterms-2026-en-vivo.html"
+        "url": "https://elpais.com/gastronomia/2026-11-05/el-asador-etxebarri-elegido-el-mejor-restaurante-del-mundo.html"
+      },
+      {
+        "title": "Los republicanos buscan culpables de la debacle electoral sin atreverse a señalar a Trump",
+        "publishedAt": "2026-11-05 02:46 UTC",
+        "source": "El País",
+        "url": "https://elpais.com/us/2026-11-04/los-republicanos-buscan-culpables-de-la-debacle-electoral-sin-atreverse-a-senalar-a-trump.html"
       },
       {
         "title": "Los 2.000 bomberos despedidos al terminar la campaña: \"Cada vez somos menos, cada vez hay más abandono profesional\"",
@@ -8829,20 +8853,56 @@
         "publishedAt": "2026-11-04 23:04 UTC",
         "source": "El País",
         "url": "https://elpais.com/espana/2026-11-04/milei-se-reune-con-abascal-tras-dar-planton-al-rey-en-la-inauguracion-de-la-cumbre-iberoamericana.html"
-      },
-      {
-        "title": "Empleados de un Cash Converters de Parla frustran un robo y golpean a hachazos el coche de los ladrones",
-        "publishedAt": "2026-11-04 23:03 UTC",
-        "source": "El Mundo",
-        "url": "https://www.elmundo.es/madrid/2026/11/05/6aeb6db3fc6c832d628b4577.html"
       }
     ],
     "mundo": [
       {
+        "title": "Tradies film, follow alleged drink driver as police urge against vigilantism",
+        "publishedAt": "2026-11-05 03:32 UTC",
+        "source": "ABC Australia",
+        "url": "https://www.abc.net.au/news/2026-11-05/alleged-drink-driver-followed-home-police-vigilantism-warning/107349272"
+      },
+      {
+        "title": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
+        "publishedAt": "2026-11-05 03:28 UTC",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case"
+      },
+      {
         "title": "Beau Lamarre-Condon trial live updates: accused double murderer gives evidence in high-profile case",
-        "publishedAt": "2026-11-05 02:28 UTC",
+        "publishedAt": "2026-11-05 03:27 UTC",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/australia-news/live/2026/nov/05/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb"
+      },
+      {
+        "title": "US rejection of data centres is a warning for Australia — and maybe leverage",
+        "publishedAt": "2026-11-05 03:27 UTC",
+        "source": "ABC Australia",
+        "url": "https://www.abc.net.au/news/2026-11-05/data-centres-ai-australia-us-midterms/107349238"
+      },
+      {
+        "title": "Big batteries ready to power one-third of ACT for hours if needed",
+        "publishedAt": "2026-11-05 03:16 UTC",
+        "source": "ABC Australia",
+        "url": "https://www.abc.net.au/news/2026-11-05/canberra-big-battery-storage-system/107348964"
+      },
+      {
+        "title": "Beau Lamarre-Condon tells double murder trial he suffered ‘daily bullying’ when working for NSW police",
+        "publishedAt": "2026-11-05 03:16 UTC",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/australia-news/2026/nov/05/beau-lamarre-condon-witness-trial-ntwnfb"
+      },
+      {
+        "title": "David Jones goes into administration, with store closures expected and thousands of jobs at risk",
+        "publishedAt": "2026-11-05 03:12 UTC",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/business/2026/nov/05/david-jones-stores-closing-down-collapse-administration"
+      },
+      {
+        "title": "Research could reverse peanut allergy diagnosis for some infants",
+        "publishedAt": "2026-11-05 02:39 UTC",
+        "source": "ABC Australia",
+        "url": "https://www.abc.net.au/news/2026-11-05/infants-diagnosed-with-peanut-allergy-may-not-be-study-shows/107348650"
       },
       {
         "title": "Canadian police find remains of mother and daughter killed by grizzly bears",
@@ -8857,58 +8917,16 @@
         "url": "https://www.abc.net.au/news/2026-11-05/booker-prize-shortlist-2026-elizabeth-strout-marlon-james/107322872"
       },
       {
+        "title": "Oil falls for a fourth day on expectations for lower risk of Iran war escalation - Reuters",
+        "publishedAt": "2026-11-05 02:20 UTC",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdzM2c3YzcktwU285aS1QaVVzTk51WFR0UnpxMXlnaFdEd2RtZWYzMm81TDZQUTJZS0ZlLXFVV3ZhcGFibkdLZm9Remo3YjlhNHJTd1lxSXNMUFNzejhIMkt0TlFRXy1RZl9TdTkxbDhfdjQxUEIzcUhaYlpOMjZJSVViNmVPV0dRV0RmaTJ3dDJ3QUs4TTFleFlnZnNyUHhVYlQ5NldaZVRZRFd5dU5nVnRKVUQ0UFE?oc=5"
+      },
+      {
         "title": "'Combined failure' behind $116m for Queensland police building",
         "publishedAt": "2026-11-05 02:08 UTC",
         "source": "ABC Australia",
         "url": "https://www.abc.net.au/news/2026-11-05/corruption-watchdog-queensland-police-building/107349896"
-      },
-      {
-        "title": "Thriving koala population near major NSW city could be chlamydia-free",
-        "publishedAt": "2026-11-05 02:06 UTC",
-        "source": "ABC Australia",
-        "url": "https://www.abc.net.au/news/2026-11-05/chlamydia-free-koalas-discovered-newcastle/107344308"
-      },
-      {
-        "title": "'They look right through us': Explaining the term 'glass child'",
-        "publishedAt": "2026-11-05 01:58 UTC",
-        "source": "ABC Australia",
-        "url": "https://www.abc.net.au/news/2026-11-05/what-does-it-mean-to-be-a-glass-child/107344566"
-      },
-      {
-        "title": "3M to pay more than $US7b to settle groundwater contamination lawsuit",
-        "publishedAt": "2026-11-05 01:56 UTC",
-        "source": "ABC Australia",
-        "url": "https://www.abc.net.au/news/2026-11-05/3m-agrees-to-pay-7-billion-to-settle-forever-chemical-claims/107349276"
-      },
-      {
-        "title": "Breaking: Australian racing icon and F1 world champion Alan Jones dies",
-        "publishedAt": "2026-11-05 01:56 UTC",
-        "source": "ABC Australia",
-        "url": "https://www.abc.net.au/news/2026-11-05/australian-motor-racing-icon-alan-jones-dies-aged-80/107350036"
-      },
-      {
-        "title": "Live: Beau Lamarre-Condon gives evidence in double murder trial",
-        "publishedAt": "2026-11-05 01:53 UTC",
-        "source": "ABC Australia",
-        "url": "https://www.abc.net.au/news/2026-11-05/beau-lamarre-condon-gives-evidence-in-murder-trial-live-blog/107348876"
-      },
-      {
-        "title": "Former police officer Beau Lamarre-Condon tells double murder trial he heard homophobic abuse at work",
-        "publishedAt": "2026-11-05 01:47 UTC",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/australia-news/2026/nov/05/beau-lamarre-condon-witness-trial-ntwnfb"
-      },
-      {
-        "title": "Woman shot in head during Canberra burglary, police call for witnesses",
-        "publishedAt": "2026-11-05 01:44 UTC",
-        "source": "ABC Australia",
-        "url": "https://www.abc.net.au/news/2026-11-05/woman-shot-in-head-during-canberra-burglary/107349770"
-      },
-      {
-        "title": "Sydney Mardi Gras party to return in 2027 after financial woes",
-        "publishedAt": "2026-11-05 01:41 UTC",
-        "source": "ABC Australia",
-        "url": "https://www.abc.net.au/news/2026-11-05/nsw-sydney-mardi-gras-party-2027-announcement/107346014"
       }
     ],
     "cultura": [
@@ -9073,6 +9091,12 @@
         "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/"
       },
       {
+        "title": "Apps Can Now Try to Stop You From Canceling Subscriptions - MacRumors",
+        "publishedAt": "2026-11-04 23:58 UTC",
+        "source": "MacRumors",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pRng3SmYwaDVrTHJoUWlKUzBuTzFBdzVMRWJ0NG8ybHhmSnFjMl9mN1JiUkZiZWItSGNfVkdfSmdEaDVld0R2TXZNemwyZGw3M3ZTMnZfQV9Qa3d1OF90ejVLVGdsc1hHVkY5VFpBU3BSbVF2a3JJMFdR?oc=5"
+      },
+      {
         "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space - WIRED",
         "publishedAt": "2026-11-04 23:13 UTC",
         "source": "Wired",
@@ -9125,15 +9149,15 @@
         "publishedAt": "2026-11-04 21:25 UTC",
         "source": "TechCrunch EN",
         "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/"
-      },
-      {
-        "title": "Meta acquires AI coding startup Conductor",
-        "publishedAt": "2026-11-04 21:10 UTC",
-        "source": "TechCrunch EN",
-        "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"
       }
     ],
     "estilo": [
+      {
+        "title": "The 40 Best Colognes of 2026 - Esquire",
+        "publishedAt": "2026-11-05 02:37 UTC",
+        "source": "Esquire EN",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQTFRb0ZEc1ViM2JUQS1jR29RRFpnUVNibGotUG5lTWktb0ZrTFlfcHdFM3cyZzVaNElENmtMQjFsMDBLNEJlMERQQnRqbnVfNWVKS3M1Z2FDQkZ2eFJ5Q2laek1iWVhxSGRpUUs2aXJNZXQ0NXB3NkVZZ1Qwd0VaY2FBcw?oc=5"
+      },
       {
         "title": "The GOP Is Already Counting Down the Days Until Trump Is Gone - Esquire",
         "publishedAt": "2026-11-04 22:37 UTC",
@@ -9183,28 +9207,22 @@
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WRkRqMWFRR0NGVEx4NndxMElyQjNqTFZrSGxPX0JFWEdMRzFFOWV0bG81X2hhSlRyMF9BUlFta1VHbURrN1M2OVZhWjNDUGtKckMwcDhMQjNKQklYMi1adHMydzB0eDN3bUJEYjZB?oc=5"
       },
       {
+        "title": "El entrenador personal de 53 años, Bryan Krahn, comparte las 4 estrategias para ganar masa muscular: \"Me encanta volver a ir al gimnasio\" - Men's Health",
+        "publishedAt": "2026-11-04 19:20 UTC",
+        "source": "Men's Health España",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUUlwLXZXeU9ZeDdMUEhJM18zeHdad1VrWmp4VVZYRks3dGVUUWhNeVU0ZWlpMzQ3RTJ6YUowdjVzZ2ZLMVBLVzJ6NV9oZ25QUmxzQzV2UVB3Zk40NmdwV0swMWVGcThKZVM4b2c3b3pzSndzLUdmaW1lY2RKTHBnQUMyQ2JkRjRJVFdGZFlscUhkbEpBTjU4MnlvZ3E0Nm5jSUtwM2VDa0trd2dhRzd3UmhFRDdIbmZHLVNfMGl4b2dha0syVVk4Q09HdDZsVWI5OFJIMkNlTURNSjIwMWtoZDduMjRSSWxnWDJHWFV3QQ?oc=5"
+      },
+      {
         "title": "Abdul El-Sayed Is Winning at Watches, Too - GQ",
         "publishedAt": "2026-11-04 18:52 UTC",
         "source": "GQ",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZndoRGdzNkc4ZHBkY2JsZWxCOVlsVWdQUzhnQmN3NmlKbXAxTkJPcEt0TnBtYVQ0N2REeGtHNHdiWnY0bi1wbDkxdTlWNlVXM01GcENSMW9nbHk4c3BUNWdjM2dvREZ6dmt4YzlDTllaaUR1ZlZoaXI1QTI2a0hpY29pcw?oc=5"
       },
       {
-        "title": "The 40 Best Colognes of 2026 - Esquire",
-        "publishedAt": "2026-11-04 17:12 UTC",
+        "title": "The Best Mini PCs to Buy in 2026 - Esquire",
+        "publishedAt": "2026-11-04 18:42 UTC",
         "source": "Esquire EN",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQTFRb0ZEc1ViM2JUQS1jR29RRFpnUVNibGotUG5lTWktb0ZrTFlfcHdFM3cyZzVaNElENmtMQjFsMDBLNEJlMERQQnRqbnVfNWVKS3M1Z2FDQkZ2eFJ5Q2laek1iWVhxSGRpUUs2aXJNZXQ0NXB3NkVZZ1Qwd0VaY2FBcw?oc=5"
-      },
-      {
-        "title": "Las Nike LeBron 24 “Stars” no se parecen nada a tus otras zapatillas de baloncesto y por eso las amarás - GQ España",
-        "publishedAt": "2026-11-04 17:09 UTC",
-        "source": "GQ España",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaXZEaHJfMXNKS2x6amo1Z0NqVUdlZkpSbUtXRVZlZS1scnNpZGQwNlpEaTdwSzNuZFgxU3BRVmlEWVhHZGF3MmI2b3F6RDZqRVFJN0R0cUpaN042TkJmZ3dhRnBBY1U1RDFMNjhZTFozdUIycWJhTDZ2SW1XRkxpM0R3?oc=5"
-      },
-      {
-        "title": "A Guide to Pierce Brosnan's MobLand S2 Jackets (and Where to Buy Them): From Field to Affordable Overcoats - Esquire",
-        "publishedAt": "2026-11-04 16:27 UTC",
-        "source": "Esquire EN",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVjg5TlFUaVRhZzdONzNPdnk3bDRTVWlfU0tMa0xxeXVUSkVTVG92dFcwWV9BVnFXNEt1OHVNLTY4ZnhRS3QyUndkaG1VbHRuWUU0dVJvV014VGRVZ0FxN3ZTM2xzVlhJaXhRQ1A4NF83U1gwWHN5VjJueTI4QmY3S3l1VnVMaGhxdDR5M2pPcw?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NLXd1TGt5bXlBTW9yVXRkM2R6SUVMVGZuc0hxaUJPa3Z5WGwzb25pTEdwcC1qMTk3clNpWkhXdDF5RGNMUWc0Q1pXSl85Rndmb3c0Mm1oVFcxVXpTaUpNR3h4bTR6cWVlUWVLY2loSno?oc=5"
       }
     ],
     "eventos": [
@@ -9283,6 +9301,12 @@
     ],
     "viral": [
       {
+        "title": "VIDEO | Captan a mujer G0LP34ND0 a un instructor de gimnasio y a un automovilista en Tijuana - TV Azteca Jalisco",
+        "publishedAt": "2026-11-04 23:56 UTC",
+        "source": "Viral ES",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRW1ONEpNZjZMX1RkUUluRV9GMzFzbGNreHZoTkRzQ290RlN6NncyNmtjdjBxWGNnRUdrZEl4eG90QnBMZXFmYkRzUEFmR1dYczFwS0FLSTE3em5LRGFuUHRjVkdmUXhoYUhwWXlzN3Q2cmFOakxsWnpOTEVuYWFMWEJIdV8wSXJTNTBMUFNMRGl4eGVhSHNacWVyXzZwM3EzNTdHMEtfSWpkM1lzVXltZjRMbFpvUGl6WU12RHJn?oc=5"
+      },
+      {
         "title": "Fernanda Sandoval desapareció en Nuevo León tras contactar a un hombre por internet - Azteca Morelos",
         "publishedAt": "2026-11-04 22:57 UTC",
         "source": "Viral ES",
@@ -9347,12 +9371,6 @@
         "publishedAt": "2026-11-04 16:57 UTC",
         "source": "Viral ES",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUENOR182WmtsdElOOUtwT1FrVXhVX3lmbVYtM2hxNWJ0M1NnSHJrWFJlbG5HMWJja3M1REt3M1NiV1otb2JLdzRMaUlGWnBnSGRjQWJRR2NEd0hycVdmS280a3ZHWEFwZGhHeTh5ZmRXY0FDM25yVUVKekQ0R1hUQXMzTkJqZ1A3YmMwd2hKLU1relhrNTFqSWstOUNBeW81aUFiMnpyYUpVR0pTV0pHSlJ6R1lCczhiblhsOTdhR041Qzd5d0JKNg?oc=5"
-      },
-      {
-        "title": "Blue Tsunami, Hazardous Waste: Memes & AI Videos Take Over Internet As Donald Trump Faces Midterm Election - Free Press Journal",
-        "publishedAt": "2026-11-04 12:40 UTC",
-        "source": "Viral EN",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONlJhSG5qSFBXdkREd2ctekVGYlFvUE02V0NVR3dsRmVNQnk5MHplT0NpbkQ2d1NRSHBIMVpiaFRUd2JiaTc1REdEb2FsMTNwYjB0VWZYQUlPMFc4OEJRdFAxY1N2N0dLRmJXTThITTlXVEp6SC02UWh4V09wbFFBdEV5TW1ZOGFQd1d1cTlZLVRXWWxoTHIyZzc1QW5wYl9JTEdLMmRYamxlbGR1ODI3dXRnYnkyUWpzVmxndi1TX2VmUGtXQ3FRQnVfTTRzUDVhWmY1cmtMYUFKSHdhSG5iTWRva3JJVFM4Q3B4Z2lCdk84cVN3VlUw0gH8AUFVX3lxTE12OUFlR2lOOHdWX1RHN0tMOUVqUlZpdDJNVURoNno2TFpJTFJFMjlCTlhrT3BHbTlCb01mY1R6ckw5NnhkSGk2aTNvSE9Pek93TUJBMDVjNUVodzR3V04zbVl0TjFvRTZrVkJXVThwYWcwUmtRcEZ1UUxYVUpQdVpkY1EwdnZuRlpGSzJHZmVPMUdiZXJiZ2g2U3BiUmt4YmM1MTNxRi10OHo3MU8zUXhmMDZlRmY1alI3UkhmVERZOVlITlB5dUtmM1owcmlhenNmbFRtdEtjWU1TdkJ4Wml2SEctVUFsNzg4azdYMVk5cjRKNFhWVXZORUpkWg?oc=5"
       }
     ]
   }
