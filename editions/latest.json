@@ -1,13 +1,103 @@
 {
-  "edition": "THE DAILY · Mañana · 06/11/2026 15:33",
-  "generatedAt": "2026-11-06T14:33:06.474439+00:00",
+  "edition": "THE DAILY · Mañana · 06/11/2026 16:24",
+  "generatedAt": "2026-11-06T15:24:10.166036+00:00",
   "mode": "rss-excerpts",
   "stories": [
+    {
+      "id": "espana|https://www.elmundo.es/economia/2026/11/06/6aed8762e9cf4a994c8b45a5.html",
+      "section": "espana",
+      "category": "El Mundo",
+      "title": "El Gobierno obliga a retirar el 12% del aceite de oliva para frenar la caída de los precios y la industria lo recurrirá",
+      "summary": "El Boletín Oficial del Estado (BOE) ha publicado este viernes la obligatoriedad del almacenamiento para prevenir distorsiones en el mercado y garantizar su estabilidad. Leer",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/06/17939516187009.jpg",
+      "publishedAt": "2026-11-06 15:18 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "El Mundo",
+          "url": "https://www.elmundo.es/economia/2026/11/06/6aed8762e9cf4a994c8b45a5.html"
+        }
+      ]
+    },
+    {
+      "id": "espana|https://elpais.com/gente/2026-11-06/el-padre-de-meghan-markle-es-arrestado-en-florida-por-posesion-de-pornografia-infantil.html",
+      "section": "espana",
+      "category": "El País",
+      "title": "El padre de Meghan Markle es arrestado en Florida por posesión de pornografía infantil",
+      "summary": "Según el ‘Daily Mail’ y TMZ, agentes federales han irrumpido en la residencia de ancianos en la que reside Thomas Markle, después de que la policía de Filipinas descubriera grandes cantidades de material de abuso infantil en varios de sus dispositivos",
+      "image": "https://imagenes.elpais.com/resizer/v2/L3NDOYWHDJE2DA5HLKDFY6OPCM.jpg?auth=fcd34bee6aa3009ad51bc5620dc79b1ff2a029de14338e6fb34b3280af8e2c03",
+      "publishedAt": "2026-11-06 15:18 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "El País",
+          "url": "https://elpais.com/gente/2026-11-06/el-padre-de-meghan-markle-es-arrestado-en-florida-por-posesion-de-pornografia-infantil.html"
+        }
+      ]
+    },
+    {
+      "id": "espana|https://www.elmundo.es/cultura/2026/11/06/6aeddb2021efa02e0e8b4577.html",
+      "section": "espana",
+      "category": "El Mundo",
+      "title": "Muere a los 50 años Kimmarie Johnson, modelo y actriz de Sensación de vivir",
+      "summary": "Kimmarie Johnson había sufrido días atrás una emergencia cardiaca en su casa de Los Ángeles Leer",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/06/17939761937339.png",
+      "publishedAt": "2026-11-06 14:45 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "El Mundo",
+          "url": "https://www.elmundo.es/cultura/2026/11/06/6aeddb2021efa02e0e8b4577.html"
+        }
+      ]
+    },
+    {
+      "id": "espana|https://www.elmundo.es/internacional/2026/11/06/6aeccda4e9cf4a994c8b458f.html",
+      "section": "espana",
+      "category": "El Mundo",
+      "title": "¿Vandalismo o 'guerra híbrida'? El extraño caso de las decenas de amenazas de bomba falsas contra aviones europeos en cuatro días",
+      "summary": "El régimen de Vladimir Putin ha llevado a cabo actos similares, combinando el gamberrismo o la pequeña delincuencia con los objetivos políticos Leer",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/05/17939036190741.jpg",
+      "publishedAt": "2026-11-06 14:41 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "El Mundo",
+          "url": "https://www.elmundo.es/internacional/2026/11/06/6aeccda4e9cf4a994c8b458f.html"
+        }
+      ]
+    },
+    {
+      "id": "espana|https://elpais.com/el-tiempo/2026-11-06/la-borrasca-bruna-dejara-lluvias-muy-abundantes-hasta-el-miercoles-sobre-todo-en-el-oeste-peninsular.html",
+      "section": "espana",
+      "category": "El País",
+      "title": "‘Bruna’ dejará mucha lluvia hasta el miércoles, sobre todo en el oeste peninsular y Canarias",
+      "summary": "El sistema trae vientos muy húmedos, pero también templados, por lo que las temperaturas subirán y serán altas para la época",
+      "image": "https://imagenes.elpais.com/resizer/v2/SJUS7XMGSRGZVAHE54OWJOHBUI.JPG?auth=8c01dff7736240a55b319c25a00343a913e1ec14eed29b736612b655261b41f0",
+      "publishedAt": "2026-11-06 14:13 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "El País",
+          "url": "https://elpais.com/el-tiempo/2026-11-06/la-borrasca-bruna-dejara-lluvias-muy-abundantes-hasta-el-miercoles-sobre-todo-en-el-oeste-peninsular.html"
+        }
+      ]
+    },
     {
       "id": "espana|https://elpais.com/economia/2026-11-06/el-gobierno-aprobara-antes-de-elecciones-una-inversion-record-de-17000-millones-en-redes-electricas.html",
       "section": "espana",
       "category": "El País",
-      "title": "El Gobierno aprobará antes de elecciones una inversión récord de 17.000 millones en redes eléctricas",
+      "title": "El Gobierno aprobará antes de las elecciones una inversión récord de 17.000 millones en redes eléctricas",
       "summary": "La vicepresidenta tercera y ministra para la Transición Ecológica defenderá la planificación de redes hasta 2030 el 12 de noviembre en la Diputación Permanente tras presentarla a todas las CCAA y superar todos los trámites necesarios, incluida la evaluación de impacto ambiental",
       "image": "https://imagenes.elpais.com/resizer/v2/MKMKX7CLSWFQWKNE4USMWWOC7E.jpg?auth=a826667e6c029e454b884510053d63be612ad534e70323e8ef6ff09b2906485b",
       "publishedAt": "2026-11-06 13:49 UTC",
@@ -36,6 +126,24 @@
         {
           "name": "El País",
           "url": "https://elpais.com/internacional/2026-11-06/varios-aviones-en-vuelos-europeos-reciben-nuevas-alertas-de-bomba.html"
+        }
+      ]
+    },
+    {
+      "id": "espana|https://www.elmundo.es/murcia/2026/11/06/6aedd991e9cf4ad56e8b458b.html",
+      "section": "espana",
+      "category": "El Mundo",
+      "title": "El candidato de Podemos en Murcia interrumpe la Feria de Vivienda al grito de ¡fuera buitres!",
+      "summary": "Víctor Egío, coordinador autonómico de la formación morada, ha denunciado el encarecimiento de la vivienda nueva en la Región de Murcia en un 23% Leer",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/06/17939710964742.jpg",
+      "publishedAt": "2026-11-06 13:47 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "El Mundo",
+          "url": "https://www.elmundo.es/murcia/2026/11/06/6aedd991e9cf4ad56e8b458b.html"
         }
       ]
     },
@@ -112,24 +220,6 @@
       ]
     },
     {
-      "id": "espana|https://www.elmundo.es/internacional/2026/11/06/6aed954bfdddff65498b457f.html",
-      "section": "espana",
-      "category": "El Mundo",
-      "title": "Un joven y una niña mueren y otras tres personas sufren heridas graves en una accidente de autobús en el este de Francia",
-      "summary": "El vehículo, en el que viajaban 15 menores, \"se salió de la carretera y chocó contra un árbol en la cuneta\", declaró el alcalde de Lent, donde se produjo el accidente Leer",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/06/17939602126759.jpg",
-      "publishedAt": "2026-11-06 13:23 UTC",
-      "language": "es",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "El Mundo",
-          "url": "https://www.elmundo.es/internacional/2026/11/06/6aed954bfdddff65498b457f.html"
-        }
-      ]
-    },
-    {
       "id": "espana|https://elpais.com/espana/elecciones-generales/2026-11-06/sanchez-abrira-campana-en-sevilla-la-unica-provincia-andaluza-donde-el-psoe-se-mantiene-imbatible.html",
       "section": "espana",
       "category": "El País",
@@ -169,7 +259,7 @@
       "id": "espana|https://www.europapress.es/nacional/noticia-juez-cita-testigo-mujer-saenz-tejada-hablo-eliminar-jueza-caso-david-sanchez-20261106141552.html",
       "section": "espana",
       "category": "Europa Press",
-      "title": "El juez cita como testigo a la mujer con la que Sáenz de Tejada habló de \"eliminar\" a la jueza del 'caso David Sánchez'",
+      "title": "El juez cita como testigo a la mujer a la que Sáenz de Tejada habló de \"eliminar\" a la jueza del 'caso David Sánchez'",
       "summary": "El juez de la Audiencia Nacional que investiga el 'caso Leire Díez' ha citado como testigo el próximo 24 de noviembre a Cintia Rocho, una mujer supuestamente vinculada a un presunto clan de narcotráfico de Badajoz a la que el exmagistrado Luis Sáenz de Tejada habría hablado de \"eliminar\" a la jueza Beatriz Biedma, encargada de la investigación a David Sánche…",
       "image": "https://img.europapress.es/fotoweb/fotonoticia_20261106141552_120.jpg",
       "publishedAt": "2026-11-06 13:15 UTC",
@@ -274,92 +364,110 @@
       ]
     },
     {
-      "id": "espana|https://www.elmundo.es/economia/macroeconomia/2026/11/06/6aedc6d8fc6c83da088b45aa.html",
-      "section": "espana",
-      "category": "El Mundo",
-      "title": "Cuerpo presenta la candidatura de Hernández de Cos ante el Eurogrupo para presidir el BCE",
-      "summary": "El próximo 9 de noviembre los estados discutirán sobre los candidatos a suceder a Lagarde en el cargo. El holandés Klaas Knot es el único rival a horas de que se cierre el plazo. Lagarde abandonará su cargo el 7 de febrero Leer",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/14/17920009955821.jpg",
-      "publishedAt": "2026-11-06 12:33 UTC",
-      "language": "es",
+      "id": "mundo|https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
+      "section": "mundo",
+      "category": "BBC World",
+      "title": "Two dead after bus crashes in France, officials say",
+      "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5740/live/92c81290-d9cb-11f1-bb8e-efaa31738708.jpg",
+      "publishedAt": "2026-11-06 15:13 UTC",
+      "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "El Mundo",
-          "url": "https://www.elmundo.es/economia/macroeconomia/2026/11/06/6aedc6d8fc6c83da088b45aa.html"
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "id": "espana|https://www.elmundo.es/economia/2026/11/06/6aedaed4e4d4d8902a8b457e.html",
-      "section": "espana",
-      "category": "El Mundo",
-      "title": "Nueva jornada de amenazas de bomba en varios vuelos europeos",
-      "summary": "Varios vuelos se han visto afectados en Dinamarca, Francia, Chequia, Hungría, Italia y Portugal, mientras que Irlanda reporta amenazas de bomba en medios de comunicación Leer",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/06/17939614342539.jpg",
-      "publishedAt": "2026-11-06 12:33 UTC",
-      "language": "es",
+      "id": "mundo|https://www.abc.net.au/news/2026-11-07/brk-bomb-threats-planes-europe/107358382",
+      "section": "mundo",
+      "category": "ABC Australia",
+      "title": "Bomb threats spread to European newsrooms after wave of passenger jet scares",
+      "summary": "Spain's foreign minister said the continent appeared to be facing \"hybrid aggression and a form of psychological warfare\".",
+      "image": "https://live-production.wcms.abc-cdn.net.au/da41cb6fb47f1d5d2439d935d2b1dd5b?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
+      "publishedAt": "2026-11-06 14:58 UTC",
+      "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "El Mundo",
-          "url": "https://www.elmundo.es/economia/2026/11/06/6aedaed4e4d4d8902a8b457e.html"
+          "name": "ABC Australia",
+          "url": "https://www.abc.net.au/news/2026-11-07/brk-bomb-threats-planes-europe/107358382"
         }
       ]
     },
     {
-      "id": "espana|https://elpais.com/gente/2026-11-06/antonia-dellatte-se-retracta-y-pide-perdon-a-ana-obregon-tras-reprocharle-haber-tardado-35-anos-en-disculparse-con-ella-no-quiero-condenar-a-nadie.html",
-      "section": "espana",
-      "category": "El País",
-      "title": "Antonia Dell’Atte se retracta y pide perdón a Ana Obregón tras reprocharle haber tardado 35 años en disculparse con ella: “No quiero condenar a nadie”",
-      "summary": "La exmodelo ha compartido una nueva publicación en su Instagram en la que lamenta lo expresado contra la actriz en un duro post anterior que ya ha eliminado: “Acepté tu perdón, Ana. Acepta el mío hoy, que también es sincero”",
-      "image": "https://imagenes.elpais.com/resizer/v2/2MECY7IIENEQPNII64S73BNBCY.jpg?auth=f2f6b24219e73783302193400f46019b183c5c8e6d5cd783db442302e8b62408",
-      "publishedAt": "2026-11-06 12:27 UTC",
-      "language": "es",
+      "id": "mundo|https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
+      "section": "mundo",
+      "category": "BBC World",
+      "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
+      "summary": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dd7/live/43acf9a0-d9df-11f1-bbe5-797ee05bee69.jpg",
+      "publishedAt": "2026-11-06 14:57 UTC",
+      "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "El País",
-          "url": "https://elpais.com/gente/2026-11-06/antonia-dellatte-se-retracta-y-pide-perdon-a-ana-obregon-tras-reprocharle-haber-tardado-35-anos-en-disculparse-con-ella-no-quiero-condenar-a-nadie.html"
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "id": "espana|https://elpais.com/espana/2026-11-06/el-rey-anima-a-iberoamerica-a-alcanzar-mayores-cotas-de-concertacion-politica-la-plenitud-de-nuestro-espacio-es-lo-que-el-mundo-necesita.html",
-      "section": "espana",
-      "category": "El País",
-      "title": "El Rey cree que hay que aprender a ser iberoamericanos: “La plenitud de nuestro espacio es lo que el mundo necesita”",
-      "summary": "Felipe VI insiste en la importancia de la Secretaría General Iberoamericana (SEGIB) como “médula espinal” del sistema de cumbres",
-      "image": "https://imagenes.elpais.com/resizer/v2/VA3QCQJ5LZAK7MD2H6IPKVAO5U.jpg?auth=c4bb9df7b6ff232e126ff708cd57fa12c5275454f4f9ec7897c31b07112d7c71",
-      "publishedAt": "2026-11-06 12:21 UTC",
-      "language": "es",
+      "id": "mundo|https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",
+      "section": "mundo",
+      "category": "NPR World",
+      "title": "The leader of a Kenyan doomsday cult is sentenced to 200 years in prison",
+      "summary": "Cult leader Paul Mackenzie was convicted of murdering 190 children and one adult after he ordered his followers to starve themselves to death in order to meet Jesus.",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2813+0+260/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdb%2F73%2Fcbf29c684a399b365458c0f6cfb1%2Fap26310304210727.jpg",
+      "publishedAt": "2026-11-06 14:53 UTC",
+      "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "El País",
-          "url": "https://elpais.com/espana/2026-11-06/el-rey-anima-a-iberoamerica-a-alcanzar-mayores-cotas-de-concertacion-politica-la-plenitud-de-nuestro-espacio-es-lo-que-el-mundo-necesita.html"
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder"
         }
       ]
     },
     {
-      "id": "espana|https://www.elmundo.es/espana/2026/11/06/6aedbe35e4d4d8ac478b45a8.html",
-      "section": "espana",
-      "category": "El Mundo",
-      "title": "El juez Calama rechaza imputar a Zapatero por malversación porque la ley que obligaba a entregar las joyas a Patrimonio no se aprobó hasta 2013",
-      "summary": "El magistrado de la Audiencia Nacional rechaza la propuesta de Anticorrupción referida a las piedras preciosas supuestamente recibidas por el ex presidente en 2007 y valoradas en un millón de euros Leer",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/06/17/17817162812051.jpg",
-      "publishedAt": "2026-11-06 12:10 UTC",
-      "language": "es",
+      "id": "mundo|https://www.theguardian.com/world/2026/nov/06/gen-z-protests-sweeping-the-world",
+      "section": "mundo",
+      "category": "The Guardian World",
+      "title": "‘A global political awakening’: how gen Z protests are sweeping the world",
+      "summary": "From Serbia to Bangladesh and India to France, young people are pushing back against authoritarianism and reshaping political landscapes In Brazil, they rallied online by the millions, sharing videos and spreading memes. In Serbia, they cycled across Europe and ran ultramarathons to make their voices heard. Both movements burst into international public view…",
+      "image": "https://i.guim.co.uk/img/media/d8c802e22e952ef416894c5d0a6ecca11d13b496/459_0_4582_3666/master/4582.jpg?width=140&quality=85&auto=format&fit=max&s=92a98b53493301af4a38acb36c24d9e4",
+      "publishedAt": "2026-11-06 14:52 UTC",
+      "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "El Mundo",
-          "url": "https://www.elmundo.es/espana/2026/11/06/6aedbe35e4d4d8ac478b45a8.html"
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/06/gen-z-protests-sweeping-the-world"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
+      "section": "mundo",
+      "category": "BBC World",
+      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+      "summary": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9676/live/4f47ccc0-d9f0-11f1-bb10-cdca6001fbcf.jpg",
+      "publishedAt": "2026-11-06 14:46 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -490,48 +598,12 @@
       ]
     },
     {
-      "id": "mundo|https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
-      "section": "mundo",
-      "category": "BBC World",
-      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-      "summary": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/819f/live/03fb9610-d857-11f1-8ac8-af8395a95d7d.jpg",
-      "publishedAt": "2026-11-06 12:54 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
-      "section": "mundo",
-      "category": "BBC World",
-      "title": "Russian extremist group denies sending hoax bomb threats",
-      "summary": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddd/live/b610ac80-d9da-11f1-b441-2b33b063138f.jpg",
-      "publishedAt": "2026-11-06 12:51 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
       "id": "mundo|https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
       "section": "mundo",
       "category": "The Guardian World",
       "title": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
       "summary": "Former liberation movement’s share of national vote almost 14 percentage points below 2021 result The African National Congress is on course to suffer a bruising defeat in South Africa’s local elections, with the once dominant party of Nelson Mandela falling to under a third of the vote nationally with more than 80% of ballots counted. Wednesday’s fragmented…",
-      "image": "https://i.guim.co.uk/img/media/ca80f1733421e850930a8c2267b7214219fef832/507_0_5007_4005/master/5007.jpg?width=140&quality=85&auto=format&fit=max&s=e473d663cc0d3ad1ca05e9bba0f755f7",
+      "image": "https://i.guim.co.uk/img/media/ca80f1733421e850930a8c2267b7214219fef832/697_286_4649_3719/master/4649.jpg?width=140&quality=85&auto=format&fit=max&s=f4831bd02c6a91cdc25376cf8e9b3a3b",
       "publishedAt": "2026-11-06 12:48 UTC",
       "language": "en",
       "topic": null,
@@ -540,24 +612,6 @@
         {
           "name": "The Guardian World",
           "url": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
-      "section": "mundo",
-      "category": "BBC World",
-      "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-      "summary": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dd7/live/43acf9a0-d9df-11f1-bbe5-797ee05bee69.jpg",
-      "publishedAt": "2026-11-06 12:41 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -576,24 +630,6 @@
         {
           "name": "The Guardian World",
           "url": "https://www.theguardian.com/world/2026/nov/06/europeans-want-action-climate-crisis-yougov-poll"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-      "section": "mundo",
-      "category": "BBC World",
-      "title": "Two dead after bus crashes in France, officials say",
-      "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5740/live/92c81290-d9cb-11f1-bb8e-efaa31738708.jpg",
-      "publishedAt": "2026-11-06 12:27 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -670,30 +706,12 @@
       ]
     },
     {
-      "id": "mundo|https://www.theguardian.com/world/2026/nov/06/denmarks-top-court-to-rule-on-parallel-societies-after-non-western-people-evicted",
-      "section": "mundo",
-      "category": "The Guardian World",
-      "title": "Denmark’s top court to rule on ‘parallel societies’ after ‘non-western’ people evicted",
-      "summary": "Government claims removal of former residents of housing complex in Helsingør is unrelated to their ethnicity Denmark’s supreme court is expected to rule on whether the state’s classification of residents with “non-western” backgrounds is covered by racial discrimination law. The appeal by residents who were evicted from Nøjsomhed-Sydvej in Helsingør, a city…",
-      "image": "https://i.guim.co.uk/img/media/78a1fbc9e9a2d7c9ac07f49957cd83f6ffc3445e/155_105_3621_2897/master/3621.jpg?width=140&quality=85&auto=format&fit=max&s=3b59df3668cb721dc864f3cff5a2ee0d",
-      "publishedAt": "2026-11-06 10:00 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/nov/06/denmarks-top-court-to-rule-on-parallel-societies-after-non-western-people-evicted"
-        }
-      ]
-    },
-    {
       "id": "mundo|https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
       "section": "mundo",
       "category": "BBC World",
       "title": "Elon Musk appears to signal the end of the road for Cybertruck",
       "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1994/live/ff7af2d0-d9bd-11f1-a00c-673f8daaffd9.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ce/live/3fc37350-d9f3-11f1-a701-fddedf244c16.jpg",
       "publishedAt": "2026-11-06 09:57 UTC",
       "language": "en",
       "topic": null,
@@ -886,20 +904,20 @@
       ]
     },
     {
-      "id": "mundo|https://www.abc.net.au/news/2026-11-06/paul-gallen-vs-nelson-asofa-solomona-live-heavyweight-boxing/107346162",
-      "section": "mundo",
-      "category": "ABC Australia",
-      "title": "Asofa-Solomona leaps into crowd, apologises after 'frightening' Gallen KO",
-      "summary": "A furious Nelson Asofa-Solomona leaps into the crowd in sensational scenes during his knockout victory over fellow former NRL star Paul Gallen in Sydney.",
-      "image": "https://live-production.wcms.abc-cdn.net.au/0566687e8f6788c24ad03cb3a6318c8c?impolicy=wcms_crop_resize&cropH=2267&cropW=4030&xPos=0&yPos=210&width=862&height=485",
-      "publishedAt": "2026-11-06 07:57 UTC",
-      "language": "en",
+      "id": "television|https://www.eldiario.es/vertele/noticias/cintora-responde-tellado-nueva-ofensiva-rtve-honor-defiende-vito-quiles-ataque_1_13644353.html",
+      "section": "television",
+      "category": "Vertele",
+      "title": "Cintora responde a Tellado por su nueva ofensiva contra RTVE: \"Es un honor que alguien que defiende a Vito Quiles me ataque\"",
+      "summary": "El periodista Jesús Cintora responde en 'Mañaneros 360' de La 1 a la última ofensiva de Miguel Tellado, secretario general del PP, contra RTVE: \"Entra en eso de 'queremos llegar al poder para que no haya Intxaurrondos ni Cintoras'\" Además - Pedro Almodóvar propone a Broncano preguntas esenciales para Abascal y pide acudir de público a la entrevista Audiencia…",
+      "image": "https://static.eldiario.es/clip/8a5dcba1-a8d4-46b9-aea8-c9504bfe9c74_16-9-discover-aspect-ratio_default_0.jpg",
+      "publishedAt": "2026-11-06 14:30 UTC",
+      "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "ABC Australia",
-          "url": "https://www.abc.net.au/news/2026-11-06/paul-gallen-vs-nelson-asofa-solomona-live-heavyweight-boxing/107346162"
+          "name": "Vertele",
+          "url": "https://www.eldiario.es/vertele/noticias/cintora-responde-tellado-nueva-ofensiva-rtve-honor-defiende-vito-quiles-ataque_1_13644353.html"
         }
       ]
     },
@@ -925,7 +943,7 @@
       "id": "television|https://variety.com/2026/tv/news/fox-closes-roku-acquisition-1236941275/",
       "section": "television",
       "category": "Variety TV",
-      "title": "Fox Closes $22 Billion Roku Takeover",
+      "title": "Fox Closes $22 Billion Roku Takeover, Says Streaming Platform Will Remain ‘Open Ecosystem’",
       "summary": "Surprise! Fox Corp. said Friday it has closed the acquisition of streaming platform Roku, a deal valued at $22 billion, well ahead of the expected 2027 date. Roku founder and CEO Anthony Wood will join the Fox board of directors. He will serve as co-chair, Fox Digital Platforms, a newly formed division that includes Roku, […]",
       "image": "https://variety.com/wp-content/uploads/2026/08/Roku-Headquarters.jpg",
       "publishedAt": "2026-11-06 14:21 UTC",
@@ -1026,6 +1044,24 @@
         {
           "name": "Variety TV",
           "url": "https://variety.com/2026/tv/global/bear-grylls-russell-brand-verdict-baptism-justice-served-1236941211/"
+        }
+      ]
+    },
+    {
+      "id": "television|https://www.eldiario.es/vertele/noticias/tv-da-bienvenida-septima-deseos-rtve-mediaset-respuesta-antonio-naranjo-trituradora_1_13643439.html",
+      "section": "television",
+      "category": "Vertele",
+      "title": "La TV da la bienvenida a La Séptima: de los deseos de RTVE y Mediaset a la respuesta de Antonio Naranjo a su 'trituradora'",
+      "summary": "La Séptima recibe tras su estreno el recibimiento de directivos, presentadores y profesionales de la televisión. Rostros como José Pablo López, presidente de RTVE, y periodistas como Ana Terradillos, Toñi Moreno o Marta Flich expresan sus buenos deseos a la nueva cadena. También se ha pronunciado Antonio Naranjo, que ha respondido desde Telemadrid a su apari…",
+      "image": "https://static.eldiario.es/clip/bbd1ff00-ad1d-47f6-8a89-5c62098d6bd0_16-9-discover-aspect-ratio_default_0.jpg",
+      "publishedAt": "2026-11-06 11:45 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Vertele",
+          "url": "https://www.eldiario.es/vertele/noticias/tv-da-bienvenida-septima-deseos-rtve-mediaset-respuesta-antonio-naranjo-trituradora_1_13643439.html"
         }
       ]
     },
@@ -1408,42 +1444,6 @@
       ]
     },
     {
-      "id": "television|https://www.eldiario.es/vertele/series/movistar-plus-anuncia-reparto-principal-naufraga-primera-serie-tv-fernando-leon-aranoa_1_13640977.html",
-      "section": "television",
-      "category": "Vertele",
-      "title": "Movistar Plus anuncia el reparto principal de 'La náufraga', la primera serie de TV de Fernando León de Aranoa",
-      "summary": "Movistar Plus desvela los protagonistas de 'La náufraga', la primera serie de televisión creada, escrita y dirigida por Fernando León de Aranoa. Se trata de un thriller sobre el tema de la inmigración que estará encabezado por varios actores y actrices de renombre de nuestra industria Vídeo - Así ha sido el estreno de La Séptima, con petición de Javier Ruiz…",
-      "image": "https://static.eldiario.es/clip/a72cc4bf-ca26-4684-906b-f20b78f48df0_16-9-discover-aspect-ratio_default_0.jpg",
-      "publishedAt": "2026-11-05 13:40 UTC",
-      "language": "es",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Vertele",
-          "url": "https://www.eldiario.es/vertele/series/movistar-plus-anuncia-reparto-principal-naufraga-primera-serie-tv-fernando-leon-aranoa_1_13640977.html"
-        }
-      ]
-    },
-    {
-      "id": "television|https://www.eldiario.es/vertele/noticias/rufian-recuerda-cara-al-show-la-sexta-vida-politica-primer-curro-pego-companero_1_13640781.html",
-      "section": "television",
-      "category": "Vertele",
-      "title": "Rufián recuerda en 'Cara al Show' cómo era su vida antes de la política: \"En mi primer curro me pegó un compañero\"",
-      "summary": "Antes de ser uno de los políticos más conocidos de España, el líder de ERC pasó por varios trabajos precarios en los que vivió \"experiencias muy chungas\" Vídeo - Así ha sido el estreno de La Séptima, con petición de Javier Ruiz a la audiencia: “No dejen que nos convirtamos en todo lo que hemos venido a combatir” laSexta - Marc Giró explica en 'Cara al Show'…",
-      "image": "https://static.eldiario.es/clip/2fbf37e7-839d-4f59-becb-6e62e9df4dec_16-9-discover-aspect-ratio_default_0.jpg",
-      "publishedAt": "2026-11-05 13:02 UTC",
-      "language": "es",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Vertele",
-          "url": "https://www.eldiario.es/vertele/noticias/rufian-recuerda-cara-al-show-la-sexta-vida-politica-primer-curro-pego-companero_1_13640781.html"
-        }
-      ]
-    },
-    {
       "id": "mundo|https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbDBGWnhuaFEyQ3hwcGpPeGpJYmZJZEFOUlFhbU5DUS1nLTFvSWhKUUZlUExYdW5jT1VnVHU2WVFFYTQ1ZjRwU2oyLUpVV3k5SzZzdElzZkJ4bl9QazFMUk9adHdINGpQRS1yelhQaEVFQUktS19kbDhLbzBYWVBzM242NkxNbEwwNV9uX2JkbUs5Tkl1SVFIYlBZaWxWeWlldEVwSzhoclpoYkplNUowNlN2OEY1OVgzUmJJR0pZeUU0bmpmTGhhaTBPUWtlR2xsM0VXbGd3MjlieVJYUUZRc05BUFdqVFQ5ZER6V25nZm1YRlHSAYcCQVVfeXFMT3dfSkJLS2FBMktnQkVJX19ISEFycUVqbnZVTG5tSTNDamhjTjEtMDJoZndzZE54OUxtUGlvUVBidG5VOW1FdmVVMmRzVzYwVm5XeDVPTHIwR1dTaG9ybk93Ujg1UHBYdVppX3JzRFh1NjZHWS03NVFYZ1lDQXIzVWk0M1gyaV9ESERvNnBOQ0ZkR1JKS0p5bkQwMkxLVENBQ01lUUxMUF9ib0diQ0hjeHc0VElPMlN0emR1c25ORkE3eHVJdHRFUUx0NlRwaGpFSjdFMU1sTTZnQ0hSQ3JJNFpBSUZpVXdRU1hIRWxlN0RLRlFLQWdNdTdmNjJOVFlWbEY0TzZVTTg?oc=5",
       "section": "mundo",
       "category": "Noticias internacionales",
@@ -1498,20 +1498,20 @@
       ]
     },
     {
-      "id": "mundo|https://news.google.com/rss/articles/CBMifEFVX3lxTFBXNG9hcWpmN1dGUUJJWjdwRTduR2l4am14R1pnNHRvNkkxWF9SWjM1Qk15M3c0X1VndE9wckRWQzNja1M5OE5nc2g2MmMyNDhwQS1yT2kxRWVfaGI2MEZpczFfbURZYlo0TFZCNUExOVZrWmN0M2pRS3ZLcnXSAXxBVV95cUxOVjV2VmdDOUlmdGVYSXFXclBGcHQ5cnlLQWZCVE9hcU81MXFrbjZYQm9hLU45VG1Ea01hWFdtRWp5cFBTSjdlQXBQZFFIak9BYTA4T01CSEF0TDZWODFlQllZRVdDLVA0MlBQLV9lSF8wN2g2NUV5NHBIcVZX?oc=5",
+      "id": "mundo|https://news.google.com/rss/articles/CBMifEFVX3lxTFBtVTd1ODdKdlBJWmtEVFg2R21RVXpIZGhZMFF5ajA2TXpmcTB1MFQ4aTRRX0FWMnZFY2lZMmRfTHBSUWF0bHdWaFZMWW01b3RoLUx1ZDQ1UklTQXpCU1AtdER6amxIdHJDU2lHOTdBNVVtOVp0dnBCSnpIWW_SAXxBVV95cUxOMktOWC1FcjNUcW8zQllRck1rbUFsTFFGNjh1UDYtdGZmNWp5dklfTFhIbFRsSkdmWGhPNEhyTHotYm9JdkdBNmY4WTNEeWt3LXBZd01KWHhNdTFvN2QzOVU2dVNza1R3blFZQi00VVRTNmlueGlmd0pobmFT?oc=5",
       "section": "mundo",
       "category": "Noticias internacionales",
-      "title": "Nueva jornada de amenazas de bomba en varios vuelos europeos - El Mundo",
-      "summary": "Nueva jornada de amenazas de bomba en varios vuelos europeos El Mundo",
+      "title": "El Gobierno ordena la retirada del 12% de la producción de aceite de oliva - El Mundo",
+      "summary": "El Gobierno ordena la retirada del 12% de la producción de aceite de oliva El Mundo",
       "image": "",
-      "publishedAt": "2026-11-06 12:33 UTC",
+      "publishedAt": "2026-11-06 07:56 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Noticias internacionales",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXNG9hcWpmN1dGUUJJWjdwRTduR2l4am14R1pnNHRvNkkxWF9SWjM1Qk15M3c0X1VndE9wckRWQzNja1M5OE5nc2g2MmMyNDhwQS1yT2kxRWVfaGI2MEZpczFfbURZYlo0TFZCNUExOVZrWmN0M2pRS3ZLcnXSAXxBVV95cUxOVjV2VmdDOUlmdGVYSXFXclBGcHQ5cnlLQWZCVE9hcU81MXFrbjZYQm9hLU45VG1Ea01hWFdtRWp5cFBTSjdlQXBQZFFIak9BYTA4T01CSEF0TDZWODFlQllZRVdDLVA0MlBQLV9lSF8wN2g2NUV5NHBIcVZX?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtVTd1ODdKdlBJWmtEVFg2R21RVXpIZGhZMFF5ajA2TXpmcTB1MFQ4aTRRX0FWMnZFY2lZMmRfTHBSUWF0bHdWaFZMWW01b3RoLUx1ZDQ1UklTQXpCU1AtdER6amxIdHJDU2lHOTdBNVVtOVp0dnBCSnpIWW_SAXxBVV95cUxOMktOWC1FcjNUcW8zQllRck1rbUFsTFFGNjh1UDYtdGZmNWp5dklfTFhIbFRsSkdmWGhPNEhyTHotYm9JdkdBNmY4WTNEeWt3LXBZd01KWHhNdTFvN2QzOVU2dVNza1R3blFZQi00VVRTNmlueGlmd0pobmFT?oc=5"
         }
       ]
     },
@@ -1534,20 +1534,20 @@
       ]
     },
     {
-      "id": "mundo|https://news.google.com/rss/articles/CBMifEFVX3lxTFBtVTd1ODdKdlBJWmtEVFg2R21RVXpIZGhZMFF5ajA2TXpmcTB1MFQ4aTRRX0FWMnZFY2lZMmRfTHBSUWF0bHdWaFZMWW01b3RoLUx1ZDQ1UklTQXpCU1AtdER6amxIdHJDU2lHOTdBNVVtOVp0dnBCSnpIWW_SAXxBVV95cUxOMktOWC1FcjNUcW8zQllRck1rbUFsTFFGNjh1UDYtdGZmNWp5dklfTFhIbFRsSkdmWGhPNEhyTHotYm9JdkdBNmY4WTNEeWt3LXBZd01KWHhNdTFvN2QzOVU2dVNza1R3blFZQi00VVRTNmlueGlmd0pobmFT?oc=5",
+      "id": "mundo|https://news.google.com/rss/articles/CBMifEFVX3lxTFBXNG9hcWpmN1dGUUJJWjdwRTduR2l4am14R1pnNHRvNkkxWF9SWjM1Qk15M3c0X1VndE9wckRWQzNja1M5OE5nc2g2MmMyNDhwQS1yT2kxRWVfaGI2MEZpczFfbURZYlo0TFZCNUExOVZrWmN0M2pRS3ZLcnXSAXxBVV95cUxOVjV2VmdDOUlmdGVYSXFXclBGcHQ5cnlLQWZCVE9hcU81MXFrbjZYQm9hLU45VG1Ea01hWFdtRWp5cFBTSjdlQXBQZFFIak9BYTA4T01CSEF0TDZWODFlQllZRVdDLVA0MlBQLV9lSF8wN2g2NUV5NHBIcVZX?oc=5",
       "section": "mundo",
       "category": "Noticias internacionales",
-      "title": "El Gobierno ordena la retirada del 12% de la producción de aceite de oliva - El Mundo",
-      "summary": "El Gobierno ordena la retirada del 12% de la producción de aceite de oliva El Mundo",
+      "title": "Nueva jornada de amenazas de bomba en varios vuelos europeos - El Mundo",
+      "summary": "Nueva jornada de amenazas de bomba en varios vuelos europeos El Mundo",
       "image": "",
-      "publishedAt": "2026-11-06 07:56 UTC",
+      "publishedAt": "2026-11-06 12:33 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Noticias internacionales",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtVTd1ODdKdlBJWmtEVFg2R21RVXpIZGhZMFF5ajA2TXpmcTB1MFQ4aTRRX0FWMnZFY2lZMmRfTHBSUWF0bHdWaFZMWW01b3RoLUx1ZDQ1UklTQXpCU1AtdER6amxIdHJDU2lHOTdBNVVtOVp0dnBCSnpIWW_SAXxBVV95cUxOMktOWC1FcjNUcW8zQllRck1rbUFsTFFGNjh1UDYtdGZmNWp5dklfTFhIbFRsSkdmWGhPNEhyTHotYm9JdkdBNmY4WTNEeWt3LXBZd01KWHhNdTFvN2QzOVU2dVNza1R3blFZQi00VVRTNmlueGlmd0pobmFT?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXNG9hcWpmN1dGUUJJWjdwRTduR2l4am14R1pnNHRvNkkxWF9SWjM1Qk15M3c0X1VndE9wckRWQzNja1M5OE5nc2g2MmMyNDhwQS1yT2kxRWVfaGI2MEZpczFfbURZYlo0TFZCNUExOVZrWmN0M2pRS3ZLcnXSAXxBVV95cUxOVjV2VmdDOUlmdGVYSXFXclBGcHQ5cnlLQWZCVE9hcU81MXFrbjZYQm9hLU45VG1Ea01hWFdtRWp5cFBTSjdlQXBQZFFIak9BYTA4T01CSEF0TDZWODFlQllZRVdDLVA0MlBQLV9lSF8wN2g2NUV5NHBIcVZX?oc=5"
         }
       ]
     },
@@ -1714,24 +1714,6 @@
       ]
     },
     {
-      "id": "television|https://news.google.com/rss/articles/CBMizwFBVV95cUxNVjNvWFc2MnhaSUJIQmFiUXBNajdlVUxZREZmeE5MRHZ4V0k3WlFZZEVwVVVsT1lyMlJrLW5MTHdEVWpYRVZETTJfS0t4aEdIbnVHLTNMeGtvVFYyT210cEJwX2d5WVVpdHYweS0xcUl1c0pVRjV3RFRXSDhacEpMb25LNm5oc0xySUlxdGo4bS1IN01zbTR3R1JrTjVHM0ZkMGRkSlgteW1WSzA1ak9Tc21wMVpKcHRmb1NvTkZFUHlPRUMwVjF3dnljaU5EVVE?oc=5",
-      "section": "television",
-      "category": "Televisión España",
-      "title": "Audiencias TV | ¿Qué media registró La Séptima en su primer día? Todos los datos desde el inicio de sus emisiones hasta la madrugada - El Confidencial",
-      "summary": "Audiencias TV | ¿Qué media registró La Séptima en su primer día? Todos los datos desde el inicio de sus emisiones hasta la madrugada El Confidencial",
-      "image": "",
-      "publishedAt": "2026-11-06 07:56 UTC",
-      "language": "es",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Televisión España",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVjNvWFc2MnhaSUJIQmFiUXBNajdlVUxZREZmeE5MRHZ4V0k3WlFZZEVwVVVsT1lyMlJrLW5MTHdEVWpYRVZETTJfS0t4aEdIbnVHLTNMeGtvVFYyT210cEJwX2d5WVVpdHYweS0xcUl1c0pVRjV3RFRXSDhacEpMb25LNm5oc0xySUlxdGo4bS1IN01zbTR3R1JrTjVHM0ZkMGRkSlgteW1WSzA1ak9Tc21wMVpKcHRmb1NvTkZFUHlPRUMwVjF3dnljaU5EVVE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "viral|https://news.google.com/rss/articles/CBMie0FVX3lxTFBKUnV2ZVJjdzRQTHExUExSczlrYVBtX3ZTZkJYanAtQkVWZXJVbFloeVpXNGMzX0NoczFEdWwtMVJldTZHNUtWS1RfNW54ZWprMXNIczFCbXFvRWIwdGx2S0hZZVNRSUYyV196NnhMWUxsdVhwUzEwNHBJNA?oc=5",
       "section": "viral",
       "category": "Viral ES",
@@ -1750,7 +1732,7 @@
       ]
     },
     {
-      "id": "viral|https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd2h0dF9FM1poSTE3QU9KTTU4OEplSkNMRnZUYTVFRDQwSEZrSmZna3d5cUI0SXhVbV9MVGcxeWZuMmM4YnV6MDl0N29YRTdYa19QclZfd1lMZUlldE80NVdqVnRmTFE1bHNUY0FqMGVESkhoY0Fpei1YSHpBM3A0UDVoR2hsM1g2T1Iwak1aQTVDMUticUFBLXhna1p4MEo1dl91djFXYUFkVjFFNHB2a2N5YThsRnBOR3I2T2diVnlxZVRUa2Z6WUxkRU5zS3MyUXVxU0l3?oc=5",
+      "id": "viral|https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTm5UdGREOHJSQnlWYTZhRUtXLWdwZkdScjZUazlBQnQtUWljcG1saGxiLXM0VXh5VEplMElWN29NVUNVQzRxZmtRdkh3NjA5TXkxVnktVXdHRVRHNTJOWkR0d1hZeGw0X2xDU1IxNHppc0VnWTBGWWRPSWMydm9wOEpDY3RrRWFyWERndDBrQjhBN3JHMllSVjJ4d3ZJUVFmQ2NrMl9JVVY4MWNNOG5lai1TUWxrc1pVck15R1R1cEhhdllpaWQxX0RwZmtoR2tyS3MtaUpvTUZGYTgzYmt3empyQ290R1VLa1E?oc=5",
       "section": "viral",
       "category": "Viral ES",
       "title": "VIDEO VIRAL: revelan la verdad detrás de la mujer que supuestamente quedó pegada a su perro - Azteca Morelos",
@@ -1763,7 +1745,7 @@
       "sources": [
         {
           "name": "Viral ES",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd2h0dF9FM1poSTE3QU9KTTU4OEplSkNMRnZUYTVFRDQwSEZrSmZna3d5cUI0SXhVbV9MVGcxeWZuMmM4YnV6MDl0N29YRTdYa19QclZfd1lMZUlldE80NVdqVnRmTFE1bHNUY0FqMGVESkhoY0Fpei1YSHpBM3A0UDVoR2hsM1g2T1Iwak1aQTVDMUticUFBLXhna1p4MEo1dl91djFXYUFkVjFFNHB2a2N5YThsRnBOR3I2T2diVnlxZVRUa2Z6WUxkRU5zS3MyUXVxU0l3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTm5UdGREOHJSQnlWYTZhRUtXLWdwZkdScjZUazlBQnQtUWljcG1saGxiLXM0VXh5VEplMElWN29NVUNVQzRxZmtRdkh3NjA5TXkxVnktVXdHRVRHNTJOWkR0d1hZeGw0X2xDU1IxNHppc0VnWTBGWWRPSWMydm9wOEpDY3RrRWFyWERndDBrQjhBN3JHMllSVjJ4d3ZJUVFmQ2NrMl9JVVY4MWNNOG5lai1TUWxrc1pVck15R1R1cEhhdllpaWQxX0RwZmtoR2tyS3MtaUpvTUZGYTgzYmt3empyQ290R1VLa1E?oc=5"
         }
       ]
     },
@@ -2272,6 +2254,24 @@
       ]
     },
     {
+      "id": "tecnologia|https://www.theguardian.com/thefilter/2026/nov/06/best-christmas-gifts-teenagers-uk",
+      "section": "tecnologia",
+      "category": "Tech EN",
+      "title": "The 36 best Christmas gifts in the UK for every kind of teenager – chosen by teens",
+      "summary": "From Polaroid cameras to skincare, loungewear to gaming accessories, here are the presents teenage boys and girls told us they rate for 2026 • Homemade Christmas gifts anyone can make Because there is no doubt your teen thinks they know better than you, we took them at their word and asked what they think makes the perfect gift for Christmas (or other religi…",
+      "image": "https://i.guim.co.uk/img/media/204c00013989f6f2f22fe56adc9ec75406a3634b/242_154_3718_2974/master/3718.jpg?width=140&quality=85&auto=format&fit=max&s=0ed81f5910c91bff27245412abfb4812",
+      "publishedAt": "2026-11-06 15:00 UTC",
+      "language": "en",
+      "topic": "Tecnología",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Tech EN",
+          "url": "https://www.theguardian.com/thefilter/2026/nov/06/best-christmas-gifts-teenagers-uk"
+        }
+      ]
+    },
+    {
       "id": "tecnologia|https://www.theguardian.com/technology/2026/nov/06/ai-disruption-job-quitting",
       "section": "tecnologia",
       "category": "Tech EN",
@@ -2416,20 +2416,20 @@
       ]
     },
     {
-      "id": "tecnologia|https://www.theguardian.com/us-news/video/2026/nov/05/was-elon-musk-the-us-midterms-biggest-loser-stateside-with-kai-and-carter",
+      "id": "tecnologia|https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
       "section": "tecnologia",
-      "category": "Tech EN",
-      "title": "Was Elon Musk the US midterms' biggest loser? – Stateside with Kai and Carter",
-      "summary": "The tech industry spent big on the midterms, but it turned out to be a poor investment. Elon Musk poured a staggering $446m dollars into Republican-aligned political action committees (Pacs) and groups since last year, but his efforts didn’t pay off. Democrats won every one of the five Senate races where Musk’s America Pac spent the most money backing Republ…",
-      "image": "https://i.guim.co.uk/img/media/c38fdda580cd24d0aba4f136cafe5afcf2d72702/0_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=5edac0cd098702596636359823b415b2",
-      "publishedAt": "2026-11-05 11:00 UTC",
+      "category": "TechCrunch EN",
+      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Alexa-Shopping-Text-Hero.jpeg?resize=1200,725",
+      "publishedAt": "2026-11-06 14:10 UTC",
       "language": "en",
       "topic": "Tecnología",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "Tech EN",
-          "url": "https://www.theguardian.com/us-news/video/2026/nov/05/was-elon-musk-the-us-midterms-biggest-loser-stateside-with-kai-and-carter"
+          "name": "TechCrunch EN",
+          "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/"
         }
       ]
     },
@@ -2632,24 +2632,6 @@
       ]
     },
     {
-      "id": "tecnologia|https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-      "section": "tecnologia",
-      "category": "TechCrunch EN",
-      "title": "OpenAI released a new cybersecurity model. Is that enough?",
-      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/openai-daybreak.jpg?resize=1200,798",
-      "publishedAt": "2026-11-05 19:06 UTC",
-      "language": "en",
-      "topic": "Tecnología",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "TechCrunch EN",
-          "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
-        }
-      ]
-    },
-    {
       "id": "estilo|https://news.google.com/rss/articles/CBMirwFBVV95cUxOT2JOa1BycDI5TXY2LXZWd3hPYjF5LUluLWZXRUZWclRvYV83S0luZXFEemJ3VnRFTUpGU0twSXBrY3dEeFVQWXEwdGRpaVRadld3T3ItZWdDWEdOMDJ3eG5aOTFIcktHdEM3MEZwdlRJTDh1dE41ZlhLbDV5VW8xOGRsWkxFRjBEUkJ1OXU1dkJ6eTN0a2ctQWhmcllCVkYwc1BDMXZIOU9QQXp6V1k4?oc=5",
       "section": "estilo",
       "category": "GQ España",
@@ -2682,6 +2664,24 @@
         {
           "name": "GQ España",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWXdDUFptZjNFdWNXWDdIYVpTc1dmVmkwRGtudnd1Ym5GRWRXY19NRHh0STZJd0xMaHBIXzZKRU1PazI5XzlDc2FNbHJiYjVyRkRYZGRBOGM5c2VYOFY3Skp6aF8tMGVvZjlpV0VfQ2kteGJlWlI5Q2NUZUpDUW52NWJqc3VCWk53Nnk5WW9jS2tyXzQ4TEdHSS1R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "estilo|https://news.google.com/rss/articles/CBMiygFBVV95cUxOTUl0NXZBNXppNU9OWHpoVDNxcHFBNFlfMG12bTlhV2l3bWhoeEUyWWQ0TzF2QnhIb3Fra2tUdm5BYWlBVlBsR2JmaE0tcl9VdEZPeW94SnFxWEhiOFh6SlpvSE00cENsTm41NGozLUIydXJmZElkaEY2dG1HZ0t1MjNfY0U1b2FCQXhUU0R6dHZwMEFaWUlHOHNzemd3bXhGQ1gzdlpWak5yZ2JoeUp0TE4wbzdWc3JkRTg1NUNoWDhqcHdhbU9OYmV3?oc=5",
+      "section": "estilo",
+      "category": "GQ España",
+      "title": "Llegan las Louis Vuitton Drop 300, las zapatillas más deportivas (y técnicas) de Pharrell Williams - GQ España",
+      "summary": "Llegan las Louis Vuitton Drop 300, las zapatillas más deportivas (y técnicas) de Pharrell Williams GQ España",
+      "image": "",
+      "publishedAt": "2026-11-06 09:20 UTC",
+      "language": "es",
+      "topic": "Moda",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "GQ España",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTUl0NXZBNXppNU9OWHpoVDNxcHFBNFlfMG12bTlhV2l3bWhoeEUyWWQ0TzF2QnhIb3Fra2tUdm5BYWlBVlBsR2JmaE0tcl9VdEZPeW94SnFxWEhiOFh6SlpvSE00cENsTm41NGozLUIydXJmZElkaEY2dG1HZ0t1MjNfY0U1b2FCQXhUU0R6dHZwMEFaWUlHOHNzemd3bXhGQ1gzdlpWak5yZ2JoeUp0TE4wbzdWc3JkRTg1NUNoWDhqcHdhbU9OYmV3?oc=5"
         }
       ]
     },
@@ -2776,24 +2776,6 @@
       ]
     },
     {
-      "id": "estilo|https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSVIyRWpMX2RTWXlvLURqRmdJUHJQUzA3Q0xTR0JyOFdpN2lKSlppYXBSMHZWTUY5a0xsVkFMMURBQ0VyRHo3R2hXTzNTbzVtTVZEUnJweHl3eFZwNU9mWFkxTEt3c2pMVUYzck1WR01jcFhrY1hMTEJiZHZSSzFnaFRrZU0zUkp5WkNjT2RnYVdBUVJyX2puODhfOE9mNk5Ud3hFSnplVWw?oc=5",
-      "section": "estilo",
-      "category": "GQ España",
-      "title": "En la moda, saber de todo ya no basta: las empresas buscan especialistas - GQ España",
-      "summary": "En la moda, saber de todo ya no basta: las empresas buscan especialistas GQ España",
-      "image": "",
-      "publishedAt": "2026-11-04 14:26 UTC",
-      "language": "es",
-      "topic": "Moda",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "GQ España",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSVIyRWpMX2RTWXlvLURqRmdJUHJQUzA3Q0xTR0JyOFdpN2lKSlppYXBSMHZWTUY5a0xsVkFMMURBQ0VyRHo3R2hXTzNTbzVtTVZEUnJweHl3eFZwNU9mWFkxTEt3c2pMVUYzck1WR01jcFhrY1hMTEJiZHZSSzFnaFRrZU0zUkp5WkNjT2RnYVdBUVJyX2puODhfOE9mNk5Ud3hFSnplVWw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "estilo|https://news.google.com/rss/articles/CBMimwFBVV95cUxOM1NPbmczaTFIajRlTDdFOFp6M2ZZb1ZqWm1vNzR5QVlsOGNYWjljSDJUTTFzVlR5bFF6eGVxRll5ODlIRm9GcDJLeFlqT3BSNWl5VGc3RHlBWk9HTEtCVlJwbXo5TDNQNEg3ZFB5UTBrZmRKallYSFE4NjA1NWF4YktsVmdMXy1CeHlZNFRlam9zelk3Qi1sYXItOA?oc=5",
       "section": "estilo",
       "category": "Esquire España",
@@ -2826,24 +2808,6 @@
         {
           "name": "Esquire España",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaTlUbGNGU2VfNUZLWU9ZSjl2aU9SYU5tUVRoRHVpZEJmNWY4X1pTaUxWWTl0eWtTdzJnUFJwV0FON1dySDk3VXQwR0lMQTZZcVZKYzd2eFBOUjJIdk9XcFc4eVFSSTlKSjJ3MEVfaU92UmtxNF96XzRVZFpPbnhzM2pnVl96Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "estilo|https://news.google.com/rss/articles/CBMioAFBVV95cUxQTlBab2w2WWszLS1BXzQ5dVV1LWdrYmtJWl9Jci1WSWNpUXA3QlFiSFlfQXNHSnRUQVg5MzBnNXRZUjM0MUlNeFBRREJwcUpkZkl0aHZTNVFkT0JXaURKNHlwS3U5TmNQSl9QbFowTG14NHMyREVZZkFhVnpkYk1UWTA1ZC1ROXktV0lQREZPaFFVV29fNERteU9HcDVFYWc0?oc=5",
-      "section": "estilo",
-      "category": "Esquire España",
-      "title": "El mejor vino del mundo por menos de 20 € es español y perfecto para triunfar esta Navidad - Esquire",
-      "summary": "El mejor vino del mundo por menos de 20 € es español y perfecto para triunfar esta Navidad Esquire",
-      "image": "",
-      "publishedAt": "2026-11-06 12:32 UTC",
-      "language": "es",
-      "topic": "Moda",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Esquire España",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTlBab2w2WWszLS1BXzQ5dVV1LWdrYmtJWl9Jci1WSWNpUXA3QlFiSFlfQXNHSnRUQVg5MzBnNXRZUjM0MUlNeFBRREJwcUpkZkl0aHZTNVFkT0JXaURKNHlwS3U5TmNQSl9QbFowTG14NHMyREVZZkFhVnpkYk1UWTA1ZC1ROXktV0lQREZPaFFVV29fNERteU9HcDVFYWc0?oc=5"
         }
       ]
     },
@@ -2938,6 +2902,24 @@
       ]
     },
     {
+      "id": "estilo|https://news.google.com/rss/articles/CBMilwFBVV95cUxNOTJiT2xuY1VQeWJRS1FoM1dJcFB5Z3BsbVNocGYyRV9fVm90eXdFTWN5eHU5NE15TVNyZjBNYTFITG1iOVlTdE9fUGZOa2dQZW8yeXBUQlR2b0lvR0E3NHN0NkU0LThFaDVqdWVYM1lZc19QRUcxV1lDOE1fNENRTFJlUUJzRkhIVGhSSlhUd3l5bXo1bUhr?oc=5",
+      "section": "estilo",
+      "category": "Esquire España",
+      "title": "Carlos Peguer: así se viste el estilo preppy de lunes a viernes - Esquire",
+      "summary": "Carlos Peguer: así se viste el estilo preppy de lunes a viernes Esquire",
+      "image": "",
+      "publishedAt": "2026-11-05 15:28 UTC",
+      "language": "es",
+      "topic": "Moda",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Esquire España",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOTJiT2xuY1VQeWJRS1FoM1dJcFB5Z3BsbVNocGYyRV9fVm90eXdFTWN5eHU5NE15TVNyZjBNYTFITG1iOVlTdE9fUGZOa2dQZW8yeXBUQlR2b0lvR0E3NHN0NkU0LThFaDVqdWVYM1lZc19QRUcxV1lDOE1fNENRTFJlUUJzRkhIVGhSSlhUd3l5bXo1bUhr?oc=5"
+        }
+      ]
+    },
+    {
       "id": "estilo|https://news.google.com/rss/articles/CBMinAFBVV95cUxQZjZ5djl5M3VsdXNGUE5jSkIzMUdCaTJodjhiTlZjNHU4SWZVbDl3MEw0MUhuTm15eE9jWEI4dU9vMGd4cGRhVkhWdGs0TkhCRHJ1UHJlSWlVS0R2R2wxUG9wZlI4NVhUY2JjaXQwdTRVRWp4a1JRQkVGeUo3aV84SXFwZllBNEdKNHBUeExmZkYwNGthdDhTVkxrU20?oc=5",
       "section": "estilo",
       "category": "GQ España Lifestyle",
@@ -2952,24 +2934,6 @@
         {
           "name": "GQ España Lifestyle",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZjZ5djl5M3VsdXNGUE5jSkIzMUdCaTJodjhiTlZjNHU4SWZVbDl3MEw0MUhuTm15eE9jWEI4dU9vMGd4cGRhVkhWdGs0TkhCRHJ1UHJlSWlVS0R2R2wxUG9wZlI4NVhUY2JjaXQwdTRVRWp4a1JRQkVGeUo3aV84SXFwZllBNEdKNHBUeExmZkYwNGthdDhTVkxrU20?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "estilo|https://news.google.com/rss/articles/CBMiygFBVV95cUxOTUl0NXZBNXppNU9OWHpoVDNxcHFBNFlfMG12bTlhV2l3bWhoeEUyWWQ0TzF2QnhIb3Fra2tUdm5BYWlBVlBsR2JmaE0tcl9VdEZPeW94SnFxWEhiOFh6SlpvSE00cENsTm41NGozLUIydXJmZElkaEY2dG1HZ0t1MjNfY0U1b2FCQXhUU0R6dHZwMEFaWUlHOHNzemd3bXhGQ1gzdlpWak5yZ2JoeUp0TE4wbzdWc3JkRTg1NUNoWDhqcHdhbU9OYmV3?oc=5",
-      "section": "estilo",
-      "category": "GQ España Lifestyle",
-      "title": "Llegan las Louis Vuitton Drop 300, las zapatillas más deportivas (y técnicas) de Pharrell Williams - GQ España",
-      "summary": "Llegan las Louis Vuitton Drop 300, las zapatillas más deportivas (y técnicas) de Pharrell Williams GQ España",
-      "image": "",
-      "publishedAt": "2026-11-06 09:20 UTC",
-      "language": "es",
-      "topic": "Estilo de vida",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "GQ España Lifestyle",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTUl0NXZBNXppNU9OWHpoVDNxcHFBNFlfMG12bTlhV2l3bWhoeEUyWWQ0TzF2QnhIb3Fra2tUdm5BYWlBVlBsR2JmaE0tcl9VdEZPeW94SnFxWEhiOFh6SlpvSE00cENsTm41NGozLUIydXJmZElkaEY2dG1HZ0t1MjNfY0U1b2FCQXhUU0R6dHZwMEFaWUlHOHNzemd3bXhGQ1gzdlpWak5yZ2JoeUp0TE4wbzdWc3JkRTg1NUNoWDhqcHdhbU9OYmV3?oc=5"
         }
       ]
     },
@@ -3316,6 +3280,24 @@
       ]
     },
     {
+      "id": "estilo|https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NRVN3ZFJrLWo0TjVfUTRmVHp1anpHV1J0aF9mNExjMUtQLWN1UDQ1bE03eDJRNHRLS0JNcVhmSjl3WmUyeHZtaEY2YTNGZi00Yl90UE9xdzJXTWdPV0ZfVU1B?oc=5",
+      "section": "estilo",
+      "category": "Menswear International",
+      "title": "6 Best Safety Razors for Men Who Want a Closer, More Comfortable Shave - Style Rave",
+      "summary": "6 Best Safety Razors for Men Who Want a Closer, More Comfortable Shave Style Rave",
+      "image": "",
+      "publishedAt": "2026-11-06 15:00 UTC",
+      "language": "en",
+      "topic": "Moda",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Menswear International",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NRVN3ZFJrLWo0TjVfUTRmVHp1anpHV1J0aF9mNExjMUtQLWN1UDQ1bE03eDJRNHRLS0JNcVhmSjl3WmUyeHZtaEY2YTNGZi00Yl90UE9xdzJXTWdPV0ZfVU1B?oc=5"
+        }
+      ]
+    },
+    {
       "id": "estilo|https://news.google.com/rss/articles/CBMiekFVX3lxTFBHUl82U1BhWTJkSDZHZzhrc3FlT3NkNHNBaUdvNkRXLXRuOWtab0huNkkxNDVMSU1QdEJzeTMwb0JNQW5ER0lCTDBqR0Fqa0lJZFNCd3lWOHZPcXdnX1dmYzVwYWJ3OFdJTUgtNG0tQzRKWGM4UkFhSmhn?oc=5",
       "section": "estilo",
       "category": "Menswear International",
@@ -3370,24 +3352,6 @@
       ]
     },
     {
-      "id": "estilo|https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjZXlkNVFrWDRHa2piYks1S1FsUWFXSlFEVGtfYmctS1Jsd1JwbHhxcW5SRUFvLWwwcVpHcWd1QWFIUTdEcU9PTXFzQl81V0wwdzlZT2lVUTBWNWRFbVF5U3U0UTZXUQ?oc=5",
-      "section": "estilo",
-      "category": "Menswear International",
-      "title": "Dad doesn’t need another tie. Here are 37 gifts he’ll actually enjoy - CNN",
-      "summary": "Dad doesn’t need another tie. Here are 37 gifts he’ll actually enjoy CNN",
-      "image": "",
-      "publishedAt": "2026-11-04 18:00 UTC",
-      "language": "en",
-      "topic": "Moda",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Menswear International",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjZXlkNVFrWDRHa2piYks1S1FsUWFXSlFEVGtfYmctS1Jsd1JwbHhxcW5SRUFvLWwwcVpHcWd1QWFIUTdEcU9PTXFzQl81V0wwdzlZT2lVUTBWNWRFbVF5U3U0UTZXUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "estilo|https://news.google.com/rss/articles/CBMihwFBVV95cUxPUXRtLVhCcVY5R2g4cVRfNl9hNVFuOWtNdGJudHF6V1lXOHJJSFpfWWdFQXQ5V2stMklZNzQ4aVdoWHVfS0dfZ0lIaEtaWXlKX3VXclhhSk1ZU05yYXM1Q29DRlE2SE15YlpoakdUeGU0OFlLejVBT1A5cW5sY3lNSzJLM0k4SEU?oc=5",
       "section": "estilo",
       "category": "Menswear International",
@@ -3424,6 +3388,24 @@
       ]
     },
     {
+      "id": "estilo|https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwUVJhbzhjSjlWN1ljRkdZUXZwLVd2OFhMVHlUa1pYZVdyVmpnaXZ3THJFV1RGRVJveTRtZDBiMGlmQXVHS1ZkRWczZjE0a2dlNl8wMVptWURuNHlkdXNaWm5UYkltZkU?oc=5",
+      "section": "estilo",
+      "category": "Menswear International",
+      "title": "The best belts for men should never be an afterthought - British GQ",
+      "summary": "The best belts for men should never be an afterthought British GQ",
+      "image": "",
+      "publishedAt": "2026-11-04 12:33 UTC",
+      "language": "en",
+      "topic": "Moda",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Menswear International",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwUVJhbzhjSjlWN1ljRkdZUXZwLVd2OFhMVHlUa1pYZVdyVmpnaXZ3THJFV1RGRVJveTRtZDBiMGlmQXVHS1ZkRWczZjE0a2dlNl8wMVptWURuNHlkdXNaWm5UYkltZkU?oc=5"
+        }
+      ]
+    },
+    {
       "id": "estilo|https://news.google.com/rss/articles/CBMif0FVX3lxTE9fRHZxVnBjV1pwYXhMLV9Wb2NZdUsxelIzUmhsdGQyMkRfWF9UbFBQMlFLNmx2ZmcxMjhxZjFjRWFFelRkM2gtQUhwYlZTcEV5YVZlZktRVk1NTmUxSWRnbC1FYnd6cFpyWFJqNHlvRUVNVk9jSFlFYU5Lancwd1E?oc=5",
       "section": "estilo",
       "category": "Menswear International",
@@ -3438,24 +3420,6 @@
         {
           "name": "Menswear International",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fRHZxVnBjV1pwYXhMLV9Wb2NZdUsxelIzUmhsdGQyMkRfWF9UbFBQMlFLNmx2ZmcxMjhxZjFjRWFFelRkM2gtQUhwYlZTcEV5YVZlZktRVk1NTmUxSWRnbC1FYnd6cFpyWFJqNHlvRUVNVk9jSFlFYU5Lancwd1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "estilo|https://news.google.com/rss/articles/CBMiakFVX3lxTFByMjlPUFdmRUx2M3RoSjFSbHpRclpjZnlBRklOQXFxcWJuOG5YWmdDVEJUT3ZQaEdzeHFvaHE4bExtcFVZbjJiVW9FVHduZHY2V2duQ3RFUjVVTmRsRzNGVi1rTTFCSHRJclE?oc=5",
-      "section": "estilo",
-      "category": "Menswear International",
-      "title": "The workwear brands you should know, whatever you do for a living - British GQ",
-      "summary": "The workwear brands you should know, whatever you do for a living British GQ",
-      "image": "",
-      "publishedAt": "2026-11-04 06:00 UTC",
-      "language": "en",
-      "topic": "Moda",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Menswear International",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByMjlPUFdmRUx2M3RoSjFSbHpRclpjZnlBRklOQXFxcWJuOG5YWmdDVEJUT3ZQaEdzeHFvaHE4bExtcFVZbjJiVW9FVHduZHY2V2duQ3RFUjVVTmRsRzNGVi1rTTFCSHRJclE?oc=5"
         }
       ]
     },
@@ -3676,38 +3640,38 @@
       ]
     },
     {
-      "id": "mundo|https://news.google.com/rss/articles/CBMixwFBVV95cUxQWlBqNDNLWm53eHI0c0JoT0pQRWhQTFZ0LU12MEFzNmV2YVNqaEdkbWNPOGl0MG93VFlfUUluLXVoV1JFMnk4OFA0dVdoNm9hU044UjNyTnBfMDdHZmlCbC1QeGZqNFk1VF9ZQ2dLRW9keVNLWl9QX0NrZE55cFU4MXJZaDRZLWJjMFI4QVoxekwybVlydDcwc01UaFJuY1RQLXNienI3eFlPSXpVZHBJX09sMnZRRktxQ2hWNFk2UmtDaGRQbndF?oc=5",
+      "id": "mundo|https://news.google.com/rss/articles/CBMisgFBVV95cUxPakNLaDVCMElHQkc5cjV5SmVJcFNPdVpMbnZHRmVFMkoxR3hhbERYTnBZcUlmQVZBanhMeVhEZHpsN3JxM0xrUHNsYVZPWW1EdXBWam1pNk5lSEZVNHkwcUV1VG9xbmVYek80a3JXelRIcW9fQjQ3TUljTUdpZkhYWUJaZHhxNTUybWQwME81bUtPTmJ4UUg4ZjVrZjVlLUx2azFkWjhmeThDWkp2MHJwdTVR?oc=5",
       "section": "mundo",
       "category": "Reuters",
-      "title": "Activists breach Microsoft data centre construction site as protests spread in Europe - Reuters",
-      "summary": "Activists breach Microsoft data centre construction site as protests spread in Europe Reuters",
+      "title": "US job growth surges in October; unemployment rate falls to 4.1% - Reuters",
+      "summary": "US job growth surges in October; unemployment rate falls to 4.1% Reuters",
       "image": "",
-      "publishedAt": "2026-11-06 13:37 UTC",
+      "publishedAt": "2026-11-06 15:08 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWlBqNDNLWm53eHI0c0JoT0pQRWhQTFZ0LU12MEFzNmV2YVNqaEdkbWNPOGl0MG93VFlfUUluLXVoV1JFMnk4OFA0dVdoNm9hU044UjNyTnBfMDdHZmlCbC1QeGZqNFk1VF9ZQ2dLRW9keVNLWl9QX0NrZE55cFU4MXJZaDRZLWJjMFI4QVoxekwybVlydDcwc01UaFJuY1RQLXNienI3eFlPSXpVZHBJX09sMnZRRktxQ2hWNFk2UmtDaGRQbndF?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPakNLaDVCMElHQkc5cjV5SmVJcFNPdVpMbnZHRmVFMkoxR3hhbERYTnBZcUlmQVZBanhMeVhEZHpsN3JxM0xrUHNsYVZPWW1EdXBWam1pNk5lSEZVNHkwcUV1VG9xbmVYek80a3JXelRIcW9fQjQ3TUljTUdpZkhYWUJaZHhxNTUybWQwME81bUtPTmJ4UUg4ZjVrZjVlLUx2azFkWjhmeThDWkp2MHJwdTVR?oc=5"
         }
       ]
     },
     {
-      "id": "mundo|https://news.google.com/rss/articles/CBMivAFBVV95cUxPOVFQN3ZZdXgwV0VlOWE3MF8zbXg0ZF9ZenNaZ3pVTl8xcHpuREFHUFpodWFmMXVzSmN3c29kRVViMDZhdkZ1QjB1WGdoR0tLZ09OaTRORzBOWmNQQUFUb2RvMnpVdjQ3eGlCcmJsSGxPNzFVM0N2bEJCZ3V5SVJ0OTRyZW9LbFVhVmRXeUV2a0Q0eFE4WVR1Vl81V1NoTWZ4THNYbklpbFc1RmxIZ043WTBVWWxwTW4yVmNYXw?oc=5",
+      "id": "mundo|https://news.google.com/rss/articles/CBMikgFBVV95cUxOQlB2Sm9vTXA4Rlp1QWxROTNzaUJ5TG0teEFKRWs1cmY3VFZkZXd6RlVzQmxNTGcxcmwyMG9SOUZlRVdKS0o2V08xbzdaRW5sbGNBTDdpRUduU0xsQUV3czAybnlIU0FPQUs1ZFR1RE41U3BpZXhIeHFYeEI1b2RRamRWQnhpOUVESHM2TENjNS1XUQ?oc=5",
       "section": "mundo",
       "category": "Reuters",
-      "title": "Kenyan cult leader sentenced to 200 years in prison for mass starvation murders of children - Reuters",
-      "summary": "Kenyan cult leader sentenced to 200 years in prison for mass starvation murders of children Reuters",
+      "title": "Seafarer killed in suspected missile attack on tanker in Gulf - Reuters",
+      "summary": "Seafarer killed in suspected missile attack on tanker in Gulf Reuters",
       "image": "",
-      "publishedAt": "2026-11-06 13:30 UTC",
+      "publishedAt": "2026-11-06 14:17 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOVFQN3ZZdXgwV0VlOWE3MF8zbXg0ZF9ZenNaZ3pVTl8xcHpuREFHUFpodWFmMXVzSmN3c29kRVViMDZhdkZ1QjB1WGdoR0tLZ09OaTRORzBOWmNQQUFUb2RvMnpVdjQ3eGlCcmJsSGxPNzFVM0N2bEJCZ3V5SVJ0OTRyZW9LbFVhVmRXeUV2a0Q0eFE4WVR1Vl81V1NoTWZ4THNYbklpbFc1RmxIZ043WTBVWWxwTW4yVmNYXw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQlB2Sm9vTXA4Rlp1QWxROTNzaUJ5TG0teEFKRWs1cmY3VFZkZXd6RlVzQmxNTGcxcmwyMG9SOUZlRVdKS0o2V08xbzdaRW5sbGNBTDdpRUduU0xsQUV3czAybnlIU0FPQUs1ZFR1RE41U3BpZXhIeHFYeEI1b2RRamRWQnhpOUVESHM2TENjNS1XUQ?oc=5"
         }
       ]
     },
@@ -3802,20 +3766,20 @@
       ]
     },
     {
-      "id": "mundo|https://news.google.com/rss/articles/CBMirwFBVV95cUxQT0tGNF9sdWRvb09kYkVWTkZrRXd2MElfc2U4WUpDQ3BYSzZUR0tueGxnMU1QQ1g3Zm5CSU1RVFplTmpVYnhUNjloVmhMdTAtZkhHX1p3dU8tVVZqbHVHUGxrQ21oRVc3SkZmcU5hbVNOVnVWRmxyX2kxMWZ2OEs0X2xnb2ZJRUk4am5RSUZtU3dEbTFpWHBuWEgwbWpvSHZ5M3NFbElVMDRFZEh6ZGNZ0gG0AUFVX3lxTE8zeE5FYkJzZ0h0QU9makNoX0U5ODh0Tl9tQVhxY1ZsZlJnZjFlMzN0UkxpSlV4MWNySWJic2F5TTBpUU1OUEtGSWJHUDRVbzEwdXo3WXZyMzV5emstMVRUeXUyV3ppU1JTRmYyOEN6b21xc3BIT0Y5bFFPbjd0WlBWaTlMYkFxdGlZcWRrWEd5WVNoZVBRMDlxNUJVcUVsY1dzMHJPcUNxOUVzSzA3RmF1ZXdBTw?oc=5",
+      "id": "mundo|https://news.google.com/rss/articles/CBMisAFBVV95cUxQbW1yUm1DRVhWYXpsQlBBUFl6b3R0X3dSdzByOGlwbk9oYWk1UERtQUdqNUNmTGVBNmhsaWNNTV8yc1JCRlM1YjFqUTFBQmxjU3hYYmJ5LU56MW1DWk4yQ2J3SFFVTk1qSFhFUU52cFRKVEtSVE5tNExsR25kanZ2WGdNVjMwanJTX1pteHJhQWNISWdwT3BncVhUbnlqaVFGOEYwVGRpUnRJRXVJcnhqbdIBtgFBVV95cUxQVURpdGVGMzhZbC1WZWFldTU1MGtodkVQX0lpMC1jcEx3dWljRGduR2VyMVFfU19ZMVNhSEhwbjktRl9pdURhOC1nWnRQM1VDUTF2UllDaUxabmtDZGljVEs3ZEl5NURxQktPY2NESkJvUURtQXZrZWFJUWZyb1MzSlhMX1R3ZUhUT0RpbTFWcDRkRHJYTXg5Wmhzb2ExeDNSOTN5aUdCZWtDSjFCRm1kTGFBUDZoZw?oc=5",
       "section": "mundo",
       "category": "Al Jazeera",
-      "title": "Joint List says it will back Eisenkot to form Israel’s next government - Al Jazeera",
-      "summary": "Joint List says it will back Eisenkot to form Israel’s next government Al Jazeera",
+      "title": "Hundreds of thousands protest across France over high cost of living - Al Jazeera",
+      "summary": "Hundreds of thousands protest across France over high cost of living Al Jazeera",
       "image": "",
-      "publishedAt": "2026-11-05 16:37 UTC",
+      "publishedAt": "2026-11-06 03:36 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT0tGNF9sdWRvb09kYkVWTkZrRXd2MElfc2U4WUpDQ3BYSzZUR0tueGxnMU1QQ1g3Zm5CSU1RVFplTmpVYnhUNjloVmhMdTAtZkhHX1p3dU8tVVZqbHVHUGxrQ21oRVc3SkZmcU5hbVNOVnVWRmxyX2kxMWZ2OEs0X2xnb2ZJRUk4am5RSUZtU3dEbTFpWHBuWEgwbWpvSHZ5M3NFbElVMDRFZEh6ZGNZ0gG0AUFVX3lxTE8zeE5FYkJzZ0h0QU9makNoX0U5ODh0Tl9tQVhxY1ZsZlJnZjFlMzN0UkxpSlV4MWNySWJic2F5TTBpUU1OUEtGSWJHUDRVbzEwdXo3WXZyMzV5emstMVRUeXUyV3ppU1JTRmYyOEN6b21xc3BIT0Y5bFFPbjd0WlBWaTlMYkFxdGlZcWRrWEd5WVNoZVBRMDlxNUJVcUVsY1dzMHJPcUNxOUVzSzA3RmF1ZXdBTw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbW1yUm1DRVhWYXpsQlBBUFl6b3R0X3dSdzByOGlwbk9oYWk1UERtQUdqNUNmTGVBNmhsaWNNTV8yc1JCRlM1YjFqUTFBQmxjU3hYYmJ5LU56MW1DWk4yQ2J3SFFVTk1qSFhFUU52cFRKVEtSVE5tNExsR25kanZ2WGdNVjMwanJTX1pteHJhQWNISWdwT3BncVhUbnlqaVFGOEYwVGRpUnRJRXVJcnhqbdIBtgFBVV95cUxQVURpdGVGMzhZbC1WZWFldTU1MGtodkVQX0lpMC1jcEx3dWljRGduR2VyMVFfU19ZMVNhSEhwbjktRl9pdURhOC1nWnRQM1VDUTF2UllDaUxabmtDZGljVEs3ZEl5NURxQktPY2NESkJvUURtQXZrZWFJUWZyb1MzSlhMX1R3ZUhUT0RpbTFWcDRkRHJYTXg5Wmhzb2ExeDNSOTN5aUdCZWtDSjFCRm1kTGFBUDZoZw?oc=5"
         }
       ]
     },
@@ -4018,20 +3982,20 @@
       ]
     },
     {
-      "id": "television|https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeVBYSzkzanZrc1Q1djNzRWUxUWxLRGpaTDFHVktWS01yclRjTmN3Q3ZhckNTSU1nSUYwLWExT3Ryc2xfUWZqbnVUZjR5RGl5SUZkaVRHWmtfdHdUV3JTN0NCVHN1cHR3aU5LS1VfQ3dvYmdDcnpZTUZ0eGE5ZXdEQU9pMVZuSmgydWVSVVV0SmtCZ0FVWHg4SHpGMkNwMmNrWElzczBQbTVubm4zYUN2MXNLYkZUbW9QaEUtSDFLTm0?oc=5",
+      "id": "television|https://news.google.com/rss/articles/CBMitwFBVV95cUxNVU9la2djZU5ITzYtYjMyVk9nc01YeEJ3d3RCZTVkeU9PcXNDSFJtb3pjbGl4Uzc2UXBRdEZmY3UweVVRa0tNZWRyM3FyR1VfM1ZobVZzS2EzVjBBcW5tYWtlNnh1RzAxcWVqTFlKQ2RESndDbFF5QTBQaEsyck12T1RINkRQczRmVllac3FnckJsTUx1d2hZTDlndzgxb0tWLUJzVFR4UEVlS1FBd05qb0ZBZVlLMFE?oc=5",
       "section": "television",
       "category": "The Hollywood Reporter",
-      "title": "Christopher Nolan’s ‘The Odyssey’ Will Return to Theaters Next Month as Awards Season Heats Up - The Hollywood Reporter",
-      "summary": "Christopher Nolan’s ‘The Odyssey’ Will Return to Theaters Next Month as Awards Season Heats Up The Hollywood Reporter",
+      "title": "Adam Driver Confirms ‘Heat 2’ Villain Role, Shares Michael Mann Update After Accidental Shooting - The Hollywood Reporter",
+      "summary": "Adam Driver Confirms ‘Heat 2’ Villain Role, Shares Michael Mann Update After Accidental Shooting The Hollywood Reporter",
       "image": "",
-      "publishedAt": "2026-11-05 18:33 UTC",
+      "publishedAt": "2026-11-05 21:52 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeVBYSzkzanZrc1Q1djNzRWUxUWxLRGpaTDFHVktWS01yclRjTmN3Q3ZhckNTSU1nSUYwLWExT3Ryc2xfUWZqbnVUZjR5RGl5SUZkaVRHWmtfdHdUV3JTN0NCVHN1cHR3aU5LS1VfQ3dvYmdDcnpZTUZ0eGE5ZXdEQU9pMVZuSmgydWVSVVV0SmtCZ0FVWHg4SHpGMkNwMmNrWElzczBQbTVubm4zYUN2MXNLYkZUbW9QaEUtSDFLTm0?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVU9la2djZU5ITzYtYjMyVk9nc01YeEJ3d3RCZTVkeU9PcXNDSFJtb3pjbGl4Uzc2UXBRdEZmY3UweVVRa0tNZWRyM3FyR1VfM1ZobVZzS2EzVjBBcW5tYWtlNnh1RzAxcWVqTFlKQ2RESndDbFF5QTBQaEsyck12T1RINkRQczRmVllac3FnckJsTUx1d2hZTDlndzgxb0tWLUJzVFR4UEVlS1FBd05qb0ZBZVlLMFE?oc=5"
         }
       ]
     },
@@ -4126,38 +4090,20 @@
       ]
     },
     {
-      "id": "tecnologia|https://news.google.com/rss/articles/CBMizgFBVV95cUxQMWluNTRhemJXVzNfMTZsTjNUNU1ZQngxYkZzOHM0QVZXSFV0ek5NOXptWTlJZUpiYkNTVG1rQlU5QWdjZUZGX2o5SzM1bkZ6eUpTZWVpYmlkN3g0eEZHSGYzc3lZaGF0d01oT05YbFRoNkVsLUs5YnRXcHV4bEREY25mak55cnJiR0RTUjF5TmI0cjYtU2kzRUZVM3owMUhEX3pQTjVuLXZpOTIxV2RUd1VkaWdMVTFRZTFCSTdjUXFBWGZPQTZxUzc2cHBmd9IB0wFBVV95cUxQNzNMblgxMXV2dUdmVjBGMU9kMHpxYnlINkpyVzA3MEk5VFB6Z3VBUXJiWEs3dVBFaVNPcmN2Q1M5V0VnR3l1dXBDZjQwc1VjbXB1OEEwVFVMb0I5MnI3ZllsWTFvcThzUzBrejJmcm1zUXlSbTRKWl9JR0FtYUw1QXBqZjZKcGxTN2JyTmJPWDdtdFBxSXhLT1F0Y29XZGd0T1JOc29DY04teVNQeGpiSWdqWEloTU5XWDJNWGs0UV9pWWwzbEVDZnlwTlM0d1hTMjZF?oc=5",
+      "id": "tecnologia|https://news.google.com/rss/articles/CBMitgFBVV95cUxQczdpUTRPUEpfbVBRcWpieDNFcGpyZ2MtR0VJSThyWW10TG1tYjBjaTB4Y1NRZXByV2lLeU93eTRySkVnNFpwWkZzV1N0ODAtQjY4RWNPSnRBUEFYWU4yWDZnWjBDZmd3bVFxX0hKOHZUNG54M0pqakRQSlltMXZrbXlwUzZLbS1NTXZ4WDJkUmU5b2l6YjV0N25CbWY1VDNpdU9BREhWRHJfMmtSbGNCdVl5cS0yZ9IBuwFBVV95cUxQdGpMdkpmV0E3X3g3S3Eta2h0ai1nNTVoT0hGWDA5R3JCWlQzYUVKN0FUTnZxWUhJQzloeGVabG9NY25fTEdfbjJld0x3UFhRVjBUWi1OMVp3dFNmSndKaHBNaGJRMVdGM3QxbWltUWtYaXhrUUZKNTJYQzlCekE3LXNYZU4xWE9PUnlKRFVJZWFrQTVkSHZEaWhrVWZma3B0Rl9zUDZ0eHVaaGZ1MjVBQ3c1cnJ6X01DRjZz?oc=5",
       "section": "tecnologia",
       "category": "Xataka",
-      "title": "Amazon está agotando esta casa prefabricada expandible: es solar, autosuficiente y cuesta poco más de 13.000 euros - Xataka",
-      "summary": "Amazon está agotando esta casa prefabricada expandible: es solar, autosuficiente y cuesta poco más de 13.000 euros Xataka",
+      "title": "En medio de una crisis de ciberseguridad, OpenAI estrena GPT-6 Cyber, su nuevo modelo \"crítico\" - Xataka",
+      "summary": "En medio de una crisis de ciberseguridad, OpenAI estrena GPT-6 Cyber, su nuevo modelo \"crítico\" Xataka",
       "image": "",
-      "publishedAt": "2026-11-06 10:31 UTC",
+      "publishedAt": "2026-11-06 11:01 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Xataka",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMWluNTRhemJXVzNfMTZsTjNUNU1ZQngxYkZzOHM0QVZXSFV0ek5NOXptWTlJZUpiYkNTVG1rQlU5QWdjZUZGX2o5SzM1bkZ6eUpTZWVpYmlkN3g0eEZHSGYzc3lZaGF0d01oT05YbFRoNkVsLUs5YnRXcHV4bEREY25mak55cnJiR0RTUjF5TmI0cjYtU2kzRUZVM3owMUhEX3pQTjVuLXZpOTIxV2RUd1VkaWdMVTFRZTFCSTdjUXFBWGZPQTZxUzc2cHBmd9IB0wFBVV95cUxQNzNMblgxMXV2dUdmVjBGMU9kMHpxYnlINkpyVzA3MEk5VFB6Z3VBUXJiWEs3dVBFaVNPcmN2Q1M5V0VnR3l1dXBDZjQwc1VjbXB1OEEwVFVMb0I5MnI3ZllsWTFvcThzUzBrejJmcm1zUXlSbTRKWl9JR0FtYUw1QXBqZjZKcGxTN2JyTmJPWDdtdFBxSXhLT1F0Y29XZGd0T1JOc29DY04teVNQeGpiSWdqWEloTU5XWDJNWGs0UV9pWWwzbEVDZnlwTlM0d1hTMjZF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "tecnologia|https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM0RxMk5ycVg4dDlnSi04N0h1ZGFzTkRNWlIzc0ZMOXdnUjdUczZ4Ynh2LUpQV1ZVdzdyVzUyTHZYUnNJU1JRd1NURGV4N003WFpGR1RWaFRmTDFkMk5wMllRN0NLMGRpanphajFzRG1ZTlRjY21ZXzdOZ2pQaWs2REFxTXZiRUJjSlhUWWNXZTQxaGVoZzJSTUxvZ2lOaWQ3Zlcwd2dSQXgwZm5PVnJUY3NJSkprNGJuZWUxaU5hRVpkN0FTZDlrMQ?oc=5",
-      "section": "tecnologia",
-      "category": "Applesfera",
-      "title": "Apple podrá eliminar archivos de iCloud a partir de iOS 27.3. Y hay algo que todavía no han explicado - Applesfera",
-      "summary": "Apple podrá eliminar archivos de iCloud a partir de iOS 27.3. Y hay algo que todavía no han explicado Applesfera",
-      "image": "",
-      "publishedAt": "2026-11-05 10:00 UTC",
-      "language": "es",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Applesfera",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM0RxMk5ycVg4dDlnSi04N0h1ZGFzTkRNWlIzc0ZMOXdnUjdUczZ4Ynh2LUpQV1ZVdzdyVzUyTHZYUnNJU1JRd1NURGV4N003WFpGR1RWaFRmTDFkMk5wMllRN0NLMGRpanphajFzRG1ZTlRjY21ZXzdOZ2pQaWs2REFxTXZiRUJjSlhUWWNXZTQxaGVoZzJSTUxvZ2lOaWQ3Zlcwd2dSQXgwZm5PVnJUY3NJSkprNGJuZWUxaU5hRVpkN0FTZDlrMQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQczdpUTRPUEpfbVBRcWpieDNFcGpyZ2MtR0VJSThyWW10TG1tYjBjaTB4Y1NRZXByV2lLeU93eTRySkVnNFpwWkZzV1N0ODAtQjY4RWNPSnRBUEFYWU4yWDZnWjBDZmd3bVFxX0hKOHZUNG54M0pqakRQSlltMXZrbXlwUzZLbS1NTXZ4WDJkUmU5b2l6YjV0N25CbWY1VDNpdU9BREhWRHJfMmtSbGNCdVl5cS0yZ9IBuwFBVV95cUxQdGpMdkpmV0E3X3g3S3Eta2h0ai1nNTVoT0hGWDA5R3JCWlQzYUVKN0FUTnZxWUhJQzloeGVabG9NY25fTEdfbjJld0x3UFhRVjBUWi1OMVp3dFNmSndKaHBNaGJRMVdGM3QxbWltUWtYaXhrUUZKNTJYQzlCekE3LXNYZU4xWE9PUnlKRFVJZWFrQTVkSHZEaWhrVWZma3B0Rl9zUDZ0eHVaaGZ1MjVBQ3c1cnJ6X01DRjZz?oc=5"
         }
       ]
     },
@@ -4176,6 +4122,24 @@
         {
           "name": "Applesfera",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX2x2ZU5MaUhaUm9kUzhOSTQ4YXNsSW9DOGZGLXljZEZnUDhCdTQ2bnZVSWNOQW8tdHVHQkxFSHB4Y3RpWnFZczRNamNvZEUyWVdjV2NucGhMVkVTakpnMi1wWFAxU3ducWotUXNPaGVaLUp2Nm9JRmFTaXlybUJkWVcwM1hvYmI4bnY5d3ZUMDkzUDlfVmRXQmVLNWJvZmxoQ0Y0SjNVd3NMcndWUGVsVHFOTFZ5MGU5REE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "tecnologia|https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM0RxMk5ycVg4dDlnSi04N0h1ZGFzTkRNWlIzc0ZMOXdnUjdUczZ4Ynh2LUpQV1ZVdzdyVzUyTHZYUnNJU1JRd1NURGV4N003WFpGR1RWaFRmTDFkMk5wMllRN0NLMGRpanphajFzRG1ZTlRjY21ZXzdOZ2pQaWs2REFxTXZiRUJjSlhUWWNXZTQxaGVoZzJSTUxvZ2lOaWQ3Zlcwd2dSQXgwZm5PVnJUY3NJSkprNGJuZWUxaU5hRVpkN0FTZDlrMQ?oc=5",
+      "section": "tecnologia",
+      "category": "Applesfera",
+      "title": "Apple podrá eliminar archivos de iCloud a partir de iOS 27.3. Y hay algo que todavía no han explicado - Applesfera",
+      "summary": "Apple podrá eliminar archivos de iCloud a partir de iOS 27.3. Y hay algo que todavía no han explicado Applesfera",
+      "image": "",
+      "publishedAt": "2026-11-05 10:00 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Applesfera",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM0RxMk5ycVg4dDlnSi04N0h1ZGFzTkRNWlIzc0ZMOXdnUjdUczZ4Ynh2LUpQV1ZVdzdyVzUyTHZYUnNJU1JRd1NURGV4N003WFpGR1RWaFRmTDFkMk5wMllRN0NLMGRpanphajFzRG1ZTlRjY21ZXzdOZ2pQaWs2REFxTXZiRUJjSlhUWWNXZTQxaGVoZzJSTUxvZ2lOaWQ3Zlcwd2dSQXgwZm5PVnJUY3NJSkprNGJuZWUxaU5hRVpkN0FTZDlrMQ?oc=5"
         }
       ]
     },
@@ -4234,20 +4198,38 @@
       ]
     },
     {
-      "id": "tecnologia|https://news.google.com/rss/articles/CBMitAFBVV95cUxQNXNJQ0NxOENuN0dfdUhVS0p5NUN3YTc5TkpTQi1LMDJac2hGUWlGOF85RWFHaFU1cE05cmU4YmFUdVRaWlNVT05xVV9ia2JYMFJMUnB2Ti03UlpFNFlpUnM3U05zVGtCMjM0Ti1ZQ3lLdjdfb2VtN0xkX2xRR0hRS05yYUhtdzlFVGxWYTdyRlFiVnE2UjluZjlnTkgyRW42bkh5S25YRU9JZTBZNzVoall6NnU?oc=5",
+      "id": "tecnologia|https://news.google.com/rss/articles/CBMifEFVX3lxTE1EazJTRHVHbWFKOEswNDN0OVVIaDVSWi1neDdoOERfdHBjS2dGeExydW9SWnFudGxnOVN4bjFWWmhMcV9fM1pjaU1Hb0NZSkhHWXRwbjM3eXlJS3ItNXlNaV84T1dDY1lfZnAtLXJqalZEVlFIaGdHVW13ZHY?oc=5",
       "section": "tecnologia",
       "category": "The Verge",
-      "title": "OpenAI says ChatGPT is catching up to Google in search - The Verge",
-      "summary": "OpenAI says ChatGPT is catching up to Google in search The Verge",
+      "title": "Google is entirely disabling Search in schools that don’t want AI - The Verge",
+      "summary": "Google is entirely disabling Search in schools that don’t want AI The Verge",
       "image": "",
-      "publishedAt": "2026-11-03 18:30 UTC",
+      "publishedAt": "2026-11-03 17:00 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNXNJQ0NxOENuN0dfdUhVS0p5NUN3YTc5TkpTQi1LMDJac2hGUWlGOF85RWFHaFU1cE05cmU4YmFUdVRaWlNVT05xVV9ia2JYMFJMUnB2Ti03UlpFNFlpUnM3U05zVGtCMjM0Ti1ZQ3lLdjdfb2VtN0xkX2xRR0hRS05yYUhtdzlFVGxWYTdyRlFiVnE2UjluZjlnTkgyRW42bkh5S25YRU9JZTBZNzVoall6NnU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EazJTRHVHbWFKOEswNDN0OVVIaDVSWi1neDdoOERfdHBjS2dGeExydW9SWnFudGxnOVN4bjFWWmhMcV9fM1pjaU1Hb0NZSkhHWXRwbjM3eXlJS3ItNXlNaV84T1dDY1lfZnAtLXJqalZEVlFIaGdHVW13ZHY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "tecnologia|https://news.google.com/rss/articles/CBMijwFBVV95cUxNVmhPNVFvNEJxZ2x0el9VbjBMWTBRdjBsdC0tOWkybjJSTmwzeUFzSUVzWGxHOUptY3kyanRGM0RkMjRTR3lJc3NXVkU0dHM5dmxzclM5M0c3Q2RyLXAyQWd2T1kwNE1SQVJBVzRYOFdVYlBCemIwZW03andzRHhPRE82bEdNZmZMRHVfLUxSTQ?oc=5",
+      "section": "tecnologia",
+      "category": "Wired",
+      "title": "The Blue Tsunami Swept Doctors and Scientists Into Office - WIRED",
+      "summary": "The Blue Tsunami Swept Doctors and Scientists Into Office WIRED",
+      "image": "",
+      "publishedAt": "2026-11-05 19:55 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Wired",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVmhPNVFvNEJxZ2x0el9VbjBMWTBRdjBsdC0tOWkybjJSTmwzeUFzSUVzWGxHOUptY3kyanRGM0RkMjRTR3lJc3NXVkU0dHM5dmxzclM5M0c3Q2RyLXAyQWd2T1kwNE1SQVJBVzRYOFdVYlBCemIwZW03andzRHhPRE82bEdNZmZMRHVfLUxSTQ?oc=5"
         }
       ]
     },
@@ -4270,24 +4252,6 @@
       ]
     },
     {
-      "id": "tecnologia|https://news.google.com/rss/articles/CBMijgFBVV95cUxNWTJYdnRrZWlKcndWcDJ2WnZUWlo0anZIRXpzMldvdFZaajNfckp1SWhLZ0Y3MmtmRmprbktPeUx4YTYxb1J4TVNWY2N0U2lzbVlrT3B6NWdWZnFTRzc5WTNHM1dnc0lHejlvQWNqUXJ5TFFEb2t4THg3Q1FIV2duWGt5VllfSXl3RHhxNGR3?oc=5",
-      "section": "tecnologia",
-      "category": "Wired",
-      "title": "Motorola Wants to Sell You a $1,600 Phone That Doesn’t Fold - WIRED",
-      "summary": "Motorola Wants to Sell You a $1,600 Phone That Doesn’t Fold WIRED",
-      "image": "",
-      "publishedAt": "2026-11-05 13:00 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Wired",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWTJYdnRrZWlKcndWcDJ2WnZUWlo0anZIRXpzMldvdFZaajNfckp1SWhLZ0Y3MmtmRmprbktPeUx4YTYxb1J4TVNWY2N0U2lzbVlrT3B6NWdWZnFTRzc5WTNHM1dnc0lHejlvQWNqUXJ5TFFEb2t4THg3Q1FIV2duWGt5VllfSXl3RHhxNGR3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "estilo|https://news.google.com/rss/articles/CBMifkFVX3lxTFA3eW4tZzdlUXZIV1ctNFpWSzE5RjNia002TVU2WTlQWjVIbFVfekFUVU0yRDhnR3VEcFRmT2hWN3lMdF9zSktXRW5SeWtxc2tDWHFIQ1BFZzZIdlJCOW9rREZQOWRhal9VSW5IZXNTdTM4OWkxMkMxcHNiTEExUQ?oc=5",
       "section": "estilo",
       "category": "GQ España",
@@ -4306,20 +4270,20 @@
       ]
     },
     {
-      "id": "estilo|https://news.google.com/rss/articles/CBMilwFBVV95cUxPamFDVkptOVJ3eFh3QjlDUjdZb3FPV09tNlVpdUFqdWRkSHlYLUtRLWpFR2tOZlQ1ZjR0Q0hqUEVyMzNUelIxR2tMRFJ1MEMzdjhORE9ZaWRvZVR1TGd6T1F3QzFUM2VKU0QyTHk1NzlrbGd6NkRkaFN0cUFjaWlKRURaZ0UyR0hESDZrbW1JWG1qZVdOU0hZ?oc=5",
+      "id": "estilo|https://news.google.com/rss/articles/CBMioAFBVV95cUxQTlBab2w2WWszLS1BXzQ5dVV1LWdrYmtJWl9Jci1WSWNpUXA3QlFiSFlfQXNHSnRUQVg5MzBnNXRZUjM0MUlNeFBRREJwcUpkZkl0aHZTNVFkT0JXaURKNHlwS3U5TmNQSl9QbFowTG14NHMyREVZZkFhVnpkYk1UWTA1ZC1ROXktV0lQREZPaFFVV29fNERteU9HcDVFYWc0?oc=5",
       "section": "estilo",
-      "category": "GQ España",
-      "title": "Martine Rose es la nueva directora creativa de Balenciaga: ¿quieren volver a los tiempos de Demna? - GQ España",
-      "summary": "Martine Rose es la nueva directora creativa de Balenciaga: ¿quieren volver a los tiempos de Demna? GQ España",
+      "category": "Esquire España",
+      "title": "El mejor vino del mundo por menos de 20 € es español y perfecto para triunfar esta Navidad - Esquire",
+      "summary": "El mejor vino del mundo por menos de 20 € es español y perfecto para triunfar esta Navidad Esquire",
       "image": "",
-      "publishedAt": "2026-11-06 07:47 UTC",
+      "publishedAt": "2026-11-06 12:35 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "GQ España",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPamFDVkptOVJ3eFh3QjlDUjdZb3FPV09tNlVpdUFqdWRkSHlYLUtRLWpFR2tOZlQ1ZjR0Q0hqUEVyMzNUelIxR2tMRFJ1MEMzdjhORE9ZaWRvZVR1TGd6T1F3QzFUM2VKU0QyTHk1NzlrbGd6NkRkaFN0cUFjaWlKRURaZ0UyR0hESDZrbW1JWG1qZVdOU0hZ?oc=5"
+          "name": "Esquire España",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTlBab2w2WWszLS1BXzQ5dVV1LWdrYmtJWl9Jci1WSWNpUXA3QlFiSFlfQXNHSnRUQVg5MzBnNXRZUjM0MUlNeFBRREJwcUpkZkl0aHZTNVFkT0JXaURKNHlwS3U5TmNQSl9QbFowTG14NHMyREVZZkFhVnpkYk1UWTA1ZC1ROXktV0lQREZPaFFVV29fNERteU9HcDVFYWc0?oc=5"
         }
       ]
     },
@@ -4378,20 +4342,20 @@
       ]
     },
     {
-      "id": "estilo|https://news.google.com/rss/articles/CBMib0FVX3lxTE1BQVE1WkVKbV9hT2tfZWpEdEdrY2ctbDRMQXo5TlRNa19oTzh4aXFGNlBnajlRYmFoU0QzV3BFMFMxQUROR0w4a3RuVmRJSWxPbFhRWnlIaDhYMG9iLXNoTjMxTTQ0XzVlTGY5b194SQ?oc=5",
+      "id": "estilo|https://news.google.com/rss/articles/CBMihAFBVV95cUxNcjlSUTdrUGtVX2FFa1l0ZUlWMlM3SUppOGljU3VOcEJrdi1tMDdWc1NBS0ZlaTFyVEpSMEZhTmFkN3dYYkhBWklTSk1RVWhsQVVOMFRXeUNEb2tsU3p3bFVfLXJKekZRQTY5cEd2dDg3c2RsWkU1bDhIUXVfMHQ2NWpBWVM?oc=5",
       "section": "estilo",
       "category": "Vogue España",
-      "title": "Coperni cierra tras la ruptura de su relación con un distribuidor - Vogue España",
-      "summary": "Coperni cierra tras la ruptura de su relación con un distribuidor Vogue España",
+      "title": "Para Amal Clooney, el abrigo de ante es la prenda perfecta para una cita otoñal - Vogue España",
+      "summary": "Para Amal Clooney, el abrigo de ante es la prenda perfecta para una cita otoñal Vogue España",
       "image": "",
-      "publishedAt": "2026-11-04 13:48 UTC",
+      "publishedAt": "2026-11-02 14:54 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Vogue España",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BQVE1WkVKbV9hT2tfZWpEdEdrY2ctbDRMQXo5TlRNa19oTzh4aXFGNlBnajlRYmFoU0QzV3BFMFMxQUROR0w4a3RuVmRJSWxPbFhRWnlIaDhYMG9iLXNoTjMxTTQ0XzVlTGY5b194SQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcjlSUTdrUGtVX2FFa1l0ZUlWMlM3SUppOGljU3VOcEJrdi1tMDdWc1NBS0ZlaTFyVEpSMEZhTmFkN3dYYkhBWklTSk1RVWhsQVVOMFRXeUNEb2tsU3p3bFVfLXJKekZRQTY5cEd2dDg3c2RsWkU1bDhIUXVfMHQ2NWpBWVM?oc=5"
         }
       ]
     },
@@ -4540,6 +4504,24 @@
       ]
     },
     {
+      "id": "viral|https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUWxnOFNkTkJNTzlOV2hDMnRZRlo0LVhaMFljcmdqSG8tTllaVDV6ZXlPVlFXSjFENy1BcmdHRTRnRzk5aGEyZWxFQUR1VV9Ub1JiMkFWcTk3V2wtZGJxRWRIVzdaSGJiV0xLY1c2WmdzUklNekZicFJhYVZGYlJUODFaNkR5X2h3NkhRVTZPZnVhM09qYV9yaGJfcTZFaXBNbHA4aml5amJrdnM?oc=5",
+      "section": "viral",
+      "category": "The Guardian",
+      "title": "EU charges TikTok with failing to protect users’ mental health - The Guardian",
+      "summary": "EU charges TikTok with failing to protect users’ mental health The Guardian",
+      "image": "",
+      "publishedAt": "2026-11-06 13:49 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUWxnOFNkTkJNTzlOV2hDMnRZRlo0LVhaMFljcmdqSG8tTllaVDV6ZXlPVlFXSjFENy1BcmdHRTRnRzk5aGEyZWxFQUR1VV9Ub1JiMkFWcTk3V2wtZGJxRWRIVzdaSGJiV0xLY1c2WmdzUklNekZicFJhYVZGYlJUODFaNkR5X2h3NkhRVTZPZnVhM09qYV9yaGJfcTZFaXBNbHA4aml5amJrdnM?oc=5"
+        }
+      ]
+    },
+    {
       "id": "viral|https://news.google.com/rss/articles/CBMirwFBVV95cUxOdDJsVjdKZ3JXZGIwRHpvcnhVZFRiLWlRRmxGOUYtUzNjZ3RaZkI5QUdNOUFWZlA0QnRYTEZMTVJlZzRSSGo5Z3RibldPM0t4c3J2SHowMk9sNGNiZFAyNmFtRkpnbldldVdLMTVnTk14ZzVhX3R1RDVjc2RRakU3VXN1a3hLNEQtaXZnRTB3dEhLUmlsM2x2UWs1MGliWFdDRVh4LXZBM3BwOXo1NWs4?oc=5",
       "section": "viral",
       "category": "The Guardian",
@@ -4554,24 +4536,6 @@
         {
           "name": "The Guardian",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdDJsVjdKZ3JXZGIwRHpvcnhVZFRiLWlRRmxGOUYtUzNjZ3RaZkI5QUdNOUFWZlA0QnRYTEZMTVJlZzRSSGo5Z3RibldPM0t4c3J2SHowMk9sNGNiZFAyNmFtRkpnbldldVdLMTVnTk14ZzVhX3R1RDVjc2RRakU3VXN1a3hLNEQtaXZnRTB3dEhLUmlsM2x2UWs1MGliWFdDRVh4LXZBM3BwOXo1NWs4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "viral|https://news.google.com/rss/articles/CBMipwFBVV95cUxQbmowZHNIdWdNdGp3LXVFMEJsa0Q1aUNYbTZWMTlUQW1CRXp1NGdEUV9UZFpyaU1lWlVnMlRoQzFzbjh1MkUyMGF4X2Y0N09OTDFqbjJlMFpYcnBJald1SjZzODlYWFJPZ3BSUnVGNEFhSzJyN2hiNFlNZS0ta0hNSGhidzR2NkQ0dFdmZHIwTTYzakRhWm5HSFlvLVE1Y2UxNDgwcy1HWQ?oc=5",
-      "section": "viral",
-      "category": "The Guardian",
-      "title": "How Abdul El-Sayed defeated Maga in Michigan – video - The Guardian",
-      "summary": "How Abdul El-Sayed defeated Maga in Michigan – video The Guardian",
-      "image": "",
-      "publishedAt": "2026-11-04 21:05 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbmowZHNIdWdNdGp3LXVFMEJsa0Q1aUNYbTZWMTlUQW1CRXp1NGdEUV9UZFpyaU1lWlVnMlRoQzFzbjh1MkUyMGF4X2Y0N09OTDFqbjJlMFpYcnBJald1SjZzODlYWFJPZ3BSUnVGNEFhSzJyN2hiNFlNZS0ta0hNSGhidzR2NkQ0dFdmZHIwTTYzakRhWm5HSFlvLVE1Y2UxNDgwcy1HWQ?oc=5"
         }
       ]
     },
@@ -5016,6 +4980,26 @@
       "popHorizon": "entradas"
     },
     {
+      "id": "eventos|https://news.google.com/rss/articles/CBMickFVX3lxTE5odnlMRkhzSjV2QUJrQ09FaG1qNEVVSnF3VWhlS2tTa05UeGowc3owYjFxSjdGZUhCM3JxaTNGMEJRZTN3NlE3UFJsOHhyRkliQUJpbUM2d1hrSU1vdUR5NlB6RndzNUJ4b0ZmOVdheERHdw?oc=5",
+      "section": "eventos",
+      "category": "Madrid POP",
+      "title": "Compra entradas para Deacon Blue sáb, 25 sept 2027, 20:00, Sala Wagon en Madrid | Página oficial de Ticketmaster - Ticketmaster España",
+      "summary": "Compra entradas para Deacon Blue sáb, 25 sept 2027, 20:00, Sala Wagon en Madrid | Página oficial de Ticketmaster Ticketmaster España",
+      "image": "",
+      "publishedAt": "2026-09-22 08:12 UTC",
+      "language": "es",
+      "topic": "Planes futuros",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Madrid POP",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5odnlMRkhzSjV2QUJrQ09FaG1qNEVVSnF3VWhlS2tTa05UeGowc3owYjFxSjdGZUhCM3JxaTNGMEJRZTN3NlE3UFJsOHhyRkliQUJpbUM2d1hrSU1vdUR5NlB6RndzNUJ4b0ZmOVdheERHdw?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "popHorizon": "entradas"
+    },
+    {
       "id": "eventos|https://news.google.com/rss/articles/CBMioAFBVV95cUxNMTZGZV9FOTJkdnFIOF96RXd3Q0kwOG1KbkFzSHFLVGhqdDhVN2JkTjd3OFhqd2U4V3d5NUtQc1VyakpUNzBEaEdLMHpTYmVNYWVpSUd0Qnd2WFlKV1VZN2xSUmpPa1UydFdhZnhDc3gxWWpOOVd5ajJIVFdhWFh5MTUxRWh2SU8tTHkyWnJ0elEtUlkxdElQdlYyUm4zQmN0?oc=5",
       "section": "eventos",
       "category": "Madrid POP",
@@ -5356,20 +5340,20 @@
       "popHorizon": "entradas"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMitAFBVV95cUxPeU9NYWR0QnpvQUMzcU8ycmZNTW02OWtuTWxYOC13RFZDY0pqWUVOOU9KTzVLT3U5ZjdzdVRTQUVzQ0JEZWQyWEwtRjN0aUhOSzNfRnM2Z0Vkay0tV0dIMU9iWDdYa2RHT04wRURNZkJGTlRhNTYycnFfZWZEcVJRNTNtVzNkNUs5MUJadW03Z1VUOVBTaFNmeXZFVlZVcEpSODZfTEE3UE9BZjJrNUlIRUxDNEE?oc=5",
+      "id": "eventos|https://news.google.com/rss/articles/CBMilgFBVV95cUxOVzZIVVNqRHdsc0pUY3dZWGw1RHZTamNTVWljX1MwVDRlX1o1b0w1UzhVYWZmelA0VkVkRE02bE1hZ0VNdE94Nk1sUkJNV3hsR1NHWmdtcTRCZ0tCZVFUSU5nS0ZKQmg1NS1LaFp2bnJhMlAzYWdva1NOVGh1cXUxRXhDUzNwMWJzX2xYZ3NRTWhLWWNtRFE?oc=5",
       "section": "eventos",
       "category": "Madrid Secreto",
-      "title": "En el siglo XIX, un médico conservó el cuerpo embalsamado de su hija en este edificio de Madrid: hoy puedes visitar el museo que fundó junto a Atocha - Madrid Secreto",
-      "summary": "En el siglo XIX, un médico conservó el cuerpo embalsamado de su hija en este edificio de Madrid: hoy puedes visitar el museo que fundó junto a Atocha Madrid Secreto",
+      "title": "En 1980, un concierto en la Escuela de Caminos dio lugar a la Movida Madrileña; 46 años después, sus canciones más conocidas vuelven este domingo al Círculo de Bellas Artes - Madrid Secreto",
+      "summary": "En 1980, un concierto en la Escuela de Caminos dio lugar a la Movida Madrileña; 46 años después, sus canciones más conocidas vuelven este domingo al Círculo de Bellas Artes Madrid Secreto",
       "image": "",
-      "publishedAt": "2026-11-03 20:01 UTC",
+      "publishedAt": "2026-11-06 14:27 UTC",
       "language": "es",
       "topic": "Planes y ocio",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Madrid Secreto",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeU9NYWR0QnpvQUMzcU8ycmZNTW02OWtuTWxYOC13RFZDY0pqWUVOOU9KTzVLT3U5ZjdzdVRTQUVzQ0JEZWQyWEwtRjN0aUhOSzNfRnM2Z0Vkay0tV0dIMU9iWDdYa2RHT04wRURNZkJGTlRhNTYycnFfZWZEcVJRNTNtVzNkNUs5MUJadW03Z1VUOVBTaFNmeXZFVlZVcEpSODZfTEE3UE9BZjJrNUlIRUxDNEE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVzZIVVNqRHdsc0pUY3dZWGw1RHZTamNTVWljX1MwVDRlX1o1b0w1UzhVYWZmelA0VkVkRE02bE1hZ0VNdE94Nk1sUkJNV3hsR1NHWmdtcTRCZ0tCZVFUSU5nS0ZKQmg1NS1LaFp2bnJhMlAzYWdva1NOVGh1cXUxRXhDUzNwMWJzX2xYZ3NRTWhLWWNtRFE?oc=5"
         }
       ],
       "region": "Madrid",
@@ -5876,6 +5860,26 @@
       "popHorizon": "ahora"
     },
     {
+      "id": "eventos|https://news.google.com/rss/articles/CBMirgFBVV95cUxPcl9Pc0g4dGtKZmZjZ0d3R1pvM01STFBabHdObWpkUDVjVUU5Q0IzZnZ1eG5CSWNnWDlERDEzSFY0Y0VYYldSdTR2T1lTbThIYWVVWFlIakpHWmNEYWtmLTlmc2xseEdLSERJQmw4Rk5aWC1zVXZUa1lKUHFEUnU0YWxXYW93T1E2QVpsZE5UTGlOdVdYV0ZGSWxUdV9hQVRacFVhWGR2cDRQZVZVdHc?oc=5",
+      "section": "eventos",
+      "category": "Agenda Ayuntamiento Madrid",
+      "title": "Música, teatro y arte para disfrutar durante el puente (agenda cultural del 5 al 9 de noviembre) - Diario del Ayuntamiento de Madrid",
+      "summary": "Música, teatro y arte para disfrutar durante el puente (agenda cultural del 5 al 9 de noviembre) Diario del Ayuntamiento de Madrid",
+      "image": "",
+      "publishedAt": "2026-11-06 15:11 UTC",
+      "language": "es",
+      "topic": "Planes y ocio",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Agenda Ayuntamiento Madrid",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcl9Pc0g4dGtKZmZjZ0d3R1pvM01STFBabHdObWpkUDVjVUU5Q0IzZnZ1eG5CSWNnWDlERDEzSFY0Y0VYYldSdTR2T1lTbThIYWVVWFlIakpHWmNEYWtmLTlmc2xseEdLSERJQmw4Rk5aWC1zVXZUa1lKUHFEUnU0YWxXYW93T1E2QVpsZE5UTGlOdVdYV0ZGSWxUdV9hQVRacFVhWGR2cDRQZVZVdHc?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "popHorizon": "ahora"
+    },
+    {
       "id": "eventos|https://news.google.com/rss/articles/CBMixgJBVV95cUxNbFFET1F2QThqRFRMNG16ZmVUT05OX19HUTctakJIeVI0TzFQZ1g1TklhOXcydEJPU0pLQzlEWHk0Tkw1bDRQT0Y3SlJwSHBPYkY1cEFKQXA3c1dLM1M5UnpsMnVUZE5KekpQclNhbWh1Z29DbXVoWTlBemR2OVp0UEhDNHNQMFMtVFFKX0UzSkhGNkZYRXlJTEtxdi1ibWRLVWhSYXRXWUY3VTFYVHIySE9FV2hvYjZLRWE4M2NjckJpQko4WmtKSVp5QmJuY0FfbjFSS2ZsSk16ekpJTDItSVlZUEhTR2xtdHdzTXVBS1dKWWE4SW9oSHlXNXdzdEttTXVmWkY3eW1GeXlGYUpUaXhEYW4zRC1uTlRHLTBxVXVKYU9xTTN5d2I1eFI3Yi04ekZPNHFMeUFTcDMtSTBwQms2OVVUUQ?oc=5",
       "section": "eventos",
       "category": "Agenda Ayuntamiento Madrid",
@@ -5896,20 +5900,20 @@
       "popHorizon": "ahora"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeU9hN1EwRWo4Z09FcHJOQTVJUmYzb0xESGhUZW93NThmeU5QYTVYbDBUVDZYaExDOGdCWmRLZjdNc0dCa3JhXzhpdGtzelZQMEwyeGxQbHdRV2FuYjU3NUxlRXFRbHc0b2JuTTRHRTBQRnpCcnc5YVpVWjBCUnF1Z1NUYlNVenEtdEVMcW9CS2w4ekE4R0hXeUZNdUNJa3VRRlMtdXlpSERqNkltWWY2cGx2TjRfS2JkRWdXN1ZYbF9hbkNxb0dPdHZVQ0x4UG1Z?oc=5",
+      "id": "eventos|https://news.google.com/rss/articles/CBMiowFBVV95cUxONHVUSTNMMFV3dndEOHUwMVQwLVJiSEg1RXNFVEVWZ2lNcG9rRGM5V25TdklDdzhUd05VY3pSMEh5Ym9MbmNZMlVKZWlqbGhPX3NHaDNGLXRDTVctRFNBcHhRTHFINmNRWEsweG5XQjF2Z1pMVXhKeEI1c21qTXFxTy1PbVFiN0l0VUdJUHAxaTIxdVI1eldudWhwUWdaaFJJdzJ3?oc=5",
       "section": "eventos",
-      "category": "Agenda Ayuntamiento Madrid",
-      "title": "El Ayuntamiento destina más de 1,75 millones de euros a subvenciones para teatros y cines - Diario del Ayuntamiento de Madrid",
-      "summary": "El Ayuntamiento destina más de 1,75 millones de euros a subvenciones para teatros y cines Diario del Ayuntamiento de Madrid",
+      "category": "Agenda Ministerio Cultura",
+      "title": "Temporada de Ópera en Gran Pantalla | Teatro Real y Cines Yelmo - web del Ministerio de Cultura",
+      "summary": "Temporada de Ópera en Gran Pantalla | Teatro Real y Cines Yelmo web del Ministerio de Cultura",
       "image": "",
-      "publishedAt": "2026-11-05 10:58 UTC",
+      "publishedAt": "2026-11-05 22:14 UTC",
       "language": "es",
-      "topic": "Planes y ocio",
+      "topic": "Planes futuros",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "Agenda Ayuntamiento Madrid",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeU9hN1EwRWo4Z09FcHJOQTVJUmYzb0xESGhUZW93NThmeU5QYTVYbDBUVDZYaExDOGdCWmRLZjdNc0dCa3JhXzhpdGtzelZQMEwyeGxQbHdRV2FuYjU3NUxlRXFRbHc0b2JuTTRHRTBQRnpCcnc5YVpVWjBCUnF1Z1NUYlNVenEtdEVMcW9CS2w4ekE4R0hXeUZNdUNJa3VRRlMtdXlpSERqNkltWWY2cGx2TjRfS2JkRWdXN1ZYbF9hbkNxb0dPdHZVQ0x4UG1Z?oc=5"
+          "name": "Agenda Ministerio Cultura",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONHVUSTNMMFV3dndEOHUwMVQwLVJiSEg1RXNFVEVWZ2lNcG9rRGM5V25TdklDdzhUd05VY3pSMEh5Ym9MbmNZMlVKZWlqbGhPX3NHaDNGLXRDTVctRFNBcHhRTHFINmNRWEsweG5XQjF2Z1pMVXhKeEI1c21qTXFxTy1PbVFiN0l0VUdJUHAxaTIxdVI1eldudWhwUWdaaFJJdzJ3?oc=5"
         }
       ],
       "region": "Madrid",
@@ -5950,26 +5954,6 @@
         {
           "name": "Agenda Ministerio Cultura",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbUJEWTJEOGUyNVpyUW1tS3g5OG9UUVRmcU56eU9LeG1kMVFZZmhCa2dFRlVmaFV6bXZtRnJKV0ZOSDJZcWVCSXpzSG9qNzB0bjl5enBXNXlKNW1vSTlJcE5lci1kUXcxbWxSaUd5aUFVRU5xNUxCRW1lWFpEUmkyS19WNGVrdFBJLWZNWEZlWDYtS19tUjVhZTRSXzk4dFBmY29v?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "popHorizon": "ahora"
-    },
-    {
-      "id": "eventos|https://news.google.com/rss/articles/CBMiowFBVV95cUxNYkhoZ0QtSFl4TzBfS2N2eFJSZlc0UjVNOVNRN1ZSYnR4WldCS1J6cjZHbS1xLTYwSFpPaG9felJsSU4ta2VrN0ZrYTBMcWs1OHlFYWNCMFk0UzVqTnczY3Y2cF9NQXJpd2NreUZJYVVCdHZrSnBCNHBzNk11c3dnSnh6YS1tWlpxcEdOUWY3YzB4aU1UZnQ0eFZIVGdpLWhkTGI0?oc=5",
-      "section": "eventos",
-      "category": "Agenda Ministerio Cultura",
-      "title": "Temporada de Ópera en Gran Pantalla | Teatro Real y Cines Yelmo - web del Ministerio de Cultura",
-      "summary": "Temporada de Ópera en Gran Pantalla | Teatro Real y Cines Yelmo web del Ministerio de Cultura",
-      "image": "",
-      "publishedAt": "2026-11-03 13:50 UTC",
-      "language": "es",
-      "topic": "Planes futuros",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Agenda Ministerio Cultura",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYkhoZ0QtSFl4TzBfS2N2eFJSZlc0UjVNOVNRN1ZSYnR4WldCS1J6cjZHbS1xLTYwSFpPaG9felJsSU4ta2VrN0ZrYTBMcWs1OHlFYWNCMFk0UzVqTnczY3Y2cF9NQXJpd2NreUZJYVVCdHZrSnBCNHBzNk11c3dnSnh6YS1tWlpxcEdOUWY3YzB4aU1UZnQ0eFZIVGdpLWhkTGI0?oc=5"
         }
       ],
       "region": "Madrid",
@@ -7376,20 +7360,20 @@
       "cultureView": "noticias"
     },
     {
-      "id": "cultura|https://news.google.com/rss/articles/CBMi0wJBVV95cUxQUGNtWlNHN1lLYkhKd1RkcV9WMnZGZEowWVJzMGtuQ285RGdwckVyMzM3cnVoU3kwb2pDMHhES3MwVW1aTXp0RFpsRFFGOWIydVl0WmtKZ2FGVU1TZkZLUXlsQS00Z0Z0ZG9FZ1o0WklMVVBUOU1iQzI1VHJPNWVjWkhfZlEzYlQ2ZWhaeHpCTjlvRV8yMlZpWF80T2lNRWdLU0g0VjVRM1k3dURoZjFrNjJpcl9qOHphTmxyYXY4dk1MaktYRElBRWVqRjRQSzN3NU1jYWl1YWxkeGw5SjhwRTd1emo5aFkxX01MNHRvRjdyaUN2bDMycXR0SDY0dEdPMjlXRDNadUdKempUdHdiUUVDVnJzYzZWaW1xQmlmSnZjZGJVOUcweDRkRmJmNUFQWUF4ZXAxWm9ZS0VtcklBTVdtQmlEOTZJWUNTRWg4QUVESnc?oc=5",
+      "id": "cultura|https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOEd0b3FKN1JLTkhqUTJra2xmSlBhNFh5WVZwYnlVdXBnWDhZa2lFRmtRTnlFdnVLMVNXdEtuNGxSXzgwODJxcGRMYWp4aTZNVl82dURYcGdHZkJQT0plVE5CNVAzUEc0MFBGQ1lKRHFpWG51a3J3cGVoeS0tQjdGSDVMUzA2M2QzTHU5ZDUxdWZTSnN3RDNFamVmYTFCc00tMXJwdlJJNl9RY3BCa01mR3h5azAtaHA5OVVVZnRBVVFMY0VrcXdYenRDU3BWb0E0WFFR?oc=5",
       "section": "cultura",
       "category": "Time Out Madrid",
-      "title": "Planazos gratis este puente (6-9 noviembre) en Madrid - Time Out Worldwide",
-      "summary": "Planazos gratis este puente (6-9 noviembre) en Madrid Time Out Worldwide",
+      "title": "Vuelven las porciones gratis de la gran Corona de la Almudena a la Plaza Mayor de Madrid - Time Out Worldwide",
+      "summary": "Vuelven las porciones gratis de la gran Corona de la Almudena a la Plaza Mayor de Madrid Time Out Worldwide",
       "image": "",
-      "publishedAt": "2026-11-05 05:30 UTC",
+      "publishedAt": "2026-11-05 08:08 UTC",
       "language": "es",
       "topic": "Cultura general",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Time Out Madrid",
-          "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQUGNtWlNHN1lLYkhKd1RkcV9WMnZGZEowWVJzMGtuQ285RGdwckVyMzM3cnVoU3kwb2pDMHhES3MwVW1aTXp0RFpsRFFGOWIydVl0WmtKZ2FGVU1TZkZLUXlsQS00Z0Z0ZG9FZ1o0WklMVVBUOU1iQzI1VHJPNWVjWkhfZlEzYlQ2ZWhaeHpCTjlvRV8yMlZpWF80T2lNRWdLU0g0VjVRM1k3dURoZjFrNjJpcl9qOHphTmxyYXY4dk1MaktYRElBRWVqRjRQSzN3NU1jYWl1YWxkeGw5SjhwRTd1emo5aFkxX01MNHRvRjdyaUN2bDMycXR0SDY0dEdPMjlXRDNadUdKempUdHdiUUVDVnJzYzZWaW1xQmlmSnZjZGJVOUcweDRkRmJmNUFQWUF4ZXAxWm9ZS0VtcklBTVdtQmlEOTZJWUNTRWg4QUVESnc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOEd0b3FKN1JLTkhqUTJra2xmSlBhNFh5WVZwYnlVdXBnWDhZa2lFRmtRTnlFdnVLMVNXdEtuNGxSXzgwODJxcGRMYWp4aTZNVl82dURYcGdHZkJQT0plVE5CNVAzUEc0MFBGQ1lKRHFpWG51a3J3cGVoeS0tQjdGSDVMUzA2M2QzTHU5ZDUxdWZTSnN3RDNFamVmYTFCc00tMXJwdlJJNl9RY3BCa01mR3h5azAtaHA5OVVVZnRBVVFMY0VrcXdYenRDU3BWb0E0WFFR?oc=5"
         }
       ],
       "region": "Madrid",
@@ -7456,7 +7440,27 @@
       "cultureView": "noticias"
     },
     {
-      "id": "cultura|https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdXdlSFNwMmpxdXJuVV9jem9aeFFVa1diTlhrZFhldnB2aGtsdlJLLW55RV83VDdLTzFTNFBRQUUyc1U4ZlV6OGthQjJnR0pQMFZzdGVVZUI4bmI0X3h5UW5YWmJzWTJZWXhuaERxU1VxU1Q1QVozY21JbjdxV3lnM3VyOGkzcG1VNC1lU0ZNLUdjZ3VLdEtSQ1pVUDMyYXJMYjZnSkttWG5vRDBCeDJ5V2RJak9ZM2Vh0gG-AUFVX3lxTFBfUDNIRmFiQllDOVZjTTZldlpBZ25kWl9mTk9fOEw0bVUzdEQ5aVpXT3J0eHRKWm1adjdpUWlfT1Q4MjNoRHdBbjh3SEFiLWFEd21pSHQzVTg3bW1TMG1sNGxXMTNYT2lRVWxQSExrLUFBVmlIblB0NkZSS3gwclhpc3JXNlQ3S0ZCby1uY2Fka0RPMHhfTHVUX1c1bTVsOWVvUVk5YU1pZ2Y4dnc2a1FtYnFwTzFuTmJMVnljN3c?oc=5",
+      "id": "cultura|https://news.google.com/rss/articles/CBMia0FVX3lxTFBfWDlzWlBOMGMtcUVQUzBUY1FsRzFGWVhnTVFJdEZVWU9aUlB3cmhFTzNhYW4wOFBqTGwzSlpGVFUxbnpzZ2FTTUZOa0I4UXJjRVNkUVA3THl0endQeU9tYndSUU1aTmN6d3dz?oc=5",
+      "section": "cultura",
+      "category": "Teatro ES",
+      "title": "Mejores musicales en Madrid: estrenos y clásicos para este otoño/invierno - Time Out Worldwide",
+      "summary": "Mejores musicales en Madrid: estrenos y clásicos para este otoño/invierno Time Out Worldwide",
+      "image": "",
+      "publishedAt": "2026-11-03 23:00 UTC",
+      "language": "es",
+      "topic": "Teatro",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Teatro ES",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfWDlzWlBOMGMtcUVQUzBUY1FsRzFGWVhnTVFJdEZVWU9aUlB3cmhFTzNhYW4wOFBqTGwzSlpGVFUxbnpzZ2FTTUZOa0I4UXJjRVNkUVA3THl0endQeU9tYndSUU1aTmN6d3dz?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "cultureView": "agenda"
+    },
+    {
+      "id": "cultura|https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdXdlSFNwMmpxdXJuVV9jem9aeFFVa1diTlhrZFhldnB2aGtsdlJLLW55RV83VDdLTzFTNFBRQUUyc1U4ZlV6OGthQjJnR0pQMFZzdGVVZUI4bmI0X3h5UW5YWmJzWTJZWXhuaERxU1VxU1Q1QVozY21JbjdxV3lnM3VyOGkzcG1VNC1lU0ZNLUdjZ3VLdEtSQ1pVUDMyYXJMYjZnSkttWG5vRDBCeDJ5V2RJak9ZM2Vh?oc=5",
       "section": "cultura",
       "category": "Música ES",
       "title": "Fiestas de distritos y barrios de Madrid en 2026: programas completos y fechas - elDiario.es",
@@ -7469,7 +7473,27 @@
       "sources": [
         {
           "name": "Música ES",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdXdlSFNwMmpxdXJuVV9jem9aeFFVa1diTlhrZFhldnB2aGtsdlJLLW55RV83VDdLTzFTNFBRQUUyc1U4ZlV6OGthQjJnR0pQMFZzdGVVZUI4bmI0X3h5UW5YWmJzWTJZWXhuaERxU1VxU1Q1QVozY21JbjdxV3lnM3VyOGkzcG1VNC1lU0ZNLUdjZ3VLdEtSQ1pVUDMyYXJMYjZnSkttWG5vRDBCeDJ5V2RJak9ZM2Vh0gG-AUFVX3lxTFBfUDNIRmFiQllDOVZjTTZldlpBZ25kWl9mTk9fOEw0bVUzdEQ5aVpXT3J0eHRKWm1adjdpUWlfT1Q4MjNoRHdBbjh3SEFiLWFEd21pSHQzVTg3bW1TMG1sNGxXMTNYT2lRVWxQSExrLUFBVmlIblB0NkZSS3gwclhpc3JXNlQ3S0ZCby1uY2Fka0RPMHhfTHVUX1c1bTVsOWVvUVk5YU1pZ2Y4dnc2a1FtYnFwTzFuTmJMVnljN3c?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdXdlSFNwMmpxdXJuVV9jem9aeFFVa1diTlhrZFhldnB2aGtsdlJLLW55RV83VDdLTzFTNFBRQUUyc1U4ZlV6OGthQjJnR0pQMFZzdGVVZUI4bmI0X3h5UW5YWmJzWTJZWXhuaERxU1VxU1Q1QVozY21JbjdxV3lnM3VyOGkzcG1VNC1lU0ZNLUdjZ3VLdEtSQ1pVUDMyYXJMYjZnSkttWG5vRDBCeDJ5V2RJak9ZM2Vh?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "cultureView": "noticias"
+    },
+    {
+      "id": "cultura|https://news.google.com/rss/articles/CBMidkFVX3lxTE4yYU8wSjJpTC1hVjBscndQcmJXSWVfWFB5cWJiX3cwUnljd3hXUDcyWlliZU9BOGhPYklBR2FpOEtsbDI0ZXNOSWE0QjdpRHZVZHVjdWhmcXFpVkhIMUdXMks4WTNUTkM0MmhpbFdaQUtnOFpqN0E?oc=5",
+      "section": "cultura",
+      "category": "Música ES",
+      "title": "Así fue... Madrid Urban Fest 2022 - Comunidad de Madrid |",
+      "summary": "Así fue... Madrid Urban Fest 2022 Comunidad de Madrid |",
+      "image": "",
+      "publishedAt": "2026-11-03 12:41 UTC",
+      "language": "es",
+      "topic": "Música",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Música ES",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yYU8wSjJpTC1hVjBscndQcmJXSWVfWFB5cWJiX3cwUnljd3hXUDcyWlliZU9BOGhPYklBR2FpOEtsbDI0ZXNOSWE0QjdpRHZVZHVjdWhmcXFpVkhIMUdXMks4WTNUTkM0MmhpbFdaQUtnOFpqN0E?oc=5"
         }
       ],
       "region": "Madrid",
@@ -7650,6 +7674,26 @@
         {
           "name": "Música ES",
           "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNQkhSVExBOXVaQ0ZwRWVsNVc0bjZaVGdsYnRfdU1BWUt5V3RJRTB4UUF5Sndld3NtTmhJLThPODZ0SjdGYzZ0RzVrN00xcGRPMUsyMmJIU0lSbWx5czRVSnhpUFFlUzk5ZDk5WG1pcUhZd3cxajJyTGlvbGYtUDl2bjB4dGdpaGJ0Q0FIa0JtRmdDX3RvWDN2QkMyZ1RuWkZRSTRWM1NEbGYzalY2THJPXzNodmVfTkdLUmFvdUU3cmMwVkFnV1pfSEVtQVJBYTlIeEplak1FSHNHLUJWQ2hZR05HcTRCdkRVLXg2ak5Zd21iTURZSHdEWWFObTRhekNjdU1nTzU4cHNtQ2VBM3lJbGREOU9iRVN6VHlEd2QxQnI2X25UenlMcTNzTEI2LUY4QjdEaGdoVTEwTkdmU3JiMTRkaGY2SXRWVS0wcVYxUGpJS09ab1QtVg?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "cultureView": "agenda"
+    },
+    {
+      "id": "cultura|https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMVRXZ1NSc3cyZlVXWFJwODRnYWRQV2VjVEZCUkNCMlJ2OU5rbGdMTERRa0M4Ui1mSmlyZmV5YUF4dnduUnFOSENybVdxQ0xXQzZfeFdEY2tVM3dOYmxvcDcwek9raTlFQUpLNDIyWFR1NzJMUmZydXp2UFc3WnJ3R3Y4R3I4ZnZkYVp2RUYxR3M5OFBPSDM0THhNZWZZSTRHNDI5R0FXdjFtV2RKYVhBOVk0SGp6WGY2TjlGZ2RXVFVreHpDT1MtcU9QMXJ5eEZPQ18wNUFEVdIB3AFBVV95cUxOY2djaE83bTdabWdMSlhaOVBWVVd2RU55TW5OcUxfWUh6MkV5OXVfekRkaW1WUGtpYUhteGhLQkJGSXBiajZWTWtyUEVuVlR2QmJzNl9YVUVoNnlGQlRKRnp0TlFPekVlS2swMGZxYTJOMlhwVGh3OFg1RUZhajJLY043YnpnajRZWXpzbi1vNWpHcW5nUHBpOXdyMGRoSXJRblJBOER4YU80NElyeXJPb2xZMGxtUGp2T3lPM2hkN0JZUDdVNGJqRDY5dm12UHc5UEd2NDdha1g5RUxx?oc=5",
+      "section": "cultura",
+      "category": "Agenda Madrid",
+      "title": "El Madrid Urban Fest vuelve a la raíces del hiphop en Vallecas con conciertos de El Chojin, Ambkor y Ms Nina - elDiario.es",
+      "summary": "El Madrid Urban Fest vuelve a la raíces del hiphop en Vallecas con conciertos de El Chojin, Ambkor y Ms Nina elDiario.es",
+      "image": "",
+      "publishedAt": "2026-10-30 12:50 UTC",
+      "language": "es",
+      "topic": "Música",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Agenda Madrid",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMVRXZ1NSc3cyZlVXWFJwODRnYWRQV2VjVEZCUkNCMlJ2OU5rbGdMTERRa0M4Ui1mSmlyZmV5YUF4dnduUnFOSENybVdxQ0xXQzZfeFdEY2tVM3dOYmxvcDcwek9raTlFQUpLNDIyWFR1NzJMUmZydXp2UFc3WnJ3R3Y4R3I4ZnZkYVp2RUYxR3M5OFBPSDM0THhNZWZZSTRHNDI5R0FXdjFtV2RKYVhBOVk0SGp6WGY2TjlGZ2RXVFVreHpDT1MtcU9QMXJ5eEZPQ18wNUFEVdIB3AFBVV95cUxOY2djaE83bTdabWdMSlhaOVBWVVd2RU55TW5OcUxfWUh6MkV5OXVfekRkaW1WUGtpYUhteGhLQkJGSXBiajZWTWtyUEVuVlR2QmJzNl9YVUVoNnlGQlRKRnp0TlFPekVlS2swMGZxYTJOMlhwVGh3OFg1RUZhajJLY043YnpnajRZWXpzbi1vNWpHcW5nUHBpOXdyMGRoSXJRblJBOER4YU80NElyeXJPb2xZMGxtUGp2T3lPM2hkN0JZUDdVNGJqRDY5dm12UHc5UEd2NDdha1g5RUxx?oc=5"
         }
       ],
       "region": "Madrid",
@@ -7856,6 +7900,26 @@
       "cultureView": "noticias"
     },
     {
+      "id": "cultura|https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTnJGeWhENWNaY0c4bWZTazBwUlhpQlh2eGJpX05FYm5pX1ZEODFCWlVEazdNUDlQQXhvX0FOLW5WSkZ2ZnpmaXFQRmtnRy1fWnpGLVZ4LXVLRUxISkVOeFVLX1pkMlF3QW5jNmxQRUM3S0NhbExEc1d5ZVBob1RhLWZfV0tNaHF5Sm4yc21GVEZxUWZWMFpvOEhmSzdsZzh2RU9vY0d5cEJkOWdibFBrM1dVVWpOaHNROWIxanBrNmVHamZfTzd0WTNhOVFMOXljWmFIUFp3?oc=5",
+      "section": "cultura",
+      "category": "Kinótico",
+      "title": "El senegalés Alain Gomis gana la Espiga de Oro en Seminci con el drama anticolonialista 'Dao' - Kinótico",
+      "summary": "El senegalés Alain Gomis gana la Espiga de Oro en Seminci con el drama anticolonialista 'Dao' Kinótico",
+      "image": "",
+      "publishedAt": "2026-10-31 09:45 UTC",
+      "language": "es",
+      "topic": "Cine",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Kinótico",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTnJGeWhENWNaY0c4bWZTazBwUlhpQlh2eGJpX05FYm5pX1ZEODFCWlVEazdNUDlQQXhvX0FOLW5WSkZ2ZnpmaXFQRmtnRy1fWnpGLVZ4LXVLRUxISkVOeFVLX1pkMlF3QW5jNmxQRUM3S0NhbExEc1d5ZVBob1RhLWZfV0tNaHF5Sm4yc21GVEZxUWZWMFpvOEhmSzdsZzh2RU9vY0d5cEJkOWdibFBrM1dVVWpOaHNROWIxanBrNmVHamZfTzd0WTNhOVFMOXljWmFIUFp3?oc=5"
+        }
+      ],
+      "region": "España",
+      "cultureView": "noticias"
+    },
+    {
       "id": "cultura|https://news.google.com/rss/articles/CBMizAFBVV95cUxPZFY5NENPMzZtbm5kNEZXZklpenZ2cHZxM2JCb2V6cUFQcGpTZ052bUdpMjVqT2x4U1RrX0xKeE5LOWZRTzY4b3hRR0RucGcxNUZPU3h1MGJuMWdoSFBVR3p5WEh6WG9EOHRJcXcxTE9TQW1MS1ViampUZkQ1RHVTN3B5MDFaUDZyNXNrUDE0aGltRnpRTDhGR09LWmFVRDhJT01xV3BlSUoyc2k3YWJ5X25VOWxZQlJXaVNwV3pTd1pVSnQzcl9ZbEdQNVI?oc=5",
       "section": "cultura",
       "category": "Kinótico",
@@ -7896,24 +7960,44 @@
       "cultureView": "noticias"
     },
     {
-      "id": "cultura|https://news.google.com/rss/articles/CBMizwFBVV95cUxPNjVvY1JCbnBNcVNmdndubHRlOGprOUNvN21UN3VSeGdEOUp3N0FlbV9XUGQxSzk0UExSWHYtTFZtQ0VYV2RLNThnanNIajFwSy1rZ0dIZG5CSGxXY0Fka2NLZmdja21TMDRhenM0Qml1T0RUblRlTjA3dy1TRzljWFgzU21xSU9XSFZaaUx5REFLVUFmZU9LbXd0NXBrMFQ3MlJCQUdsOEFWaFk3VlZIZ3dVN3Y1T2xWSy1yQnFfV21GRm1mekFjekZKTkVNSGs?oc=5",
+      "id": "cultura|https://www.theguardian.com/music/2026/nov/06/spice-girls-the-singles-collection-review-stop-fleecing-your-fans-right-now-thank-you-very-much",
       "section": "cultura",
-      "category": "Kinótico",
-      "title": "Kinótico Especial Seminci 2026 [1]. Arranca la primera edición del festival sin Cienfuegos - Kinótico",
-      "summary": "Kinótico Especial Seminci 2026 [1]. Arranca la primera edición del festival sin Cienfuegos Kinótico",
-      "image": "",
-      "publishedAt": "2026-10-24 07:00 UTC",
-      "language": "es",
-      "topic": "Cine",
+      "category": "Music EN",
+      "title": "Spice Girls: The Singles Collection review – stop fleecing your fans right now, thank you very much",
+      "summary": "(Virgin) The reunion that fans were hoping for turns out to be a cash-grab box set – though there is a worthwhile curio featuring Posh on lead vocals Is there a more taunted fanbase than that of the Spice Girls? Seemingly every other week a story – usually perpetuated by Mel B, the band’s number one cheerleader – appears in the tabloids hinting at some sort…",
+      "image": "https://i.guim.co.uk/img/media/cf77623869d40f3097af5a8b7526579b25ceef04/0_386_2230_1784/master/2230.jpg?width=140&quality=85&auto=format&fit=max&s=b75b14b9afb23e2ee4f44e82326970f9",
+      "publishedAt": "2026-11-06 14:41 UTC",
+      "language": "en",
+      "topic": "Música",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "Kinótico",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNjVvY1JCbnBNcVNmdndubHRlOGprOUNvN21UN3VSeGdEOUp3N0FlbV9XUGQxSzk0UExSWHYtTFZtQ0VYV2RLNThnanNIajFwSy1rZ0dIZG5CSGxXY0Fka2NLZmdja21TMDRhenM0Qml1T0RUblRlTjA3dy1TRzljWFgzU21xSU9XSFZaaUx5REFLVUFmZU9LbXd0NXBrMFQ3MlJCQUdsOEFWaFk3VlZIZ3dVN3Y1T2xWSy1yQnFfV21GRm1mekFjekZKTkVNSGs?oc=5"
+          "name": "Music EN",
+          "url": "https://www.theguardian.com/music/2026/nov/06/spice-girls-the-singles-collection-review-stop-fleecing-your-fans-right-now-thank-you-very-much"
         }
       ],
-      "region": "España",
-      "cultureView": "agenda"
+      "region": "Internacional",
+      "cultureView": "noticias"
+    },
+    {
+      "id": "cultura|https://www.theguardian.com/film/2026/nov/06/cat-in-the-hat-movie-review",
+      "section": "cultura",
+      "category": "Culture EN",
+      "title": "The Cat in the Hat review – Bill Hader brings plenty but this animated rework is a mess",
+      "summary": "The SNL alum has an appealing energy and this is an improvement on the 2003 travesty but it’s also far too long and strangely corporate Over a long enough timeline, perhaps every living alumnus of Saturday Night Live will play the Cat in the Hat. Mike Myers kicked off this unexpected tradition by embodying the furry, anarchic Dr Seuss character for a notorio…",
+      "image": "https://i.guim.co.uk/img/media/07048846bc1de89d9d63210a3221853e31347902/243_0_1280_1024/master/1280.jpg?width=140&quality=85&auto=format&fit=max&s=f10e0d6dc8ff5d79359b45424803ab20",
+      "publishedAt": "2026-11-06 14:38 UTC",
+      "language": "en",
+      "topic": "Cultura general",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Culture EN",
+          "url": "https://www.theguardian.com/film/2026/nov/06/cat-in-the-hat-movie-review"
+        }
+      ],
+      "region": "Internacional",
+      "cultureView": "noticias"
     },
     {
       "id": "cultura|https://www.theguardian.com/film/2026/nov/06/florence-pugh-dune-star-wars",
@@ -8170,26 +8254,6 @@
         {
           "name": "Music EN",
           "url": "https://www.theguardian.com/music/2026/nov/06/enrico-rava-fearless-five-with-joe-lovano-corners-review-miles-davis"
-        }
-      ],
-      "region": "Internacional",
-      "cultureView": "noticias"
-    },
-    {
-      "id": "cultura|https://www.theguardian.com/music/2026/nov/06/la-roux-old-flames-review",
-      "section": "cultura",
-      "category": "Music EN",
-      "title": "La Roux: Old Flames review – a breezy, hook-packed twist on a breakup album",
-      "summary": "(Vertigo) Devastating moments are dressed up with warm production and kinetic 00s R&B in the now quiff-less singer’s grownup fourth album Over the six years that La Roux, AKA Elly Jackson, was making her fourth album, the singer ended a 17-year relationship, confronted her weed dependency, received autism and ADHD diagnoses and lopped off her signature Johnn…",
-      "image": "https://i.guim.co.uk/img/media/2145e975fe4f3978627a84de10a41e60aca5d6be/841_384_6185_4948/master/6185.jpg?width=140&quality=85&auto=format&fit=max&s=d1e13984de14a187987d69105055fa41",
-      "publishedAt": "2026-11-06 08:30 UTC",
-      "language": "en",
-      "topic": "Música",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Music EN",
-          "url": "https://www.theguardian.com/music/2026/nov/06/la-roux-old-flames-review"
         }
       ],
       "region": "Internacional",
@@ -8494,32 +8558,42 @@
       ],
       "region": "Internacional",
       "cultureView": "agenda"
-    },
-    {
-      "id": "cultura|https://news.google.com/rss/articles/CBMinwFBVV95cUxQbHAxVS1qTDRQRmxlNi0yOThENEIxLWx6RXRZMng5ZDA0a2lqeVZnNm1JMnRCYURPbjZCVzN6a0tjWWtRU2liT0RDb2hKWWlOVHEtdVptcDNqZmw1bjg0a3JBcmhpRVpKNHduOFcwaVN6cmU5dVFGUG5JYWRIMXpadTBwNUNOVHk4dWdXdzJicFFFckpUUjFVS1Ezb1ZDZzA?oc=5",
-      "section": "cultura",
-      "category": "Teatro ES",
-      "title": "El nuevo alma teatral de los antiguos cines Verdi - El Confidencial",
-      "summary": "El nuevo alma teatral de los antiguos cines Verdi El Confidencial",
-      "image": "",
-      "publishedAt": "2026-10-31 04:00 UTC",
-      "language": "es",
-      "topic": "Teatro",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Teatro ES",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbHAxVS1qTDRQRmxlNi0yOThENEIxLWx6RXRZMng5ZDA0a2lqeVZnNm1JMnRCYURPbjZCVzN6a0tjWWtRU2liT0RDb2hKWWlOVHEtdVptcDNqZmw1bjg0a3JBcmhpRVpKNHduOFcwaVN6cmU5dVFGUG5JYWRIMXpadTBwNUNOVHk4dWdXdzJicFFFckpUUjFVS1Ezb1ZDZzA?oc=5"
-        }
-      ],
-      "region": "Internacional",
-      "cultureView": "noticias"
     }
   ],
   "breaking": {
     "espana": [
       {
-        "title": "El Gobierno aprobará antes de elecciones una inversión récord de 17.000 millones en redes eléctricas",
+        "title": "El Gobierno obliga a retirar el 12% del aceite de oliva para frenar la caída de los precios y la industria lo recurrirá",
+        "publishedAt": "2026-11-06 15:18 UTC",
+        "source": "El Mundo",
+        "url": "https://www.elmundo.es/economia/2026/11/06/6aed8762e9cf4a994c8b45a5.html"
+      },
+      {
+        "title": "El padre de Meghan Markle es arrestado en Florida por posesión de pornografía infantil",
+        "publishedAt": "2026-11-06 15:18 UTC",
+        "source": "El País",
+        "url": "https://elpais.com/gente/2026-11-06/el-padre-de-meghan-markle-es-arrestado-en-florida-por-posesion-de-pornografia-infantil.html"
+      },
+      {
+        "title": "Muere a los 50 años Kimmarie Johnson, modelo y actriz de Sensación de vivir",
+        "publishedAt": "2026-11-06 14:45 UTC",
+        "source": "El Mundo",
+        "url": "https://www.elmundo.es/cultura/2026/11/06/6aeddb2021efa02e0e8b4577.html"
+      },
+      {
+        "title": "¿Vandalismo o 'guerra híbrida'? El extraño caso de las decenas de amenazas de bomba falsas contra aviones europeos en cuatro días",
+        "publishedAt": "2026-11-06 14:41 UTC",
+        "source": "El Mundo",
+        "url": "https://www.elmundo.es/internacional/2026/11/06/6aeccda4e9cf4a994c8b458f.html"
+      },
+      {
+        "title": "‘Bruna’ dejará mucha lluvia hasta el miércoles, sobre todo en el oeste peninsular y Canarias",
+        "publishedAt": "2026-11-06 14:13 UTC",
+        "source": "El País",
+        "url": "https://elpais.com/el-tiempo/2026-11-06/la-borrasca-bruna-dejara-lluvias-muy-abundantes-hasta-el-miercoles-sobre-todo-en-el-oeste-peninsular.html"
+      },
+      {
+        "title": "El Gobierno aprobará antes de las elecciones una inversión récord de 17.000 millones en redes eléctricas",
         "publishedAt": "2026-11-06 13:49 UTC",
         "source": "El País",
         "url": "https://elpais.com/economia/2026-11-06/el-gobierno-aprobara-antes-de-elecciones-una-inversion-record-de-17000-millones-en-redes-electricas.html"
@@ -8529,6 +8603,12 @@
         "publishedAt": "2026-11-06 13:48 UTC",
         "source": "El País",
         "url": "https://elpais.com/internacional/2026-11-06/varios-aviones-en-vuelos-europeos-reciben-nuevas-alertas-de-bomba.html"
+      },
+      {
+        "title": "El candidato de Podemos en Murcia interrumpe la Feria de Vivienda al grito de ¡fuera buitres!",
+        "publishedAt": "2026-11-06 13:47 UTC",
+        "source": "El Mundo",
+        "url": "https://www.elmundo.es/murcia/2026/11/06/6aedd991e9cf4ad56e8b458b.html"
       },
       {
         "title": "La Fiscalía Europea pone en marcha una operación con la UCO por la tragedia de Urda y reclama documentación a Adif",
@@ -8553,50 +8633,62 @@
         "publishedAt": "2026-11-06 13:31 UTC",
         "source": "El País",
         "url": "https://elpais.com/cultura/2026-11-06/rodrigo-sorogoyen-carlos-bardem-alana-s-portero-y-sara-barquinero-entre-las-mas-de-800-personalidades-de-la-cultura-que-respaldan-en-un-manifiesto-la-huelga-general.html"
-      },
-      {
-        "title": "Un joven y una niña mueren y otras tres personas sufren heridas graves en una accidente de autobús en el este de Francia",
-        "publishedAt": "2026-11-06 13:23 UTC",
-        "source": "El Mundo",
-        "url": "https://www.elmundo.es/internacional/2026/11/06/6aed954bfdddff65498b457f.html"
-      },
-      {
-        "title": "Sánchez abrirá campaña en Sevilla, la única provincia andaluza donde el PSOE se mantiene imbatible",
-        "publishedAt": "2026-11-06 13:20 UTC",
-        "source": "El País",
-        "url": "https://elpais.com/espana/elecciones-generales/2026-11-06/sanchez-abrira-campana-en-sevilla-la-unica-provincia-andaluza-donde-el-psoe-se-mantiene-imbatible.html"
-      },
-      {
-        "title": "La campaña del PP para \"el cambio necesario\": arranque en Badalona, mítines en plazas de toros y agenda paralela de los barones",
-        "publishedAt": "2026-11-06 13:18 UTC",
-        "source": "El Mundo",
-        "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/06/6aedcb46e9cf4a8a1e8b4596.html"
-      },
-      {
-        "title": "El juez cita como testigo a la mujer con la que Sáenz de Tejada habló de \"eliminar\" a la jueza del 'caso David Sánchez'",
-        "publishedAt": "2026-11-06 13:15 UTC",
-        "source": "Europa Press",
-        "url": "https://www.europapress.es/nacional/noticia-juez-cita-testigo-mujer-saenz-tejada-hablo-eliminar-jueza-caso-david-sanchez-20261106141552.html"
-      },
-      {
-        "title": "El juez cita a Cintia Rocho para que declare como testigo sobre el intento de \"eliminar\" a Beatriz Biedma",
-        "publishedAt": "2026-11-06 13:10 UTC",
-        "source": "El Mundo",
-        "url": "https://www.elmundo.es/espana/2026/11/06/6aedd054fc6c83f6498b45a7.html"
-      },
-      {
-        "title": "El ‘New York Times’ quiere comprar Letterboxd por 330 millones de dólares",
-        "publishedAt": "2026-11-06 13:10 UTC",
-        "source": "El País",
-        "url": "https://elpais.com/economia/2026-11-06/el-new-york-times-quiere-comprar-letterbox-por-330-millones-de-dolares.html"
       }
     ],
     "mundo": [
+      {
+        "title": "Two dead after bus crashes in France, officials say",
+        "publishedAt": "2026-11-06 15:13 UTC",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US job growth surges in October; unemployment rate falls to 4.1% - Reuters",
+        "publishedAt": "2026-11-06 15:08 UTC",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPakNLaDVCMElHQkc5cjV5SmVJcFNPdVpMbnZHRmVFMkoxR3hhbERYTnBZcUlmQVZBanhMeVhEZHpsN3JxM0xrUHNsYVZPWW1EdXBWam1pNk5lSEZVNHkwcUV1VG9xbmVYek80a3JXelRIcW9fQjQ3TUljTUdpZkhYWUJaZHhxNTUybWQwME81bUtPTmJ4UUg4ZjVrZjVlLUx2azFkWjhmeThDWkp2MHJwdTVR?oc=5"
+      },
+      {
+        "title": "Bomb threats spread to European newsrooms after wave of passenger jet scares",
+        "publishedAt": "2026-11-06 14:58 UTC",
+        "source": "ABC Australia",
+        "url": "https://www.abc.net.au/news/2026-11-07/brk-bomb-threats-planes-europe/107358382"
+      },
+      {
+        "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
+        "publishedAt": "2026-11-06 14:57 UTC",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The leader of a Kenyan doomsday cult is sentenced to 200 years in prison",
+        "publishedAt": "2026-11-06 14:53 UTC",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder"
+      },
+      {
+        "title": "‘A global political awakening’: how gen Z protests are sweeping the world",
+        "publishedAt": "2026-11-06 14:52 UTC",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/06/gen-z-protests-sweeping-the-world"
+      },
+      {
+        "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+        "publishedAt": "2026-11-06 14:46 UTC",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Bomb threats against European flights ‘likely a coordinated campaign of disruption’, Ireland says – Europe live",
         "publishedAt": "2026-11-06 14:19 UTC",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live"
+      },
+      {
+        "title": "Seafarer killed in suspected missile attack on tanker in Gulf - Reuters",
+        "publishedAt": "2026-11-06 14:17 UTC",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQlB2Sm9vTXA4Rlp1QWxROTNzaUJ5TG0teEFKRWs1cmY3VFZkZXd6RlVzQmxNTGcxcmwyMG9SOUZlRVdKS0o2V08xbzdaRW5sbGNBTDdpRUduU0xsQUV3czAybnlIU0FPQUs1ZFR1RE41U3BpZXhIeHFYeEI1b2RRamRWQnhpOUVESHM2TENjNS1XUQ?oc=5"
       },
       {
         "title": "Anti-fire ant eradication activist convicted after using legal arguments ‘similar to sovereign citizens’",
@@ -8615,57 +8707,21 @@
         "publishedAt": "2026-11-06 13:56 UTC",
         "source": "NPR World",
         "url": "https://www.npr.org/2026/11/06/g-s1-152217/ex-lawmaker-gets-12-5-years-in-macaos-first-national-security-case"
-      },
-      {
-        "title": "EU charges TikTok with failing to protect users’ mental health",
-        "publishedAt": "2026-11-06 13:49 UTC",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health"
-      },
-      {
-        "title": "Activists breach Microsoft data centre construction site as protests spread in Europe - Reuters",
-        "publishedAt": "2026-11-06 13:37 UTC",
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWlBqNDNLWm53eHI0c0JoT0pQRWhQTFZ0LU12MEFzNmV2YVNqaEdkbWNPOGl0MG93VFlfUUluLXVoV1JFMnk4OFA0dVdoNm9hU044UjNyTnBfMDdHZmlCbC1QeGZqNFk1VF9ZQ2dLRW9keVNLWl9QX0NrZE55cFU4MXJZaDRZLWJjMFI4QVoxekwybVlydDcwc01UaFJuY1RQLXNienI3eFlPSXpVZHBJX09sMnZRRktxQ2hWNFk2UmtDaGRQbndF?oc=5"
-      },
-      {
-        "title": "Further bomb threats disrupt at least another 18 flights across Europe",
-        "publishedAt": "2026-11-06 13:34 UTC",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe"
-      },
-      {
-        "title": "Kenyan cult leader sentenced to 200 years in prison for mass starvation murders of children - Reuters",
-        "publishedAt": "2026-11-06 13:30 UTC",
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOVFQN3ZZdXgwV0VlOWE3MF8zbXg0ZF9ZenNaZ3pVTl8xcHpuREFHUFpodWFmMXVzSmN3c29kRVViMDZhdkZ1QjB1WGdoR0tLZ09OaTRORzBOWmNQQUFUb2RvMnpVdjQ3eGlCcmJsSGxPNzFVM0N2bEJCZ3V5SVJ0OTRyZW9LbFVhVmRXeUV2a0Q0eFE4WVR1Vl81V1NoTWZ4THNYbklpbFc1RmxIZ043WTBVWWxwTW4yVmNYXw?oc=5"
-      },
-      {
-        "title": "Flávio Bolsonaro battles to remain relevant as he speaks at rightwing conference at Mar-a-Lago",
-        "publishedAt": "2026-11-06 13:03 UTC",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/06/flavio-bolsonaro-upbeat-brazil-election-us"
-      },
-      {
-        "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-        "publishedAt": "2026-11-06 12:54 UTC",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Russian extremist group denies sending hoax bomb threats",
-        "publishedAt": "2026-11-06 12:51 UTC",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
-        "publishedAt": "2026-11-06 12:48 UTC",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections"
       }
     ],
     "cultura": [
+      {
+        "title": "Spice Girls: The Singles Collection review – stop fleecing your fans right now, thank you very much",
+        "publishedAt": "2026-11-06 14:41 UTC",
+        "source": "Music EN",
+        "url": "https://www.theguardian.com/music/2026/nov/06/spice-girls-the-singles-collection-review-stop-fleecing-your-fans-right-now-thank-you-very-much"
+      },
+      {
+        "title": "The Cat in the Hat review – Bill Hader brings plenty but this animated rework is a mess",
+        "publishedAt": "2026-11-06 14:38 UTC",
+        "source": "Culture EN",
+        "url": "https://www.theguardian.com/film/2026/nov/06/cat-in-the-hat-movie-review"
+      },
       {
         "title": "SON Estrella Galicia, proyectos de apoyo a artistas, músicos y salas - MondoSonoro",
         "publishedAt": "2026-11-06 14:05 UTC",
@@ -8725,21 +8781,15 @@
         "publishedAt": "2026-11-06 10:25 UTC",
         "source": "MondoSonoro",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90N0pPS3BQTkt4WmNTVmJMWjhfckNURVd4OGh5QnVNMXFxc2ljUWY5aXRUMW82VVdIalZDN2syaDhHTHNPcjY0LTZDajdNeGwtZmNUT0xaMzlIVW4xRlNxd2MtQXlqdw?oc=5"
-      },
-      {
-        "title": "Serchito Trambotiko - MondoSonoro",
-        "publishedAt": "2026-11-06 10:25 UTC",
-        "source": "MondoSonoro",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VQVpxV3ZYREd4Vy1BaUtMNlNWSUY4ZnhPNmF6U2dOVnJnX1JHVk1VdDlncnJtdll0bWVxRGx1OFVUaDlLZTVQLTU4SVA2ODBlWDZ0bUthQU9QYUVHNGVnVFdJZENzaHNMQjNxRXl5dXVNdw?oc=5"
-      },
-      {
-        "title": "- Museo del Prado",
-        "publishedAt": "2026-11-06 10:19 UTC",
-        "source": "Museo del Prado",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QendDMUktZm5Qa0ZUVTJBT283dk40THQ0UUxwaWNBbTJwYlRiaGp6STV1Z0E5RHhtVFhqSmI5aFMwVndpYko5U0JSVGZHLWRvZ2tMVHpR?oc=5"
       }
     ],
     "television": [
+      {
+        "title": "Cintora responde a Tellado por su nueva ofensiva contra RTVE: \"Es un honor que alguien que defiende a Vito Quiles me ataque\"",
+        "publishedAt": "2026-11-06 14:30 UTC",
+        "source": "Vertele",
+        "url": "https://www.eldiario.es/vertele/noticias/cintora-responde-tellado-nueva-ofensiva-rtve-honor-defiende-vito-quiles-ataque_1_13644353.html"
+      },
       {
         "title": "Jim Cramer Leads CNBC Into Creator-Media Era",
         "publishedAt": "2026-11-06 14:30 UTC",
@@ -8747,7 +8797,7 @@
         "url": "https://variety.com/2026/tv/news/jim-cramer-cnbc-creator-media-tv-news-contract-1236941224/"
       },
       {
-        "title": "Fox Closes $22 Billion Roku Takeover",
+        "title": "Fox Closes $22 Billion Roku Takeover, Says Streaming Platform Will Remain ‘Open Ecosystem’",
         "publishedAt": "2026-11-06 14:21 UTC",
         "source": "Variety TV",
         "url": "https://variety.com/2026/tv/news/fox-closes-roku-acquisition-1236941275/"
@@ -8783,6 +8833,12 @@
         "url": "https://variety.com/2026/tv/global/bear-grylls-russell-brand-verdict-baptism-justice-served-1236941211/"
       },
       {
+        "title": "La TV da la bienvenida a La Séptima: de los deseos de RTVE y Mediaset a la respuesta de Antonio Naranjo a su 'trituradora'",
+        "publishedAt": "2026-11-06 11:45 UTC",
+        "source": "Vertele",
+        "url": "https://www.eldiario.es/vertele/noticias/tv-da-bienvenida-septima-deseos-rtve-mediaset-respuesta-antonio-naranjo-trituradora_1_13643439.html"
+      },
+      {
         "title": "El anuncio de la Lotería de Navidad 2026 reivindica con una emotiva 'Corazonada' que \"compartir nos da la vida\"",
         "publishedAt": "2026-11-06 11:26 UTC",
         "source": "Vertele",
@@ -8799,21 +8855,21 @@
         "publishedAt": "2026-11-06 10:28 UTC",
         "source": "Variety TV",
         "url": "https://variety.com/2026/tv/global/comedy-producer-russell-brand-assault-steps-back-1236941125/"
-      },
-      {
-        "title": "Taiwan Should Bet on Horror to Crack Indonesia, Southeast Asia’s Biggest Film Market, Study Finds",
-        "publishedAt": "2026-11-06 10:22 UTC",
-        "source": "Variety TV",
-        "url": "https://variety.com/2026/film/markets-festivals/taiwan-horror-indonesia-box-office-study-1236941116/"
-      },
-      {
-        "title": "Nova (2.3%) lidera la TDT con otro 'repóker' de telenovelas y la Europa League (1.8%) manda por partida doble en la TV de pago",
-        "publishedAt": "2026-11-06 09:36 UTC",
-        "source": "Vertele",
-        "url": "https://www.eldiario.es/vertele/audiencias-tv/jueves-5-noviembre-2026-nova-lidera-tdt-repoker-telenovelas-europa-league-manda-partida-doble-tv-pago_1_13643040.html"
       }
     ],
     "tecnologia": [
+      {
+        "title": "The 36 best Christmas gifts in the UK for every kind of teenager – chosen by teens",
+        "publishedAt": "2026-11-06 15:00 UTC",
+        "source": "Tech EN",
+        "url": "https://www.theguardian.com/thefilter/2026/nov/06/best-christmas-gifts-teenagers-uk"
+      },
+      {
+        "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+        "publishedAt": "2026-11-06 14:10 UTC",
+        "source": "TechCrunch EN",
+        "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/"
+      },
       {
         "title": "Fearing AI disruption, white-collar workers are quitting their jobs",
         "publishedAt": "2026-11-06 14:00 UTC",
@@ -8863,31 +8919,25 @@
         "url": "https://www.theguardian.com/world/2026/nov/06/autonomous-weapons-ai-russia-us-binding-rules"
       },
       {
+        "title": "En medio de una crisis de ciberseguridad, OpenAI estrena GPT-6 Cyber, su nuevo modelo \"crítico\" - Xataka",
+        "publishedAt": "2026-11-06 11:01 UTC",
+        "source": "Xataka",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQczdpUTRPUEpfbVBRcWpieDNFcGpyZ2MtR0VJSThyWW10TG1tYjBjaTB4Y1NRZXByV2lLeU93eTRySkVnNFpwWkZzV1N0ODAtQjY4RWNPSnRBUEFYWU4yWDZnWjBDZmd3bVFxX0hKOHZUNG54M0pqakRQSlltMXZrbXlwUzZLbS1NTXZ4WDJkUmU5b2l6YjV0N25CbWY1VDNpdU9BREhWRHJfMmtSbGNCdVl5cS0yZ9IBuwFBVV95cUxQdGpMdkpmV0E3X3g3S3Eta2h0ai1nNTVoT0hGWDA5R3JCWlQzYUVKN0FUTnZxWUhJQzloeGVabG9NY25fTEdfbjJld0x3UFhRVjBUWi1OMVp3dFNmSndKaHBNaGJRMVdGM3QxbWltUWtYaXhrUUZKNTJYQzlCekE3LXNYZU4xWE9PUnlKRFVJZWFrQTVkSHZEaWhrVWZma3B0Rl9zUDZ0eHVaaGZ1MjVBQ3c1cnJ6X01DRjZz?oc=5"
+      },
+      {
         "title": "Si hace cinco años invertiste 10.000 dólares en Tesla, hoy tendrías 8.400 - Xataka",
         "publishedAt": "2026-11-06 10:45 UTC",
         "source": "Xataka",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN256Z2ZreXJiQU0wTjRucmJhckVqczgxZHFyQUs1QW5FMXAzQl81bUY1MFhOSVhJNmFEWGVoOFA2VjI2Sm1OZnliM1NxalpsczRaZjhSbVduNUVtdzNOdWNYTUZFWUdZbjFtUUYyeGlwVEp0ZEhWVnE4NkNuT2Rkb3dNcWd6TEt0MDhoaWVSMDZsRFRLYzEwSHY2Q3ByZzAxNjdfTnkzRzLSAa4BQVVfeXFMTzJxRVk3aEx1eHg3RDFQY21LcG9QNTRJeVlmTkduMEVlY3RnR1QyTUtiMUQ3LVo4YmlIblZldHA0a3ZOSWJCdmZjc0Y4ZDBRcjUxcjVPb0U5VFRnZ2RDU2Z0c19tbzVMaGVuLVdkUnRSYUE5ZE9VRXQwVnZhc3Rmdm1EMUxzSGNmcVVVV1BlVGFLb0Nta2tUMEtMSDJwQW9nRGs5LUEwZXVpNUtLVlVB?oc=5"
-      },
-      {
-        "title": "Tesla is “winding down” production of the Cybertruck next year - The Verge",
-        "publishedAt": "2026-11-06 10:42 UTC",
-        "source": "The Verge",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMnFEQTh0TWMyanV3SndWQTNPN0MtUVVVcm9hdzJ2OEJnekh4TjJkZXg4cnFQQkh1WHo4dVZnSzFHU1NYTmlQRS1ZbGwtaDJYajFfdE4taDRicVYwWFI0S0pkZGs3SjBleHJVRU9zOFpFRXdPd2R6eHBVV2pLMVV3WDJXRENGNGsxcEpqSVpVdlkwT0dJVDdWUA?oc=5"
-      },
-      {
-        "title": "Amazon está agotando esta casa prefabricada expandible: es solar, autosuficiente y cuesta poco más de 13.000 euros - Xataka",
-        "publishedAt": "2026-11-06 10:31 UTC",
-        "source": "Xataka",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMWluNTRhemJXVzNfMTZsTjNUNU1ZQngxYkZzOHM0QVZXSFV0ek5NOXptWTlJZUpiYkNTVG1rQlU5QWdjZUZGX2o5SzM1bkZ6eUpTZWVpYmlkN3g0eEZHSGYzc3lZaGF0d01oT05YbFRoNkVsLUs5YnRXcHV4bEREY25mak55cnJiR0RTUjF5TmI0cjYtU2kzRUZVM3owMUhEX3pQTjVuLXZpOTIxV2RUd1VkaWdMVTFRZTFCSTdjUXFBWGZPQTZxUzc2cHBmd9IB0wFBVV95cUxQNzNMblgxMXV2dUdmVjBGMU9kMHpxYnlINkpyVzA3MEk5VFB6Z3VBUXJiWEs3dVBFaVNPcmN2Q1M5V0VnR3l1dXBDZjQwc1VjbXB1OEEwVFVMb0I5MnI3ZllsWTFvcThzUzBrejJmcm1zUXlSbTRKWl9JR0FtYUw1QXBqZjZKcGxTN2JyTmJPWDdtdFBxSXhLT1F0Y29XZGd0T1JOc29DY04teVNQeGpiSWdqWEloTU5XWDJNWGs0UV9pWWwzbEVDZnlwTlM0d1hTMjZF?oc=5"
-      },
-      {
-        "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
-        "publishedAt": "2026-11-06 07:18 UTC",
-        "source": "TechCrunch EN",
-        "url": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/"
       }
     ],
     "estilo": [
+      {
+        "title": "6 Best Safety Razors for Men Who Want a Closer, More Comfortable Shave - Style Rave",
+        "publishedAt": "2026-11-06 15:00 UTC",
+        "source": "Menswear International",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NRVN3ZFJrLWo0TjVfUTRmVHp1anpHV1J0aF9mNExjMUtQLWN1UDQ1bE03eDJRNHRLS0JNcVhmSjl3WmUyeHZtaEY2YTNGZi00Yl90UE9xdzJXTWdPV0ZfVU1B?oc=5"
+      },
       {
         "title": "José Mota, cómico, a los 61 años: \"Cuando Gila hacía sus monólogos, había dos Españas que reían a la misma vez\" - Esquire",
         "publishedAt": "2026-11-06 14:05 UTC",
@@ -8908,7 +8958,7 @@
       },
       {
         "title": "El mejor vino del mundo por menos de 20 € es español y perfecto para triunfar esta Navidad - Esquire",
-        "publishedAt": "2026-11-06 12:32 UTC",
+        "publishedAt": "2026-11-06 12:35 UTC",
         "source": "Esquire España",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTlBab2w2WWszLS1BXzQ5dVV1LWdrYmtJWl9Jci1WSWNpUXA3QlFiSFlfQXNHSnRUQVg5MzBnNXRZUjM0MUlNeFBRREJwcUpkZkl0aHZTNVFkT0JXaURKNHlwS3U5TmNQSl9QbFowTG14NHMyREVZZkFhVnpkYk1UWTA1ZC1ROXktV0lQREZPaFFVV29fNERteU9HcDVFYWc0?oc=5"
       },
@@ -8939,7 +8989,7 @@
       {
         "title": "Llegan las Louis Vuitton Drop 300, las zapatillas más deportivas (y técnicas) de Pharrell Williams - GQ España",
         "publishedAt": "2026-11-06 09:20 UTC",
-        "source": "GQ España Lifestyle",
+        "source": "GQ España",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTUl0NXZBNXppNU9OWHpoVDNxcHFBNFlfMG12bTlhV2l3bWhoeEUyWWQ0TzF2QnhIb3Fra2tUdm5BYWlBVlBsR2JmaE0tcl9VdEZPeW94SnFxWEhiOFh6SlpvSE00cENsTm41NGozLUIydXJmZElkaEY2dG1HZ0t1MjNfY0U1b2FCQXhUU0R6dHZwMEFaWUlHOHNzemd3bXhGQ1gzdlpWak5yZ2JoeUp0TE4wbzdWc3JkRTg1NUNoWDhqcHdhbU9OYmV3?oc=5"
       },
       {
@@ -8953,15 +9003,21 @@
         "publishedAt": "2026-11-06 09:17 UTC",
         "source": "Esquire España",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd0RGMHkwSFd4c05CRnAxUUdlbExTYVZ5LW0zSzY3OFRKVjV1aHhIeEJxdFREUnk5MllWQU9nV2xfUFFiVTJWNWM0WGxabWRIVGF0cWl5NXQwTFZic2VCSy1QWVFvYjRlNFk0ak1wQjRPUW9hODk3cmpQU3I3dHhUdjA5TXRXejJFc2k2VGdxaGRjX1F2cUVXXzFsdTh4d1kyNTVxWi1nQQ?oc=5"
-      },
-      {
-        "title": "Isabel Coixet: \"A mí me pones una gilda y un champán y no necesito más\" - Esquire",
-        "publishedAt": "2026-11-06 08:10 UTC",
-        "source": "Esquire España",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRVNQZmNGck5HdUdGN3FuM1Zzblpld3BXT2sxNEM3ZDRIZDNQZElxVUJZNnc4VUV3TzJBVmpoWF9vX2xkNjVqWUp4Wk9mbGNQcHVyX0gyNXl3OG1UREo5QVhIOTlNM0VoQjV0LXZpMlFOOVRpaEg1VzNPTWZ1WUNjNEpJdW1ldFd0dzM3RVZ2S210VTRxVjduRXI5dzkydzVqZWZtSkh3?oc=5"
       }
     ],
     "eventos": [
+      {
+        "title": "Música, teatro y arte para disfrutar durante el puente (agenda cultural del 5 al 9 de noviembre) - Diario del Ayuntamiento de Madrid",
+        "publishedAt": "2026-11-06 15:11 UTC",
+        "source": "Agenda Ayuntamiento Madrid",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcl9Pc0g4dGtKZmZjZ0d3R1pvM01STFBabHdObWpkUDVjVUU5Q0IzZnZ1eG5CSWNnWDlERDEzSFY0Y0VYYldSdTR2T1lTbThIYWVVWFlIakpHWmNEYWtmLTlmc2xseEdLSERJQmw4Rk5aWC1zVXZUa1lKUHFEUnU0YWxXYW93T1E2QVpsZE5UTGlOdVdYV0ZGSWxUdV9hQVRacFVhWGR2cDRQZVZVdHc?oc=5"
+      },
+      {
+        "title": "En 1980, un concierto en la Escuela de Caminos dio lugar a la Movida Madrileña; 46 años después, sus canciones más conocidas vuelven este domingo al Círculo de Bellas Artes - Madrid Secreto",
+        "publishedAt": "2026-11-06 14:27 UTC",
+        "source": "Madrid Secreto",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVzZIVVNqRHdsc0pUY3dZWGw1RHZTamNTVWljX1MwVDRlX1o1b0w1UzhVYWZmelA0VkVkRE02bE1hZ0VNdE94Nk1sUkJNV3hsR1NHWmdtcTRCZ0tCZVFUSU5nS0ZKQmg1NS1LaFp2bnJhMlAzYWdva1NOVGh1cXUxRXhDUzNwMWJzX2xYZ3NRTWhLWWNtRFE?oc=5"
+      },
       {
         "title": "Ultraligera anuncia su concierto en el… - Movistar Arena Madrid",
         "publishedAt": "2026-11-06 11:00 UTC",
@@ -9021,21 +9077,15 @@
         "publishedAt": "2026-11-06 02:59 UTC",
         "source": "Entradas.com",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZTk2aWZMTTlhVUZsb1pXWVh2b3ByOGJjbjRhTFktc3pvMVJPSzl5ZVBCLVRyb1FIT1NHeUNHb3RONkpTSDE0RHNyc2FNMUl2dThsdDBMMGdOODZSN0gtNjBHVkRkQWtiNDBJMEdGaXQ5cWJqSEFKakpCdkFWcEpabjJvWWJlQzdwVUxQei1DNDJKRUZ4SE0xZ2VzZEtDT1NoYjVGZWdIUE5UTjRxR0ZkUDRfbUZ5WmNYcE05bUhB?oc=5"
-      },
-      {
-        "title": "Mujeres, hombres y gafas de cerca @ Teatro de las Aguas | MADRID - sáb., 21/11/2026 - Entradas",
-        "publishedAt": "2026-11-06 02:59 UTC",
-        "source": "Entradas.com",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ190X2JRSlRLbk5KRnZvZzVTbjFQa080R3NGV3NZeDNjcUkxTDlBOEU1eG1hcDJZTlE0Ymw0QUZheV9rQWlhMEthOWVHUFNhaUFWN05HQVZfQndZZDRCNW1tbWF6QTJiYVp6d1MxM21lT1BFX0lnTG91aWJRRkxZWXFmdTNlNEZKTEF0MWhZUlJaUXkweXRsdg?oc=5"
-      },
-      {
-        "title": "Taller: Los tres niveles de la escena - Teatro Fernán Gómez",
-        "publishedAt": "2026-11-05 18:55 UTC",
-        "source": "Teatro Fernán Gómez",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZEUzSUFpYnNUdThmb3dTN3VHZGZvODZ3cmtTYWl4dXJ1d0NiVk1BbGloaVJoM2JRUW1nV0x3YWtfd3psVTItZ3I4a2dsUE90Z1dSdi1tOEFibm1EVTFrN01Xc1JaamJkNU5TR1ZLRjVZY2hPMEQzT2V2RXhQdUFHdndnXzNnaVpo?oc=5"
       }
     ],
     "viral": [
+      {
+        "title": "EU charges TikTok with failing to protect users’ mental health - The Guardian",
+        "publishedAt": "2026-11-06 13:49 UTC",
+        "source": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUWxnOFNkTkJNTzlOV2hDMnRZRlo0LVhaMFljcmdqSG8tTllaVDV6ZXlPVlFXSjFENy1BcmdHRTRnRzk5aGEyZWxFQUR1VV9Ub1JiMkFWcTk3V2wtZGJxRWRIVzdaSGJiV0xLY1c2WmdzUklNekZicFJhYVZGYlJUODFaNkR5X2h3NkhRVTZPZnVhM09qYV9yaGJfcTZFaXBNbHA4aml5amJrdnM?oc=5"
+      },
       {
         "title": "Bruselas acusa a TikTok de crear \"madrigueras\" de contenido dañino para la salud mental de los usuarios - Antena 3 Noticias",
         "publishedAt": "2026-11-06 12:28 UTC",
@@ -9052,7 +9102,7 @@
         "title": "VIDEO VIRAL: revelan la verdad detrás de la mujer que supuestamente quedó pegada a su perro - Azteca Morelos",
         "publishedAt": "2026-11-06 01:39 UTC",
         "source": "Viral ES",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd2h0dF9FM1poSTE3QU9KTTU4OEplSkNMRnZUYTVFRDQwSEZrSmZna3d5cUI0SXhVbV9MVGcxeWZuMmM4YnV6MDl0N29YRTdYa19QclZfd1lMZUlldE80NVdqVnRmTFE1bHNUY0FqMGVESkhoY0Fpei1YSHpBM3A0UDVoR2hsM1g2T1Iwak1aQTVDMUticUFBLXhna1p4MEo1dl91djFXYUFkVjFFNHB2a2N5YThsRnBOR3I2T2diVnlxZVRUa2Z6WUxkRU5zS3MyUXVxU0l3?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTm5UdGREOHJSQnlWYTZhRUtXLWdwZkdScjZUazlBQnQtUWljcG1saGxiLXM0VXh5VEplMElWN29NVUNVQzRxZmtRdkh3NjA5TXkxVnktVXdHRVRHNTJOWkR0d1hZeGw0X2xDU1IxNHppc0VnWTBGWWRPSWMydm9wOEpDY3RrRWFyWERndDBrQjhBN3JHMllSVjJ4d3ZJUVFmQ2NrMl9JVVY4MWNNOG5lai1TUWxrc1pVck15R1R1cEhhdllpaWQxX0RwZmtoR2tyS3MtaUpvTUZGYTgzYmt3empyQ290R1VLa1E?oc=5"
       },
       {
         "title": "VIDEO | Mujer lanza agua a manifestantes y su vecina le devuelve la sorpresa - TV Azteca Jalisco",
@@ -9101,12 +9151,6 @@
         "publishedAt": "2026-11-05 20:39 UTC",
         "source": "The Guardian",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdDJsVjdKZ3JXZGIwRHpvcnhVZFRiLWlRRmxGOUYtUzNjZ3RaZkI5QUdNOUFWZlA0QnRYTEZMTVJlZzRSSGo5Z3RibldPM0t4c3J2SHowMk9sNGNiZFAyNmFtRkpnbldldVdLMTVnTk14ZzVhX3R1RDVjc2RRakU3VXN1a3hLNEQtaXZnRTB3dEhLUmlsM2x2UWs1MGliWFdDRVh4LXZBM3BwOXo1NWs4?oc=5"
-      },
-      {
-        "title": "What Is The 'Lunch In My City' Trend? The Viral Food Challenge From TikTok And H... - Know Your Meme",
-        "publishedAt": "2026-11-05 20:13 UTC",
-        "source": "Viral EN",
-        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZFBhU0JCYWJhS3o1ZzY4WHRSTGI3Y1psbm5lVnRWbW1vUEE5UkR4cW5CWXBQV3c2NkJhWGljVjFOQl8xN0w2UXY0bU9NemotMmIxQ3h2cWZCWnZyaHAwWF92WS1WV0xjbmNOWXA5dlNJbFBTQjNvNFdoT0hWYWNxVWc0X2VEQ3VBNm1XS3RzVUY1UWh4NV9iU3FKMW92MGNWZ3EyZ0NoU1JySDJib3R0YTJZZTNCQjh2OWJyZEtoSjBJQWhiSjFxRllKOGFsM3cxLTJub2RIaWtTQ0hHYWQxMHk2TTNNdjZUQTE2dDVDY3l3T2ZKTWU4UUIyWnl1dWRmLUI1RVFHM1JlclBSQkE?oc=5"
       }
     ]
   }
