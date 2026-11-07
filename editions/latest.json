@@ -1,6 +1,6 @@
 {
-  "edition": "THE DAILY · Mañana · 07/11/2026 06:25",
-  "generatedAt": "2026-11-07T05:25:54.034647+00:00",
+  "edition": "THE DAILY · Mañana · 07/11/2026 07:26",
+  "generatedAt": "2026-11-07T06:26:06.582090+00:00",
   "mode": "rss-excerpts",
   "stories": [
     {
@@ -27,7 +27,7 @@
       "category": "El País",
       "title": "¿Se mueven las encuestas? Desde la convocatoria y tras el accidente de tren",
       "summary": "Un mes después, el PP ha perdido algo de terreno en todas las encuestadoras, y el accidente de Urda apenas ha movido el promedio. PP y Vox suman mayoría en nueve de cada diez simulaciones del modelo de EL PAÍS",
-      "image": "",
+      "image": "https://imagenes.elpais.com/resizer/v2/IN2D3LM5NBD65OZQJVATJKMAPE.png?auth=0c17add1d52d3b71c7799abee3dd9a4ea4ccdf1bc79c0d7ca28cf84df9d08c74&width=1200",
       "publishedAt": "2026-11-07 04:30 UTC",
       "language": "es",
       "topic": null,
@@ -166,6 +166,24 @@
       ]
     },
     {
+      "id": "espana|https://elpais.com/icon-design/2026-11-07/casa-bosc-la-espectacular-cabana-prefabricada-que-encaja-en-cualquier-sitio-llegas-la-pones-y-listo.html",
+      "section": "espana",
+      "category": "El País",
+      "title": "Casa Bosc, la espectacular cabaña prefabricada que encaja en cualquier sitio: “Llegas, la pones y listo”",
+      "summary": "Ubicada en un bosque de Girona, esta vivienda firmada por el estudio Ágora Arquitectura cuenta con manual de instrucciones para agilizar su autoconstrucción",
+      "image": "https://imagenes.elpais.com/resizer/v2/5KZKENSTCZCJ7GW2FB7F2VLPNA.jpg?auth=3bbe3b22af9b7233b4f8f8bff12314d0c4ba527f1f75844eb83dc5ee5280c156",
+      "publishedAt": "2026-11-07 04:30 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "El País",
+          "url": "https://elpais.com/icon-design/2026-11-07/casa-bosc-la-espectacular-cabana-prefabricada-que-encaja-en-cualquier-sitio-llegas-la-pones-y-listo.html"
+        }
+      ]
+    },
+    {
       "id": "espana|https://elpais.com/babelia/2026-11-07/el-debut-teatral-de-javier-bardem-con-su-maestro-a-mis-57-anos-me-estoy-poniendo-en-un-lugar-de-vulnerabilidad-que-me-hace-mas-fuerte.html",
       "section": "espana",
       "category": "El País",
@@ -216,24 +234,6 @@
         {
           "name": "El País",
           "url": "https://elpais.com/eps/2026-11-07/medio-siglo-de-los-secretarios-de-estado-el-poder-detras-del-poder.html"
-        }
-      ]
-    },
-    {
-      "id": "espana|https://elpais.com/cultura/2026-11-07/ni-shakira-ni-rosalia-delirium-pepitatorum-la-enfermedad-del-entusiasmo-que-desato-la-bailarina-pepita-de-oliva.html",
-      "section": "espana",
-      "category": "El País",
-      "title": "Ni Shakira ni Rosalía: ‘Delirium Pepitatorum’, la enfermedad del entusiasmo que desató la bailarina Pepita de Oliva",
-      "summary": "La artista malagueña que triunfó en la Europa del siglo XIX resurge del olvido en un libro de Vita Sackville-West y un texto autobiográfico inédito",
-      "image": "https://imagenes.elpais.com/resizer/v2/EWE7EVGKVZA2XOXWVGTPOK3GIE.jpg?auth=d41a0cc37d9689f02fe99ebc9dc21c6ce946711103e28da999fd776877a8d87e",
-      "publishedAt": "2026-11-07 04:30 UTC",
-      "language": "es",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "El País",
-          "url": "https://elpais.com/cultura/2026-11-07/ni-shakira-ni-rosalia-delirium-pepitatorum-la-enfermedad-del-entusiasmo-que-desato-la-bailarina-pepita-de-oliva.html"
         }
       ]
     },
@@ -328,12 +328,12 @@
       ]
     },
     {
-      "id": "espana|https://elpais.com/icon-design/2026-11-07/casa-bosc-la-espectacular-cabana-prefabricada-que-encaja-en-cualquier-sitio-llegas-la-pones-y-listo.html",
+      "id": "espana|https://elpais.com/cultura/2026-11-07/ni-shakira-ni-rosalia-delirium-pepitatorum-la-enfermedad-del-entusiasmo-que-desato-la-bailarina-pepita-de-oliva.html",
       "section": "espana",
       "category": "El País",
-      "title": "Casa Bosc, la espectacular cabaña prefabricada que encaja en cualquier sitio: “Llegas, la pones y listo”",
-      "summary": "Ubicada en un bosque de Girona, esta vivienda firmada por el estudio Ágora Arquitectura cuenta con manual de instrucciones para agilizar su autoconstrucción",
-      "image": "https://imagenes.elpais.com/resizer/v2/5KZKENSTCZCJ7GW2FB7F2VLPNA.jpg?auth=3bbe3b22af9b7233b4f8f8bff12314d0c4ba527f1f75844eb83dc5ee5280c156",
+      "title": "Ni Shakira ni Rosalía: ‘Delirium Pepitatorum’, la enfermedad del entusiasmo que desató la bailarina Pepita de Oliva",
+      "summary": "La artista malagueña que triunfó en la Europa del siglo XIX resurge del olvido en un libro de Vita Sackville-West y un texto autobiográfico inédito",
+      "image": "https://imagenes.elpais.com/resizer/v2/EWE7EVGKVZA2XOXWVGTPOK3GIE.jpg?auth=d41a0cc37d9689f02fe99ebc9dc21c6ce946711103e28da999fd776877a8d87e",
       "publishedAt": "2026-11-07 04:30 UTC",
       "language": "es",
       "topic": null,
@@ -341,7 +341,7 @@
       "sources": [
         {
           "name": "El País",
-          "url": "https://elpais.com/icon-design/2026-11-07/casa-bosc-la-espectacular-cabana-prefabricada-que-encaja-en-cualquier-sitio-llegas-la-pones-y-listo.html"
+          "url": "https://elpais.com/cultura/2026-11-07/ni-shakira-ni-rosalia-delirium-pepitatorum-la-enfermedad-del-entusiasmo-que-desato-la-bailarina-pepita-de-oliva.html"
         }
       ]
     },
@@ -360,6 +360,114 @@
         {
           "name": "El País",
           "url": "https://elpais.com/opinion/2026-11-07/no-es-ninguna-broma.html"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://www.abc.net.au/news/2026-11-07/man-75-dies-incident-regis-resources-goldfields-operation-mine/107359442",
+      "section": "mundo",
+      "category": "ABC Australia",
+      "title": "Man, 75, dies in Goldfields mine incident",
+      "summary": "A 75-year-old contract worker has died following a workplace incident at Regis Resources' Duketon South operation in WA's Goldfields.",
+      "image": "https://live-production.wcms.abc-cdn.net.au/8d17ee805f9bb75be34a073f67aecb31?impolicy=wcms_crop_resize&cropH=2916&cropW=5184&xPos=0&yPos=486&width=862&height=485",
+      "publishedAt": "2026-11-07 06:15 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "ABC Australia",
+          "url": "https://www.abc.net.au/news/2026-11-07/man-75-dies-incident-regis-resources-goldfields-operation-mine/107359442"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://www.abc.net.au/news/2026-11-07/nz-election-2026-live-blog/107355448",
+      "section": "mundo",
+      "category": "ABC Australia",
+      "title": "Live: Counting begins in New Zealand election",
+      "summary": "A tight election result looms in New Zealand as polls show both major parties may struggle to form a government without support. Follow live.",
+      "image": "https://live-production.wcms.abc-cdn.net.au/305fd4c78b51750b2357a52e66fd9b47?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=254&width=862&height=485",
+      "publishedAt": "2026-11-07 06:01 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "ABC Australia",
+          "url": "https://www.abc.net.au/news/2026-11-07/nz-election-2026-live-blog/107355448"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://www.theguardian.com/world/2026/nov/07/us-midterm-results-may-help-unite-israeli-coalition-to-unseat-netanyahu",
+      "section": "mundo",
+      "category": "The Guardian World",
+      "title": "US midterm results may help unite Israeli coalition to unseat Netanyahu",
+      "summary": "Democrats’ sweep could urge Israel’s divided opposition to join forces and remove prime minister closely allied with Trump The Democrats’ sweep of Congress may make it easier for Israel’s splintered opposition to overcome deep internal divisions and form a coalition government, by increasing the urgency of unseating Benjamin Netanyahu, who has associated him…",
+      "image": "https://i.guim.co.uk/img/media/26ca01f978ce01c4b69b4f2cf325f6776851a3c5/750_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=04e915bd6dd19b7cb3e3556f13fb5777",
+      "publishedAt": "2026-11-07 06:00 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/07/us-midterm-results-may-help-unite-israeli-coalition-to-unseat-netanyahu"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://www.abc.net.au/news/2026-11-07/rugby-league-world-cup-live-semifinals-from-newcastle/107345014",
+      "section": "mundo",
+      "category": "ABC Australia",
+      "title": "Live: Rugby League World Cup semifinal weekend begins in Newcastle",
+      "summary": "A spot in the Rugby League World Cup final is on the line as the first semis in the men's and women's tournaments are held in Newcastle. Follow live.",
+      "image": "https://live-production.wcms.abc-cdn.net.au/1b89e7e4b6babf6735fb324174189e2e?impolicy=wcms_crop_resize&cropH=2340&cropW=4160&xPos=0&yPos=217&width=862&height=485",
+      "publishedAt": "2026-11-07 05:45 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "ABC Australia",
+          "url": "https://www.abc.net.au/news/2026-11-07/rugby-league-world-cup-live-semifinals-from-newcastle/107345014"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://www.abc.net.au/news/2026-11-07/ellenbrook-victim-assault-community-rally/107359208",
+      "section": "mundo",
+      "category": "ABC Australia",
+      "title": "Supercars, SUVs take to Perth suburb to support teen assault victim",
+      "summary": "More than 100 cars and motorbikes took part in the \"community cruise\" in Ellenbrook, north-east of Perth, to show support for a 13-year-old boy who was allegedly bashed and threatened with a knife in the area by a group of teenagers.",
+      "image": "https://live-production.wcms.abc-cdn.net.au/01cfa9d2b02d97955d26d8823ecbfe54?impolicy=wcms_crop_resize&cropH=3483&cropW=6192&xPos=0&yPos=323&width=862&height=485",
+      "publishedAt": "2026-11-07 05:38 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "ABC Australia",
+          "url": "https://www.abc.net.au/news/2026-11-07/ellenbrook-victim-assault-community-rally/107359208"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://www.abc.net.au/news/2026-11-07/aflw-finals-melbourne-geelong-carlton-north-melbourne/107359468",
+      "section": "mundo",
+      "category": "ABC Australia",
+      "title": "Demons storm home against Cats to claim AFLW prelim berth",
+      "summary": "Melbourne comes from the clouds to beat Geelong in a thrilling AFLW elimination final, earning a week off and a preliminary final spot.",
+      "image": "https://live-production.wcms.abc-cdn.net.au/41eb77e1acfe0bd1f4640984566e11da?impolicy=wcms_crop_resize&cropH=2087&cropW=3711&xPos=0&yPos=147&width=862&height=485",
+      "publishedAt": "2026-11-07 05:21 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "ABC Australia",
+          "url": "https://www.abc.net.au/news/2026-11-07/aflw-finals-melbourne-geelong-carlton-north-melbourne/107359468"
         }
       ]
     },
@@ -792,114 +900,6 @@
         {
           "name": "ABC Australia",
           "url": "https://www.abc.net.au/news/2026-11-07/david-jones-stores-set-to-close-amid-mixed-picture-for-retail/107355738"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.abc.net.au/news/2026-11-07/wool-classers-graduate-to-plug-trade-shortage/107354064",
-      "section": "mundo",
-      "category": "ABC Australia",
-      "title": "Wool trade shortage sees producers, shearers become wool classers",
-      "summary": "After four weeks of study in a classroom that is anything but typical, a motley crew of outback students has learnt how to class wool.",
-      "image": "https://live-production.wcms.abc-cdn.net.au/de7a44b66d1f2bb1a893b78cb10ae84b?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
-      "publishedAt": "2026-11-07 00:32 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "ABC Australia",
-          "url": "https://www.abc.net.au/news/2026-11-07/wool-classers-graduate-to-plug-trade-shortage/107354064"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.abc.net.au/news/2026-11-07/essential-rentals-seven-moves-eighteen-months-no-home/107349602",
-      "section": "mundo",
-      "category": "ABC Australia",
-      "title": "Moving house seven times in 18 months the reality for many renters",
-      "summary": "Frances Thiele is one of many essential workers that new research indicates are effectively locked out of Australia's housing market. She's had to move seven times in recent years to secure a rental home.",
-      "image": "https://live-production.wcms.abc-cdn.net.au/7b9f5388c54be97436719c253e698326?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
-      "publishedAt": "2026-11-07 00:06 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "ABC Australia",
-          "url": "https://www.abc.net.au/news/2026-11-07/essential-rentals-seven-moves-eighteen-months-no-home/107349602"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.abc.net.au/news/2026-11-07/new-crime-data-shows-increase-despite-nt-government-claims/107356742",
-      "section": "mundo",
-      "category": "ABC Australia",
-      "title": "NT government accused of cherrypicking data to support crime claims",
-      "summary": "A report finds the Northern Territory government is cherrypicking data to back its narrative that crime is down, with legal experts saying \"we now must be sceptical\".",
-      "image": "https://live-production.wcms.abc-cdn.net.au/0a517c8ec393d9747fd0a9cbe3a11eba?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
-      "publishedAt": "2026-11-07 00:06 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "ABC Australia",
-          "url": "https://www.abc.net.au/news/2026-11-07/new-crime-data-shows-increase-despite-nt-government-claims/107356742"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.abc.net.au/news/2026-11-07/indigneous-people-underrepresented-in-juries-in-sa/107256812",
-      "section": "mundo",
-      "category": "ABC Australia",
-      "title": "Indigenous people 'very rarely' sit on a jury in SA, report finds",
-      "summary": "Despite being over-represented in the criminal justice system, a report has found Indigenous people are not given equal opportunity to serve on juries.",
-      "image": "https://live-production.wcms.abc-cdn.net.au/f630fc2a4905ecb33f96f91c1ce5cf2b?impolicy=wcms_crop_resize&cropH=2160&cropW=3840&xPos=0&yPos=0&width=862&height=485",
-      "publishedAt": "2026-11-06 23:53 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "ABC Australia",
-          "url": "https://www.abc.net.au/news/2026-11-07/indigneous-people-underrepresented-in-juries-in-sa/107256812"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
-      "section": "mundo",
-      "category": "BBC World",
-      "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
-      "summary": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fd6/live/ad29b050-da2d-11f1-ab60-69d917fc430c.jpg",
-      "publishedAt": "2026-11-06 23:46 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.abc.net.au/news/2026-11-07/nashos-reunite-at-singleton-army-barracks/107354054",
-      "section": "mundo",
-      "category": "ABC Australia",
-      "title": "'Forgotten' veterans conscripted for Vietnam return to army barracks",
-      "summary": "National servicemen who never set foot in Vietnam and have been fighting for recognition for their service have returned to their training barracks after more than half a century.",
-      "image": "https://live-production.wcms.abc-cdn.net.au/2326f26776a3ade6581e0d97da4240e9?impolicy=wcms_crop_resize&cropH=2229&cropW=3963&xPos=0&yPos=583&width=862&height=485",
-      "publishedAt": "2026-11-06 23:33 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "ABC Australia",
-          "url": "https://www.abc.net.au/news/2026-11-07/nashos-reunite-at-singleton-army-barracks/107354054"
         }
       ]
     },
@@ -1450,7 +1450,7 @@
       "title": "Quién es Santiago Peña, el economista a quien el poderoso Horacio Cartes encumbró a la presidencia de Paraguay (y al que ahora dejó caer) - BBC",
       "summary": "Quién es Santiago Peña, el economista a quien el poderoso Horacio Cartes encumbró a la presidencia de Paraguay (y al que ahora dejó caer) BBC",
       "image": "",
-      "publishedAt": "2026-11-06 10:45 UTC",
+      "publishedAt": "2026-11-06 18:42 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
@@ -1512,24 +1512,6 @@
         {
           "name": "Noticias internacionales",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CZlpQaUlJWnFuWG84dHAzSjV4ZkJCWEdYbVpmYjBqZjQyT0FMQkcxc2JIazM3TG1oR0xQMlZqX2tUREVuaGxXdnkzcFdUQmVLYjVHdGdmdDEyRmQwMTBZaTNraGxPNUgtbmRUTFRFTW9fSWtfR3lR0gF3QVVfeXFMTVFUQ2NLUHBBb3FzYUdocjJhUWlPWks5cUY1M2k3MlNneGUzMVNnamZ1UzVQUjVKLVg3ZUQxaGpNN3lmWEJMSEVzb1hLVnpYNEp0a0JBMGR0LXRZRk1pNDdLWUJtUDVtdzJ3Zmk4N09sRDNKSXpyWTA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://news.google.com/rss/articles/CBMigwFBVV95cUxPY3I5TTY2ZTN3N1hncUZGZE50V0NXYmNDdk1YQUhRTXRXdGpkeHlWWlA4dzRBSVA0WnYxdDJuSElUZ1liQVhmNVVuRFJ2WkRvQjh3dXRQemdXOEdRdUhNbjVBaG5rUWJYR3VIQVVRUVJKRzNyWVdnR3BKWjJOUzA3S1ZITdIBgwFBVV95cUxQUE1NVnJ1cGdYaEk3MWJhc2FYRTdELW9MV192aXhnclZ5VVJJamJzcnFHcElmLTFrX1ZibUNQUThnSDJISFJ4NVNsVS1tdE5CXzVlSGFISkFvTDFEQVNqRnZUSkhFX2FfNGVlWHNrdDZSekI0MjM1TmFVSU1ZMmozTkw4WQ?oc=5",
-      "section": "mundo",
-      "category": "Noticias internacionales",
-      "title": "EL MUNDO llega a Komyshuavakha tras la masacre rusa con bombas de 3.000 kilos: \"Es un asesinato masivo\" - El Mundo",
-      "summary": "EL MUNDO llega a Komyshuavakha tras la masacre rusa con bombas de 3.000 kilos: \"Es un asesinato masivo\" El Mundo",
-      "image": "",
-      "publishedAt": "2026-11-06 18:08 UTC",
-      "language": "es",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Noticias internacionales",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY3I5TTY2ZTN3N1hncUZGZE50V0NXYmNDdk1YQUhRTXRXdGpkeHlWWlA4dzRBSVA0WnYxdDJuSElUZ1liQVhmNVVuRFJ2WkRvQjh3dXRQemdXOEdRdUhNbjVBaG5rUWJYR3VIQVVRUVJKRzNyWVdnR3BKWjJOUzA3S1ZITdIBgwFBVV95cUxQUE1NVnJ1cGdYaEk3MWJhc2FYRTdELW9MV192aXhnclZ5VVJJamJzcnFHcElmLTFrX1ZibUNQUThnSDJISFJ4NVNsVS1tdE5CXzVlSGFISkFvTDFEQVNqRnZUSkhFX2FfNGVlWHNrdDZSekI0MjM1TmFVSU1ZMmozTkw4WQ?oc=5"
         }
       ]
     },
@@ -1750,6 +1732,24 @@
       ]
     },
     {
+      "id": "viral|https://news.google.com/rss/articles/CBMixwFBVV95cUxPZDZVUGMtbkI3azFBcHhuNFppVFp3TzFZMU9RMFBGWldOZ0RJaThBYmt6TzdQbTZlSnliTV9DVFhzU1NpYVlsamNHTEFNM2IxejNFcnlCWGxNV3RtSDVFb1BuMFJoVDJXQnFUNk40T3QtaXR0N2F5ZEp0R2xkS2hFZ21tclhPY1FQaWl3ZUpLcFlqWm5UYk5VbzhYd3M1Y1RNOHROWmdLaVZvUzM0eTdjTTFJM0NlWXhpWmtLUFFCcWROTDg1Q0hB?oc=5",
+      "section": "viral",
+      "category": "Viral ES",
+      "title": "Mon Laferte es golpeada con celular en pleno concierto; video causa indignación - ABC Noticias",
+      "summary": "Mon Laferte es golpeada con celular en pleno concierto; video causa indignación ABC Noticias",
+      "image": "",
+      "publishedAt": "2026-11-06 16:01 UTC",
+      "language": "es",
+      "topic": "Tendencias",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Viral ES",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZDZVUGMtbkI3azFBcHhuNFppVFp3TzFZMU9RMFBGWldOZ0RJaThBYmt6TzdQbTZlSnliTV9DVFhzU1NpYVlsamNHTEFNM2IxejNFcnlCWGxNV3RtSDVFb1BuMFJoVDJXQnFUNk40T3QtaXR0N2F5ZEp0R2xkS2hFZ21tclhPY1FQaWl3ZUpLcFlqWm5UYk5VbzhYd3M1Y1RNOHROWmdLaVZvUzM0eTdjTTFJM0NlWXhpWmtLUFFCcWROTDg1Q0hB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "viral|https://news.google.com/rss/articles/CBMi3AFBVV95cUxQekxHY2w1b0EwQXkyazJRZHNlczc0Q291UW9FY0NPT0pUbURlbDJZSWV0eDJwZHNHLVdBUzQ3alZlZnAwSUtURm45NWNndlFSR1ZIT0V3dlpCTE1VRDZsSU5ET2NzV1ZxUmgwQ1lDT1IzQ1FVQ2VxWVFydEM5bDRvRnVkamRoVmFDVXhrNU1tbzRtNm50a0ZVbGU1WGg0YTZpaGliTmYwaU5lbmliZXRJdlBOQzQwOU94OWhwa2RTbHZUWkJ5Z3VxaWxjaFRkTWp6TlZjYnFKelo1YnI4?oc=5",
       "section": "viral",
       "category": "Viral ES",
@@ -1840,24 +1840,6 @@
       ]
     },
     {
-      "id": "viral|https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdU54RmZCZDJTem5jWGJJakhMZ3FJMTBUVnhGeW1BSURjVXpwd1Jwc2hWdnFWZzB2VG0tNjlQQk1EV0Z2d3BtM2F0T1huZE1pdVM5R3RMOVplRkpia1pFRWlSVnJBSWpFN2RNOVpBYUVVOWQ2MS1PLVIxSHlRQ2t3QXh1WW1xaXlvaHhrczdhX1RFOTFPbFVmVUloUy1sMTZrbzF4Q3RZdDY4a1lZd1ExTmk2RWtra1lwWmFRN2xMYXJydXRVMXU3N1dpcmgwSFY4?oc=5",
-      "section": "viral",
-      "category": "Viral ES",
-      "title": "\"No nos vamos a ningún lado\": El viral mensaje con memes que publicó la Casa Blanca en redes - Claro Sports",
-      "summary": "\"No nos vamos a ningún lado\": El viral mensaje con memes que publicó la Casa Blanca en redes Claro Sports",
-      "image": "",
-      "publishedAt": "2026-11-05 22:04 UTC",
-      "language": "es",
-      "topic": "Tendencias",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Viral ES",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdU54RmZCZDJTem5jWGJJakhMZ3FJMTBUVnhGeW1BSURjVXpwd1Jwc2hWdnFWZzB2VG0tNjlQQk1EV0Z2d3BtM2F0T1huZE1pdVM5R3RMOVplRkpia1pFRWlSVnJBSWpFN2RNOVpBYUVVOWQ2MS1PLVIxSHlRQ2t3QXh1WW1xaXlvaHhrczdhX1RFOTFPbFVmVUloUy1sMTZrbzF4Q3RZdDY4a1lZd1ExTmk2RWtra1lwWmFRN2xMYXJydXRVMXU3N1dpcmgwSFY4?oc=5"
-        }
-      ]
-    },
-    {
       "id": "viral|https://news.google.com/rss/articles/CBMijgJBVV95cUxOVlE0MWtSRGIwU2dSVHJfOUFtb0JSRTc3RDRPdnNsc1dfOGVvMTNoYlpQdm4xNzdIODhWblhPQ3BFQkhPRzJjRFFScUhaSGtOS1FLWmctT3JKZWp1cTB2TkhRS0tDbnNGYU1EOV9sMTlTVG9QZnZDNTF1bzBGcjJKNk1CT1pvb0twSmZoVzBoYXNCTUlWNng0R1BMZG1teHdqYXc5NURhWEt2UTRNcWcyUXN3MUIzNDdyUndubGdQVWthYS1yNHpRS3RTZm5ETkIxeWo3cElvekJQNlZkU2ZhSlR1RTI0ai0xTmx3WlFSN0g0cHF3bnR3Z2ZsZGFuYzRnZ2J4aFd0Uk8wS04ycEHSAZMCQVVfeXFMTVBmZlVKUW91amJVT0RDNGNyR1JvZ0REeTJ1TnFndFRyb1VKTzJGeWdkNmtKUmRaSDRNa004Zm9wcWlLWGFSYXhQRjhhX2U0ZzJkSTNYeEdQRG11WWVHaVFzOHdYWHBZQ2JCWFBsRDA4ODkyYmZNVlFGRmFPRmpRdlJSMDhwTTZJbWpNbWxmUjZNM1lNeUNhSUZEdW5tQV9ubFdhZzZqbVpISGR3elJpWjBIZnhZRVIwaUxRclNlVllBdHFfM3FzckRJYnhleUF6UlVwbDFuWGs1YVB6d25WTm81VUxWQTh0T05pWXFkY0FlQUlHM3VIMGFSd0dfQ0JGdU4yQjRUcVpCT3pZdFl2Q1RNNHc?oc=5",
       "section": "viral",
       "category": "Viral EN",
@@ -1872,6 +1854,24 @@
         {
           "name": "Viral EN",
           "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOVlE0MWtSRGIwU2dSVHJfOUFtb0JSRTc3RDRPdnNsc1dfOGVvMTNoYlpQdm4xNzdIODhWblhPQ3BFQkhPRzJjRFFScUhaSGtOS1FLWmctT3JKZWp1cTB2TkhRS0tDbnNGYU1EOV9sMTlTVG9QZnZDNTF1bzBGcjJKNk1CT1pvb0twSmZoVzBoYXNCTUlWNng0R1BMZG1teHdqYXc5NURhWEt2UTRNcWcyUXN3MUIzNDdyUndubGdQVWthYS1yNHpRS3RTZm5ETkIxeWo3cElvekJQNlZkU2ZhSlR1RTI0ai0xTmx3WlFSN0g0cHF3bnR3Z2ZsZGFuYzRnZ2J4aFd0Uk8wS04ycEHSAZMCQVVfeXFMTVBmZlVKUW91amJVT0RDNGNyR1JvZ0REeTJ1TnFndFRyb1VKTzJGeWdkNmtKUmRaSDRNa004Zm9wcWlLWGFSYXhQRjhhX2U0ZzJkSTNYeEdQRG11WWVHaVFzOHdYWHBZQ2JCWFBsRDA4ODkyYmZNVlFGRmFPRmpRdlJSMDhwTTZJbWpNbWxmUjZNM1lNeUNhSUZEdW5tQV9ubFdhZzZqbVpISGR3elJpWjBIZnhZRVIwaUxRclNlVllBdHFfM3FzckRJYnhleUF6UlVwbDFuWGs1YVB6d25WTm81VUxWQTh0T05pWXFkY0FlQUlHM3VIMGFSd0dfQ0JGdU4yQjRUcVpCT3pZdFl2Q1RNNHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "viral|https://news.google.com/rss/articles/CBMie0FVX3lxTFBwUlFJdjJBeG1DX2RhLUVIZXdPd2NKZEhVczRwWTV3NV9oMEdmMzctaUhvcmgzLTc0bHdNd2dkTXJQOERablBTb1Y2TGhnUzJhS1A5bVF6RlpaT3BWRkpTU19PYWhRZllzekk3ajA4SlNmbENLclA1YlBKRQ?oc=5",
+      "section": "viral",
+      "category": "Viral EN",
+      "title": "\"The Millennial Reign Of Terror Has Begun\": Iowa's New Governor-Elect Is A Former Prada Model Who Loves Internet Memes - BuzzFeed",
+      "summary": "\"The Millennial Reign Of Terror Has Begun\": Iowa's New Governor-Elect Is A Former Prada Model Who Loves Internet Memes BuzzFeed",
+      "image": "",
+      "publishedAt": "2026-11-06 17:02 UTC",
+      "language": "en",
+      "topic": "Tendencias",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Viral EN",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwUlFJdjJBeG1DX2RhLUVIZXdPd2NKZEhVczRwWTV3NV9oMEdmMzctaUhvcmgzLTc0bHdNd2dkTXJQOERablBTb1Y2TGhnUzJhS1A5bVF6RlpaT3BWRkpTU19PYWhRZllzekk3ajA4SlNmbENLclA1YlBKRQ?oc=5"
         }
       ]
     },
@@ -2052,24 +2052,6 @@
         {
           "name": "Viral EN",
           "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOUFN2anE4Um5MclYzblRfVGRVaXY3TnRLZGRkZzB6WE0yZ3RHeEFXc2lrYTJEcE1xenhLbmlCNVRYWFNjQkRhQUw2aG5nYl81RW0tOG9zNHFlTm5JTmFTVnAyQmFTSnNKTTRIQWx5Y0ZwdU1sQ1pPUHdNZm0yZlpEcTJtMEU4ZXdOMlIxTlNKOTFueHpYM1FfWFV5dW9IcElNbjlUQkQ0eUZpcXg5eVpIQU5KNHhqWmFQOHA2RHhKTXJvNl81VHJicXFoWmhJcUFGcHlLNldmX3VJTFZBSHVPLWVycTZrb2pCWFNEb3NzWTdyamVyZ0JGd3ZHank5TjA5RjBXYnVBMXhSZ0hWWFlmREpVU3VZLXNJbFk3Q0ljUmpfUkXSAagCQVVfeXFMT0ZyT21GdmZCanVVczdOT3V3MnpBblBfUmlCVXJYa2NsdXFUdnVzMWtZengtcjlndzdWTFU4eVRZWWZ6RUIzVWhBZ3kwemk2WkxOUnJCYzI1NnpBT2ZNU2lxZWlyOUJkZ0FPU3RtZ2xzZWZVV0RKSkJycExxOE5IY1JRTU9mczVfNTdrOUdVamswRDZDTDRoa1VjYmw0eGVvTnRlT2h5Sy1sdmNYbG14Wnh3eU1nU24yM1lvUVQzSmVKeWRRdWJrSmE3MjdIR3FGaVRTRElXazZKbHFXdUQyZnlsQ3VvcjNNaW9wQVh2Z3ViWHFRTlp1V3B3cEdTLUJzMTBQeW1Edl9zeFU1UEdrWkpEUUs4NEFKSlJQX2dkTzhGS2szR0FDdEs?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "viral|https://news.google.com/rss/articles/CBMitwJBVV95cUxNQ3JRVGZxaUcxeGN6dGVDMW9hYk5TRjV5bXE5N1FoUEJfZ1NBYXZLSWRvb3RNQlBzUkEyV1NhSTZRVzc0QnQtNkZ2SmNUelBPa2I2aDhQTEowbnNocVBmWXBXSVpZRjdFbzhDb2hmYkNFMVVoRU8yWGg2MnEwU1RIdlVMQ0RTb0xHb05LOEN6dENraG40Y1BhSHl5QkprdUJUVmxuZEh5S0h6WDVtX2NzWG5IVUtfQmpPaHBibmFSdGE3WUxLWmFicTNMZlJBRjBSM1RiNXZZYTFHNTYwX3JYbFdrd3NNLU82b1dWeEludS1fSlp1WG9WUUh5UXYwc3E0VjR2enFyektMTF95b3Z6UkFLaW5VdjUyQkNwX2lCX3p0ZzQxTnN6LXZtdm5ENC12YUNlUGRoQdIBvAJBVV95cUxNU01EN1VFN1NHUDNyS1ptUVhKQVRRWFk0eFpFMmNNdklkVzlNbDF6M29VVlRyLUdPWmsxVnlDR0hJNEdiU0dlNW5Kc1dhRjFVanU1X0RpazVDT2lybm92YUp0OEg2SWU0bnJ6Qks0RHhaYkVBaUFzQjZuYVJma1RPY3dELU5yRXJDTGFabE53RDhteGFKY2FQYTl0NWpUbXpuZnFvQ0VSdDZhVTFYSFhpTXBsUzlPREkwR3RESXBGSTl3bHJMUnRuZmZCOFRGUmg4UWx4WE4ybnEzbjNyX0pWa2R5QWkzeTZuemh5VXMyOWIzUzFQb18wOG9SMDBxNjNMWjRERmdUUUNUZlZNUjlxTjFzMmVPdkZWWGMwNVdIcWQtRnJ1MWVTQXRWNjcxTnJMOHJiVkpTUW9hQzBI?oc=5",
-      "section": "viral",
-      "category": "Viral EN",
-      "title": "“No competition. Aapko kya mila?”: Delhi company’s iPhone 16 Diwali gift for employees goes viral and lea - The Times of India",
-      "summary": "“No competition. Aapko kya mila?”: Delhi company’s iPhone 16 Diwali gift for employees goes viral and lea The Times of India",
-      "image": "",
-      "publishedAt": "2026-11-05 05:13 UTC",
-      "language": "en",
-      "topic": "Tendencias",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Viral EN",
-          "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNQ3JRVGZxaUcxeGN6dGVDMW9hYk5TRjV5bXE5N1FoUEJfZ1NBYXZLSWRvb3RNQlBzUkEyV1NhSTZRVzc0QnQtNkZ2SmNUelBPa2I2aDhQTEowbnNocVBmWXBXSVpZRjdFbzhDb2hmYkNFMVVoRU8yWGg2MnEwU1RIdlVMQ0RTb0xHb05LOEN6dENraG40Y1BhSHl5QkprdUJUVmxuZEh5S0h6WDVtX2NzWG5IVUtfQmpPaHBibmFSdGE3WUxLWmFicTNMZlJBRjBSM1RiNXZZYTFHNTYwX3JYbFdrd3NNLU82b1dWeEludS1fSlp1WG9WUUh5UXYwc3E0VjR2enFyektMTF95b3Z6UkFLaW5VdjUyQkNwX2lCX3p0ZzQxTnN6LXZtdm5ENC12YUNlUGRoQdIBvAJBVV95cUxNU01EN1VFN1NHUDNyS1ptUVhKQVRRWFk0eFpFMmNNdklkVzlNbDF6M29VVlRyLUdPWmsxVnlDR0hJNEdiU0dlNW5Kc1dhRjFVanU1X0RpazVDT2lybm92YUp0OEg2SWU0bnJ6Qks0RHhaYkVBaUFzQjZuYVJma1RPY3dELU5yRXJDTGFabE53RDhteGFKY2FQYTl0NWpUbXpuZnFvQ0VSdDZhVTFYSFhpTXBsUzlPREkwR3RESXBGSTl3bHJMUnRuZmZCOFRGUmg4UWx4WE4ybnEzbjNyX0pWa2R5QWkzeTZuemh5VXMyOWIzUzFQb18wOG9SMDBxNjNMWjRERmdUUUNUZlZNUjlxTjFzMmVPdkZWWGMwNVdIcWQtRnJ1MWVTQXRWNjcxTnJMOHJiVkpTUW9hQzBI?oc=5"
         }
       ]
     },
@@ -2956,6 +2938,24 @@
       ]
     },
     {
+      "id": "estilo|https://news.google.com/rss/articles/CBMiaEFVX3lxTFBScWtrUkZzWHhNZnpfVHNuRDFmMV9FSFM3NjQwZFh0aWF4NEZob09mejNpeHlLMUtqbHdIVFRsWTI0VlR0bTQxVGlzbFh1NmxaTWR4QmhkME1fY2hEWFBnT3h4M3BKOU1O?oc=5",
+      "section": "estilo",
+      "category": "GQ EN",
+      "title": "Our Favorite Loafer Now Comes in Menswear’s Favorite Leather - GQ",
+      "summary": "Our Favorite Loafer Now Comes in Menswear’s Favorite Leather GQ",
+      "image": "",
+      "publishedAt": "2026-11-05 16:43 UTC",
+      "language": "en",
+      "topic": "Moda",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "GQ EN",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBScWtrUkZzWHhNZnpfVHNuRDFmMV9FSFM3NjQwZFh0aWF4NEZob09mejNpeHlLMUtqbHdIVFRsWTI0VlR0bTQxVGlzbFh1NmxaTWR4QmhkME1fY2hEWFBnT3h4M3BKOU1O?oc=5"
+        }
+      ]
+    },
+    {
       "id": "estilo|https://news.google.com/rss/articles/CBMibEFVX3lxTFBab3kzYXdiM2tSdzlnUnFzREUyT3E5QjFIZDJ2VWtTZjMtQ29BQmdYTVFHX2dtY2Z3YkM5WTZTNXBoWjZYTjY3ZmxrU1Z5RFBiZkhjY0U4U2dEcl9XNW1pQl91ZjVWQXNNaVFBSQ?oc=5",
       "section": "estilo",
       "category": "GQ EN",
@@ -3298,38 +3298,20 @@
       ]
     },
     {
-      "id": "estilo|https://news.google.com/rss/articles/CBMijgFBVV95cUxPSXl0ckt4Yzl2VjgzMjR1ODBINnZVXy1aSEdYT3ZaNmYtdFZybkRudEVueGhxb2pPV0t6ZVd5Wmc5UXp1eDZaRzB2MWFaUlNkRGNEbGlMdFhscDBjc2c0M2JJRXRNYjdTNmI3RTZyS3dpWjJXRUVmaUt1UE1hVjBnZmVlV1JXY2NEbTEwMlln?oc=5",
+      "id": "estilo|https://news.google.com/rss/articles/CBMiigFBVV95cUxPWXVtcVN4czFCRjEtdDIyZWs4NHRVNmJ4NjdFS0c0cm1SM3VzcFBsZ0tnVERhZjFNWWEtUThWbWV1LUg0X1QxLXJtMDZGX0t3TTI3dWFFUjNBeUhZWV8za21VWXZMb29CaXZWcFVyRjlkS0FLZ09PNXFiYnplNUJIV0pDMlo5b19qbnc?oc=5",
       "section": "estilo",
       "category": "Menswear International",
-      "title": "One of Fall's Best New Colognes Was Inspired by... Gary, Indiana? - Men's Health",
-      "summary": "One of Fall's Best New Colognes Was Inspired by... Gary, Indiana? Men's Health",
+      "title": "A Deodorant for Every Day of the Week - GQ",
+      "summary": "A Deodorant for Every Day of the Week GQ",
       "image": "",
-      "publishedAt": "2026-11-04 20:21 UTC",
+      "publishedAt": "2026-11-04 19:28 UTC",
       "language": "en",
       "topic": "Moda",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Menswear International",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSXl0ckt4Yzl2VjgzMjR1ODBINnZVXy1aSEdYT3ZaNmYtdFZybkRudEVueGhxb2pPV0t6ZVd5Wmc5UXp1eDZaRzB2MWFaUlNkRGNEbGlMdFhscDBjc2c0M2JJRXRNYjdTNmI3RTZyS3dpWjJXRUVmaUt1UE1hVjBnZmVlV1JXY2NEbTEwMlln?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "espana|https://news.google.com/rss/articles/CBMibEFVX3lxTFBjUjdKbGVyS3ZOWlYtRzE5MmItb04wOVhfVnJ5bHl2V09LR3BOd3pEVElZTllNQjJMVW9VYk9sSTQ4cm9zTmZpZFBLSXdfOEZJRlNWVzlEUkI3eXNsZUhMWVM1NHBUcU5mdkNDVw?oc=5",
-      "section": "espana",
-      "category": "Agencia EFE",
-      "title": "Haitianos se manifiestan en apoyo a Bukele y su tropa en Puerto Príncipe y otras ciudades - EFE - Agencia de noticias",
-      "summary": "Haitianos se manifiestan en apoyo a Bukele y su tropa en Puerto Príncipe y otras ciudades EFE - Agencia de noticias",
-      "image": "",
-      "publishedAt": "2026-11-07 02:05 UTC",
-      "language": "es",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Agencia EFE",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjUjdKbGVyS3ZOWlYtRzE5MmItb04wOVhfVnJ5bHl2V09LR3BOd3pEVElZTllNQjJMVW9VYk9sSTQ4cm9zTmZpZFBLSXdfOEZJRlNWVzlEUkI3eXNsZUhMWVM1NHBUcU5mdkNDVw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWXVtcVN4czFCRjEtdDIyZWs4NHRVNmJ4NjdFS0c0cm1SM3VzcFBsZ0tnVERhZjFNWWEtUThWbWV1LUg0X1QxLXJtMDZGX0t3TTI3dWFFUjNBeUhZWV8za21VWXZMb29CaXZWcFVyRjlkS0FLZ09PNXFiYnplNUJIV0pDMlo5b19qbnc?oc=5"
         }
       ]
     },
@@ -3348,6 +3330,24 @@
         {
           "name": "Agencia EFE",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQV9hU2R0aEhJby1SbXdNVmpGc2RTMUQ1M3pNQmtRME9KVUxoWkVFR3V0R3lOVE14N3RydkVkX1JiM3dyYXU2YU8xLWpaS2VQcnp6RXZxdnI5UkcwTXBxckhKOFVTUUZ1NUphTHBweXVleGR2TGwyN0cxd09aZEhGLXg5WlBLb09vZ1RPaEV4d0w1d3V3WjItclJiWURsOGhHQnBScDZWNA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "espana|https://news.google.com/rss/articles/CBMibEFVX3lxTFBjUjdKbGVyS3ZOWlYtRzE5MmItb04wOVhfVnJ5bHl2V09LR3BOd3pEVElZTllNQjJMVW9VYk9sSTQ4cm9zTmZpZFBLSXdfOEZJRlNWVzlEUkI3eXNsZUhMWVM1NHBUcU5mdkNDVw?oc=5",
+      "section": "espana",
+      "category": "Agencia EFE",
+      "title": "Haitianos se manifiestan en apoyo a Bukele y su tropa en Puerto Príncipe y otras ciudades - EFE - Agencia de noticias",
+      "summary": "Haitianos se manifiestan en apoyo a Bukele y su tropa en Puerto Príncipe y otras ciudades EFE - Agencia de noticias",
+      "image": "",
+      "publishedAt": "2026-11-07 02:05 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Agencia EFE",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjUjdKbGVyS3ZOWlYtRzE5MmItb04wOVhfVnJ5bHl2V09LR3BOd3pEVElZTllNQjJMVW9VYk9sSTQ4cm9zTmZpZFBLSXdfOEZJRlNWVzlEUkI3eXNsZUhMWVM1NHBUcU5mdkNDVw?oc=5"
         }
       ]
     },
@@ -3424,24 +3424,6 @@
       ]
     },
     {
-      "id": "espana|https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRG5NV1drLWtzVWJ6dG5KdVNiQVdYY1daZENXTmtsb2NvUFpnSUxMSjFmREJqaDVDVWVEemFyTjUzUG5MSWNFU2JqODd0TU1ObFBjb05Ib1E3WTZSeHJ4RUxhaHdIanprTDk2MlFYaDJHdWFFZ0VVbUVhWVhXN09WTzJqUnVfZmJBZUFrd2hrZ01kR2xwM0poV0doNndvbTI3NUNQa21BdHJ4SExmVm1VbGVUZGNSZWplT0hIeXdURlFlQnM1ZmtCS1ZEM21pVURHdENUZVNyU1kzaXFnajlORWZ1MEdqUdIB6wFBVV95cUxOdkY4VW4zM0JSQ2l4eERDVEFtbkhUVmREamNPdXJMUWZLSUVGUnpVQVRvRURtYVlHaDBmX1dGek13XzNzT3ZDQ2F3Q2ZyUkhmT2xHZ2xFaVNEVTQ3eDFtTnJkdVNxVHN6Z1duV0l0RlVWQ0hRaDR2M2pyN240VktsUHJQV0NaSVBrVDdGRXVnY19vQWw5dkw5N1pwR3FEb082MTBPSU1QeEpkRkdnLUM1UEI1dW1qYk9GLTdXZ3RhdmgzT3lrR2lnMVRXbm81QTZDTUdYYVRDeHpGV0Q1VER3dGlGbmUxWjJ5QjNv?oc=5",
-      "section": "espana",
-      "category": "20minutos",
-      "title": "Euromillones deja un nuevo millonario en España y el bote especial sigue subiendo hasta los 141 millones de euros - 20Minutos",
-      "summary": "Euromillones deja un nuevo millonario en España y el bote especial sigue subiendo hasta los 141 millones de euros 20Minutos",
-      "image": "",
-      "publishedAt": "2026-11-06 21:28 UTC",
-      "language": "es",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "20minutos",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRG5NV1drLWtzVWJ6dG5KdVNiQVdYY1daZENXTmtsb2NvUFpnSUxMSjFmREJqaDVDVWVEemFyTjUzUG5MSWNFU2JqODd0TU1ObFBjb05Ib1E3WTZSeHJ4RUxhaHdIanprTDk2MlFYaDJHdWFFZ0VVbUVhWVhXN09WTzJqUnVfZmJBZUFrd2hrZ01kR2xwM0poV0doNndvbTI3NUNQa21BdHJ4SExmVm1VbGVUZGNSZWplT0hIeXdURlFlQnM1ZmtCS1ZEM21pVURHdENUZVNyU1kzaXFnajlORWZ1MEdqUdIB6wFBVV95cUxOdkY4VW4zM0JSQ2l4eERDVEFtbkhUVmREamNPdXJMUWZLSUVGUnpVQVRvRURtYVlHaDBmX1dGek13XzNzT3ZDQ2F3Q2ZyUkhmT2xHZ2xFaVNEVTQ3eDFtTnJkdVNxVHN6Z1duV0l0RlVWQ0hRaDR2M2pyN240VktsUHJQV0NaSVBrVDdGRXVnY19vQWw5dkw5N1pwR3FEb082MTBPSU1QeEpkRkdnLUM1UEI1dW1qYk9GLTdXZ3RhdmgzT3lrR2lnMVRXbm81QTZDTUdYYVRDeHpGV0Q1VER3dGlGbmUxWjJ5QjNv?oc=5"
-        }
-      ]
-    },
-    {
       "id": "espana|https://news.google.com/rss/articles/CBMixwFBVV95cUxPZWZfU1I3MUtNQ1ZONHl4blE0R2dFcDZneV80Y28wSFdqeVFWcmZOdjdhV0R0cFd4NHpvNjBsbmptdGhQMVBiaWJQT0VoUy1BUFRibWJzR2I1cjZXZXh3YTdfRXFHSG9KbFR4azd5a3g4ODFMZUFmYk93Z0pfelhtZ0FDb210S2VqRE0yeDRVV0s2YXNkSHQ3WE9lX0wtRUc1Q3RNTVlhYTJGczRNRVRVOXNyUmd0YkRRdEdiQS1QWlpqRjBvMUp3?oc=5",
       "section": "espana",
       "category": "20minutos",
@@ -3460,38 +3442,56 @@
       ]
     },
     {
-      "id": "espana|https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZUQ3S25zQ2tqTmNXLTg0dEZvc2N6LUZHeEtMVlJhU2paQ0hEa2RiYjJVc2pUMXRKT25nNWYxVlhNTTl0VU5rOFJZZHNSS0VnYzN6TFBNbkdnRENSQlJnNWhDd3QyVFk4UWVvZzVOMFlQSVozbFROVmhHa0FJR2toc1RaelBIYkItOFZvTXVOZzYtTlhuMVZDMzJfTE5ERG5QdWxOSmZEZFliano0TjFKNVotT3NsTzVVTnJPX3JfeGtLTUNGTlV1b2k4SEluMldBbFV5UNIB2gFBVV95cUxNaXltVllPRkg0S1dfVTdON29qUVo1TjBqVDNRWGwtVnYxeEZyLVV0SkZNbFc2SlhWZXBHcDhVSGJuRmYwLVV3VkNhT3ZDUDFZcW9JV3F5MlBjd21FbFhEcGtQdS04SU82bndrUmNvVlRzMVNkelZWVk42RFRxTllKNks3dnpaR0NEZ25lWDhIX25WUVI2R21XMWVjdjdvSDFkN2lpRXJfcWxvcEw2NWxSN0lVVDdnZDNfajJxdWZNZzF0OWxfajBIUktybG8yZXlCaFMxN3RHa29IUQ?oc=5",
+      "id": "espana|https://news.google.com/rss/articles/CBMiqwFBVV95cUxONnJWbXVrYi1xOG5hUkoyVnY0ZW5SeFI4dzVMNHRxOEdMV0ZfWEQtYW5RYVJ2bnAzVGNHS2Z6U2pkdE52THhiQ01aT0Rlek5iODhHQ2Ezby1ndlptUklVdFNCMjQtTDhOVjc0aFJnWHpROEFlTEdkY1gyeVh6UndtcFZ2cUVBalRUaXVYc183WUE5NWVpNFotWDd1S3dMTU15YU5pU01qWlZ5UUk?oc=5",
       "section": "espana",
-      "category": "El Español",
-      "title": "La vida oculta de Corvillo, el chófer de Sánchez que amañó las primarias del PSOE de su pueblo: \"Este es mi momento\" - El Español",
-      "summary": "La vida oculta de Corvillo, el chófer de Sánchez que amañó las primarias del PSOE de su pueblo: \"Este es mi momento\" El Español",
+      "category": "20minutos",
+      "title": "Luis Cobos anuncia que tiene una enfermedad: \"Estoy en un proceso de tratamiento, como miles de personas\" - 20Minutos",
+      "summary": "Luis Cobos anuncia que tiene una enfermedad: \"Estoy en un proceso de tratamiento, como miles de personas\" 20Minutos",
       "image": "",
-      "publishedAt": "2026-11-06 04:00 UTC",
+      "publishedAt": "2026-11-06 22:00 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "El Español",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZUQ3S25zQ2tqTmNXLTg0dEZvc2N6LUZHeEtMVlJhU2paQ0hEa2RiYjJVc2pUMXRKT25nNWYxVlhNTTl0VU5rOFJZZHNSS0VnYzN6TFBNbkdnRENSQlJnNWhDd3QyVFk4UWVvZzVOMFlQSVozbFROVmhHa0FJR2toc1RaelBIYkItOFZvTXVOZzYtTlhuMVZDMzJfTE5ERG5QdWxOSmZEZFliano0TjFKNVotT3NsTzVVTnJPX3JfeGtLTUNGTlV1b2k4SEluMldBbFV5UNIB2gFBVV95cUxNaXltVllPRkg0S1dfVTdON29qUVo1TjBqVDNRWGwtVnYxeEZyLVV0SkZNbFc2SlhWZXBHcDhVSGJuRmYwLVV3VkNhT3ZDUDFZcW9JV3F5MlBjd21FbFhEcGtQdS04SU82bndrUmNvVlRzMVNkelZWVk42RFRxTllKNks3dnpaR0NEZ25lWDhIX25WUVI2R21XMWVjdjdvSDFkN2lpRXJfcWxvcEw2NWxSN0lVVDdnZDNfajJxdWZNZzF0OWxfajBIUktybG8yZXlCaFMxN3RHa29IUQ?oc=5"
+          "name": "20minutos",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONnJWbXVrYi1xOG5hUkoyVnY0ZW5SeFI4dzVMNHRxOEdMV0ZfWEQtYW5RYVJ2bnAzVGNHS2Z6U2pkdE52THhiQ01aT0Rlek5iODhHQ2Ezby1ndlptUklVdFNCMjQtTDhOVjc0aFJnWHpROEFlTEdkY1gyeVh6UndtcFZ2cUVBalRUaXVYc183WUE5NWVpNFotWDd1S3dMTU15YU5pU01qWlZ5UUk?oc=5"
         }
       ]
     },
     {
-      "id": "espana|https://news.google.com/rss/articles/CBMi8wFBVV95cUxONGF0dGc4bG1IblFZOGc2WWZuYUY5cTVfakNPWFYyQ196QWE4NzU2bW9sSGFCNFR0VGlzM2wwaUJ6c1BpdUtSeFJQbjNYMWI1dC1aa2hxTzcyYWw4aUtVV1FRSGdMLWFTQm5rNGNaYnRZcDMxQnJMR0JSWlZwUFIwZDNBd0o3QkF3b2REZU8tSC1GQlRKd3BIdzdrd3JuWloybWtueXJJM3BVWm9MLUVmcXY2Q2JYVjY4bWQyS1c2dHNuM0xZM0phVU1KRVJRM1h0c21odFdTcnBialYyZnU0dUYxTEU0Vll5Yl9od1k1Sjk2TUHSAfgBQVVfeXFMTWNiOXFLemJsSGhNbUVPc1cwU3ZJelg4ejVrUVJnMVBKb01fSkYxbGhVTjEzTGdHTzB6RWNvSUtKRllnVjEzNnNjaDAzSlgzTTZPWGhyaGUxODd3d1E3eWN4aFdYcnAxa2EydXU2djF3QkxRYTNFWk9NWTJPQm5DaGNpWnJzeWd4eVpiam5zeU1mU1VLODRSUXBMYzc3Rzg4dG04VnQyVFNBYkRiZG5uNUpGVjZNemNxMFJmRDBhNWN1aTJybUNXNlFHbjEyN19zUUNhaGt1cFRQa3FkMXpVU0xPVk5rX3RpV0RfNVpvR19sU1c3Q1o5dU4?oc=5",
+      "id": "espana|https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTEJHTFZLQ1dBbnJTQnhrMElGekM0OHVKUndxdzhIQV9XWnc5MWN6cnFOc2dzbU1Qb0dJVHFEVFJuVDNxcUdtY1AxeXEzQkNCRUgyNnV6dUlSMlB2YmZ1Vzdla0UxYkg1UFZJcWE5T3h3Q3BJdDJXbGw3OUdjQWRkWUF0eEZZVjhHS2RuSVNWV2RNVkdER0pKVDA2b0VWcXB1U3RfaUxQRHBEWU5iZUc1VXBwaVRMUnhpZHFkbXdlRnJVRTNHNWtaVHk1N2ZUcERybzkxdXE5eExTaVdJNG9xbjRXMkV4d1XSAewBQVVfeXFMT09LTEF4UGF5S1hXNGFrNFlBMVBYRWk3WW4tdG5tUUYzc2hUUU5xZkRKb2U5Tmd6eWd0cFZtbHVfMU9XRGJoOTl4aDlLak5zYVhzV2k0YXB6bHN5UzdkQWpSZFpIT0xMZjBQbThHd1dueXY5SWtMb2M2ei1VeGIwaU5yVmVtRXhheEZaVS0tLURBWF80NmJTaGxlRkpDRE16UVBrSTZXQnJFSzQ0XzB5d09TWlBZVXR2cTlWRUhyNDgtTU5SWnN4TE9qcldZaWpuYWFPcEJKbHBBVS1YT1E4YnFab0FISGVLT0U0QzU?oc=5",
       "section": "espana",
       "category": "El Español",
-      "title": "Anticorrupción acusará a Koldo, Aldama y Pardo de Vera en el segundo banquillo de la corrupción en Transportes - El Español",
-      "summary": "Anticorrupción acusará a Koldo, Aldama y Pardo de Vera en el segundo banquillo de la corrupción en Transportes El Español",
+      "title": "La Fiscalía Europea abre una investigación por fraude de fondos UE en la seguridad del AVE tras el accidente de Urda - El Español",
+      "summary": "La Fiscalía Europea abre una investigación por fraude de fondos UE en la seguridad del AVE tras el accidente de Urda El Español",
       "image": "",
-      "publishedAt": "2026-11-06 19:12 UTC",
+      "publishedAt": "2026-11-06 09:14 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "El Español",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONGF0dGc4bG1IblFZOGc2WWZuYUY5cTVfakNPWFYyQ196QWE4NzU2bW9sSGFCNFR0VGlzM2wwaUJ6c1BpdUtSeFJQbjNYMWI1dC1aa2hxTzcyYWw4aUtVV1FRSGdMLWFTQm5rNGNaYnRZcDMxQnJMR0JSWlZwUFIwZDNBd0o3QkF3b2REZU8tSC1GQlRKd3BIdzdrd3JuWloybWtueXJJM3BVWm9MLUVmcXY2Q2JYVjY4bWQyS1c2dHNuM0xZM0phVU1KRVJRM1h0c21odFdTcnBialYyZnU0dUYxTEU0Vll5Yl9od1k1Sjk2TUHSAfgBQVVfeXFMTWNiOXFLemJsSGhNbUVPc1cwU3ZJelg4ejVrUVJnMVBKb01fSkYxbGhVTjEzTGdHTzB6RWNvSUtKRllnVjEzNnNjaDAzSlgzTTZPWGhyaGUxODd3d1E3eWN4aFdYcnAxa2EydXU2djF3QkxRYTNFWk9NWTJPQm5DaGNpWnJzeWd4eVpiam5zeU1mU1VLODRSUXBMYzc3Rzg4dG04VnQyVFNBYkRiZG5uNUpGVjZNemNxMFJmRDBhNWN1aTJybUNXNlFHbjEyN19zUUNhaGt1cFRQa3FkMXpVU0xPVk5rX3RpV0RfNVpvR19sU1c3Q1o5dU4?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTEJHTFZLQ1dBbnJTQnhrMElGekM0OHVKUndxdzhIQV9XWnc5MWN6cnFOc2dzbU1Qb0dJVHFEVFJuVDNxcUdtY1AxeXEzQkNCRUgyNnV6dUlSMlB2YmZ1Vzdla0UxYkg1UFZJcWE5T3h3Q3BJdDJXbGw3OUdjQWRkWUF0eEZZVjhHS2RuSVNWV2RNVkdER0pKVDA2b0VWcXB1U3RfaUxQRHBEWU5iZUc1VXBwaVRMUnhpZHFkbXdlRnJVRTNHNWtaVHk1N2ZUcERybzkxdXE5eExTaVdJNG9xbjRXMkV4d1XSAewBQVVfeXFMT09LTEF4UGF5S1hXNGFrNFlBMVBYRWk3WW4tdG5tUUYzc2hUUU5xZkRKb2U5Tmd6eWd0cFZtbHVfMU9XRGJoOTl4aDlLak5zYVhzV2k0YXB6bHN5UzdkQWpSZFpIT0xMZjBQbThHd1dueXY5SWtMb2M2ei1VeGIwaU5yVmVtRXhheEZaVS0tLURBWF80NmJTaGxlRkpDRE16UVBrSTZXQnJFSzQ0XzB5d09TWlBZVXR2cTlWRUhyNDgtTU5SWnN4TE9qcldZaWpuYWFPcEJKbHBBVS1YT1E4YnFab0FISGVLT0U0QzU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "espana|https://news.google.com/rss/articles/CBMi8wFBVV95cUxOaEM0Q3dEbUl5aWdDU0NyUjdXNllQZjFxNko4eTNVeVZFeGZYS3Q4R0E5ekp0VHBMR1NFd0JjSnI2ekJLcVZLeUZsMld1a2dlSHdfRzkxeXJTMU1DNlRpQ21IMWNHQ1JGSXh6WWRoUjd2V2s5WFJYMG84UUhSbXB2T29TWk5FY21iT0M5ZlF2Q3pleXlJeFZGVmZwcVpHVjlhZEY5NnRvb1JBMnJGb3JkaXBJemZjNEw2dFR2d0FWOWRjRXlZSDkxN1Q0ZlQ1Q0NTdC1DUFRLcVlDVk9zQW50SktQUGlLRm5FdnRFSGNlQy1qdTTSAfgBQVVfeXFMTTMxQmowY0pYdkg5R0JFOVlaR3pqYkQ3WGdYMHBrNW9QcHNDUTRsajVuR01yU1VMSHp6WlNjR043a05CUkdCT09kOTRpNUhwSF9rcnNNXzRKbUdYOWJHMnBRNXBrckdKanNRNnlUWVB0Ty1RMTNWY2ZqNFh3NnM3eVkwem9KaDh0V0g5SzFPOHlsRnJzTEdCckJKZmRSVVdId2tfOEM3NFJrQ3lvNkhUcXppN0FDbTRjT3pyUzBjV3BBdDlWWk9wNlFTdzFjcE5SSU5JTFJIcTg0am5lZnZ1LVBQMmN4WE5iVTBrN1VBSTdaOTFhS3d4QmQ?oc=5",
+      "section": "espana",
+      "category": "El Español",
+      "title": "Jesús Owono se plantea dejar el fútbol tras el fallecimiento de Jesús de Miguel: destrozado, recibe ayuda psicológica - El Español",
+      "summary": "Jesús Owono se plantea dejar el fútbol tras el fallecimiento de Jesús de Miguel: destrozado, recibe ayuda psicológica El Español",
+      "image": "",
+      "publishedAt": "2026-11-06 19:06 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "El Español",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOaEM0Q3dEbUl5aWdDU0NyUjdXNllQZjFxNko4eTNVeVZFeGZYS3Q4R0E5ekp0VHBMR1NFd0JjSnI2ekJLcVZLeUZsMld1a2dlSHdfRzkxeXJTMU1DNlRpQ21IMWNHQ1JGSXh6WWRoUjd2V2s5WFJYMG84UUhSbXB2T29TWk5FY21iT0M5ZlF2Q3pleXlJeFZGVmZwcVpHVjlhZEY5NnRvb1JBMnJGb3JkaXBJemZjNEw2dFR2d0FWOWRjRXlZSDkxN1Q0ZlQ1Q0NTdC1DUFRLcVlDVk9zQW50SktQUGlLRm5FdnRFSGNlQy1qdTTSAfgBQVVfeXFMTTMxQmowY0pYdkg5R0JFOVlaR3pqYkQ3WGdYMHBrNW9QcHNDUTRsajVuR01yU1VMSHp6WlNjR043a05CUkdCT09kOTRpNUhwSF9rcnNNXzRKbUdYOWJHMnBRNXBrckdKanNRNnlUWVB0Ty1RMTNWY2ZqNFh3NnM3eVkwem9KaDh0V0g5SzFPOHlsRnJzTEdCckJKZmRSVVdId2tfOEM3NFJrQ3lvNkhUcXppN0FDbTRjT3pyUzBjV3BBdDlWWk9wNlFTdzFjcE5SSU5JTFJIcTg0am5lZnZ1LVBQMmN4WE5iVTBrN1VBSTdaOTFhS3d4QmQ?oc=5"
         }
       ]
     },
@@ -3538,7 +3538,7 @@
       "title": "Haiti PM says gang leader Mathias Saintil is dead - Reuters",
       "summary": "Haiti PM says gang leader Mathias Saintil is dead Reuters",
       "image": "",
-      "publishedAt": "2026-11-07 01:08 UTC",
+      "publishedAt": "2026-11-07 00:27 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
@@ -3550,20 +3550,20 @@
       ]
     },
     {
-      "id": "mundo|https://news.google.com/rss/articles/CBMitwFBVV95cUxNSVljNk9VX0xKSElKQjgwMVhnLVpzdmZMTE9YMW5Eb0FpdFpkb0tkczBNZkh1eWFyLU5VanpKU3VGd21EUk52bGc3ZDN4UVd2UFhHM3VReWVUa2kxTVQ3TlJ5UkRFbmdYQzAxTVF0bldhS1BIYjhIOWx4RVU3UnZiMkRORW5nUHJERUQzeTdoSE1kRzlmYVduLVhUbzkzMVFNX1pqb0I2YXZpT1FJRW00alBCWXQydmc?oc=5",
+      "id": "mundo|https://news.google.com/rss/articles/CBMisgFBVV95cUxPaFBQUUZob254UUQxOGhmLUd6Vm1xNThSU2RNTXVib3Rja0R3OVdMbkR4MjR0UDY4ZWRUMkZab1JaZmVaZmllSW96SkR1WmVFb1dXblU4dDg1Y05mUDlPUmlpTlI3VjBxcFpFbVIweUNhRlNxeE5ZLU93VDJzVmE4Y3c5VTByV1poaVFfRG5CUy0wNWlFeUZ6bnA3bmZhek1VOENqdWFyQ0poUzIxU016SUN3?oc=5",
       "section": "mundo",
       "category": "Reuters",
-      "title": "Two missiles strike Iran's Qeshm Island, Tasnim news agency says - Reuters",
-      "summary": "Two missiles strike Iran's Qeshm Island, Tasnim news agency says Reuters",
+      "title": "Google executive Donald Harrison resigns from SpaceX board - Reuters",
+      "summary": "Google executive Donald Harrison resigns from SpaceX board Reuters",
       "image": "",
-      "publishedAt": "2026-11-06 23:04 UTC",
+      "publishedAt": "2026-11-06 23:48 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSVljNk9VX0xKSElKQjgwMVhnLVpzdmZMTE9YMW5Eb0FpdFpkb0tkczBNZkh1eWFyLU5VanpKU3VGd21EUk52bGc3ZDN4UVd2UFhHM3VReWVUa2kxTVQ3TlJ5UkRFbmdYQzAxTVF0bldhS1BIYjhIOWx4RVU3UnZiMkRORW5nUHJERUQzeTdoSE1kRzlmYVduLVhUbzkzMVFNX1pqb0I2YXZpT1FJRW00alBCWXQydmc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaFBQUUZob254UUQxOGhmLUd6Vm1xNThSU2RNTXVib3Rja0R3OVdMbkR4MjR0UDY4ZWRUMkZab1JaZmVaZmllSW96SkR1WmVFb1dXblU4dDg1Y05mUDlPUmlpTlI3VjBxcFpFbVIweUNhRlNxeE5ZLU93VDJzVmE4Y3c5VTByV1poaVFfRG5CUy0wNWlFeUZ6bnA3bmZhek1VOENqdWFyQ0poUzIxU016SUN3?oc=5"
         }
       ]
     },
@@ -3586,20 +3586,20 @@
       ]
     },
     {
-      "id": "mundo|https://news.google.com/rss/articles/CBMipgFBVV95cUxOYkdNclU1NURkXzBzcmRNRDZKSDdGaDZTdC1aSThJc09TM2pPcEJTZktIQllOV1ZrX0N6QXk4eEhHR0prbE03QlJjS28wMWp2VVYzMVhUeTlKYzBuRWtiazFEaThCNUhLNUQzUG9rb0xPaEQ1bF9KcFo4dzQ0a2FxSWNEM2JYWEkwQTRLQ2ZCSkk3c2luaWhqUERaZUhkLUVsdFpaQlFR?oc=5",
+      "id": "mundo|https://news.google.com/rss/articles/CBMipAFBVV95cUxNRW5sSzVyZnVRRlhyY3EzR1lMVUpaR1RxNmNualRGQ3RheFZvVVF3SE5raEVHeDRIcERMWmQyNEpWc1pGMXY1Y3Nza1dyTzZBSXFLbU5Vdm9CWWdla3l6U2NDbmZXbnJFNWh5bmFmUUZZckk4SlNDY2dPTDhyOC1YX1lWYnVYR3ZfUVB1XzVsdWhmVFpGOC0wUC15eUhLRENObllENg?oc=5",
       "section": "mundo",
       "category": "AP News",
-      "title": "Tesla’s Cybertruck heads for an exit after years of hype and division - AP News",
-      "summary": "Tesla’s Cybertruck heads for an exit after years of hype and division AP News",
+      "title": "Google, Meta and TikTok sue California over law designed to protect children from social media harms - AP News",
+      "summary": "Google, Meta and TikTok sue California over law designed to protect children from social media harms AP News",
       "image": "",
-      "publishedAt": "2026-11-06 22:27 UTC",
+      "publishedAt": "2026-11-05 21:38 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYkdNclU1NURkXzBzcmRNRDZKSDdGaDZTdC1aSThJc09TM2pPcEJTZktIQllOV1ZrX0N6QXk4eEhHR0prbE03QlJjS28wMWp2VVYzMVhUeTlKYzBuRWtiazFEaThCNUhLNUQzUG9rb0xPaEQ1bF9KcFo4dzQ0a2FxSWNEM2JYWEkwQTRLQ2ZCSkk3c2luaWhqUERaZUhkLUVsdFpaQlFR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRW5sSzVyZnVRRlhyY3EzR1lMVUpaR1RxNmNualRGQ3RheFZvVVF3SE5raEVHeDRIcERMWmQyNEpWc1pGMXY1Y3Nza1dyTzZBSXFLbU5Vdm9CWWdla3l6U2NDbmZXbnJFNWh5bmFmUUZZckk4SlNDY2dPTDhyOC1YX1lWYnVYR3ZfUVB1XzVsdWhmVFpGOC0wUC15eUhLRENObllENg?oc=5"
         }
       ]
     },
@@ -3658,20 +3658,20 @@
       ]
     },
     {
-      "id": "mundo|https://news.google.com/rss/articles/CBMioAFBVV95cUxQc0hDeXNSTHY4bm1IdVpRWS1XLS1nb1lVQ3NqWUZjZ2Y1NTU2aTRVYnhqVGNNSEE2VzdTU08yOUQ4bUpySEJud1c4eHhZRUdRczlSWW5FZEQybzUtYzBEZjNKcEZ4bHhUbzFYUmZpNDRGSzFFX1hNN2lsUVJIbHlacTZ0eXVKN3EtQlJnb2laaEtnMHd6NXdDanBZTkdxRjVx0gGmAUFVX3lxTE1PdGQwUWoyenBRLWVhdnc5THlTbkhaX3VBdDB5Rk90WS1kTHBTcFBlX3VGS3FpencyNGNtRklWYkJGamlqdTExWVZCMUhqeG1uSVBFajZOSXpDa3FmRHItc19HaUlUUUJ5SVowR1hVdF9xVXhNT0RXTnpYZ1BmcVhLRHZrS1NwTkQ3OUFFbjFHNTRfemE0V2tZMnJyeUFLREJTXzJYUUE?oc=5",
+      "id": "mundo|https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGRHMDJ5QnRDWExQeUktR2ZvOGQ0dTZnSWRIdHRyZWpZQ2VyYTk4UkszNnhjR1FpeWwzR2doN0hFaWxUVGNpS2J3SXEzWVRNbnhzaFNsRGNYcGs4UldOR2F3YVdtbXB1TWJOdENyLW5YYmpOUVlSSVpvLWNYeTJmN1UxNXF6MUxjWmVGcWNIanZEaGxMRUNUU25aSi1YbWxldmfSAacBQVVfeXFMTmxxcWJYZWtnQnFSSzlZekVOdlJ6WFJtYWtaeE9sdU8ySlRRY1BtaGp1WnJZZzVuZV9zNnd3OWlmd3Y3NHdSSXpwYnF2NzJmM0tYUWJuSWg2TTBTRmRYNTlIRDJBd05TTUFHOWNSTzNhbFdOTXJOWXo4eElMdkU2cUtHT2dyMHNfQndYd09LY2xkWDN1Ui1kNEhtQnBLRDdqa2NEYVh2Vkk?oc=5",
       "section": "mundo",
       "category": "Al Jazeera",
-      "title": "Kenyan court sentences starvation cult leader to 200 years - Al Jazeera",
-      "summary": "Kenyan court sentences starvation cult leader to 200 years Al Jazeera",
+      "title": "EU tells TikTok to fix ‘harmful’ For You feed, threatens fines - Al Jazeera",
+      "summary": "EU tells TikTok to fix ‘harmful’ For You feed, threatens fines Al Jazeera",
       "image": "",
-      "publishedAt": "2026-11-06 12:54 UTC",
+      "publishedAt": "2026-11-06 23:46 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc0hDeXNSTHY4bm1IdVpRWS1XLS1nb1lVQ3NqWUZjZ2Y1NTU2aTRVYnhqVGNNSEE2VzdTU08yOUQ4bUpySEJud1c4eHhZRUdRczlSWW5FZEQybzUtYzBEZjNKcEZ4bHhUbzFYUmZpNDRGSzFFX1hNN2lsUVJIbHlacTZ0eXVKN3EtQlJnb2laaEtnMHd6NXdDanBZTkdxRjVx0gGmAUFVX3lxTE1PdGQwUWoyenBRLWVhdnc5THlTbkhaX3VBdDB5Rk90WS1kTHBTcFBlX3VGS3FpencyNGNtRklWYkJGamlqdTExWVZCMUhqeG1uSVBFajZOSXpDa3FmRHItc19HaUlUUUJ5SVowR1hVdF9xVXhNT0RXTnpYZ1BmcVhLRHZrS1NwTkQ3OUFFbjFHNTRfemE0V2tZMnJyeUFLREJTXzJYUUE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGRHMDJ5QnRDWExQeUktR2ZvOGQ0dTZnSWRIdHRyZWpZQ2VyYTk4UkszNnhjR1FpeWwzR2doN0hFaWxUVGNpS2J3SXEzWVRNbnhzaFNsRGNYcGs4UldOR2F3YVdtbXB1TWJOdENyLW5YYmpOUVlSSVpvLWNYeTJmN1UxNXF6MUxjWmVGcWNIanZEaGxMRUNUU25aSi1YbWxldmfSAacBQVVfeXFMTmxxcWJYZWtnQnFSSzlZekVOdlJ6WFJtYWtaeE9sdU8ySlRRY1BtaGp1WnJZZzVuZV9zNnd3OWlmd3Y3NHdSSXpwYnF2NzJmM0tYUWJuSWg2TTBTRmRYNTlIRDJBd05TTUFHOWNSTzNhbFdOTXJOWXo4eElMdkU2cUtHT2dyMHNfQndYd09LY2xkWDN1Ui1kNEhtQnBLRDdqa2NEYVh2Vkk?oc=5"
         }
       ]
     },
@@ -4180,20 +4180,20 @@
       ]
     },
     {
-      "id": "estilo|https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUUlwLXZXeU9ZeDdMUEhJM18zeHdad1VrWmp4VVZYRks3dGVUUWhNeVU0ZWlpMzQ3RTJ6YUowdjVzZ2ZLMVBLVzJ6NV9oZ25QUmxzQzV2UVB3Zk40NmdwV0swMWVGcThKZVM4b2c3b3pzSndzLUdmaW1lY2RKTHBnQUMyQ2JkRjRJVFdGZFlscUhkbEpBTjU4MnlvZ3E0Nm5jSUtwM2VDa0trd2dhRzd3UmhFRDdIbmZHLVNfMGl4b2dha0syVVk4Q09HdDZsVWI5OFJIMkNlTURNSjIwMWtoZDduMjRSSWxnWDJHWFV3QQ?oc=5",
+      "id": "estilo|https://news.google.com/rss/articles/CBMiswFBVV95cUxQM3ZicVlsM3JxYkZyLXpuajNHNUdta3BjM21xbXZva2VfSkRWT2JURmpHbktmNWVJaVhKdlB1cmN2Z0tDc0FQdW1sdENYbG1Rc25GcmQ4R0h4eUt2Y2tQTy1STUp4Q1hBSU5iY2kxdXZTS0ctUmJqcklJZDNqMnJ1VThGYWZXSjB6eTZZVkhIN1NKRlpqN1ZzMmRwQldHbWIwS0VCRWZzTVdMeWhNZ284Vi1CUQ?oc=5",
       "section": "estilo",
       "category": "Men's Health España",
-      "title": "El entrenador personal de 53 años, Bryan Krahn, comparte las 4 estrategias para ganar masa muscular: \"Me encanta volver a ir al gimnasio\" - Men's Health",
-      "summary": "El entrenador personal de 53 años, Bryan Krahn, comparte las 4 estrategias para ganar masa muscular: \"Me encanta volver a ir al gimnasio\" Men's Health",
+      "title": "Cristiano Ronaldo se pronuncia sobre el trasplante capilar a sus 41 años: \"Es solo mi opinión, pero creo que es mejor hacer un tratamiento cuando aún tienes pelo\" - Men's Health",
+      "summary": "Cristiano Ronaldo se pronuncia sobre el trasplante capilar a sus 41 años: \"Es solo mi opinión, pero creo que es mejor hacer un tratamiento cuando aún tienes pelo\" Men's Health",
       "image": "",
-      "publishedAt": "2026-11-04 19:20 UTC",
+      "publishedAt": "2026-11-06 16:28 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Men's Health España",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUUlwLXZXeU9ZeDdMUEhJM18zeHdad1VrWmp4VVZYRks3dGVUUWhNeVU0ZWlpMzQ3RTJ6YUowdjVzZ2ZLMVBLVzJ6NV9oZ25QUmxzQzV2UVB3Zk40NmdwV0swMWVGcThKZVM4b2c3b3pzSndzLUdmaW1lY2RKTHBnQUMyQ2JkRjRJVFdGZFlscUhkbEpBTjU4MnlvZ3E0Nm5jSUtwM2VDa0trd2dhRzd3UmhFRDdIbmZHLVNfMGl4b2dha0syVVk4Q09HdDZsVWI5OFJIMkNlTURNSjIwMWtoZDduMjRSSWxnWDJHWFV3QQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM3ZicVlsM3JxYkZyLXpuajNHNUdta3BjM21xbXZva2VfSkRWT2JURmpHbktmNWVJaVhKdlB1cmN2Z0tDc0FQdW1sdENYbG1Rc25GcmQ4R0h4eUt2Y2tQTy1STUp4Q1hBSU5iY2kxdXZTS0ctUmJqcklJZDNqMnJ1VThGYWZXSjB6eTZZVkhIN1NKRlpqN1ZzMmRwQldHbWIwS0VCRWZzTVdMeWhNZ284Vi1CUQ?oc=5"
         }
       ]
     },
@@ -4324,20 +4324,20 @@
       ]
     },
     {
-      "id": "viral|https://news.google.com/rss/articles/CBMixAFBVV95cUxQLXlubTA1cmhRWVN5TkhrV1FPLXhXSlhlcC1QaVdPTjRtNGdzZ1dzUEFqa1FWSXZjME9oLUMzWjhBXzJhRHpWbFM3VWtQUHkwOWxKU2hIT3dHZXAwMDJnVVhiVjJTSXBRV2lOZktmbWk5RlhYbWQ5bzNMd1FpYnB3c24zTEZ2bXB5c0dPRmdoZjMtQnU4el9ZbTZXdGJGOWdBc0c5SGExRFc1SE54blhvbEpEYnJsaWs4cEVNcmRRaFNZYmFI?oc=5",
+      "id": "viral|https://news.google.com/rss/articles/CBMi_wFBVV95cUxPQ0FacGhVSENCMEstcHhvTnR1WXNsZy1IZ3BLSG9Sak16aFdEcEFYb1Z3M0NXYnJwV3gyc3V4clJ2N2cwZG5xSzJoajF4QnRoNWlOUTRBNU5QQ256QWJob1duZ0ZISktLV1JSVFdobnYwajdXajdsTndDNU4tbTJtQm5jdjRKN0QyMTJFbTJXay1rbXhWRzREOV82RHR1SjJwU3M1YnhDb3pyMTBFWnBiRXZTVm1TLTg3VFlpMmVldTNGRjFhYWpiLVNjdHJWekMwYXBocENMTkNHR3owREhiYU1qZGtqVkxiY3VESXZ5UlQyRVJ5U1RiYVExTjE1c00?oc=5",
       "section": "viral",
       "category": "20minutos",
-      "title": "Puente recuerda a Forges en redes sociales tras anunciar su dimisión como ministro - 20Minutos",
-      "summary": "Puente recuerda a Forges en redes sociales tras anunciar su dimisión como ministro 20Minutos",
+      "title": "Semitransparentes y con un diseño vivo: así son las botas del futuro de Yeezy que se han hecho virales en las redes sociales - 20Minutos",
+      "summary": "Semitransparentes y con un diseño vivo: así son las botas del futuro de Yeezy que se han hecho virales en las redes sociales 20Minutos",
       "image": "",
-      "publishedAt": "2026-11-04 01:09 UTC",
+      "publishedAt": "2026-11-05 13:23 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "20minutos",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLXlubTA1cmhRWVN5TkhrV1FPLXhXSlhlcC1QaVdPTjRtNGdzZ1dzUEFqa1FWSXZjME9oLUMzWjhBXzJhRHpWbFM3VWtQUHkwOWxKU2hIT3dHZXAwMDJnVVhiVjJTSXBRV2lOZktmbWk5RlhYbWQ5bzNMd1FpYnB3c24zTEZ2bXB5c0dPRmdoZjMtQnU4el9ZbTZXdGJGOWdBc0c5SGExRFc1SE54blhvbEpEYnJsaWs4cEVNcmRRaFNZYmFI?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPQ0FacGhVSENCMEstcHhvTnR1WXNsZy1IZ3BLSG9Sak16aFdEcEFYb1Z3M0NXYnJwV3gyc3V4clJ2N2cwZG5xSzJoajF4QnRoNWlOUTRBNU5QQ256QWJob1duZ0ZISktLV1JSVFdobnYwajdXajdsTndDNU4tbTJtQm5jdjRKN0QyMTJFbTJXay1rbXhWRzREOV82RHR1SjJwU3M1YnhDb3pyMTBFWnBiRXZTVm1TLTg3VFlpMmVldTNGRjFhYWpiLVNjdHJWekMwYXBocENMTkNHR3owREhiYU1qZGtqVkxiY3VESXZ5UlQyRVJ5U1RiYVExTjE1c00?oc=5"
         }
       ]
     },
@@ -4360,20 +4360,20 @@
       ]
     },
     {
-      "id": "viral|https://news.google.com/rss/articles/CBMihgJBVV95cUxNNzRVR1UzTnM4OGdhZWV0ZlVCNzI4d0lnOVdNNHpJcWwwNlRSc0ZYRUZBM1o4MHZwQzB4TWlGQTFxal9TbmVWVG9XQjN6c1dtRUN1NU9DN1U4dXZVaGowbU9KVkJLOWw3bThkejRRZ2ZwNEM0V2IzSlRhUmxXZjVYckZOcWxUMFI5R1JKcUtkY0VCd1NHV2FWVnpIcnRuQzZwYTFsZTF5TGdwSkJKLTEzelYtc1B6Vk1fVHkxbUg0ZXB6MnJxbUtVWG5qbWREQlhSRFRKRUVDdVVVUEZNWTdaMWo3bjlTS0ZSemZNS1ROSFdydHNFWUV4WVlTZWFyRVdxVEtzWjNB0gGGAkFVX3lxTFB5c1g3V1d5RkV3U3R6bzRDWmdIVlRiajlubkMxekpmUy12aXIxdF82aWNPdlVXejZkaFpMaXV2Z1BYV0ZaWjhWNGZBd0pZc29UNkllaFFHd2hlQ21rSG1VcXBNYkh5Y0t2bnExXzAxd19nNTNsQUNkc3JzZjRrZjdrb0FxNzFTSVFCZnZtMTA4VHR0bVZtQm82MVlDc3Y1MHF4MkZpalhGczhra05BclpoajhrZzdSWmczWnYxTHlhUzMtYVN2M3VVSlZvZWNERkZkd3RCQ1p2T2EzamRNT1pmTWxWSEZhREl6dkctYlU5dWJRUlpBVDJTdThEREJ2LUw2dmk2cUE?oc=5",
+      "id": "viral|https://news.google.com/rss/articles/CBMi2AFBVV95cUxQN3BJTDh3dHY1QUhKSFBXR2xlNGR6aGlnUzFDdDYxeDMxYVhRRVl0dC1CQ0ZtOG1sTjBOYjBDbHBJdHhnVFNScnVjeV9sUHgxWVZiMmg0elNRZ0NnczI1MjktLXV3eFI1U0N1Mm1HZDVVZGV2NG5zVTdsdWh5N0FROEdMb2RLN1lzcTlyU0tBeVplUGs4NGcyT0l4M3JOMERjbGxOLXBkdlhPbUJpM1FtUXhVeWl1QzhuM2kwWkljSkdrUWxVcTJ6SmQ5T2hzSFhsVDBDUlhTNHDSAdgBQVVfeXFMTk53UzBmQVZfU1FZVnd6OVhiZ3AzOHZMY3ZrQVU1YlpQWGcyd3B3a2QxMkUxMXc5N2w3RElVT2p5ZFpXcXc1bER4Q2xIRi1yTklSTmZrek1NM0FMYnZhM0UtTHZEZTl0TTI0RUQxbjBaR1hyUU9OZHY4TEN3TEpHaDdneXo1MTNhQ05YQ3RvMDZSWFFwZHEzd3F3UVBTM3JHekppYnJaWkt3TFFGTHlrc0FTU0xXQ3NPZ0FTQ1VnNk9NSGtsWDdFTVdkU3NNZmVzZWlWMWVsNktr?oc=5",
       "section": "viral",
       "category": "Antena 3 Noticias",
-      "title": "VÍDEO | El desgarrador momento en el que un avión se estrella en plena calle dejando al menos 9 muertos: \"Dios mío vamos a morir\" - Antena 3 Noticias",
-      "summary": "VÍDEO | El desgarrador momento en el que un avión se estrella en plena calle dejando al menos 9 muertos: \"Dios mío vamos a morir\" Antena 3 Noticias",
+      "title": "VÍDEO: Capturan a un caimán yacaré que deambulaba por las calles de una ciudad de Brasil - Antena 3 Noticias",
+      "summary": "VÍDEO: Capturan a un caimán yacaré que deambulaba por las calles de una ciudad de Brasil Antena 3 Noticias",
       "image": "",
-      "publishedAt": "2026-11-02 05:37 UTC",
+      "publishedAt": "2026-11-06 07:11 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Antena 3 Noticias",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNNzRVR1UzTnM4OGdhZWV0ZlVCNzI4d0lnOVdNNHpJcWwwNlRSc0ZYRUZBM1o4MHZwQzB4TWlGQTFxal9TbmVWVG9XQjN6c1dtRUN1NU9DN1U4dXZVaGowbU9KVkJLOWw3bThkejRRZ2ZwNEM0V2IzSlRhUmxXZjVYckZOcWxUMFI5R1JKcUtkY0VCd1NHV2FWVnpIcnRuQzZwYTFsZTF5TGdwSkJKLTEzelYtc1B6Vk1fVHkxbUg0ZXB6MnJxbUtVWG5qbWREQlhSRFRKRUVDdVVVUEZNWTdaMWo3bjlTS0ZSemZNS1ROSFdydHNFWUV4WVlTZWFyRVdxVEtzWjNB0gGGAkFVX3lxTFB5c1g3V1d5RkV3U3R6bzRDWmdIVlRiajlubkMxekpmUy12aXIxdF82aWNPdlVXejZkaFpMaXV2Z1BYV0ZaWjhWNGZBd0pZc29UNkllaFFHd2hlQ21rSG1VcXBNYkh5Y0t2bnExXzAxd19nNTNsQUNkc3JzZjRrZjdrb0FxNzFTSVFCZnZtMTA4VHR0bVZtQm82MVlDc3Y1MHF4MkZpalhGczhra05BclpoajhrZzdSWmczWnYxTHlhUzMtYVN2M3VVSlZvZWNERkZkd3RCQ1p2T2EzamRNT1pmTWxWSEZhREl6dkctYlU5dWJRUlpBVDJTdThEREJ2LUw2dmk2cUE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQN3BJTDh3dHY1QUhKSFBXR2xlNGR6aGlnUzFDdDYxeDMxYVhRRVl0dC1CQ0ZtOG1sTjBOYjBDbHBJdHhnVFNScnVjeV9sUHgxWVZiMmg0elNRZ0NnczI1MjktLXV3eFI1U0N1Mm1HZDVVZGV2NG5zVTdsdWh5N0FROEdMb2RLN1lzcTlyU0tBeVplUGs4NGcyT0l4M3JOMERjbGxOLXBkdlhPbUJpM1FtUXhVeWl1QzhuM2kwWkljSkdrUWxVcTJ6SmQ5T2hzSFhsVDBDUlhTNHDSAdgBQVVfeXFMTk53UzBmQVZfU1FZVnd6OVhiZ3AzOHZMY3ZrQVU1YlpQWGcyd3B3a2QxMkUxMXc5N2w3RElVT2p5ZFpXcXc1bER4Q2xIRi1yTklSTmZrek1NM0FMYnZhM0UtTHZEZTl0TTI0RUQxbjBaR1hyUU9OZHY4TEN3TEpHaDdneXo1MTNhQ05YQ3RvMDZSWFFwZHEzd3F3UVBTM3JHekppYnJaWkt3TFFGTHlrc0FTU0xXQ3NPZ0FTQ1VnNk9NSGtsWDdFTVdkU3NNZmVzZWlWMWVsNktr?oc=5"
         }
       ]
     },
@@ -5312,26 +5312,6 @@
       "popHorizon": "ahora"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMi9AFBVV95cUxNS0pBMS1mSTdGN0ZOaF9uMm5WVjBtQWdqWEtpRzcyTHJPeGJVRkl0UzVSM2l2bzQ0NGVCc210by1GSW5uMEItY0lmRDVuajhRS01CRjlJcmN6M0JmX3pXUmZGSWJnLWFqaGZCdVZlR0FfV2UzQmJEMEFDVXh3LURpZlgyTng4RUNVUEF0UVZUMGJjLW1zWk9fMzB1V1pyaVJHN3dmZkpMMlpza3BVZ3U4RG94a18yR0RLVHc4VVFldkI1MDdiSDNjSjRwYXBKM25reXduTW9WM1FIOGpWNUNLdVJzNHhBdS1VNXF2eGY0YzBlaWpu?oc=5",
-      "section": "eventos",
-      "category": "Comunidad de Madrid",
-      "title": "La Comunidad de Madrid arranca la segunda temporada de El Real en Hospitales para acercar las artes escénicas y musicales a pacientes ingresados - Comunidad de Madrid |",
-      "summary": "La Comunidad de Madrid arranca la segunda temporada de El Real en Hospitales para acercar las artes escénicas y musicales a pacientes ingresados Comunidad de Madrid |",
-      "image": "",
-      "publishedAt": "2026-11-06 09:37 UTC",
-      "language": "es",
-      "topic": "Arte y cultura",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Comunidad de Madrid",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNS0pBMS1mSTdGN0ZOaF9uMm5WVjBtQWdqWEtpRzcyTHJPeGJVRkl0UzVSM2l2bzQ0NGVCc210by1GSW5uMEItY0lmRDVuajhRS01CRjlJcmN6M0JmX3pXUmZGSWJnLWFqaGZCdVZlR0FfV2UzQmJEMEFDVXh3LURpZlgyTng4RUNVUEF0UVZUMGJjLW1zWk9fMzB1V1pyaVJHN3dmZkpMMlpza3BVZ3U4RG94a18yR0RLVHc4VVFldkI1MDdiSDNjSjRwYXBKM25reXduTW9WM1FIOGpWNUNLdVJzNHhBdS1VNXF2eGY0YzBlaWpu?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "popHorizon": "ahora"
-    },
-    {
       "id": "eventos|https://news.google.com/rss/articles/CBMinAFBVV95cUxNeVNRZ3dUaVBkcld5aTRfWnVDNVRFUjVzaVZNMTlKb3AxSjNRRnlONmhWZENZVmt5ajdIR1hJSkUzNGMzejVFWFJmWDMxZ2ZzNlU1VkNLakpKcVd0ZWtQMzRoamhvZ2lrZ3FJN1BPdnlTOW85QnA2NmhhUXNvd1pvWDg5dHdsLW5HR2o5dlphVHZEZ0xMRldwR215cS0?oc=5",
       "section": "eventos",
       "category": "Matadero Madrid",
@@ -5398,7 +5378,7 @@
       "title": "El cine argentino actual llega a Madrid con un ciclo en el Museo Reina Sofía y Filmoteca Española - Museo Reina Sofía",
       "summary": "El cine argentino actual llega a Madrid con un ciclo en el Museo Reina Sofía y Filmoteca Española Museo Reina Sofía",
       "image": "",
-      "publishedAt": "2026-11-03 17:27 UTC",
+      "publishedAt": "2026-11-03 20:53 UTC",
       "language": "es",
       "topic": "Exposiciones",
       "verification": "fuente identificada; no contrastada independientemente",
@@ -5672,6 +5652,26 @@
       "popHorizon": "ahora"
     },
     {
+      "id": "eventos|https://news.google.com/rss/articles/CBMitwFBVV95cUxQMnZVUWZKODUwaWpxTlNkcXJtS3pjdUxlUi1QOG40VWRPTHlPalRtT05Sc2s4ZVIxbmJUbEk1TXhwREJuLWR6dlkxTnpZOGRrOXVRNU5peWhZaDRVRmJkUGRyeDQ1TnBKdHdUcmJlWXZ0dnNucTI4VHdvNlFQNGRlRjYxQks4MUYwQ013cHVoT1ZtYVdPTU5jTlFFOXRKQ1FmZU4yUlYxY1NzdnVyLUloWmMzMExoMm8?oc=5",
+      "section": "eventos",
+      "category": "esMadrid Agenda",
+      "title": "Madrid en el Teatro Español del Siglo de Oro - Turismo Madrid",
+      "summary": "Madrid en el Teatro Español del Siglo de Oro Turismo Madrid",
+      "image": "",
+      "publishedAt": "2026-10-19 07:00 UTC",
+      "language": "es",
+      "topic": "Planes futuros",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "esMadrid Agenda",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMnZVUWZKODUwaWpxTlNkcXJtS3pjdUxlUi1QOG40VWRPTHlPalRtT05Sc2s4ZVIxbmJUbEk1TXhwREJuLWR6dlkxTnpZOGRrOXVRNU5peWhZaDRVRmJkUGRyeDQ1TnBKdHdUcmJlWXZ0dnNucTI4VHdvNlFQNGRlRjYxQks4MUYwQ013cHVoT1ZtYVdPTU5jTlFFOXRKQ1FmZU4yUlYxY1NzdnVyLUloWmMzMExoMm8?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "popHorizon": "ahora"
+    },
+    {
       "id": "eventos|https://news.google.com/rss/articles/CBMinAFBVV95cUxNSzRrQ2dyVk1FS25xdFd6MTB2eUsweHpDZnJGSHFKU0N6aE14NFcyQTZONUxnMUV6S1Q1VnlaTEpOdTQwbE5BTmNNN1U4dTFPbkNLN1pXXzVZZjVsLVlKZU9zOEYxRS1rMExfZUs1c0F6LVU1aDRRZ0ZYX1FDODZvLTlPd19tbXJJVG4zNWlfTTNsSEF4dnVKOUJvQzg?oc=5",
       "section": "eventos",
       "category": "esMadrid Agenda",
@@ -5752,26 +5752,6 @@
       "popHorizon": "ahora"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMilAFBVV95cUxPdkRWa3cwMFNsQjJTVTR0WmlXSklzLV9TWUlOb0pGNGtVc041SDVVTll4dklnTlBiamlrc0RHbWFqRGdxN2UwbGxJcERsMXItMjRmRm9LdXVlU2VzR3JYSktWbEQ0WVVvY0htYWVnUnFEOXFscXdybElZcTlySC1fQTliRWZaVlc5c01JbjhGcl9EU3Ni?oc=5",
-      "section": "eventos",
-      "category": "esMadrid Agenda",
-      "title": "Festival Internacional de Órgano 2026 - Turismo Madrid",
-      "summary": "Festival Internacional de Órgano 2026 Turismo Madrid",
-      "image": "",
-      "publishedAt": "2026-10-05 07:00 UTC",
-      "language": "es",
-      "topic": "Planes futuros",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "esMadrid Agenda",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdkRWa3cwMFNsQjJTVTR0WmlXSklzLV9TWUlOb0pGNGtVc041SDVVTll4dklnTlBiamlrc0RHbWFqRGdxN2UwbGxJcERsMXItMjRmRm9LdXVlU2VzR3JYSktWbEQ0WVVvY0htYWVnUnFEOXFscXdybElZcTlySC1fQTliRWZaVlc5c01JbjhGcl9EU3Ni?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "popHorizon": "ahora"
-    },
-    {
       "id": "eventos|https://news.google.com/rss/articles/CBMirgFBVV95cUxPcl9Pc0g4dGtKZmZjZ0d3R1pvM01STFBabHdObWpkUDVjVUU5Q0IzZnZ1eG5CSWNnWDlERDEzSFY0Y0VYYldSdTR2T1lTbThIYWVVWFlIakpHWmNEYWtmLTlmc2xseEdLSERJQmw4Rk5aWC1zVXZUa1lKUHFEUnU0YWxXYW93T1E2QVpsZE5UTGlOdVdYV0ZGSWxUdV9hQVRacFVhWGR2cDRQZVZVdHc?oc=5",
       "section": "eventos",
       "category": "Agenda Ayuntamiento Madrid",
@@ -5826,6 +5806,26 @@
         {
           "name": "Agenda Ayuntamiento Madrid",
           "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOQU1VTTJ0WXdlNlFhOHF4aHR5dFQxbGdEb1dkd1hhLTJ4d2ZId3hpWDd3X0VHTF9femxMbTRBUU1ObWVOaTNyWlNZZHdKT182Z0k2bHRLbDV3bTU2bW9kNlduR3NtZ3VMZnJWTnptU3FhekNvRHlmOTlWb3RlLUZqZjh3MnBDdXFPSGlyTExxRU1xa1VsN0wtcXVUTXNkc2dqQzg2dmRLZ0s0ZTUtM2JhMTFLX2tUZG5ZR0J6aTJNTkVpVGFSU0xsb3NEZndtSlBVQjhFV2hhOGpIdWFpYjlHMVlScmdmYlFkTG5LWlpqYU1GY29EbktjdGRETnYtcVFmNFE0Y05sRE82NlRrWjc2LTJXdlU2d1NCTU56S1RiZDBGNUtvSktjdFZaWGFHbmJfeHVVS1BkYVcwak9hZFJ1VFRhZ3dQSUdjcS1EbjN4a0xOdzZVaTl5NTF0ZDRzNHVHc2lwQkh1R2I?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "popHorizon": "ahora"
+    },
+    {
+      "id": "eventos|https://news.google.com/rss/articles/CBMi_gJBVV95cUxOcVh5bGJmTkhxTnRKYjVrNmE3M1p0VzBIaXUtMnU0bEhoVnZvUkFpRDN5ZFNFdlh3dGg4cmRoaS1zRW9CcHd2S3NpQUg5REUwbWVjc1M2bEduZ3VyeDVjeUhWcUZPSGhMOHpHVFcydEZ2SmhPQ3hLdWwtdkE2UlV6X0NEX0UwYTZtaUxZdmJpOUE0aEVuc3QwNnl3WEFHOUxLU1hNc3FjU1ZiQy1Dd1NqT3RrMWgxWjRyVEZCQ2JRUllEYWZ3UUs0R0RERlJiM3cxWTR5RUdLbWV2ZGQ3YmZoRVpPd0o0ZnNRbGhsUHJITEk4TWJUOEw0eUYwc2s2ZHMybFVvMW1BNHh3ak5BckZNanpxRnUwN0QydWxUbmk4RDRXdFB1UjBEU3VXbjVJLVhKZHR2SS00cl81X1BxYVdJTXZNMzE2T2d0NnpILUoyelg1TFZ1cXRhSTE0dm0wV0hfVjZBTUdmT2tuejlNZlU0alFYYjFLQWdIdDRScXlR?oc=5",
+      "section": "eventos",
+      "category": "Agenda Ayuntamiento Madrid",
+      "title": "Álvarez, en el inicio del Festival de Jazz de Ciudad Lineal - Ayuntamiento de Madrid",
+      "summary": "Álvarez, en el inicio del Festival de Jazz de Ciudad Lineal Ayuntamiento de Madrid",
+      "image": "",
+      "publishedAt": "2026-11-05 23:22 UTC",
+      "language": "es",
+      "topic": "Planes y ocio",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Agenda Ayuntamiento Madrid",
+          "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOcVh5bGJmTkhxTnRKYjVrNmE3M1p0VzBIaXUtMnU0bEhoVnZvUkFpRDN5ZFNFdlh3dGg4cmRoaS1zRW9CcHd2S3NpQUg5REUwbWVjc1M2bEduZ3VyeDVjeUhWcUZPSGhMOHpHVFcydEZ2SmhPQ3hLdWwtdkE2UlV6X0NEX0UwYTZtaUxZdmJpOUE0aEVuc3QwNnl3WEFHOUxLU1hNc3FjU1ZiQy1Dd1NqT3RrMWgxWjRyVEZCQ2JRUllEYWZ3UUs0R0RERlJiM3cxWTR5RUdLbWV2ZGQ3YmZoRVpPd0o0ZnNRbGhsUHJITEk4TWJUOEw0eUYwc2s2ZHMybFVvMW1BNHh3ak5BckZNanpxRnUwN0QydWxUbmk4RDRXdFB1UjBEU3VXbjVJLVhKZHR2SS00cl81X1BxYVdJTXZNMzE2T2d0NnpILUoyelg1TFZ1cXRhSTE0dm0wV0hfVjZBTUdmT2tuejlNZlU0alFYYjFLQWdIdDRScXlR?oc=5"
         }
       ],
       "region": "Madrid",
@@ -8569,6 +8569,12 @@
         "url": "https://elpais.com/icon/2026-11-07/milo-quifes-revelacion-de-la-bola-negra-estoy-cansado-de-tener-que-salir-del-armario-una-y-otra-vez.html"
       },
       {
+        "title": "Casa Bosc, la espectacular cabaña prefabricada que encaja en cualquier sitio: “Llegas, la pones y listo”",
+        "publishedAt": "2026-11-07 04:30 UTC",
+        "source": "El País",
+        "url": "https://elpais.com/icon-design/2026-11-07/casa-bosc-la-espectacular-cabana-prefabricada-que-encaja-en-cualquier-sitio-llegas-la-pones-y-listo.html"
+      },
+      {
         "title": "El debut teatral de Javier Bardem con su maestro: “A mis 57 años, me estoy poniendo en un lugar de vulnerabilidad que me hace más fuerte”",
         "publishedAt": "2026-11-07 04:30 UTC",
         "source": "El País",
@@ -8579,15 +8585,45 @@
         "publishedAt": "2026-11-07 04:30 UTC",
         "source": "El País",
         "url": "https://elpais.com/cultura/2026-11-07/el-inaudito-caso-de-los-romeos-la-enrevesada-batalla-por-el-nombre-del-grupo-espanol.html"
-      },
-      {
-        "title": "Medio siglo de los secretarios de Estado: el poder detrás del poder",
-        "publishedAt": "2026-11-07 04:30 UTC",
-        "source": "El País",
-        "url": "https://elpais.com/eps/2026-11-07/medio-siglo-de-los-secretarios-de-estado-el-poder-detras-del-poder.html"
       }
     ],
     "mundo": [
+      {
+        "title": "Man, 75, dies in Goldfields mine incident",
+        "publishedAt": "2026-11-07 06:15 UTC",
+        "source": "ABC Australia",
+        "url": "https://www.abc.net.au/news/2026-11-07/man-75-dies-incident-regis-resources-goldfields-operation-mine/107359442"
+      },
+      {
+        "title": "Live: Counting begins in New Zealand election",
+        "publishedAt": "2026-11-07 06:01 UTC",
+        "source": "ABC Australia",
+        "url": "https://www.abc.net.au/news/2026-11-07/nz-election-2026-live-blog/107355448"
+      },
+      {
+        "title": "US midterm results may help unite Israeli coalition to unseat Netanyahu",
+        "publishedAt": "2026-11-07 06:00 UTC",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/07/us-midterm-results-may-help-unite-israeli-coalition-to-unseat-netanyahu"
+      },
+      {
+        "title": "Live: Rugby League World Cup semifinal weekend begins in Newcastle",
+        "publishedAt": "2026-11-07 05:45 UTC",
+        "source": "ABC Australia",
+        "url": "https://www.abc.net.au/news/2026-11-07/rugby-league-world-cup-live-semifinals-from-newcastle/107345014"
+      },
+      {
+        "title": "Supercars, SUVs take to Perth suburb to support teen assault victim",
+        "publishedAt": "2026-11-07 05:38 UTC",
+        "source": "ABC Australia",
+        "url": "https://www.abc.net.au/news/2026-11-07/ellenbrook-victim-assault-community-rally/107359208"
+      },
+      {
+        "title": "Demons storm home against Cats to claim AFLW prelim berth",
+        "publishedAt": "2026-11-07 05:21 UTC",
+        "source": "ABC Australia",
+        "url": "https://www.abc.net.au/news/2026-11-07/aflw-finals-melbourne-geelong-carlton-north-melbourne/107359468"
+      },
       {
         "title": "Tasmanian nurses rally following 'disappointing' government pay offer",
         "publishedAt": "2026-11-07 05:14 UTC",
@@ -8623,42 +8659,6 @@
         "publishedAt": "2026-11-07 03:49 UTC",
         "source": "ABC Australia",
         "url": "https://www.abc.net.au/news/2026-11-07/darren-lehmann-usman-khawaja-sandpaper-ball-tampering/107359274"
-      },
-      {
-        "title": "US offers $29m reward for details on Iran's nuclear program",
-        "publishedAt": "2026-11-07 03:27 UTC",
-        "source": "ABC Australia",
-        "url": "https://www.abc.net.au/news/2026-11-07/us-20-million-rewards-for-justice-iran-nuclear-program-details/107359156"
-      },
-      {
-        "title": "Paraguay's President Santiago Peña impeached and arrested",
-        "publishedAt": "2026-11-07 03:25 UTC",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "US carries out another round of ‘minor’ strikes on Iran, Trump says",
-        "publishedAt": "2026-11-07 03:07 UTC",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says"
-      },
-      {
-        "title": "Elders call for leadership to address Indigenous child safety crisis",
-        "publishedAt": "2026-11-07 03:03 UTC",
-        "source": "ABC Australia",
-        "url": "https://www.abc.net.au/news/2026-11-07/don-punch-under-fire-passing-buck-indigenous-child-protection/107356516"
-      },
-      {
-        "title": "For female 'lifers' in the US, prison will never be home",
-        "publishedAt": "2026-11-07 02:31 UTC",
-        "source": "ABC Australia",
-        "url": "https://www.abc.net.au/news/2026-11-07/kathryn-whitely-female-inmates/107310278"
-      },
-      {
-        "title": "Just 8 per cent of licensed pilots in Australia are women",
-        "publishedAt": "2026-11-07 02:08 UTC",
-        "source": "ABC Australia",
-        "url": "https://www.abc.net.au/news/2026-11-07/just-8-per-cent-of-licensed-pilots-in-australia-are-women/107336508"
       }
     ],
     "cultura": [
@@ -8951,10 +8951,10 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWEJCaTVhTnNXMGExV2J6b2NnWV9jeFdVV04wMDgwbzNKdjhVeGk0eTdPTjRFa05ZN0I4UUloNU84elJ0Vk5NZGVRcUJZVGRlRk1wNGVELWU0alpPcmE5MnRDQUc3UFlDeXZMQ1k2SGl5QlZTRVZvbmZ2cXNWd0RPdTBxbkF5NDdPUVRMSA?oc=5"
       },
       {
-        "title": "This Mississippi Senate Race Is Really Making Me Nervous - Esquire",
-        "publishedAt": "2026-11-06 16:22 UTC",
-        "source": "Esquire EN",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQTFJdmZ3aVZrdGh4OW1HclhxeDB1bEo3bW5xdFZRWUhKeWdnMkwyaXBrTmNyNEhfVFE2dUtZTlBkTEtGNFhGalo4QWpIallvRFU5eWFfTkZvZUlMWndxYUMzRlRmb2JOWjhvMDJ0S0dlN3B1bkZwNHYwaGtQeVJieU9BQ0M3eFB4bzFQeTBlTGRpanRvQUV4NTFZTGRTcDJua3JMRDZmUjNyU1U1V0xvVQ?oc=5"
+        "title": "Cristiano Ronaldo se pronuncia sobre el trasplante capilar a sus 41 años: \"Es solo mi opinión, pero creo que es mejor hacer un tratamiento cuando aún tienes pelo\" - Men's Health",
+        "publishedAt": "2026-11-06 16:28 UTC",
+        "source": "Men's Health España",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM3ZicVlsM3JxYkZyLXpuajNHNUdta3BjM21xbXZva2VfSkRWT2JURmpHbktmNWVJaVhKdlB1cmN2Z0tDc0FQdW1sdENYbG1Rc25GcmQ4R0h4eUt2Y2tQTy1STUp4Q1hBSU5iY2kxdXZTS0ctUmJqcklJZDNqMnJ1VThGYWZXSjB6eTZZVkhIN1NKRlpqN1ZzMmRwQldHbWIwS0VCRWZzTVdMeWhNZ284Vi1CUQ?oc=5"
       }
     ],
     "eventos": [
@@ -9075,6 +9075,12 @@
         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQT2hIOW05ZXprMFBKVzk4QXp5ZGQxSDZfeG02RTVxV3RhLXRqVHNyN3F3LUthRFNoUVJzLWZVemRKb3lYMThXd1oyWUhDRDcxSHdVdlNuSkFiTzZ5VVlwdi1mYWVXc3YtNUwzMEttbTNKMjNBLWVKMUtqZXlLdEoyVUlLdmdLWUNfVTBWcnlDVk1FYnBWVjRlNy1jNFNTNzUzbzkwQ0xQMmFTMlI4NV9oQV85MTJ1ZXdGd0Z0Mzc5RzlDQkpDU3g2YW1aUU5MVWxNSGlXSlZ1UzU0ZENQSXVFdklHa0JjanV5V2xpd3d3?oc=5"
       },
       {
+        "title": "\"The Millennial Reign Of Terror Has Begun\": Iowa's New Governor-Elect Is A Former Prada Model Who Loves Internet Memes - BuzzFeed",
+        "publishedAt": "2026-11-06 17:02 UTC",
+        "source": "Viral EN",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwUlFJdjJBeG1DX2RhLUVIZXdPd2NKZEhVczRwWTV3NV9oMEdmMzctaUhvcmgzLTc0bHdNd2dkTXJQOERablBTb1Y2TGhnUzJhS1A5bVF6RlpaT3BWRkpTU19PYWhRZllzekk3ajA4SlNmbENLclA1YlBKRQ?oc=5"
+      },
+      {
         "title": "WATCH Video: Trump White House Shares AI-Generated LEGO Zelda-Style Video After Midterm Defeat, ‘Still Your President’ Message Goes Viral; Check What the Clip Shows - The Sunday Guardian",
         "publishedAt": "2026-11-06 16:37 UTC",
         "source": "Viral EN",
@@ -9093,16 +9099,10 @@
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS05ZSmhKenRfUzhMSUZaYUgzWlBCM2plbEJMWkFxd3lBZVFDWDc4dzY5MHBpdGx4dUpqNHA0M2RaaEx1RS05TDJTLUlTV3hpUmJwM3R4VUlYSk9mQ2duTjZ4amNSQTFzVHVTWXBmd1lDY3h4Z2VTLUtpY3FURGRXb0hDVzRWaUJqYnhjYkNvQ3hjOFlReHhXR0Q5X2pjb1l1LUNaLVp2MzZhM3JYZkE?oc=5"
       },
       {
-        "title": "VIDEO: ¡Confundió los pedales y terminó incrustada en una tienda! Aparatoso choque quedó captado - https://www.aztecamichoacan.com/",
-        "publishedAt": "2026-11-06 15:38 UTC",
+        "title": "Mon Laferte es golpeada con celular en pleno concierto; video causa indignación - ABC Noticias",
+        "publishedAt": "2026-11-06 16:01 UTC",
         "source": "Viral ES",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQekxHY2w1b0EwQXkyazJRZHNlczc0Q291UW9FY0NPT0pUbURlbDJZSWV0eDJwZHNHLVdBUzQ3alZlZnAwSUtURm45NWNndlFSR1ZIT0V3dlpCTE1VRDZsSU5ET2NzV1ZxUmgwQ1lDT1IzQ1FVQ2VxWVFydEM5bDRvRnVkamRoVmFDVXhrNU1tbzRtNm50a0ZVbGU1WGg0YTZpaGliTmYwaU5lbmliZXRJdlBOQzQwOU94OWhwa2RTbHZUWkJ5Z3VxaWxjaFRkTWp6TlZjYnFKelo1YnI4?oc=5"
-      },
-      {
-        "title": "EU charges TikTok with failing to protect users’ mental health - The Guardian",
-        "publishedAt": "2026-11-06 13:49 UTC",
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUWxnOFNkTkJNTzlOV2hDMnRZRlo0LVhaMFljcmdqSG8tTllaVDV6ZXlPVlFXSjFENy1BcmdHRTRnRzk5aGEyZWxFQUR1VV9Ub1JiMkFWcTk3V2wtZGJxRWRIVzdaSGJiV0xLY1c2WmdzUklNekZicFJhYVZGYlJUODFaNkR5X2h3NkhRVTZPZnVhM09qYV9yaGJfcTZFaXBNbHA4aml5amJrdnM?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZDZVUGMtbkI3azFBcHhuNFppVFp3TzFZMU9RMFBGWldOZ0RJaThBYmt6TzdQbTZlSnliTV9DVFhzU1NpYVlsamNHTEFNM2IxejNFcnlCWGxNV3RtSDVFb1BuMFJoVDJXQnFUNk40T3QtaXR0N2F5ZEp0R2xkS2hFZ21tclhPY1FQaWl3ZUpLcFlqWm5UYk5VbzhYd3M1Y1RNOHROWmdLaVZvUzM0eTdjTTFJM0NlWXhpWmtLUFFCcWROTDg1Q0hB?oc=5"
       }
     ]
   }
