@@ -1,16 +1,16 @@
 {
-  "edition": "THE DAILY · Mañana · 07/11/2026 17:59",
-  "generatedAt": "2026-11-07T16:59:13.655103+00:00",
+  "edition": "THE DAILY · Mañana · 07/11/2026 18:39",
+  "generatedAt": "2026-11-07T17:39:32.273989+00:00",
   "mode": "rss-excerpts",
   "stories": [
     {
       "id": "espana|https://elpais.com/deportes/tenis/2026-11-07/casper-ruud-carlos-alcaraz-en-directo-las-semifinales-del-masters-de-paris-en-vivo.html",
       "section": "espana",
       "category": "El País",
-      "title": "Casper Ruud - Carlos Alcaraz en directo | Comienza el primer set de la semifinal",
+      "title": "Casper Ruud - Carlos Alcaraz en directo | Alcaraz se adjudica el primer set de la semifinal",
       "summary": "El tenista español, que realizó una gran remontada ante Taylor Fritz, busca ante el noruego su primera final en este torneo",
-      "image": "https://imagenes.elpais.com/resizer/v2/L7DDA5CLPFI4DAB6R5TAVBJM5I.jpg?auth=84a5e1d578800db25d559fb61f4730357edc8a5f9cf7f4959a274e4edacb4656",
-      "publishedAt": "2026-11-07 16:57 UTC",
+      "image": "https://imagenes.elpais.com/resizer/v2/T7OAPLWB7BOSRD6BNWHTFJFLAM.jpg?auth=cb3ddf4b2db134fb7b818c0083cf174f2373cefcc3f554d6cbb68885574de2c5",
+      "publishedAt": "2026-11-07 17:39 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
@@ -22,10 +22,64 @@
       ]
     },
     {
+      "id": "espana|https://www.elmundo.es/deportes/motociclismo/2026/11/07/6aef478afdddff1e3e8b4574.html",
+      "section": "espana",
+      "category": "El Mundo",
+      "title": "Marc Márquez gana la 'sprint race' y tendrá bola de partido este domingo en Qatar",
+      "summary": "El de Cervera necesita llevarse el triunfo en el Gran Premio y que Jorge Martín, que firmó una gran actuación este sábado, se quede sin puntuar Leer",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/07/17940721478718.jpg",
+      "publishedAt": "2026-11-07 17:23 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "El Mundo",
+          "url": "https://www.elmundo.es/deportes/motociclismo/2026/11/07/6aef478afdddff1e3e8b4574.html"
+        }
+      ]
+    },
+    {
+      "id": "espana|https://www.europapress.es/internacional/noticia-eeuu-anuncia-operacion-puerta-hierro-bloquear-tambien-comercio-terrestre-iran-20261107182055.html",
+      "section": "espana",
+      "category": "Europa Press",
+      "title": "EEUU anuncia la operación Puerta de Hierro para bloquear también el comercio terrestre de Irán",
+      "summary": "Las Fuerzas Armadas estadounidenses han anunciado este sábado el inicio de la operación llamada Puerta de Hierro que pretende bloquear el comercio de Irán por vía terrestre y complementar así el bloqueo naval impuesto al país en la zona del golfo Pérsico.",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261107182055_120.jpg",
+      "publishedAt": "2026-11-07 17:20 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Europa Press",
+          "url": "https://www.europapress.es/internacional/noticia-eeuu-anuncia-operacion-puerta-hierro-bloquear-tambien-comercio-terrestre-iran-20261107182055.html"
+        }
+      ]
+    },
+    {
+      "id": "espana|https://www.elmundo.es/internacional/2026/11/07/6aef5657e9cf4afd3b8b459b.html",
+      "section": "espana",
+      "category": "El Mundo",
+      "title": "León XIV llama a los fieles uruguayos a \"construir puentes\" y transmitir \"la alegría de la fe\"",
+      "summary": "La misa, celebrada en Paysandú, se enmarca en la primera etapa de un viaje que llevará al Pontífice a Uruguay, Argentina y Perú hasta el 17 de noviembre y que supone su primera visita apostólica a América del Sur como Papa. Leer",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/07/17940704696091.jpg",
+      "publishedAt": "2026-11-07 16:56 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "El Mundo",
+          "url": "https://www.elmundo.es/internacional/2026/11/07/6aef5657e9cf4afd3b8b459b.html"
+        }
+      ]
+    },
+    {
       "id": "espana|https://elpais.com/internacional/2026-11-07/varios-muertos-y-heridos-en-un-atentado-en-la-plaza-mayor-de-cracovia.html",
       "section": "espana",
       "category": "El País",
-      "title": "Al menos cinco muertos y más de 10 heridos en un atentado en la plaza mayor de Cracovia",
+      "title": "Al menos seis muertos y una quincena de heridos en un atentado en la plaza mayor de Cracovia",
       "summary": "La policía ha disparado y detenido al atacante, un hombre de nacionalidad polaca de unos 25 años",
       "image": "https://imagenes.elpais.com/resizer/v2/QTEB4NACUJED5LCZMA2PJG52ZY.JPG?auth=b829012e6eec67bc6630a9a4bdca475683345931a63fdf7a5b14580628fd3acc",
       "publishedAt": "2026-11-07 16:44 UTC",
@@ -79,7 +133,7 @@
       "id": "espana|https://elpais.com/television/2026-11-07/la-revuelta-cancela-la-presencia-de-su-publico-previsto-para-la-entrevista-con-santiago-abascal-se-va-a-grabar-en-condiciones-distintas.html",
       "section": "espana",
       "category": "El País",
-      "title": "‘La revuelta’ cancela la presencia de su público previsto para la entrevista con Santiago Abascal: “Se va a grabar en condiciones distintas”",
+      "title": "‘La revuelta’ cancela la presencia de su público previsto para la entrevista con Santiago Abascal, según personas invitadas al programa",
       "summary": "Varios usuarios en redes sociales han asegurado haber recibido un correo electrónico en el que cancelaban su asistencia “por circunstancias especiales” que no se han aclarado",
       "image": "https://imagenes.elpais.com/resizer/v2/GG56AB4FGRCWBMGYH7LWJ7AATI.jpg?auth=9183fe596593d2ec4472067ed45b00ea172d5771a5571aeaf436d04b30651189",
       "publishedAt": "2026-11-07 16:06 UTC",
@@ -98,7 +152,7 @@
       "section": "espana",
       "category": "El País",
       "title": "El Hierro pide más ayuda al Estado ante la llegada de más cayucos a Canarias",
-      "summary": "El Cabildo decreta la emergencia social para hacer frente a la gestión de la actual situación migratoria. Desembarcan tres embarcaciones en la isla y en Lanzarote",
+      "summary": "El Cabildo decreta la emergencia social para hacer frente a la gestión de la actual situación migratoria. Desembarcan cinco embarcaciones en la isla y en Lanzarote con 582 personas a bordo. El Gobierno convoca una reunión extraordinaria el martes",
       "image": "https://imagenes.elpais.com/resizer/v2/JBIK27VZ4ZJXFIZ2U2KW42RD3E.jpg?auth=867f20080e8fd714c899e9b27fedd3420f5c668023404585b1feb3d5fdba61b2",
       "publishedAt": "2026-11-07 16:00 UTC",
       "language": "es",
@@ -112,20 +166,20 @@
       ]
     },
     {
-      "id": "espana|https://www.europapress.es/catalunya/noticia-garriga-vox-acusa-psoe-gastarse-mordidas-dinero-mejoras-ferroviarias-20261107165627.html",
+      "id": "espana|https://www.elmundo.es/cultura/cine/2026/11/07/6aef3da3e9cf4aad398b456d.html",
       "section": "espana",
-      "category": "Europa Press",
-      "title": "Garriga (Vox) acusa al PSOE de gastarse en \"mordidas\" el dinero de las mejoras ferroviarias",
-      "summary": "El secretario general de Vox, Ignacio Garriga, ha acusado este sábado al PSOE de gastarse el dinero del mantenimiento y la mejora del sistema ferroviario en \"colocar a sus amigos, en colocar a las amantes y en llevarse 'mordidas\".",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261107165627_120.jpg",
-      "publishedAt": "2026-11-07 15:56 UTC",
+      "category": "El Mundo",
+      "title": "'Viva Carmen', la más brillante (y feminista) lectura de la ópera de Bizet desde la animación",
+      "summary": "El director francés Sébastien Laudenbach insiste en las claves de su anterior trabajo, la genial ¡Linda quiere pollo!, para retratar Sevilla y el mito de Carmen como nunca antes Leer",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/07/17940639328357.jpg",
+      "publishedAt": "2026-11-07 15:50 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "Europa Press",
-          "url": "https://www.europapress.es/catalunya/noticia-garriga-vox-acusa-psoe-gastarse-mordidas-dinero-mejoras-ferroviarias-20261107165627.html"
+          "name": "El Mundo",
+          "url": "https://www.elmundo.es/cultura/cine/2026/11/07/6aef3da3e9cf4aad398b456d.html"
         }
       ]
     },
@@ -133,7 +187,7 @@
       "id": "espana|https://www.elmundo.es/internacional/2026/11/07/6aef4327fdddff200a8b4573.html",
       "section": "espana",
       "category": "El Mundo",
-      "title": "Al menos cinco muertos y una decena de heridos tras un tiroteo en Cracovia",
+      "title": "Al menos seis muertos y 15 heridos tras un tiroteo en Cracovia",
       "summary": "El presunto autor del ataque, que actuó en solitario, ha sido detenido por la Policía tras un enfrentamiento en el que los agentes abrieron fuego contra él Leer",
       "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/07/17940663859489.jpg",
       "publishedAt": "2026-11-07 15:47 UTC",
@@ -144,6 +198,42 @@
         {
           "name": "El Mundo",
           "url": "https://www.elmundo.es/internacional/2026/11/07/6aef4327fdddff200a8b4573.html"
+        }
+      ]
+    },
+    {
+      "id": "espana|https://www.europapress.es/internacional/noticia-menos-cinco-muertos-varios-heridos-ataque-arma-fuego-centro-cracovia-20261107163421.html",
+      "section": "espana",
+      "category": "Europa Press",
+      "title": "Al menos cinco muertos y varios heridos en un ataque con arma de fuego en el centro de Cracovia",
+      "summary": "Al menos cinco personas han muerto y más de una docena han resultado heridas por disparos efectuados por un individuo que ha abierto fuego indiscriminadamente desde un coche en el centro de la ciudad polaca de Cracovia.",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261107163421_120.jpg",
+      "publishedAt": "2026-11-07 15:34 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Europa Press",
+          "url": "https://www.europapress.es/internacional/noticia-menos-cinco-muertos-varios-heridos-ataque-arma-fuego-centro-cracovia-20261107163421.html"
+        }
+      ]
+    },
+    {
+      "id": "espana|https://www.elmundo.es/salud/2026/11/07/6aef01c8e9cf4afc6e8b456f.html",
+      "section": "espana",
+      "category": "El Mundo",
+      "title": "Duro revés a la investigación frente a la lipoproteína (a): su reducción no evita el riesgo de sufrir problemas cardiovasculares",
+      "summary": "Los resultados de fase III con pelacarsen suponen un jarro de agua fría a la hipótesis según la cual este compuesto protegería frente al desarrollo de enfermedades del corazón Leer",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2025/06/10/17495466875576.jpg",
+      "publishedAt": "2026-11-07 14:50 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "El Mundo",
+          "url": "https://www.elmundo.es/salud/2026/11/07/6aef01c8e9cf4afc6e8b456f.html"
         }
       ]
     },
@@ -274,92 +364,92 @@
       ]
     },
     {
-      "id": "espana|https://www.elmundo.es/elecciones/elecciones-generales/2026/11/07/6aef020de85ecea1368b456e.html",
-      "section": "espana",
-      "category": "El Mundo",
-      "title": "Montero y Rufián hacen campaña antiSánchez: huelga \"contra el Gobierno\" y la corrupción de Ábalos, por ser \"cercano\" al presidente",
-      "summary": "\"Esto no iba de someterse al PSOE entrando en el PSOE\", ha dicho el candidato de ERC contra el Frente Amplio Leer",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/07/17940547246538.jpg",
-      "publishedAt": "2026-11-07 13:07 UTC",
-      "language": "es",
+      "id": "mundo|https://www.abc.net.au/news/2026-11-08/ella-thompson-triumph-and-sadness-album-soul-music-renee-geyer/107350826",
+      "section": "mundo",
+      "category": "ABC Australia",
+      "title": "What Renée Geyer taught soul protégé Ella Thompson about authenticity",
+      "summary": "She's made fans out of Mark Ronson, Renée Geyer and Paul Kelly: Here's why Ella Thompson represents the heart of Melbourne's soul music scene.",
+      "image": "https://live-production.wcms.abc-cdn.net.au/44ab3a1e36fe9a209bc275028f147b54?impolicy=wcms_crop_resize&cropH=1728&cropW=3072&xPos=0&yPos=1061&width=862&height=485",
+      "publishedAt": "2026-11-07 17:30 UTC",
+      "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "El Mundo",
-          "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/07/6aef020de85ecea1368b456e.html"
+          "name": "ABC Australia",
+          "url": "https://www.abc.net.au/news/2026-11-08/ella-thompson-triumph-and-sadness-album-soul-music-renee-geyer/107350826"
         }
       ]
     },
     {
-      "id": "espana|https://www.europapress.es/catalunya/noticia-29n-nogueras-situa-condicion-pactar-catalunya-recaude-todos-impuestos-20261107135725.html",
-      "section": "espana",
-      "category": "Europa Press",
-      "title": "Nogueras sitúa como condición para pactar que Catalunya recaude todos sus impuestos",
-      "summary": "La candidata de Junts al Congreso en las elecciones generales, Miriam Nogueras, ha situado este sábado como condición para pactar con su formación tras los comicios del 29 de noviembre que Catalunya pueda recaudar todos sus impuestos y decidir sobre el destino del dinero.",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261107135725_120.jpg",
-      "publishedAt": "2026-11-07 12:57 UTC",
-      "language": "es",
+      "id": "mundo|https://www.abc.net.au/news/2026-11-08/abc-wordage-quiz-work/107328912",
+      "section": "mundo",
+      "category": "ABC Australia",
+      "title": "ABC Wordage quiz: It's time to get to work",
+      "summary": "There's no time for a smoko or to have a bludge. Today's Wordage quiz will require some hard yakka.",
+      "image": "https://live-production.wcms.abc-cdn.net.au/f9ff819e3afdffcb6d2edb30244be0e7?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=1&width=862&height=485",
+      "publishedAt": "2026-11-07 17:30 UTC",
+      "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "Europa Press",
-          "url": "https://www.europapress.es/catalunya/noticia-29n-nogueras-situa-condicion-pactar-catalunya-recaude-todos-impuestos-20261107135725.html"
+          "name": "ABC Australia",
+          "url": "https://www.abc.net.au/news/2026-11-08/abc-wordage-quiz-work/107328912"
         }
       ]
     },
     {
-      "id": "espana|https://www.europapress.es/nacional/noticia-montero-rufian-animan-votar-memoria-conciencia-obviando-voto-util-psoe-si-puede-te-come-20261107134413.html",
-      "section": "espana",
-      "category": "Europa Press",
-      "title": "Montero y Rufián animan a votar con \"memoria y conciencia\" y obviando el voto útil: \"El PSOE, si puede, te come\"",
-      "summary": "Los socios exhiben sintonía en su segundo acto juntos, llamando a secundar la huelga general y marcando distancias con Frente Amplio",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261107134413_120.jpg",
-      "publishedAt": "2026-11-07 12:44 UTC",
-      "language": "es",
+      "id": "mundo|https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
+      "section": "mundo",
+      "category": "The Guardian World",
+      "title": "Six dead after gunman opens fire ‘at random’ in Kraków market square",
+      "summary": "Reports say man fired shots from from his car in Poland’s second city before being wounded by police while trying to flee Kraków shooting – latest updates Six people have been killed and 15 injured after a shooting in a market square in Kraków, Poland. A man who had driven into the square at about 3pm began “firing at random people from his car”, according t…",
+      "image": "https://i.guim.co.uk/img/media/44d89feb8fd3d623f15ee900fa818b7ea8bacb9e/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6b1112e07502aff450bcdb9a2908dda9",
+      "publishedAt": "2026-11-07 17:17 UTC",
+      "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "Europa Press",
-          "url": "https://www.europapress.es/nacional/noticia-montero-rufian-animan-votar-memoria-conciencia-obviando-voto-util-psoe-si-puede-te-come-20261107134413.html"
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman"
         }
       ]
     },
     {
-      "id": "espana|https://www.elmundo.es/elecciones/elecciones-generales/2026/11/07/6aef0e77e85ece96198b459b.html",
-      "section": "espana",
-      "category": "El Mundo",
-      "title": "Sánchez se aferra a la derrota de Trump en EEUU y la victoria de Lula en Brasil y pide \"desmoronar la ola de la ultraderecha en España\"",
-      "summary": "El socialista reclama \"una mayoría amplia que frene al PP y Vox\" en las elecciones generales del 29-N Leer",
-      "image": "http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&cg=rss-elmundo&ci=es-widgetueditorial&si=http://www.elmundo.es/rss/index.xml",
-      "publishedAt": "2026-11-07 12:42 UTC",
-      "language": "es",
+      "id": "mundo|https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
+      "section": "mundo",
+      "category": "NPR World",
+      "title": "Ousted Paraguayan president appears before prosecutors",
+      "summary": "Paraguayan President Santiago Peña was removed from office and placed under house arrest Friday. The Senate voted on his impeachment after the collapse of a state-affiliated bank.",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6653x3742+0+346/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F78%2F40561ab4423abbd70bf3463d02c0%2Fgettyimages-2295537388.jpg",
+      "publishedAt": "2026-11-07 17:14 UTC",
+      "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "El Mundo",
-          "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/07/6aef0e77e85ece96198b459b.html"
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse"
         }
       ]
     },
     {
-      "id": "espana|https://elpais.com/espana/elecciones-generales/2026-11-07/irene-montero-llama-a-secundar-la-huelga-en-su-presentacion-con-rufian-en-madrid-hay-que-paralizar-el-pais.html",
-      "section": "espana",
-      "category": "El País",
-      "title": "Irene Montero llama a secundar la huelga en su presentación con Rufián en Madrid: “Hay que paralizar el país”",
-      "summary": "El candidato de ERC ataca a Frente Amplio: “Esto no iba de someterse al PSOE entrando en el PSOE”. Colau reclama un “vuelco” como el de Lula en Brasil",
-      "image": "https://imagenes.elpais.com/resizer/v2/R6XKXI3NDBG3BFTXIM2JAC5ZQQ.jpg?auth=c3bba2fbffefcee4503300ba55a8104192ebd766c668ab242a6a32c67a11dba6",
-      "publishedAt": "2026-11-07 12:41 UTC",
-      "language": "es",
+      "id": "mundo|https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
+      "section": "mundo",
+      "category": "The Guardian World",
+      "title": "Kraków shooting latest updates: six killed and more than a dozen injured, police say",
+      "summary": "Polish Prime Minister Donald Tusk, in a post on X, said police are investigating the attack Tom Rose, the US ambassador to Poland, wrote on X: We are just learning details of the horrific mass shooting in Kraków, a savage and murderous attack that’s shattered the peace of Poland. America stands with Poland at this dark hour as Poland stands with her beloved…",
+      "image": "https://i.guim.co.uk/img/media/e32b67bd2c480efc91d11a0ef804c62a760ee830/451_0_4490_3592/master/4490.jpg?width=140&quality=85&auto=format&fit=max&s=61703e9a86e28a806ff71546f8571161",
+      "publishedAt": "2026-11-07 17:11 UTC",
+      "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "El País",
-          "url": "https://elpais.com/espana/elecciones-generales/2026-11-07/irene-montero-llama-a-secundar-la-huelga-en-su-presentacion-con-rufian-en-madrid-hay-que-paralizar-el-pais.html"
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates"
         }
       ]
     },
@@ -382,28 +472,10 @@
       ]
     },
     {
-      "id": "mundo|https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
-      "section": "mundo",
-      "category": "The Guardian World",
-      "title": "Kraków shooting latest updates: five killed and more than a dozen injured, police say",
-      "summary": "Polish Prime Minister Donald Tusk, in a post on X, said police are investigating the attack Tom Rose, the US ambassador to Poland, wrote on X: We are just learning details of the horrific mass shooting in Kraków, a savage and murderous attack that’s shattered the peace of Poland. America stands with Poland at this dark hour as Poland stands with her beloved…",
-      "image": "https://i.guim.co.uk/img/media/e32b67bd2c480efc91d11a0ef804c62a760ee830/451_0_4490_3592/master/4490.jpg?width=140&quality=85&auto=format&fit=max&s=61703e9a86e28a806ff71546f8571161",
-      "publishedAt": "2026-11-07 16:36 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates"
-        }
-      ]
-    },
-    {
       "id": "mundo|https://www.abc.net.au/news/2026-11-08/five-killed-in-krakow/107360360",
       "section": "mundo",
       "category": "ABC Australia",
-      "title": "Breaking: At least five killed in shooting in Krakow",
+      "title": "Breaking: At least five killed in shooting at Krakow's main square",
       "summary": "About a dozen other people have been injured after the shooting in Poland's second largest city.",
       "image": "https://live-production.wcms.abc-cdn.net.au/9292613f39b0bc9a05342d3b3386c0f7?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "publishedAt": "2026-11-07 16:35 UTC",
@@ -828,78 +900,6 @@
         {
           "name": "ABC Australia",
           "url": "https://www.abc.net.au/news/2026-11-07/ellenbrook-victim-assault-community-rally/107359208"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.abc.net.au/news/2026-11-07/aflw-finals-melbourne-geelong-carlton-north-melbourne/107359468",
-      "section": "mundo",
-      "category": "ABC Australia",
-      "title": "Demons rally and Kangaroos cruise into AFLW prelims",
-      "summary": "Melbourne comes from the clouds to beat Geelong in a thrilling AFLW qualifying final, while North Melbourne cruises past Carlton to book its own prelim final spot.",
-      "image": "https://live-production.wcms.abc-cdn.net.au/41eb77e1acfe0bd1f4640984566e11da?impolicy=wcms_crop_resize&cropH=2087&cropW=3711&xPos=0&yPos=147&width=862&height=485",
-      "publishedAt": "2026-11-07 05:21 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "ABC Australia",
-          "url": "https://www.abc.net.au/news/2026-11-07/aflw-finals-melbourne-geelong-carlton-north-melbourne/107359468"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.abc.net.au/news/2026-11-07/tasmania-nurses-rally-over-offer-pay-conditions/107359318",
-      "section": "mundo",
-      "category": "ABC Australia",
-      "title": "Tasmanian nurses rally following 'disappointing' government pay offer",
-      "summary": "Nurses and midwives have stepped up a pay dispute with the Tasmanian government, walking off the job at two southern hospitals.",
-      "image": "https://live-production.wcms.abc-cdn.net.au/49ca90f3bc5a582d1665fab3df471a00?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=70&width=862&height=485",
-      "publishedAt": "2026-11-07 05:14 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "ABC Australia",
-          "url": "https://www.abc.net.au/news/2026-11-07/tasmania-nurses-rally-over-offer-pay-conditions/107359318"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.abc.net.au/news/2026-11-07/us-senator-jon-ossoff-democrats-presidential-campaign/107359376",
-      "section": "mundo",
-      "category": "ABC Australia",
-      "title": "US senator with Australian ties now a presidential frontrunner",
-      "summary": "The polling booths have barely been packed down after the US midterms, but Washington is already looking ahead to the presidential election.",
-      "image": "https://live-production.wcms.abc-cdn.net.au/11562e1127447a354e498573dea70b15?impolicy=wcms_crop_resize&cropH=540&cropW=960&xPos=0&yPos=103&width=862&height=485",
-      "publishedAt": "2026-11-07 05:08 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "ABC Australia",
-          "url": "https://www.abc.net.au/news/2026-11-07/us-senator-jon-ossoff-democrats-presidential-campaign/107359376"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.abc.net.au/news/2026-11-07/environment-minister-murray-watt-home-battery-subsidy-scheme/107359436",
-      "section": "mundo",
-      "category": "ABC Australia",
-      "title": "Home battery subsidy scheme lauded despite government's search for cuts",
-      "summary": "Environment Minister Murray Watt praises the home battery subsidy scheme as “phenomenally successful” despite the prime minister declining to rule out means-testing the $7.2b program.",
-      "image": "https://live-production.wcms.abc-cdn.net.au/7f4ac2a2f64e586c6fc8e503e351c347?impolicy=wcms_crop_resize&cropH=909&cropW=1616&xPos=0&yPos=86&width=862&height=485",
-      "publishedAt": "2026-11-07 05:08 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "ABC Australia",
-          "url": "https://www.abc.net.au/news/2026-11-07/environment-minister-murray-watt-home-battery-subsidy-scheme/107359436"
         }
       ]
     },
@@ -1588,6 +1588,24 @@
       ]
     },
     {
+      "id": "mundo|https://news.google.com/rss/articles/CBMiggFBVV95cUxPWmpOV2tWV3p3MmtXZGV4Mk93dDVYVktzYklhN19KZDdKNmRFRDBmLVozWU42VFBsV2VzWWpxekpqZS1OdXh0bFZaRGRZUmM4ZEdrWU11elZjZXJSb2lwWjdRaTJ5TFRERzhMTUJKbGFRRmlzcEdOZTBtN0ZpaE03Um530gGCAUFVX3lxTE1FNGhfUDlGaTFOUkpxR2xJXzBjcjh4TF9XNFp3cnA0bl91V0l2aGxVX1ByeWtsbUpSZXdzclJVM1o5SDJqTVVlWVV4V2NZWXdFUmpNemF1NVdmSGxDUGpZbGhnZjF1TUkxbDFyVTlReEVQU2tHSHgwVE9nakoyaDBMN0E?oc=5",
+      "section": "mundo",
+      "category": "Noticias internacionales",
+      "title": "Ayuso compara a Sánchez con un \"maltratador que ahora viene con flores a la novia\" - El Mundo",
+      "summary": "Ayuso compara a Sánchez con un \"maltratador que ahora viene con flores a la novia\" El Mundo",
+      "image": "",
+      "publishedAt": "2026-11-06 13:32 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Noticias internacionales",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWmpOV2tWV3p3MmtXZGV4Mk93dDVYVktzYklhN19KZDdKNmRFRDBmLVozWU42VFBsV2VzWWpxekpqZS1OdXh0bFZaRGRZUmM4ZEdrWU11elZjZXJSb2lwWjdRaTJ5TFRERzhMTUJKbGFRRmlzcEdOZTBtN0ZpaE03Um530gGCAUFVX3lxTE1FNGhfUDlGaTFOUkpxR2xJXzBjcjh4TF9XNFp3cnA0bl91V0l2aGxVX1ByeWtsbUpSZXdzclJVM1o5SDJqTVVlWVV4V2NZWXdFUmpNemF1NVdmSGxDUGpZbGhnZjF1TUkxbDFyVTlReEVQU2tHSHgwVE9nakoyaDBMN0E?oc=5"
+        }
+      ]
+    },
+    {
       "id": "television|https://news.google.com/rss/articles/CBMiiAJBVV95cUxPSkNkOWpoUGhMMHA3VVU5dmpBS205blpfTDU4MFZIQmwwUXRaVl83T2hwUzJsTkU1TzJ2Y2puWlI0dFY3alpqUDNpaE9zTU5EZGQwaWVENmRqOTFRbU1Ta2tURXItaWtWLTdsTGpLbGRnX3QzTmZ5eXhMT0d5N2lTOWVXU0FneXN6LU5nazUxV0RRSi1Ia0Y0bmRnZkU0UUw0M0o0M0ZyMHpzT3k4d3JVdm00X3NxQm5SVXZTdEdMdVEtYW1qeVhhdDh5VGNBdm9oaktjWVljekhiVF9kMDdKWmQyZWJiNVdCbzRCT084aWMwQUk2YnhiTUVFNTdXalNac1ZKTW9NMDg?oc=5",
       "section": "television",
       "category": "Televisión España",
@@ -1692,6 +1710,42 @@
         {
           "name": "Televisión España",
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYi1acDg5Rk9vWGhaa3ZrY0xtX0NwYm9lR3hnQUZDaDFFTzM1dzYxUlNMRkhPUVhzY2FfY2E5T2tDRTBtN2FOYnRsalF5WDFfMzc5WnBLMm9CSDVIeFpiRkNhQW9XS3NfZWd3VHZPcG44YlMyT2U5aUZ1VWJDc2NrdjR2U3NuazZtRFFNeWx2cWt0RFN0aHFDd3BnY0xpVUktOENnR2oxOFZndXE4UEJCVGpZZ2ZhNFZERU9TUWlNMnpNeDRZMnZuVG5uZVhTdGVzS3laNE8ybTRIVWfSAeABQVVfeXFMT0pJcWw3WU5jZlZDWmpwcEV4U0RGNWp2RXBIQmpjeDhnTzZCOV9BQ0x6T01XRmt2dUotNmp5UlhqT0x6NlRLekZhNE1jUDVsU2MxQ285OGZxZ2ZMVjZWZGhrLWlvSEZPWFZYM0FLcllfWEpWR1lsOGEwWWEtVm83S2g5WTJvdm9MTldqdFB1VjlEUWgyVVd5WFJTMjJVQ3RKWlJieGx6YlVXMi1pWnVmX2txUzhQZjVFY0V6WmNXdlYyT1o4TTAxRzNwOFpsYjdJSHFZZm5QSUFPLVlwWlFMeUc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "viral|https://news.google.com/rss/articles/CBMi6wFBVV95cUxPc1FfUkE5N2E3cWc0Smp6ZlFGU3Y4djd4YzJ3b0xIQUV1bW1oRUFTbllhaHY4QlM3akNjb1pNelhaUWVWYzA2alFNendtbWlQSWp1Y0hKbTVFanBpSVh6UldWb25kWmFtOFl5Z1JjQjB1OVZ4YmRFWWQ0SzZwOEJ0V1FObnZsVXI4eTUtRVNHeGM1R294UDBDbG5Ua3lub0MzNE5TX3c1NkZaV2Y2ZDdCMFUtcWdCdS1vVUk5YjFMMWM2eTAxTXRFZW5XOENESzljeGJ2ZG0zOC1UMy12Q1QzNEdGM2JJVDgtb3Q4?oc=5",
+      "section": "viral",
+      "category": "Viral ES",
+      "title": "VIDEO: ¡Abrieron la puerta y tenían un oso en la sala! El inesperado visitante que aterrorizó a una familia - https://www.aztecamichoacan.com/",
+      "summary": "VIDEO: ¡Abrieron la puerta y tenían un oso en la sala! El inesperado visitante que aterrorizó a una familia https://www.aztecamichoacan.com/",
+      "image": "",
+      "publishedAt": "2026-11-07 17:14 UTC",
+      "language": "es",
+      "topic": "Tendencias",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Viral ES",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPc1FfUkE5N2E3cWc0Smp6ZlFGU3Y4djd4YzJ3b0xIQUV1bW1oRUFTbllhaHY4QlM3akNjb1pNelhaUWVWYzA2alFNendtbWlQSWp1Y0hKbTVFanBpSVh6UldWb25kWmFtOFl5Z1JjQjB1OVZ4YmRFWWQ0SzZwOEJ0V1FObnZsVXI4eTUtRVNHeGM1R294UDBDbG5Ua3lub0MzNE5TX3c1NkZaV2Y2ZDdCMFUtcWdCdS1vVUk5YjFMMWM2eTAxTXRFZW5XOENESzljeGJ2ZG0zOC1UMy12Q1QzNEdGM2JJVDgtb3Q4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "viral|https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWWV5ZDA5NFdHZU5tc0hHUmhGSGJ4SWlORE9ldWRUV0xxclQ0S3h0TUVSUGtNREVELWx4WjUxVDdKUFljVHBTUVdSb1hvd05CMmh2UEZpYUxPalBOQklxbDJXZWdYaU5LTHRlUTNNdzQwaDJEX3BMbFBaMU10TEF5c1hvYlBzbTlIVzVSR3JkQml1cHdjNXcwNTZIaENyYmhlS2NlaDJySm81Ync3YzU3aVIySmdYa2ZSdHJiZTZDdXhvU053ZVhEU29qX1VWRlRYdnZNd2o5MUxfZDM1VFRIT0xWZ0k0ZHVKdVE?oc=5",
+      "section": "viral",
+      "category": "Viral ES",
+      "title": "VIDEO: Dos jóvenes habrían intentado patear la cabeza de un hombre en situación de calle mientras dormía - https://www.aztecamichoacan.com/",
+      "summary": "VIDEO: Dos jóvenes habrían intentado patear la cabeza de un hombre en situación de calle mientras dormía https://www.aztecamichoacan.com/",
+      "image": "",
+      "publishedAt": "2026-11-07 16:42 UTC",
+      "language": "es",
+      "topic": "Tendencias",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Viral ES",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWWV5ZDA5NFdHZU5tc0hHUmhGSGJ4SWlORE9ldWRUV0xxclQ0S3h0TUVSUGtNREVELWx4WjUxVDdKUFljVHBTUVdSb1hvd05CMmh2UEZpYUxPalBOQklxbDJXZWdYaU5LTHRlUTNNdzQwaDJEX3BMbFBaMU10TEF5c1hvYlBzbTlIVzVSR3JkQml1cHdjNXcwNTZIaENyYmhlS2NlaDJySm81Ync3YzU3aVIySmdYa2ZSdHJiZTZDdXhvU053ZVhEU29qX1VWRlRYdnZNd2o5MUxfZDM1VFRIT0xWZ0k0ZHVKdVE?oc=5"
         }
       ]
     },
@@ -1876,42 +1930,6 @@
       ]
     },
     {
-      "id": "viral|https://news.google.com/rss/articles/CBMiswFBVV95cUxPSWFaX2NqVmxDQXRQaXFJRkZlbUhSZjNzTl9BdHBYdzAzbFBEZkZ5YUVOUjlXT3VsM0lqVWdxMmpQWG9ISkdLOWh1TEZ4RmNSSGpHVXplM04ySXZicnZ2UjdiV3kzWmllQ2tUMHMxMnRlTnB4Zm05NEE3ZUVxYW83SThwckFicWVHYlUtVUNpNS1WeTRMaDF5Y1Bwd29XQkZqX0FNNkh5czJUQ01uRl96c0g1SQ?oc=5",
-      "section": "viral",
-      "category": "Viral ES",
-      "title": "¿Encontraron un tesoro escondido? Así es la enorme cueva que se volvió viral - Azteca Bajío",
-      "summary": "¿Encontraron un tesoro escondido? Así es la enorme cueva que se volvió viral Azteca Bajío",
-      "image": "",
-      "publishedAt": "2026-11-06 05:34 UTC",
-      "language": "es",
-      "topic": "Tendencias",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Viral ES",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSWFaX2NqVmxDQXRQaXFJRkZlbUhSZjNzTl9BdHBYdzAzbFBEZkZ5YUVOUjlXT3VsM0lqVWdxMmpQWG9ISkdLOWh1TEZ4RmNSSGpHVXplM04ySXZicnZ2UjdiV3kzWmllQ2tUMHMxMnRlTnB4Zm05NEE3ZUVxYW83SThwckFicWVHYlUtVUNpNS1WeTRMaDF5Y1Bwd29XQkZqX0FNNkh5czJUQ01uRl96c0g1SQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "viral|https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd2h0dF9FM1poSTE3QU9KTTU4OEplSkNMRnZUYTVFRDQwSEZrSmZna3d5cUI0SXhVbV9MVGcxeWZuMmM4YnV6MDl0N29YRTdYa19QclZfd1lMZUlldE80NVdqVnRmTFE1bHNUY0FqMGVESkhoY0Fpei1YSHpBM3A0UDVoR2hsM1g2T1Iwak1aQTVDMUticUFBLXhna1p4MEo1dl91djFXYUFkVjFFNHB2a2N5YThsRnBOR3I2T2diVnlxZVRUa2Z6WUxkRU5zS3MyUXVxU0l3?oc=5",
-      "section": "viral",
-      "category": "Viral ES",
-      "title": "VIDEO VIRAL: revelan la verdad detrás de la mujer que supuestamente quedó pegada a su perro - Azteca Morelos",
-      "summary": "VIDEO VIRAL: revelan la verdad detrás de la mujer que supuestamente quedó pegada a su perro Azteca Morelos",
-      "image": "",
-      "publishedAt": "2026-11-06 01:39 UTC",
-      "language": "es",
-      "topic": "Tendencias",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Viral ES",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd2h0dF9FM1poSTE3QU9KTTU4OEplSkNMRnZUYTVFRDQwSEZrSmZna3d5cUI0SXhVbV9MVGcxeWZuMmM4YnV6MDl0N29YRTdYa19QclZfd1lMZUlldE80NVdqVnRmTFE1bHNUY0FqMGVESkhoY0Fpei1YSHpBM3A0UDVoR2hsM1g2T1Iwak1aQTVDMUticUFBLXhna1p4MEo1dl91djFXYUFkVjFFNHB2a2N5YThsRnBOR3I2T2diVnlxZVRUa2Z6WUxkRU5zS3MyUXVxU0l3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "viral|https://news.google.com/rss/articles/CBMitAFBVV95cUxQSENIQWpKcHI0TWNIV2N0WWk1YU5ReWlzTlhMYjI4RGZXcFBXOVF4WTBEYU5yXzg0VzJCVHl3Q202Zm50VGQzTkRub3R6TWY1dU9XMGt0bHlMV1NVUGhpdHhnbWVYSkNRODBPRU1BVWZrbGQtVW5TTDVOYWxHeC1GYnhBRVI3UmNpSmh4Y1lIb2F5b0QwMThUazBFN3FiampuemlFMUttemtSeUFHQ3hjczFRUkU?oc=5",
       "section": "viral",
       "category": "Viral EN",
@@ -1948,7 +1966,7 @@
       ]
     },
     {
-      "id": "viral|https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaDVWeUsxakwzby0yRkRIZ3lydF9RRWJvQ2d0ODJQaEdRTlFMNzZ2MlMyYTQwT1NjOVFMY3NUR25nQXZjQTZBZVpOOUotZXhYdzBzVks0aWllT1Z3YWFIcjY0bUt2NkswSTZTXzhOQlRKYVpLVU80Z1VhaFNTMXNRYzhseW1mWGliTk9IX0VKRVZNMHZaTENzbWFtYkgxOGRKaHh3QVhQbVZ5LXY1QjJib1U3enBnVVM1R242aXB5MHJrM05Ga1FJOXc3bE9jRXh1dlRZclZnenROcEFwcTQzU0N4SU1yeHhfaGJSUlE3YzlTbVhWbG10S1RGa9IBgAJBVV95cUxQLTM2NG5UbUNQcUdrNkZJcF9qclI5VWh4NUNWZDVEOEdSLTNQUDFld0hJYUVfTktENHhKWWlzNmdnTjZxQjFabVZCZTh5M3A4U0tWM3JQZjJXSnVCR3JQakFaUW52WGEza2oxZ3NBMUM2eHlGS3NyeGJaQUVNaUZ0bGtqSDB5VldncUFBcEtBVkktS0ZqN2lWcWNfMVVWLUMtc29RdEdYTV9GZkxnUF9SX2RYcW9QZXNCdDlFOHdkb2VLMTczM3c1MkJWWWtBOTNhYi1LWTQ0RzdvMkVjWlM5d1VzVTBRdHU4SUlHanp0NkRWX3gweGdUY1RJdDhQVlc4?oc=5",
+      "id": "viral|https://news.google.com/rss/articles/CBMigAJBVV95cUxQLTM2NG5UbUNQcUdrNkZJcF9qclI5VWh4NUNWZDVEOEdSLTNQUDFld0hJYUVfTktENHhKWWlzNmdnTjZxQjFabVZCZTh5M3A4U0tWM3JQZjJXSnVCR3JQakFaUW52WGEza2oxZ3NBMUM2eHlGS3NyeGJaQUVNaUZ0bGtqSDB5VldncUFBcEtBVkktS0ZqN2lWcWNfMVVWLUMtc29RdEdYTV9GZkxnUF9SX2RYcW9QZXNCdDlFOHdkb2VLMTczM3c1MkJWWWtBOTNhYi1LWTQ0RzdvMkVjWlM5d1VzVTBRdHU4SUlHanp0NkRWX3gweGdUY1RJdDhQVlc40gGAAkFVX3lxTFAtMzY0blRtQ1BxR2s2RklwX2pyUjlVaHg1Q1ZkNUQ4R1ItM1BQMWV3SElhRV9OS0Q0eEpZaXM2Z2dONnFCMVptVkJlOHkzcDhTS1YzclBmMldKdUJHclBqQVpRbnZYYTNrajFnc0ExQzZ4eUZLc3J4YlpBRU1pRnRsa2pIMHlWV2dxQUFwS0FWSS1LRmo3aVZxY18xVVYtQy1zb1F0R1hNX0ZmTGdQX1JfZFhxb1Blc0J0OUU4d2RvZUsxNzMzdzUyQlZZa0E5M2FiLUtZNDRHN28yRWNaUzl3VXNVMFF0dThJSUdqenQ2RFZfeDB4Z1RjVEl0OFBWVzg?oc=5",
       "section": "viral",
       "category": "Viral EN",
       "title": "Watch VIRAL Video: Rs 40,000 For A Pillow? Indian CA’s Japan Purchase Goes Viral, Her Surprising Reason Has Internet Talking - The Sunday Guardian",
@@ -1961,7 +1979,7 @@
       "sources": [
         {
           "name": "Viral EN",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaDVWeUsxakwzby0yRkRIZ3lydF9RRWJvQ2d0ODJQaEdRTlFMNzZ2MlMyYTQwT1NjOVFMY3NUR25nQXZjQTZBZVpOOUotZXhYdzBzVks0aWllT1Z3YWFIcjY0bUt2NkswSTZTXzhOQlRKYVpLVU80Z1VhaFNTMXNRYzhseW1mWGliTk9IX0VKRVZNMHZaTENzbWFtYkgxOGRKaHh3QVhQbVZ5LXY1QjJib1U3enBnVVM1R242aXB5MHJrM05Ga1FJOXc3bE9jRXh1dlRZclZnenROcEFwcTQzU0N4SU1yeHhfaGJSUlE3YzlTbVhWbG10S1RGa9IBgAJBVV95cUxQLTM2NG5UbUNQcUdrNkZJcF9qclI5VWh4NUNWZDVEOEdSLTNQUDFld0hJYUVfTktENHhKWWlzNmdnTjZxQjFabVZCZTh5M3A4U0tWM3JQZjJXSnVCR3JQakFaUW52WGEza2oxZ3NBMUM2eHlGS3NyeGJaQUVNaUZ0bGtqSDB5VldncUFBcEtBVkktS0ZqN2lWcWNfMVVWLUMtc29RdEdYTV9GZkxnUF9SX2RYcW9QZXNCdDlFOHdkb2VLMTczM3c1MkJWWWtBOTNhYi1LWTQ0RzdvMkVjWlM5d1VzVTBRdHU4SUlHanp0NkRWX3gweGdUY1RJdDhQVlc4?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQLTM2NG5UbUNQcUdrNkZJcF9qclI5VWh4NUNWZDVEOEdSLTNQUDFld0hJYUVfTktENHhKWWlzNmdnTjZxQjFabVZCZTh5M3A4U0tWM3JQZjJXSnVCR3JQakFaUW52WGEza2oxZ3NBMUM2eHlGS3NyeGJaQUVNaUZ0bGtqSDB5VldncUFBcEtBVkktS0ZqN2lWcWNfMVVWLUMtc29RdEdYTV9GZkxnUF9SX2RYcW9QZXNCdDlFOHdkb2VLMTczM3c1MkJWWWtBOTNhYi1LWTQ0RzdvMkVjWlM5d1VzVTBRdHU4SUlHanp0NkRWX3gweGdUY1RJdDhQVlc40gGAAkFVX3lxTFAtMzY0blRtQ1BxR2s2RklwX2pyUjlVaHg1Q1ZkNUQ4R1ItM1BQMWV3SElhRV9OS0Q0eEpZaXM2Z2dONnFCMVptVkJlOHkzcDhTS1YzclBmMldKdUJHclBqQVpRbnZYYTNrajFnc0ExQzZ4eUZLc3J4YlpBRU1pRnRsa2pIMHlWV2dxQUFwS0FWSS1LRmo3aVZxY18xVVYtQy1zb1F0R1hNX0ZmTGdQX1JfZFhxb1Blc0J0OUU4d2RvZUsxNzMzdzUyQlZZa0E5M2FiLUtZNDRHN28yRWNaUzl3VXNVMFF0dThJSUdqenQ2RFZfeDB4Z1RjVEl0OFBWVzg?oc=5"
         }
       ]
     },
@@ -2434,6 +2452,42 @@
       ]
     },
     {
+      "id": "tecnologia|https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+      "section": "tecnologia",
+      "category": "TechCrunch EN",
+      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+      "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/binance-2206279918.jpg?resize=1200,800",
+      "publishedAt": "2026-11-07 17:24 UTC",
+      "language": "en",
+      "topic": "Tecnología",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "TechCrunch EN",
+          "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/"
+        }
+      ]
+    },
+    {
+      "id": "tecnologia|https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
+      "section": "tecnologia",
+      "category": "TechCrunch EN",
+      "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
+      "summary": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3861.jpeg?resize=1200,900",
+      "publishedAt": "2026-11-07 17:18 UTC",
+      "language": "en",
+      "topic": "Tecnología",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "TechCrunch EN",
+          "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/"
+        }
+      ]
+    },
+    {
       "id": "tecnologia|https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
       "section": "tecnologia",
       "category": "TechCrunch EN",
@@ -2614,42 +2668,6 @@
       ]
     },
     {
-      "id": "tecnologia|https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-      "section": "tecnologia",
-      "category": "TechCrunch EN",
-      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/ara-stripe-5.png?resize=1200,779",
-      "publishedAt": "2026-11-06 15:54 UTC",
-      "language": "en",
-      "topic": "Tecnología",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "TechCrunch EN",
-          "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
-        }
-      ]
-    },
-    {
-      "id": "tecnologia|https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
-      "section": "tecnologia",
-      "category": "TechCrunch EN",
-      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-      "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Alexa-Shopping-Text-Hero.jpeg?resize=1200,725",
-      "publishedAt": "2026-11-06 14:10 UTC",
-      "language": "en",
-      "topic": "Tecnología",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "TechCrunch EN",
-          "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/"
-        }
-      ]
-    },
-    {
       "id": "estilo|https://news.google.com/rss/articles/CBMivwFBVV95cUxQV1gwOEIxXzdFVjBrSDdOWjA5MHBieThLd0lKcjlOUUM4YWdNUEc0UmkxenhPWHdERUwyMFlSWVc2emFWYVZTbGRiS05adWxBMU56dHZRNG0tSG1adUlUajN6OGNQYXVtajI1M2pLQ1dQNWZPX181TzJKcElaT0hGbzFRT01XN1V6VW0xbVZIM3lLRExDdjZRSTVfc0V1NV91S1FQSWdkTExkRmVqNGY4RTRIZ3J1M3Jma0s2bjlfYw?oc=5",
       "section": "estilo",
       "category": "GQ España",
@@ -2800,7 +2818,7 @@
       "title": "Zinedine Zidane subasta el reloj Cartier que compró con su primer sueldo como futbolista - Esquire",
       "summary": "Zinedine Zidane subasta el reloj Cartier que compró con su primer sueldo como futbolista Esquire",
       "image": "",
-      "publishedAt": "2026-11-07 14:15 UTC",
+      "publishedAt": "2026-11-07 14:25 UTC",
       "language": "es",
       "topic": "Moda",
       "verification": "fuente identificada; no contrastada independientemente",
@@ -3028,6 +3046,24 @@
       ]
     },
     {
+      "id": "estilo|https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FVkhhNXhBRDdmYnV0ckxxY1ZZbDhjd0NBOFBpeWN3SElaVjJvaEtQSFV0NHl1WHc0MmRqOVJIX0pLSnlfMEt4ZTRWeERPQU1lNVNxdTFtem1TRU96QlRZb0QzRkV4b3lq?oc=5",
+      "section": "estilo",
+      "category": "GQ EN",
+      "title": "Every Piece of Menswear You Should Own in 2026 - GQ",
+      "summary": "Every Piece of Menswear You Should Own in 2026 GQ",
+      "image": "",
+      "publishedAt": "2026-11-05 22:12 UTC",
+      "language": "en",
+      "topic": "Moda",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "GQ EN",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FVkhhNXhBRDdmYnV0ckxxY1ZZbDhjd0NBOFBpeWN3SElaVjJvaEtQSFV0NHl1WHc0MmRqOVJIX0pLSnlfMEt4ZTRWeERPQU1lNVNxdTFtem1TRU96QlRZb0QzRkV4b3lq?oc=5"
+        }
+      ]
+    },
+    {
       "id": "estilo|https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLNG9NcDI0dENrbnNiUzBVaTJxSW85dkVIU0lnbmJhb0dKb1ZJaGQ1enptd3V4Z0ZDWUlKRHpVU0ZrR3ZIZDQzVWtZRjlJOFhRdHQ3ODEyM0dSQVZ1?oc=5",
       "section": "estilo",
       "category": "GQ EN",
@@ -3172,6 +3208,24 @@
       ]
     },
     {
+      "id": "estilo|https://news.google.com/rss/articles/CBMikAFBVV95cUxNNDhZb19vWll2eFQ5cVdpVEdJMTlTdy0ydWVDSHBWZHpRTUhTX0ZrbF9aUVVwT1lueHZ1UmxzYWl6eXNITW9ybGpBSmtULTItMVprNnpmTTNoZm1RNnpZQlpwdlJqaGltMEEwd0F5QVlxUDRfbkIwNmpMVWhHUFZXdm1uR0FWb25fY3N6RXVhUHc?oc=5",
+      "section": "estilo",
+      "category": "Esquire EN",
+      "title": "According to Judi Dench, the Biggest James Bond Baddie Was Daniel Craig All Along - Esquire",
+      "summary": "According to Judi Dench, the Biggest James Bond Baddie Was Daniel Craig All Along Esquire",
+      "image": "",
+      "publishedAt": "2026-11-06 17:53 UTC",
+      "language": "en",
+      "topic": "Estilo de vida",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Esquire EN",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNDhZb19vWll2eFQ5cVdpVEdJMTlTdy0ydWVDSHBWZHpRTUhTX0ZrbF9aUVVwT1lueHZ1UmxzYWl6eXNITW9ybGpBSmtULTItMVprNnpmTTNoZm1RNnpZQlpwdlJqaGltMEEwd0F5QVlxUDRfbkIwNmpMVWhHUFZXdm1uR0FWb25fY3N6RXVhUHc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "estilo|https://news.google.com/rss/articles/CBMilwFBVV95cUxQUlhFQlB0ZGhTLThfRnFwekxkLXJsUFA3aHNqVEExQ3FlSnkwRU56akI0TFNnWkpJenNRMHVuazJvdU9nOFVZa0g0TlRuNnpKdGxUOWktbXZPZl9ocU8yOWRjYXZCbHdJMlZlOWpKZEdQVk0wNEozZjJETFhMMXlWeHZGdHptUHd6TUhEc1IyNktVdjBibHhj?oc=5",
       "section": "estilo",
       "category": "Esquire EN",
@@ -3240,24 +3294,6 @@
         {
           "name": "Esquire EN",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcnFwck1ZY2ZZdUN4UlJDd1NzcnVncnI4aXV1TGtqYllqYTZMSjBLS1BteG51NlZFQ2xMVkhudzBWTEFNY1FBSlpTcC1heGdqWWJheEVIaGhwWkZQdGU3TFJ3ZG96ODlYaldsZ1JRM3RfOGU4dUVsc19uYTMwUzZ6a3h2Unc1QUthR3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "estilo|https://news.google.com/rss/articles/CBMiswFBVV95cUxOMjlWVjBCeERaTHRzeHdmc3VaMjg3a0dwdUZnaWdTNFQ1RF9nQVM4WFZuNE91NFJZcDJ4emtXcWZGOG4yeUJRNU5ncGJKWEY2em1Ja0xGd0tUVTdmU1V4cWtfQnZxbmppelBuRDEtS3FjM2p0SXZJY2ZpZzI0Z2owWnp1RUVWZ3NzaHBFWG5Qb2pNcjRGQ2M1czI0U083bGoxM0o4dk55ZVVqVkgyWGJRVFJnYw?oc=5",
-      "section": "estilo",
-      "category": "Esquire EN",
-      "title": "Netflix's 'Possible Love' Ending Explained by Director Lee Chang-dong - Esquire",
-      "summary": "Netflix's 'Possible Love' Ending Explained by Director Lee Chang-dong Esquire",
-      "image": "",
-      "publishedAt": "2026-11-06 12:21 UTC",
-      "language": "en",
-      "topic": "Estilo de vida",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Esquire EN",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMjlWVjBCeERaTHRzeHdmc3VaMjg3a0dwdUZnaWdTNFQ1RF9nQVM4WFZuNE91NFJZcDJ4emtXcWZGOG4yeUJRNU5ncGJKWEY2em1Ja0xGd0tUVTdmU1V4cWtfQnZxbmppelBuRDEtS3FjM2p0SXZJY2ZpZzI0Z2owWnp1RUVWZ3NzaHBFWG5Qb2pNcjRGQ2M1czI0U083bGoxM0o4dk55ZVVqVkgyWGJRVFJnYw?oc=5"
         }
       ]
     },
@@ -3370,6 +3406,24 @@
       ]
     },
     {
+      "id": "estilo|https://news.google.com/rss/articles/CBMid0FVX3lxTE1aeWpHaUluYzdVMWpqSEUtd0x0UXFPVGhqN3JKRVBxOXlySGVoWThOUkE1dUdrY0VZSFZ3dkpWQTljdlBXZUdmZUsxcTZWWUMzX09ZaHd2OHJ4VFQtdzJiVFgxRXFRZTF2allicERjZUJ3TjlBMkhz?oc=5",
+      "section": "estilo",
+      "category": "Menswear International",
+      "title": "The 7 best Canada Goose jackets for men this winter - The Manual",
+      "summary": "The 7 best Canada Goose jackets for men this winter The Manual",
+      "image": "",
+      "publishedAt": "2026-11-05 23:00 UTC",
+      "language": "en",
+      "topic": "Moda",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Menswear International",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aeWpHaUluYzdVMWpqSEUtd0x0UXFPVGhqN3JKRVBxOXlySGVoWThOUkE1dUdrY0VZSFZ3dkpWQTljdlBXZUdmZUsxcTZWWUMzX09ZaHd2OHJ4VFQtdzJiVFgxRXFRZTF2allicERjZUJ3TjlBMkhz?oc=5"
+        }
+      ]
+    },
+    {
       "id": "estilo|https://news.google.com/rss/articles/CBMickFVX3lxTE5TczBFU2xXdGQtajhjaVFuRUpIUUdDdFJuYk1meWVTUU1fa2ZlRnJrYXhiamhnUWNfQmNsRV91U2hIMkROU0hjaWNpdXFSdjJ0aEwwRUdVUzVuaGVERDZxRVBIZGZHZG5RdEtpNU9CeWVzdw?oc=5",
       "section": "estilo",
       "category": "Menswear International",
@@ -3388,56 +3442,38 @@
       ]
     },
     {
-      "id": "estilo|https://news.google.com/rss/articles/CBMiekFVX3lxTFBHUl82U1BhWTJkSDZHZzhrc3FlT3NkNHNBaUdvNkRXLXRuOWtab0huNkkxNDVMSU1QdEJzeTMwb0JNQW5ER0lCTDBqR0Fqa0lJZFNCd3lWOHZPcXdnX1dmYzVwYWJ3OFdJTUgtNG0tQzRKWGM4UkFhSmhn?oc=5",
-      "section": "estilo",
-      "category": "Menswear International",
-      "title": "Men’s Winter Fashion Trend: Layers for Life On and Off the Slopes - Sharp Magazine",
-      "summary": "Men’s Winter Fashion Trend: Layers for Life On and Off the Slopes Sharp Magazine",
-      "image": "",
-      "publishedAt": "2026-11-05 08:17 UTC",
-      "language": "en",
-      "topic": "Moda",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Menswear International",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHUl82U1BhWTJkSDZHZzhrc3FlT3NkNHNBaUdvNkRXLXRuOWtab0huNkkxNDVMSU1QdEJzeTMwb0JNQW5ER0lCTDBqR0Fqa0lJZFNCd3lWOHZPcXdnX1dmYzVwYWJ3OFdJTUgtNG0tQzRKWGM4UkFhSmhn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "espana|https://news.google.com/rss/articles/CBMipwFBVV95cUxPQV9hU2R0aEhJby1SbXdNVmpGc2RTMUQ1M3pNQmtRME9KVUxoWkVFR3V0R3lOVE14N3RydkVkX1JiM3dyYXU2YU8xLWpaS2VQcnp6RXZxdnI5UkcwTXBxckhKOFVTUUZ1NUphTHBweXVleGR2TGwyN0cxd09aZEhGLXg5WlBLb09vZ1RPaEV4d0w1d3V3WjItclJiWURsOGhHQnBScDZWNA?oc=5",
+      "id": "espana|https://news.google.com/rss/articles/CBMipwFBVV95cUxNdWtIeHVUOGFVTHpYTkNzUUluQlhCUm43RzJRRTc5TmNqbG9Od2Uzbi1LZzRwSjJacXEzY0VYV3BjM1J5VHByM1dTT29uamZXUy00VFJUOVc3N1d4Qzd2a3ROWE5rbldCVDRabjYyaEZqdXdlQWpqV3ROdTdLaE84SFlZVzI0TjJRekxJcWxmNkxaenNBX0p6YzdISnFTanFVNmJETEJwcw?oc=5",
       "section": "espana",
       "category": "Agencia EFE",
-      "title": "España decreta el almacenamiento obligatorio de aceite de oliva - EFE - Agencia de noticias",
-      "summary": "España decreta el almacenamiento obligatorio de aceite de oliva EFE - Agencia de noticias",
+      "title": "Cincuenta detenidos en Barcelona, 43 empresarios, por lucrarse con la entrada de migrantes - EFE - Agencia de noticias",
+      "summary": "Cincuenta detenidos en Barcelona, 43 empresarios, por lucrarse con la entrada de migrantes EFE - Agencia de noticias",
       "image": "",
-      "publishedAt": "2026-11-06 16:23 UTC",
+      "publishedAt": "2026-11-07 14:38 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Agencia EFE",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQV9hU2R0aEhJby1SbXdNVmpGc2RTMUQ1M3pNQmtRME9KVUxoWkVFR3V0R3lOVE14N3RydkVkX1JiM3dyYXU2YU8xLWpaS2VQcnp6RXZxdnI5UkcwTXBxckhKOFVTUUZ1NUphTHBweXVleGR2TGwyN0cxd09aZEhGLXg5WlBLb09vZ1RPaEV4d0w1d3V3WjItclJiWURsOGhHQnBScDZWNA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdWtIeHVUOGFVTHpYTkNzUUluQlhCUm43RzJRRTc5TmNqbG9Od2Uzbi1LZzRwSjJacXEzY0VYV3BjM1J5VHByM1dTT29uamZXUy00VFJUOVc3N1d4Qzd2a3ROWE5rbldCVDRabjYyaEZqdXdlQWpqV3ROdTdLaE84SFlZVzI0TjJRekxJcWxmNkxaenNBX0p6YzdISnFTanFVNmJETEJwcw?oc=5"
         }
       ]
     },
     {
-      "id": "espana|https://news.google.com/rss/articles/CBMia0FVX3lxTE45bG1vZ3I0NzZvdjJlRnllckl5ZzRjX1FRVnBGUkJQNDBoa1BEeTZ0VTBvbVNJRkJaNUUzYzdGdkdWVUVNc0pUbkZnNWZpRW13Z21PRnpoRi1EUUdoX09NdVZNZ0dXT0dvSTJn?oc=5",
+      "id": "espana|https://news.google.com/rss/articles/CBMimAFBVV95cUxOcXB3Nk9KTFFMUU93UkhpY0ZnVkE3Z2U1cjM0Ny1qRmpET214VWdQcFZQelJHa3pBU1p1NktYR05RNmJjU0hjWFlBYUJlbFQxNzA2bWlMOGJxakdfWHoyWEpJcmhzeldEVVdtMk02Q3IwVDlSTDlxamdocDh4YWgyMWQzckN4VmZvQm9MLXp5amNHTERBQmg2SQ?oc=5",
       "section": "espana",
       "category": "Agencia EFE",
-      "title": "Seis detenidos en la nueva pieza del caso Koldo - EFE - Agencia de noticias",
-      "summary": "Seis detenidos en la nueva pieza del caso Koldo EFE - Agencia de noticias",
+      "title": "La Policía de Paraguay detiene al expresidente Santiago Peña tras su destitución - EFE - Agencia de noticias",
+      "summary": "La Policía de Paraguay detiene al expresidente Santiago Peña tras su destitución EFE - Agencia de noticias",
       "image": "",
-      "publishedAt": "2026-11-05 16:43 UTC",
+      "publishedAt": "2026-11-07 06:08 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Agencia EFE",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45bG1vZ3I0NzZvdjJlRnllckl5ZzRjX1FRVnBGUkJQNDBoa1BEeTZ0VTBvbVNJRkJaNUUzYzdGdkdWVUVNc0pUbkZnNWZpRW13Z21PRnpoRi1EUUdoX09NdVZNZ0dXT0dvSTJn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcXB3Nk9KTFFMUU93UkhpY0ZnVkE3Z2U1cjM0Ny1qRmpET214VWdQcFZQelJHa3pBU1p1NktYR05RNmJjU0hjWFlBYUJlbFQxNzA2bWlMOGJxakdfWHoyWEpJcmhzeldEVVdtMk02Q3IwVDlSTDlxamdocDh4YWgyMWQzckN4VmZvQm9MLXp5amNHTERBQmg2SQ?oc=5"
         }
       ]
     },
@@ -3532,20 +3568,20 @@
       ]
     },
     {
-      "id": "espana|https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM3hLZ1g4U3VCaGlrTFVxZlZDa0duODBRckNjZXc2azN2WEhITWFjT0VYcGVpS1F3dm11Z2MxYzNBRlVVT3BxcEFnRWMxSWVaNUQwcTBJWlVSYzdoeEJMU3NEZ1M4eEpfRmdEM21MMzIxb01lYVMyLXZ6NEZ5SVozQ2VYeG5KOGFDZEd0UlRVdzdJS1RoYVkyVXJGVTd6QUYwTHFtWDA0Rng0Mm5OdjV2c1FSQW5tSVZGTjBvdnJPMjJSSDRNR2U0RGFqM1UySTE4?oc=5",
+      "id": "espana|https://news.google.com/rss/articles/CBMizwFBVV95cUxNZ1AyWmFFNHhwZzFTeVFxNGtONWRvaDJyNTdkaV9ZeVJPZGlhRXlIYmlicUFpMVpYcDJwUzdUdjNIMThkc3dwN1M0LW5PRkJsTVI1UjE1N251aWU2TmlibTdVUmxhSW4xNVBCeTJpdk11YUJib1lKRDdFSk82UFNmSGZoN2tZMnRHQnJZZDlVR1IyU0p4RzhRbk00UUVjU0tWaFlvTWh0c1lqemdQY2s4VHRvaDJOR1BNdm9tQUVpX3VGcFA0cHN1TWdwNHc1R0k?oc=5",
       "section": "espana",
       "category": "20minutos",
-      "title": "Irene Montero y Rufián animan a votar con \"memoria\" y obviando el voto útil: \"El PSOE, si puede, te come\" - 20Minutos",
-      "summary": "Irene Montero y Rufián animan a votar con \"memoria\" y obviando el voto útil: \"El PSOE, si puede, te come\" 20Minutos",
+      "title": "Un joven muerto y varios heridos en una pelea de madrugada en la barriada de Isla Chica de Huelva - 20Minutos",
+      "summary": "Un joven muerto y varios heridos en una pelea de madrugada en la barriada de Isla Chica de Huelva 20Minutos",
       "image": "",
-      "publishedAt": "2026-11-07 13:08 UTC",
+      "publishedAt": "2026-11-07 12:00 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "20minutos",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM3hLZ1g4U3VCaGlrTFVxZlZDa0duODBRckNjZXc2azN2WEhITWFjT0VYcGVpS1F3dm11Z2MxYzNBRlVVT3BxcEFnRWMxSWVaNUQwcTBJWlVSYzdoeEJMU3NEZ1M4eEpfRmdEM21MMzIxb01lYVMyLXZ6NEZ5SVozQ2VYeG5KOGFDZEd0UlRVdzdJS1RoYVkyVXJGVTd6QUYwTHFtWDA0Rng0Mm5OdjV2c1FSQW5tSVZGTjBvdnJPMjJSSDRNR2U0RGFqM1UySTE4?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZ1AyWmFFNHhwZzFTeVFxNGtONWRvaDJyNTdkaV9ZeVJPZGlhRXlIYmlicUFpMVpYcDJwUzdUdjNIMThkc3dwN1M0LW5PRkJsTVI1UjE1N251aWU2TmlibTdVUmxhSW4xNVBCeTJpdk11YUJib1lKRDdFSk82UFNmSGZoN2tZMnRHQnJZZDlVR1IyU0p4RzhRbk00UUVjU0tWaFlvTWh0c1lqemdQY2s4VHRvaDJOR1BNdm9tQUVpX3VGcFA0cHN1TWdwNHc1R0k?oc=5"
         }
       ]
     },
@@ -3553,8 +3589,8 @@
       "id": "espana|https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOVQyVFQxbnVzXzgxbkpSanJvaFdvUmstNG85SlYzTTZvWHk0SWdOazN5bV9XN09NVk80c3dVakJNQTJHd0xZeUdvQlNHbGsxeHFKa1cxWnpmZ1VoM2pLRTJNX2lvQXAyRWloQUpaZVlfRTY1TEJEZlJiYkRKQ0ZlWXpCYWNUSnJCaXgzNl9HemFwakFFb3NEeUUySDVSXy05VHNWS3JDNGtiT1oxV2FvR3h2ZmVMWEZ2X0hyRzg4Qmluc0RQakZJaXluSUM4dkU1REtSTWllWWNYcHfSAeABQVVfeXFMTV9QV2hTNHpQZkZlQmFkNHBrUkM1QjYwXy01MnNJT2ZUM1FHajlzV19INkdUN3RuZFpVek51VDRtV0JTdWJZaEF1MkdGaS1DaEFzYWlBNWZITGJwQk5JWXk1RFZRU1ZjZWdRZ09scEx6WGNRX1BtVmNtdDZqSmlnQzFqZG5lakRXNlNYODJRTEVvdGFyWWZ5NzJ2S2ktSkVJTUpEcHNWb3FIVmZBaDJGandlWGNvSjZKdzh2aXZwUDExc2hmcGJab2hXWkhUcmo0em92OGpJV2wxYmhxcG84UTM?oc=5",
       "section": "espana",
       "category": "El Español",
-      "title": "Al menos 5 muertos y una docena de heridos en un tiroteo en Cracovia: la policía investiga \"las circunstancias del atentado\" - El Español",
-      "summary": "Al menos 5 muertos y una docena de heridos en un tiroteo en Cracovia: la policía investiga \"las circunstancias del atentado\" El Español",
+      "title": "Al menos 6 muertos y 15 heridos en un tiroteo en Cracovia: la policía investiga \"todas las circunstancias del atentado\" - El Español",
+      "summary": "Al menos 6 muertos y 15 heridos en un tiroteo en Cracovia: la policía investiga \"todas las circunstancias del atentado\" El Español",
       "image": "",
       "publishedAt": "2026-11-07 15:23 UTC",
       "language": "es",
@@ -3640,20 +3676,20 @@
       ]
     },
     {
-      "id": "mundo|https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGRyZ1FFOWdNalpDbFdEeHZqc1JMNVVkekpWT3NULUU4N0hXTkN3MTQ5dlNSWjdhaUVCWlVUQVdhbkZrOEdDZ2FlNS1qOENqVnhOWGNYcmgtSU8xN3pHUjIzdDZ5akJZNzhnR3g4U0w5NjR1NUNka204MWRxak1WN056VUQ1MEhpNnpnaWVGSF90RlBMaTBWY1R5NFJDa3Q0SE1rMDhUUHRJZ01EMDJHdkhqMTY5aFU5TGd6WTNsekRoQkcyUkE?oc=5",
+      "id": "mundo|https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSXpPV24wYmo0V1FlNXdBMEdMZTdlSmwwQVcyZFNxSGVBX1VBVFVFSEVVUlk4SEphTXU0UDFYbk5fN0ZlSXliR3lMeGEyT005WWE1UmMxTDA0ZlF6bzJlUC1BQXZmYjk1RjEzaVNfdkUtQ08zay1Sd0N3Ri15RlhrZU1ma0Q5bXV0MU9JTXUxS3F0TnVLRmNvLU1US3g0YzRfV25sYV9sSFRLd2FfU2FYV2VwamlaZEFRcW9BYk1MN18?oc=5",
       "section": "mundo",
       "category": "Reuters",
-      "title": "EXCLUSIVE: Expanding on naval blockade, US military looks to restrict Iranian land commerce - Reuters",
-      "summary": "EXCLUSIVE: Expanding on naval blockade, US military looks to restrict Iranian land commerce Reuters",
+      "title": "Zelenskiy criticises Ukraine's SBU security service over corruption scandal - Reuters",
+      "summary": "Zelenskiy criticises Ukraine's SBU security service over corruption scandal Reuters",
       "image": "",
-      "publishedAt": "2026-11-07 16:09 UTC",
+      "publishedAt": "2026-11-07 15:59 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGRyZ1FFOWdNalpDbFdEeHZqc1JMNVVkekpWT3NULUU4N0hXTkN3MTQ5dlNSWjdhaUVCWlVUQVdhbkZrOEdDZ2FlNS1qOENqVnhOWGNYcmgtSU8xN3pHUjIzdDZ5akJZNzhnR3g4U0w5NjR1NUNka204MWRxak1WN056VUQ1MEhpNnpnaWVGSF90RlBMaTBWY1R5NFJDa3Q0SE1rMDhUUHRJZ01EMDJHdkhqMTY5aFU5TGd6WTNsekRoQkcyUkE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSXpPV24wYmo0V1FlNXdBMEdMZTdlSmwwQVcyZFNxSGVBX1VBVFVFSEVVUlk4SEphTXU0UDFYbk5fN0ZlSXliR3lMeGEyT005WWE1UmMxTDA0ZlF6bzJlUC1BQXZmYjk1RjEzaVNfdkUtQ08zay1Sd0N3Ri15RlhrZU1ma0Q5bXV0MU9JTXUxS3F0TnVLRmNvLU1US3g0YzRfV25sYV9sSFRLd2FfU2FYV2VwamlaZEFRcW9BYk1MN18?oc=5"
         }
       ]
     },
@@ -3784,20 +3820,20 @@
       ]
     },
     {
-      "id": "television|https://news.google.com/rss/articles/CBMilgFBVV95cUxNZURSZ3Rhc1cwRGk4Qy1URm9reXN4YUJGaGY1Tm1KbkVwX1JuaE5VSTJqNGlZelZ0eWlHb3JoS2N4QlA2bHNheHQwVEZWOFlYWGpCQXVxSnR2WEtHZWo2VU5wN0hGZG9YWXJBS0tudUp1VkwydHhQQi1pcDdTQXVReWVNenJONjdSZWxGVEFUa1cwclZzNnc?oc=5",
+      "id": "television|https://news.google.com/rss/articles/CBMia0FVX3lxTE1xYVZ2ZHlXTFZEalptVEVlc2lMTnUyM05RR0xOdnU0LTNLU29PRUt4aW1sXzNaWllRSVpGVmE4ZkU5bWFUUU9rbUw2QkczTlZMbjhvSFR5VjBJdHluRHdCS2xMNWpzYnhlN2FV?oc=5",
       "section": "television",
       "category": "FormulaTV",
-      "title": "Puebla vs Atl. San Luis: dónde ver, 20 de noviembre - FormulaTV",
-      "summary": "Puebla vs Atl. San Luis: dónde ver, 20 de noviembre FormulaTV",
+      "title": "La Voz T13 capítulo 8: Batallas II - FormulaTV",
+      "summary": "La Voz T13 capítulo 8: Batallas II FormulaTV",
       "image": "",
-      "publishedAt": "2026-11-07 14:44 UTC",
+      "publishedAt": "2026-11-06 21:17 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "FormulaTV",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZURSZ3Rhc1cwRGk4Qy1URm9reXN4YUJGaGY1Tm1KbkVwX1JuaE5VSTJqNGlZelZ0eWlHb3JoS2N4QlA2bHNheHQwVEZWOFlYWGpCQXVxSnR2WEtHZWo2VU5wN0hGZG9YWXJBS0tudUp1VkwydHhQQi1pcDdTQXVReWVNenJONjdSZWxGVEFUa1cwclZzNnc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xYVZ2ZHlXTFZEalptVEVlc2lMTnUyM05RR0xOdnU0LTNLU29PRUt4aW1sXzNaWllRSVpGVmE4ZkU5bWFUUU9rbUw2QkczTlZMbjhvSFR5VjBJdHluRHdCS2xMNWpzYnhlN2FV?oc=5"
         }
       ]
     },
@@ -4072,20 +4108,20 @@
       ]
     },
     {
-      "id": "tecnologia|https://news.google.com/rss/articles/CBMirAFBVV95cUxNTmc2dVk5UHY5cWdCdG9aNlZhQVFlM04zMWRYdVBRdXRPME5KaVhtbGxPOXhNTGtUbXpFRWIwY0cxTDV2SmdIWnotVW9qVkgzUEN2UmpvMkU1VWlCekF4S2lkaWdNZjRSTkI1QTF2VDhGVU4zSWR5QnktaHFNelZwZHJQWC1QUC0yQUp5TGFONHQwSE5ienZ0V1ZqV0NtZ0tpQWhEbGFtcnRuQnlB0gGyAUFVX3lxTE03RERQb3c1R0VQdUgyUDkydkZIVEpCQUhheUlqYkZFaHU3TG1XN3hWeUx4QTJ3a1FkTXRwSk5TU043Qkl0eGVvSUo5QVg2R3ZFSmZfZzdRODFsSjVEeGtES3hnMEVNRDhSS0NidFNLcXZaXzJlQzJzMFdSbnd2Vy1kU2RNMUpwTlJYc0ZWQ1hBTm10VjYtM0drWWN2bmNVc0hGUjBCS1R5UnVMdTdqTmU5aHc?oc=5",
+      "id": "tecnologia|https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRW5nZ0hVRGJoX2drYWF1MkZuTjVwbTlzQ25yMFFwdklSUnk4QVlXRFVTak1GclJQeW12dlNqRTlKMzVyYldqa2NCZ0xBZ3htY3ZZLXctS3RlWTEwM0tWa0JEdzY1UUQtNVN1MlZLeVFXN3N5Y2FjTkUxa0FBSUZaQ0g0UTZjUmpUOTJGTDFMQUVpUEF3eHNjZ3hpNktVMHdzNkNoMkhhRXhzT0J6bjREZkRvMkd1WmZrNHE3MDROdXRUNFh1ZzhBUERmckNnZHFZcGRaa0JZU1ZydTQycFM0RGQxYWt0RWfSAewBQVVfeXFMT0ZpUXduVUQ3VVdLZUxNQUJlZ2hXR0oxNEk3Zk16TDZXcVZFSnB2R0RIVnl2Um1MUlJmb0JGUjFGWkxMdGx5c0JrRUlRN3pHZ280YlByOEM0eXNCT2RfNEJQdUhueDNqT0R3My1id0ZZMEluWElwZlZZaHZXanZEaG1iZjFNMkRfNlg1eTVQcGJRdnlGaEF3ZU5jTjNIZV82MGlUVkRhdXIxREUzOHkwUnk5dG9DMDRNQnZ3cUprUkZ3Ri1RdS01eTRMNWdvUXV3cHIwMlMxX1FGckNYY2VHZjhCQkR3TlNlQUtjYkM?oc=5",
       "section": "tecnologia",
       "category": "Xataka",
-      "title": "Si de pequeño tenías el pelo rubio y ahora lo tienes oscuro, hay una explicación detrás - Xataka",
-      "summary": "Si de pequeño tenías el pelo rubio y ahora lo tienes oscuro, hay una explicación detrás Xataka",
+      "title": "EEUU ha mirado por satélite una fábrica china y ha encontrado algo que no le gusta: cuatro aviones para cambiar la guerra aérea en el Pacífico - Xataka",
+      "summary": "EEUU ha mirado por satélite una fábrica china y ha encontrado algo que no le gusta: cuatro aviones para cambiar la guerra aérea en el Pacífico Xataka",
       "image": "",
-      "publishedAt": "2026-11-07 14:31 UTC",
+      "publishedAt": "2026-11-07 16:01 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Xataka",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTmc2dVk5UHY5cWdCdG9aNlZhQVFlM04zMWRYdVBRdXRPME5KaVhtbGxPOXhNTGtUbXpFRWIwY0cxTDV2SmdIWnotVW9qVkgzUEN2UmpvMkU1VWlCekF4S2lkaWdNZjRSTkI1QTF2VDhGVU4zSWR5QnktaHFNelZwZHJQWC1QUC0yQUp5TGFONHQwSE5ienZ0V1ZqV0NtZ0tpQWhEbGFtcnRuQnlB0gGyAUFVX3lxTE03RERQb3c1R0VQdUgyUDkydkZIVEpCQUhheUlqYkZFaHU3TG1XN3hWeUx4QTJ3a1FkTXRwSk5TU043Qkl0eGVvSUo5QVg2R3ZFSmZfZzdRODFsSjVEeGtES3hnMEVNRDhSS0NidFNLcXZaXzJlQzJzMFdSbnd2Vy1kU2RNMUpwTlJYc0ZWQ1hBTm10VjYtM0drWWN2bmNVc0hGUjBCS1R5UnVMdTdqTmU5aHc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRW5nZ0hVRGJoX2drYWF1MkZuTjVwbTlzQ25yMFFwdklSUnk4QVlXRFVTak1GclJQeW12dlNqRTlKMzVyYldqa2NCZ0xBZ3htY3ZZLXctS3RlWTEwM0tWa0JEdzY1UUQtNVN1MlZLeVFXN3N5Y2FjTkUxa0FBSUZaQ0g0UTZjUmpUOTJGTDFMQUVpUEF3eHNjZ3hpNktVMHdzNkNoMkhhRXhzT0J6bjREZkRvMkd1WmZrNHE3MDROdXRUNFh1ZzhBUERmckNnZHFZcGRaa0JZU1ZydTQycFM0RGQxYWt0RWfSAewBQVVfeXFMT0ZpUXduVUQ3VVdLZUxNQUJlZ2hXR0oxNEk3Zk16TDZXcVZFSnB2R0RIVnl2Um1MUlJmb0JGUjFGWkxMdGx5c0JrRUlRN3pHZ280YlByOEM0eXNCT2RfNEJQdUhueDNqT0R3My1id0ZZMEluWElwZlZZaHZXanZEaG1iZjFNMkRfNlg1eTVQcGJRdnlGaEF3ZU5jTjNIZV82MGlUVkRhdXIxREUzOHkwUnk5dG9DMDRNQnZ3cUprUkZ3Ri1RdS01eTRMNWdvUXV3cHIwMlMxX1FGckNYY2VHZjhCQkR3TlNlQUtjYkM?oc=5"
         }
       ]
     },
@@ -4198,24 +4234,6 @@
       ]
     },
     {
-      "id": "tecnologia|https://news.google.com/rss/articles/CBMihwFBVV95cUxOekRURVpneWNySTZ1ZU1aalFteU55M19xYzZwVFozNmdVbnZydmpuTjhqanIwTTlmTktESUtmOWZYaGNYQnMwV2x5TWVMdHhfNGZ4OUpER3ZOZUdXWUJ5cnE5czV4QWVyRHFfTUdYWThBaGU4a0RkVFplblkxWW5BcXNkZTdjNkU?oc=5",
-      "section": "tecnologia",
-      "category": "Wired",
-      "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call - WIRED",
-      "summary": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call WIRED",
-      "image": "",
-      "publishedAt": "2026-11-07 13:00 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Wired",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOekRURVpneWNySTZ1ZU1aalFteU55M19xYzZwVFozNmdVbnZydmpuTjhqanIwTTlmTktESUtmOWZYaGNYQnMwV2x5TWVMdHhfNGZ4OUpER3ZOZUdXWUJ5cnE5czV4QWVyRHFfTUdYWThBaGU4a0RkVFplblkxWW5BcXNkZTdjNkU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "tecnologia|https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ3pieTB0YUY3Qk1qLWdrRnlwcTFZUHZkaFc2TEphVHlhMks5VXltRldVLUViTXF5ZmVxWEY2cXA1T3l5Snp4WEx5SlJwelVvZ292VVpiX1U5VTB3MEUyMGR6V0dhalQtMG13WmlvVURpZENmelNiWl9tQzZkZk1zVE9FcUw?oc=5",
       "section": "tecnologia",
       "category": "Wired",
@@ -4230,6 +4248,24 @@
         {
           "name": "Wired",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ3pieTB0YUY3Qk1qLWdrRnlwcTFZUHZkaFc2TEphVHlhMks5VXltRldVLUViTXF5ZmVxWEY2cXA1T3l5Snp4WEx5SlJwelVvZ292VVpiX1U5VTB3MEUyMGR6V0dhalQtMG13WmlvVURpZENmelNiWl9tQzZkZk1zVE9FcUw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "tecnologia|https://news.google.com/rss/articles/CBMic0FVX3lxTFBZMUJzNW5fQms2RDB0WGZzcmZJZlBQOHljM183MVRTaDVMaGt1dzIwcGJuTzAzTGVqRFo3ZUVTd0laNFI0cUpCNTM4ME1CSVVYMHZOandWekE0WWdmdGl0SmxBSnJvM0Y3OWJDWmZKQzk5Z0k?oc=5",
+      "section": "tecnologia",
+      "category": "Wired",
+      "title": "The Cybertruck’s Death Is Actually Great News for EVs - WIRED",
+      "summary": "The Cybertruck’s Death Is Actually Great News for EVs WIRED",
+      "image": "",
+      "publishedAt": "2026-11-06 22:31 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Wired",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZMUJzNW5fQms2RDB0WGZzcmZJZlBQOHljM183MVRTaDVMaGt1dzIwcGJuTzAzTGVqRFo3ZUVTd0laNFI0cUpCNTM4ME1CSVVYMHZOandWekE0WWdmdGl0SmxBSnJvM0Y3OWJDWmZKQzk5Z0k?oc=5"
         }
       ]
     },
@@ -4522,20 +4558,20 @@
       ]
     },
     {
-      "id": "viral|https://news.google.com/rss/articles/CBMijgFBVV95cUxOZW1nYV82SDB5Sk1NajZ4NmVvUHFkbHJxZUFob1NKcUY2Q254dS1xVDdqa2hnWnZ0alpoWklzQjZYNEpTeElXU2pkdnhENTNza01qR0pkRkR4ektJV0N4WjNyTW4wQUh3RjdlUlRCNU16cFRqTnhvWVY1d3dVUy14SFNNNXF2YloyaWFHZ1RR?oc=5",
+      "id": "viral|https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2RuMDlRRE03ZUFBMmMtbFJ6SWttNEQycEZtVHhENktoX3RNV0puNWNXTlFFbVAwRmt6YWFKclM2TVlwaVNoVlpQR0ptMlhvNDVyZmRaWlA5NG42dDMzY05XTVhhRzJKeU96NEE1STZhaVBkallaalZhX1lXdUJTOGh3b3hlMmJ4dGM0RU1DTGRDMHBUYmNoT250X3BQdVZZRVl4aWlNRGM4cjVoMEF1UDVJTWNrXzItckYtYnZIYThOWnA1?oc=5",
       "section": "viral",
       "category": "The Guardian",
-      "title": "TikTok accused of helping to promote sex industry to girls - The Guardian",
-      "summary": "TikTok accused of helping to promote sex industry to girls The Guardian",
+      "title": "'Justice has been served' for Russell Brand's victims, prosecutor says – video - The Guardian",
+      "summary": "'Justice has been served' for Russell Brand's victims, prosecutor says – video The Guardian",
       "image": "",
-      "publishedAt": "2026-11-07 09:02 UTC",
+      "publishedAt": "2026-11-05 17:37 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZW1nYV82SDB5Sk1NajZ4NmVvUHFkbHJxZUFob1NKcUY2Q254dS1xVDdqa2hnWnZ0alpoWklzQjZYNEpTeElXU2pkdnhENTNza01qR0pkRkR4ektJV0N4WjNyTW4wQUh3RjdlUlRCNU16cFRqTnhvWVY1d3dVUy14SFNNNXF2YloyaWFHZ1RR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2RuMDlRRE03ZUFBMmMtbFJ6SWttNEQycEZtVHhENktoX3RNV0puNWNXTlFFbVAwRmt6YWFKclM2TVlwaVNoVlpQR0ptMlhvNDVyZmRaWlA5NG42dDMzY05XTVhhRzJKeU96NEE1STZhaVBkallaalZhX1lXdUJTOGh3b3hlMmJ4dGM0RU1DTGRDMHBUYmNoT250X3BQdVZZRVl4aWlNRGM4cjVoMEF1UDVJTWNrXzItckYtYnZIYThOWnA1?oc=5"
         }
       ]
     },
@@ -4554,26 +4590,6 @@
         {
           "name": "Madrid POP",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fd0w5aUNhdTBXOGZrdDVOOWFOLWxBaHltTWpiVFZxUVlhR013ZDhFVEJhWE0xN2tKSjV1QnI4MldlUEpLc3VaVmlaVHRNM2g1TUI4TjB1QW5zdExBQlBwOTBFaVJwT2J1c0E?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "popHorizon": "ahora"
-    },
-    {
-      "id": "eventos|https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcl83UTJHS0hEZVRLZWVhRmM5R21fcjRxYzE2RHdmZTZTVGpPaDJNazhQaHoyUndReHFlN08tMGdsbUs3Mk5NMnUyLWlsMzg0SG9yaTJ4YVZXMzZKemw1TVpnWVVXV1JKS2dUbHpTUTF2Q1RvcDFVdjV6Y1k0NXVZOFl3dFV6amEwYkFQWE43VHZneUdrYmtRUDdGR3Atc2FUTzRmTGZBeTl6LWJnLWF4ZVp5dndKOVAySVV1M0lqdlViYWpaaElrTjFkVjl3UkJDMzhHSFJPZHRfdjdMZHptUWVNcU5mLTVO?oc=5",
-      "section": "eventos",
-      "category": "Madrid POP",
-      "title": "La Comunidad de Madrid programa este otoño teatro, danza, ópera, flamenco y música en 73 municipios a través de la Red de Teatros - Comunidad de Madrid |",
-      "summary": "La Comunidad de Madrid programa este otoño teatro, danza, ópera, flamenco y música en 73 municipios a través de la Red de Teatros Comunidad de Madrid |",
-      "image": "",
-      "publishedAt": "2026-11-07 08:57 UTC",
-      "language": "es",
-      "topic": "Arte y cultura",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Madrid POP",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcl83UTJHS0hEZVRLZWVhRmM5R21fcjRxYzE2RHdmZTZTVGpPaDJNazhQaHoyUndReHFlN08tMGdsbUs3Mk5NMnUyLWlsMzg0SG9yaTJ4YVZXMzZKemw1TVpnWVVXV1JKS2dUbHpTUTF2Q1RvcDFVdjV6Y1k0NXVZOFl3dFV6amEwYkFQWE43VHZneUdrYmtRUDdGR3Atc2FUTzRmTGZBeTl6LWJnLWF4ZVp5dndKOVAySVV1M0lqdlViYWpaaElrTjFkVjl3UkJDMzhHSFJPZHRfdjdMZHptUWVNcU5mLTVO?oc=5"
         }
       ],
       "region": "Madrid",
@@ -4778,26 +4794,6 @@
       ],
       "region": "Madrid",
       "popHorizon": "futuro"
-    },
-    {
-      "id": "eventos|https://news.google.com/rss/articles/CBMiswFBVV95cUxNMmNEaW1pVWdpWXlUZ1Y3SVpoRFVxQ2FtYVpaM04yVkp5X1loalEzeDR3RlZIOE9ZN1RNWHVta0szbXRnQ2s4NHFUVEk1OW1GaVhjNS1OcUhSTVl2N0h1SHdEWWd1bE44Q0EweTRZSWstOWZzdmwtd2hMS3YtMXZWdEJvOEp1aHh4R05jaFo3MHZrZm1CZGlDRk9sRWxRbl9uMDBNMmcxRnJSZzR4T1RSV2liNA?oc=5",
-      "section": "eventos",
-      "category": "Madrid POP",
-      "title": "Simple Minds dará su único concierto en… - Movistar Arena Madrid",
-      "summary": "Simple Minds dará su único concierto en… Movistar Arena Madrid",
-      "image": "",
-      "publishedAt": "2026-09-02 07:00 UTC",
-      "language": "es",
-      "topic": "Planes futuros",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Madrid POP",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMmNEaW1pVWdpWXlUZ1Y3SVpoRFVxQ2FtYVpaM04yVkp5X1loalEzeDR3RlZIOE9ZN1RNWHVta0szbXRnQ2s4NHFUVEk1OW1GaVhjNS1OcUhSTVl2N0h1SHdEWWd1bE44Q0EweTRZSWstOWZzdmwtd2hMS3YtMXZWdEJvOEp1aHh4R05jaFo3MHZrZm1CZGlDRk9sRWxRbl9uMDBNMmcxRnJSZzR4T1RSV2liNA?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "popHorizon": "ahora"
     },
     {
       "id": "eventos|https://news.google.com/rss/articles/CBMifkFVX3lxTE9MSVo2VHNGcGdqZUtuMnZtT2NVbW53VS13SWVqYUtiRGozX2lPbGFRY0kzQkE0bHBZZ0dGYUdyaG5RSmZJV09VWUM2c3hKRzlQRHNxUUdfaXU2b3NXOXdiN1d3ZlcwNnM4VUY3WHpuMTlsR2hTajhPX1dYNFhyZw?oc=5",
@@ -5920,6 +5916,26 @@
       "popHorizon": "ahora"
     },
     {
+      "id": "eventos|https://news.google.com/rss/articles/CBMinwFBVV95cUxOSDdlaUU1YjhGMFZ5TGVEMHpYelQzUmdoWklQQkx1QkFDV2NUQ213RzVta09MWG44NWFzVi1NY1h6NVRrSXlTb1ZlakVwNHZ6ZWdRbjhiRTdTQTNMWUd6emJySHp4RlNxY1lkZmFHRzJ1NEppd2FEczhEeGZnYmk0cFJSZnhyQlhpMDlNU0NadjA1MUJBSXgwQkdlUWFVdTA?oc=5",
+      "section": "eventos",
+      "category": "Agenda Ministerio Cultura",
+      "title": "Programación de noviembre del Cine Doré - web del Ministerio de Cultura",
+      "summary": "Programación de noviembre del Cine Doré web del Ministerio de Cultura",
+      "image": "",
+      "publishedAt": "2026-11-01 07:00 UTC",
+      "language": "es",
+      "topic": "Planes futuros",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Agenda Ministerio Cultura",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSDdlaUU1YjhGMFZ5TGVEMHpYelQzUmdoWklQQkx1QkFDV2NUQ213RzVta09MWG44NWFzVi1NY1h6NVRrSXlTb1ZlakVwNHZ6ZWdRbjhiRTdTQTNMWUd6emJySHp4RlNxY1lkZmFHRzJ1NEppd2FEczhEeGZnYmk0cFJSZnhyQlhpMDlNU0NadjA1MUJBSXgwQkdlUWFVdTA?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "popHorizon": "ahora"
+    },
+    {
       "id": "eventos|https://news.google.com/rss/articles/CBMiowFBVV95cUxNbUJEWTJEOGUyNVpyUW1tS3g5OG9UUVRmcU56eU9LeG1kMVFZZmhCa2dFRlVmaFV6bXZtRnJKV0ZOSDJZcWVCSXpzSG9qNzB0bjl5enBXNXlKNW1vSTlJcE5lci1kUXcxbWxSaUd5aUFVRU5xNUxCRW1lWFpEUmkyS19WNGVrdFBJLWZNWEZlWDYtS19tUjVhZTRSXzk4dFBmY29v?oc=5",
       "section": "eventos",
       "category": "Agenda Ministerio Cultura",
@@ -5998,26 +6014,6 @@
       ],
       "region": "Madrid",
       "popHorizon": "ahora"
-    },
-    {
-      "id": "eventos|https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ1JTaThMU292TUZtNkRFblNjcHhiS2hVLS15Y0QyVGNrTERtaVpLUTNtSjlYb3hNZ0FNUVBCbnFweTZYX1ZUc0NJUmluLURtU0lPNUExVWdaOXRLSGR2bXZ2bDRzMnFPNnJIRnF3alFyc2xTTk5GeHRJTGdzYUJZOWZNSzhwX2s5bUVEU2NIbUFoakE3Zk5lZkJsM2VRTDlZb093?oc=5",
-      "section": "eventos",
-      "category": "Agenda Ministerio Cultura",
-      "title": "Compañía Nacional de Teatro Clásico. Temporada 2026-2027 - web del Ministerio de Cultura",
-      "summary": "Compañía Nacional de Teatro Clásico. Temporada 2026-2027 web del Ministerio de Cultura",
-      "image": "",
-      "publishedAt": "2026-07-14 09:38 UTC",
-      "language": "es",
-      "topic": "Planes futuros",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Agenda Ministerio Cultura",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ1JTaThMU292TUZtNkRFblNjcHhiS2hVLS15Y0QyVGNrTERtaVpLUTNtSjlYb3hNZ0FNUVBCbnFweTZYX1ZUc0NJUmluLURtU0lPNUExVWdaOXRLSGR2bXZ2bDRzMnFPNnJIRnF3alFyc2xTTk5GeHRJTGdzYUJZOWZNSzhwX2s5bUVEU2NIbUFoakE3Zk5lZkJsM2VRTDlZb093?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "popHorizon": "futuro"
     },
     {
       "id": "eventos|https://news.google.com/rss/articles/CBMiygFBVV95cUxQWHdzd2IyTmFuUmlxb2tXNGZrenRtRG40UzltR3daSnNGUGFCR3pjb3ZFR3dkdFpqREkzQjhrcFJHWUNqbFhrSWRDaGxHakJlcnFYLWgtdFFBSGVwWnI5THVuWlVJRkFFdVVtMndiSjF0V2s3d09pZjNiWXV5bzFBRFNGcm9zVW80WkNWTVprVHhmcERKa0pwcmk1bjR2XzY1VDNCcVIwWEdraTFMUmJ3SXRodlp1Rl9lem1OWi1JRDlUN0N6RzA4Y01B?oc=5",
@@ -6620,26 +6616,6 @@
       "popHorizon": "entradas"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMirwFBVV95cUxNTEtsclpiVXp0aWhMWjMyTzg1T0FoVmpyYU0zR0poTWR5dUptUkxUUVFlRXc4YVY2M3JaNGtYUGpPSEhWdExEbGhOYWdnYnVMLS1rRzlvV2RIX0tHa2UzSE9rYXVkQlFxYWw0VlI1OWwyc3pVZXAxZWxIV2lxbWJUWDFjeU9XLWV4aXpaRmNDaThKc0NIVnRlYUQzNkR0Zzl3TzFvR19EeVJJdmgtd3dj?oc=5",
-      "section": "eventos",
-      "category": "Entradas.com",
-      "title": "Texas @ Palacio Vistalegre | MADRID - jue., 11/11/2027 - Entradas",
-      "summary": "Texas @ Palacio Vistalegre | MADRID - jue., 11/11/2027 Entradas",
-      "image": "",
-      "publishedAt": "2026-10-23 05:00 UTC",
-      "language": "es",
-      "topic": "Entradas a la venta",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Entradas.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTEtsclpiVXp0aWhMWjMyTzg1T0FoVmpyYU0zR0poTWR5dUptUkxUUVFlRXc4YVY2M3JaNGtYUGpPSEhWdExEbGhOYWdnYnVMLS1rRzlvV2RIX0tHa2UzSE9rYXVkQlFxYWw0VlI1OWwyc3pVZXAxZWxIV2lxbWJUWDFjeU9XLWV4aXpaRmNDaThKc0NIVnRlYUQzNkR0Zzl3TzFvR19EeVJJdmgtd3dj?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "popHorizon": "entradas"
-    },
-    {
       "id": "eventos|https://news.google.com/rss/articles/CBMinAFBVV95cUxPaFJ4cU0xVFhaUG5tcUplNDd1NENLU3NtVmhZRmNCTFB3aVJhUzdVQUNzLURnQXVKMmpwR0g4NjNmeFJNajN4WlNkanZVa21YLTE2NGJFRFB2dWNvSzZmZVBNd2wzc0dIYVBoQVphdllFMTRqVXdnRHhVMldtQVVOMTlGU3ROcmJjRTR5SmxjaTFBR0FRbEtZRmN6V00?oc=5",
       "section": "eventos",
       "category": "Entradas.com",
@@ -6654,6 +6630,26 @@
         {
           "name": "Entradas.com",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaFJ4cU0xVFhaUG5tcUplNDd1NENLU3NtVmhZRmNCTFB3aVJhUzdVQUNzLURnQXVKMmpwR0g4NjNmeFJNajN4WlNkanZVa21YLTE2NGJFRFB2dWNvSzZmZVBNd2wzc0dIYVBoQVphdllFMTRqVXdnRHhVMldtQVVOMTlGU3ROcmJjRTR5SmxjaTFBR0FRbEtZRmN6V00?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "popHorizon": "entradas"
+    },
+    {
+      "id": "eventos|https://news.google.com/rss/articles/CBMirwFBVV95cUxNTEtsclpiVXp0aWhMWjMyTzg1T0FoVmpyYU0zR0poTWR5dUptUkxUUVFlRXc4YVY2M3JaNGtYUGpPSEhWdExEbGhOYWdnYnVMLS1rRzlvV2RIX0tHa2UzSE9rYXVkQlFxYWw0VlI1OWwyc3pVZXAxZWxIV2lxbWJUWDFjeU9XLWV4aXpaRmNDaThKc0NIVnRlYUQzNkR0Zzl3TzFvR19EeVJJdmgtd3dj?oc=5",
+      "section": "eventos",
+      "category": "Entradas.com",
+      "title": "Texas @ Palacio Vistalegre | MADRID - jue., 11/11/2027 - Entradas",
+      "summary": "Texas @ Palacio Vistalegre | MADRID - jue., 11/11/2027 Entradas",
+      "image": "",
+      "publishedAt": "2026-10-23 05:00 UTC",
+      "language": "es",
+      "topic": "Entradas a la venta",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Entradas.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTEtsclpiVXp0aWhMWjMyTzg1T0FoVmpyYU0zR0poTWR5dUptUkxUUVFlRXc4YVY2M3JaNGtYUGpPSEhWdExEbGhOYWdnYnVMLS1rRzlvV2RIX0tHa2UzSE9rYXVkQlFxYWw0VlI1OWwyc3pVZXAxZWxIV2lxbWJUWDFjeU9XLWV4aXpaRmNDaThKc0NIVnRlYUQzNkR0Zzl3TzFvR19EeVJJdmgtd3dj?oc=5"
         }
       ],
       "region": "Madrid",
@@ -7260,6 +7256,26 @@
       ]
     },
     {
+      "id": "cultura|https://news.google.com/rss/articles/CBMiswFBVV95cUxQZURfMTB1WEVDb3gzVjVwQkUzVkplWHF1RTF5cy1BWm53bEplZmJ0c2g3QzZOTEpfZTZxaGZGUXRJb3BTNmN4a0R0YVJEMVVsX2tROGN5dXEzaUZaX0tzeG1YS1ltWkpaMmdGeDlTVVU2X3RtUTllaFctellkeTI2RXBJbXViMy1wX0Q3TzVqaFVlVUlISW5idlg2OGdlcHFNWU9WVnQ3UHlqLWZVdGFuS2ZJNA?oc=5",
+      "section": "cultura",
+      "category": "Música ES",
+      "title": "Oro Viejo by DJ Nano: fiesta de Navidad en Madrid 2026 - Guía del Ocio",
+      "summary": "Oro Viejo by DJ Nano: fiesta de Navidad en Madrid 2026 Guía del Ocio",
+      "image": "",
+      "publishedAt": "2026-11-07 10:27 UTC",
+      "language": "es",
+      "topic": "Música",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Música ES",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZURfMTB1WEVDb3gzVjVwQkUzVkplWHF1RTF5cy1BWm53bEplZmJ0c2g3QzZOTEpfZTZxaGZGUXRJb3BTNmN4a0R0YVJEMVVsX2tROGN5dXEzaUZaX0tzeG1YS1ltWkpaMmdGeDlTVVU2X3RtUTllaFctellkeTI2RXBJbXViMy1wX0Q3TzVqaFVlVUlISW5idlg2OGdlcHFNWU9WVnQ3UHlqLWZVdGFuS2ZJNA?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "cultureView": "noticias"
+    },
+    {
       "id": "cultura|https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVVQ2OHNIUUQ5b25vS3FxYXdYU1JKNHpwSmRKWDZOX2Y0d19ad096YnZlYUlZZThPOW43LVZpWXp4Q2xNazlEcmExbTJCY3VsVW9QV3Fub0hLQ0wyai1GNVZETXRlVWxTdHYwWG1ONy1YTV8tSDNIeHg1eWFjemo5aTA3dWhndmlzeWhOU2R0MUktV19ZZ1JoTmk5SThYUXNtdEpEOTg4VzZXcV9WWllxNk1FMkhPZ3VqX0Rz0gHAAUFVX3lxTE9WNnNhbnYyMS1pXzhCQ0s4c0taNjBhN0ZIY3BLSmtyakdSYko0czMtZmVhQmxxb2xXN2JiWkx6RU9yMG1xRDVvVnhPdm1ycFBoYkpwYjNFdHFsbEVHaEdBaGVLNGpPYmJKS3NjaFd6dXo4NWxiVDh0cjlrelZMUDdNVlJkOWVkWmhlQUpjdG5VRGZET1dfdDZ0Z0Z3WndTQ1IzbHhyY2kwa2x5RHR0U0xiekFfblRscDBOUVFXRHBWUA?oc=5",
       "section": "cultura",
       "category": "Agenda Madrid",
@@ -7362,17 +7378,17 @@
     {
       "id": "cultura|https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ2xjcVMzblllNkhZOWVUS3NWal9Sd0xCQVRvQ2dYWXJtenhzcTk2ajVFTXZyUGJjX2IyMm1LVmxPLWxiOHA2MjMwM1VWUTBYSkNBTk9iWklmNVBmWWwyT3hiWmwzeXZOVFhvNy1Jcy1pUTYwa3RrOXJ1RnM5TmpjX0pmeFNQbHdDeGRhRFFJVWRvbktOZ0hsTGxCMUNSMy12aUo2NkQteEtQUFpBMXRrczdIMFFpSG9TZzZZN3ExcUQ5bm1JdEpaeEdEVDFpTUNMZlRHUktsbGZmYmJ1N3c?oc=5",
       "section": "cultura",
-      "category": "Cultura ES",
+      "category": "Música ES",
       "title": "El Festival de Otoño de la Comunidad de Madrid arranca su 44ª edición con un espectáculo de Robert Wilson en homenaje a Pessoa - Comunidad de Madrid |",
       "summary": "El Festival de Otoño de la Comunidad de Madrid arranca su 44ª edición con un espectáculo de Robert Wilson en homenaje a Pessoa Comunidad de Madrid |",
       "image": "",
       "publishedAt": "2026-11-05 09:14 UTC",
       "language": "es",
-      "topic": "Cultura general",
+      "topic": "Música",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "Cultura ES",
+          "name": "Música ES",
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ2xjcVMzblllNkhZOWVUS3NWal9Sd0xCQVRvQ2dYWXJtenhzcTk2ajVFTXZyUGJjX2IyMm1LVmxPLWxiOHA2MjMwM1VWUTBYSkNBTk9iWklmNVBmWWwyT3hiWmwzeXZOVFhvNy1Jcy1pUTYwa3RrOXJ1RnM5TmpjX0pmeFNQbHdDeGRhRFFJVWRvbktOZ0hsTGxCMUNSMy12aUo2NkQteEtQUFpBMXRrczdIMFFpSG9TZzZZN3ExcUQ5bm1JdEpaeEdEVDFpTUNMZlRHUktsbGZmYmJ1N3c?oc=5"
         }
       ],
@@ -7600,26 +7616,6 @@
       "cultureView": "noticias"
     },
     {
-      "id": "cultura|https://news.google.com/rss/articles/CBMiekFVX3lxTE81YkN4ODFWdFJoRGJ1ak85cU83Tk9sVEJWa2h4M3JKbVVXdkp3dWJQblpNTFRHVHk4dXBNQUUwU3VweW12OERlMF9ZUjBwNjZjek9RUzJYSW5odUs3c0s0U24xeGU4Z04wVmFpaTBxRW9zVzZtNlhWOVZ3?oc=5",
-      "section": "cultura",
-      "category": "Música ES",
-      "title": "Festival Águila Suena - Comunidad de Madrid |",
-      "summary": "Festival Águila Suena Comunidad de Madrid |",
-      "image": "",
-      "publishedAt": "2026-11-03 12:40 UTC",
-      "language": "es",
-      "topic": "Música",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Música ES",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81YkN4ODFWdFJoRGJ1ak85cU83Tk9sVEJWa2h4M3JKbVVXdkp3dWJQblpNTFRHVHk4dXBNQUUwU3VweW12OERlMF9ZUjBwNjZjek9RUzJYSW5odUs3c0s0U24xeGU4Z04wVmFpaTBxRW9zVzZtNlhWOVZ3?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "cultureView": "agenda"
-    },
-    {
       "id": "cultura|https://news.google.com/rss/articles/CBMijgFBVV95cUxQWEJEeFpocTlrclNrekJMbHBtYnpsM3ZrRmRiLXFOdDdYd3dDR1ZsaFJ3QmRTXzV3a0x6amZtZXJ2T1YxMTNaX0JYUzUzMzdyYUNrM2dXVjVoWlU2WXdtY3NHMkd3Sk5BRXljLWtBVWt3bk1iSEotb3dGOU91clVNSC1sTFNJTDJzekt4MWhB?oc=5",
       "section": "cultura",
       "category": "Cultura ES",
@@ -7660,26 +7656,6 @@
       "cultureView": "noticias"
     },
     {
-      "id": "cultura|https://news.google.com/rss/articles/CBMib0FVX3lxTE45LTBUTkpIZ1FVUEtmb3F4eFZDLVZvSVRyWHdtUTJNWjg0b24xbkZHQUU5UVZRZmdoakpWOF8zNTNJV3VBb1NnMlVhVU0xazZUMVQ1OU9talVwMU50NWtrdmVtNm1rcVVadUdjclFRRQ?oc=5",
-      "section": "cultura",
-      "category": "Música ES",
-      "title": "¿Quién toca hoy en Madrid? Los mejores conciertos de noviembre - Time Out Worldwide",
-      "summary": "¿Quién toca hoy en Madrid? Los mejores conciertos de noviembre Time Out Worldwide",
-      "image": "",
-      "publishedAt": "2026-11-01 23:00 UTC",
-      "language": "es",
-      "topic": "Música",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Música ES",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45LTBUTkpIZ1FVUEtmb3F4eFZDLVZvSVRyWHdtUTJNWjg0b24xbkZHQUU5UVZRZmdoakpWOF8zNTNJV3VBb1NnMlVhVU0xazZUMVQ1OU9talVwMU50NWtrdmVtNm1rcVVadUdjclFRRQ?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "cultureView": "agenda"
-    },
-    {
       "id": "cultura|https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdm5PVlI2QmM4V3g2ZkduR3p1czVQTjcxNWpwSE9SUTZnQ1NnU2dUMV9URnlpVGhZeVJ6d3BMZU5HQ2ZSQUZtX0ZNVTBJcjBNTGFSNmxmUkl2eGdReERlYVlRZmRNMWl2VFI5eXJzMDZqYnJzM1RqYkFQdHpVd3lHWTVOWVRqU3BX?oc=5",
       "section": "cultura",
       "category": "Teatro ES",
@@ -7714,6 +7690,26 @@
         {
           "name": "Cultura ES",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3hyQ19Ha0Q0aU9aekFzaUlZZ3hEUlFKQ2pnSWdkRWxxanNBMEttdVdUakwzRVd6QlY2TGh3bmJiVkl5WlVlb3JZYmpzOFlXUnJXbWJGWm1waU9rU3lfdjBtcDY2UUFKLTN1NW5SakFVVmdwSlBIajd4NU4tLTJGSnJHZ0ZGV05PWk1TX1JWTlFhZ2hkaDlB?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "cultureView": "agenda"
+    },
+    {
+      "id": "cultura|https://news.google.com/rss/articles/CBMib0FVX3lxTE45LTBUTkpIZ1FVUEtmb3F4eFZDLVZvSVRyWHdtUTJNWjg0b24xbkZHQUU5UVZRZmdoakpWOF8zNTNJV3VBb1NnMlVhVU0xazZUMVQ1OU9talVwMU50NWtrdmVtNm1rcVVadUdjclFRRQ?oc=5",
+      "section": "cultura",
+      "category": "Agenda Madrid",
+      "title": "¿Quién toca hoy en Madrid? Los mejores conciertos de noviembre - Time Out Worldwide",
+      "summary": "¿Quién toca hoy en Madrid? Los mejores conciertos de noviembre Time Out Worldwide",
+      "image": "",
+      "publishedAt": "2026-11-01 23:00 UTC",
+      "language": "es",
+      "topic": "Música",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Agenda Madrid",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45LTBUTkpIZ1FVUEtmb3F4eFZDLVZvSVRyWHdtUTJNWjg0b24xbkZHQUU5UVZRZmdoakpWOF8zNTNJV3VBb1NnMlVhVU0xazZUMVQ1OU9talVwMU50NWtrdmVtNm1rcVVadUdjclFRRQ?oc=5"
         }
       ],
       "region": "Madrid",
@@ -7960,26 +7956,6 @@
       "cultureView": "agenda"
     },
     {
-      "id": "cultura|https://news.google.com/rss/articles/CBMidkFVX3lxTE55d1JKTEhoTWd1RmF4VzhBLVc2VUVSR2xILThfOTJVV3FGaXJadGEzRnB4d3Y3S2xnSjJrTzVWWl8tc0U5WFVzZ25fbk1rQ09xSGt4WW9MUEtWaUFtblNsMmkwbTBlSlozcGpKcEpCWE1vU00zX3fSAXtBVV95cUxPcWh6VUsxZjNsS21zUTN0dEVXTkZtTzJYbkhRZHJwTTJ0N2RhUFNybTV2QTJrODB3YzZJNGd4d0puOWhNa2R3YU9WWFRMNmZBMXVFa0I4T2RRVE9Ud0ZLQmtxVlgxSUQtOG9ORk01U2xVQTVZVC0wYXlkSHc?oc=5",
-      "section": "cultura",
-      "category": "Jenesaispop",
-      "title": "La Pantera y Quevedo son Nº1 en España «con la lengüita fuera» - jenesaispop.com",
-      "summary": "La Pantera y Quevedo son Nº1 en España «con la lengüita fuera» jenesaispop.com",
-      "image": "",
-      "publishedAt": "2026-11-03 19:05 UTC",
-      "language": "es",
-      "topic": "Música",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Jenesaispop",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55d1JKTEhoTWd1RmF4VzhBLVc2VUVSR2xILThfOTJVV3FGaXJadGEzRnB4d3Y3S2xnSjJrTzVWWl8tc0U5WFVzZ25fbk1rQ09xSGt4WW9MUEtWaUFtblNsMmkwbTBlSlozcGpKcEpCWE1vU00zX3fSAXtBVV95cUxPcWh6VUsxZjNsS21zUTN0dEVXTkZtTzJYbkhRZHJwTTJ0N2RhUFNybTV2QTJrODB3YzZJNGd4d0puOWhNa2R3YU9WWFRMNmZBMXVFa0I4T2RRVE9Ud0ZLQmtxVlgxSUQtOG9ORk01U2xVQTVZVC0wYXlkSHc?oc=5"
-        }
-      ],
-      "region": "España",
-      "cultureView": "noticias"
-    },
-    {
       "id": "cultura|https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa3JxUU9jaXNTN2RRcFpVbEdBS2pKMXg1ZXluNmliQXE5dUxraHJxQkppemNlYzJEcGcxS1ZtV0NMOU1PZEtpOGpPNEk4MzROYmZEdHltdVRQbE1hRERGVjBzby05YkxSOWZsRUg1RjN4dTVBcFgxX3VXR2pSaWo5X2hBemdHMENwZUgyS2VmcGVfWWZNQmhXbmkzWEd4T1YwVW05ek9UMjl3RGR1NHB4OXJwbGN3MWdaU1NqT1ZqSFM5WE1Rd0QzWtIBzgFBVV95cUxQcmotRkU0X2xqSk41Q2NQaS1WSm45YVUtdzg2djVVVWFzZU02VmNwcVpiNHJ0UjZiWWNWdXNBNFp5ZWxmaDltbWM2ZUxHWmxmckd0X3EycXZtcmtkMzdXT2o2RGlSdGFJMkdGclVhdGFITk9ZVXVjcnM5VGFVYUJpXzlTRklJWGY3UHZCckJ5MDE0dlZHR0hMVWN5bE9aY3BhRnZfM2thazB0VVZvSXNETWhuVDBUTHpkWXpRaWFmdXd0TkVmX0c0cEhqMm1TUQ?oc=5",
       "section": "cultura",
       "category": "Espinof",
@@ -8057,6 +8033,46 @@
         }
       ],
       "region": "España",
+      "cultureView": "noticias"
+    },
+    {
+      "id": "cultura|https://news.google.com/rss/articles/CBMigAFBVV95cUxOTGpqX0lrOHJNSFVOOE9pbTlpZjNSNmhZOXR0WDhOa1J1SEozdndXNzVzN3dsc1hWVlMwMDFvYVpMN256Sm00d014cExISld6VmoyVkJ2QXdtdkVlWkJ2YW5rd0VkU0hJSlFYS0c1aFRnX3pWTkZ0SlRZb0YyeDd4dtIBhgFBVV95cUxPaW84WnRZdkhweEpOWERCU205Y0FldXMyTEVRZk1XWmhZWkwxZDllZ1ByRXJmTGNESXpWbEJNT3NYRU9KdVVEaE5LamtYRTYzOUR5MnhIWS1EUFRxSzRwYVdkWTlPNTNWRlFvQWctbVBhWmJ3eEFHNWhSeDF1WGhjdHNNbExfQQ?oc=5",
+      "section": "cultura",
+      "category": "Jenesaispop",
+      "title": "Queens of the Stone Age / Perfecth - Jenesaispop",
+      "summary": "Queens of the Stone Age / Perfecth Jenesaispop",
+      "image": "",
+      "publishedAt": "2026-11-07 16:00 UTC",
+      "language": "es",
+      "topic": "Música",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Jenesaispop",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTGpqX0lrOHJNSFVOOE9pbTlpZjNSNmhZOXR0WDhOa1J1SEozdndXNzVzN3dsc1hWVlMwMDFvYVpMN256Sm00d014cExISld6VmoyVkJ2QXdtdkVlWkJ2YW5rd0VkU0hJSlFYS0c1aFRnX3pWTkZ0SlRZb0YyeDd4dtIBhgFBVV95cUxPaW84WnRZdkhweEpOWERCU205Y0FldXMyTEVRZk1XWmhZWkwxZDllZ1ByRXJmTGNESXpWbEJNT3NYRU9KdVVEaE5LamtYRTYzOUR5MnhIWS1EUFRxSzRwYVdkWTlPNTNWRlFvQWctbVBhWmJ3eEFHNWhSeDF1WGhjdHNNbExfQQ?oc=5"
+        }
+      ],
+      "region": "Internacional",
+      "cultureView": "noticias"
+    },
+    {
+      "id": "cultura|https://news.google.com/rss/articles/CBMickFVX3lxTFBUX2FXYThVNVNvRUtsNU1lVkpuRHU3c0pIMlRBZzFiOGI3RFdQdFVyRTB0aWxUN01OdUxzemxCX2VCSGhETVB4aXlCMmRnX3dfYkYyS1B0aWpPMktlSmlnbFlPaUFsSDZfZ2lqcXhpY3lSd9IBd0FVX3lxTE53RDBFWnVyUS1NQUlmeHpCNV85ZTBscGpJaVRpMk5BajdmY2tiRWpURVBac1BVb0ROaXJkTExoWEszT2lsb0REdHE3enZhMTVtUk5vQ2Z5VkRLNW94V1pwd0h0aDhmWUs0d3NibVBmaG1QejRtSTZZ?oc=5",
+      "section": "cultura",
+      "category": "Jenesaispop",
+      "title": "Muere el director chileno Sebastián Lelio, ganador del Oscar - Jenesaispop",
+      "summary": "Muere el director chileno Sebastián Lelio, ganador del Oscar Jenesaispop",
+      "image": "",
+      "publishedAt": "2026-11-07 14:29 UTC",
+      "language": "es",
+      "topic": "Música",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Jenesaispop",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUX2FXYThVNVNvRUtsNU1lVkpuRHU3c0pIMlRBZzFiOGI3RFdQdFVyRTB0aWxUN01OdUxzemxCX2VCSGhETVB4aXlCMmRnX3dfYkYyS1B0aWpPMktlSmlnbFlPaUFsSDZfZ2lqcXhpY3lSd9IBd0FVX3lxTE53RDBFWnVyUS1NQUlmeHpCNV85ZTBscGpJaVRpMk5BajdmY2tiRWpURVBac1BVb0ROaXJkTExoWEszT2lsb0REdHE3enZhMTVtUk5vQ2Z5VkRLNW94V1pwd0h0aDhmWUs0d3NibVBmaG1QejRtSTZZ?oc=5"
+        }
+      ],
+      "region": "Internacional",
       "cultureView": "noticias"
     },
     {
@@ -8440,26 +8456,6 @@
       "cultureView": "noticias"
     },
     {
-      "id": "cultura|https://news.google.com/rss/articles/CBMic0FVX3lxTE9lSmw4ZUx2UXhsbllRNXZLR3RQYi1JUExjQ1UxeS1kQ045SDBlUDlTaTQ0dmc5Rm9saF82ZHA3UEQxeEVDb0stTWZrejlaM21IUkVjVWZiTmhzd3dkXzhaSFhyQnl0ajE4ZENkZWtBVzhUcDTSAXhBVV95cUxOeEdVRHRiOWRXUDRra3ZyS2cwZlVVWFVUblVhWG1IUGsxZ216SWEwUXBxcGlJR0UxMkpxbEZHd3NpTUJTbWxJSnRLU3M0MTVCRjBvejhyV1YwSUNfQmhPU0FXVkh4c2JkVXB3aFFzRVBYZWM1NFN0M0g?oc=5",
-      "section": "cultura",
-      "category": "Jenesaispop",
-      "title": "Mylène Farmer / Égrégore - jenesaispop.com",
-      "summary": "Mylène Farmer / Égrégore jenesaispop.com",
-      "image": "",
-      "publishedAt": "2026-11-04 14:47 UTC",
-      "language": "es",
-      "topic": "Música",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Jenesaispop",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lSmw4ZUx2UXhsbllRNXZLR3RQYi1JUExjQ1UxeS1kQ045SDBlUDlTaTQ0dmc5Rm9saF82ZHA3UEQxeEVDb0stTWZrejlaM21IUkVjVWZiTmhzd3dkXzhaSFhyQnl0ajE4ZENkZWtBVzhUcDTSAXhBVV95cUxOeEdVRHRiOWRXUDRra3ZyS2cwZlVVWFVUblVhWG1IUGsxZ216SWEwUXBxcGlJR0UxMkpxbEZHd3NpTUJTbWxJSnRLU3M0MTVCRjBvejhyV1YwSUNfQmhPU0FXVkh4c2JkVXB3aFFzRVBYZWM1NFN0M0g?oc=5"
-        }
-      ],
-      "region": "Internacional",
-      "cultureView": "noticias"
-    },
-    {
       "id": "cultura|https://www.theguardian.com/stage/2026/nov/04/emperor-nero-steven-sater-duncan-sheik-spring-awakening-jfk",
       "section": "cultura",
       "category": "Stage EN",
@@ -8563,13 +8559,31 @@
   "breaking": {
     "espana": [
       {
-        "title": "Casper Ruud - Carlos Alcaraz en directo | Comienza el primer set de la semifinal",
-        "publishedAt": "2026-11-07 16:57 UTC",
+        "title": "Casper Ruud - Carlos Alcaraz en directo | Alcaraz se adjudica el primer set de la semifinal",
+        "publishedAt": "2026-11-07 17:39 UTC",
         "source": "El País",
         "url": "https://elpais.com/deportes/tenis/2026-11-07/casper-ruud-carlos-alcaraz-en-directo-las-semifinales-del-masters-de-paris-en-vivo.html"
       },
       {
-        "title": "Al menos cinco muertos y más de 10 heridos en un atentado en la plaza mayor de Cracovia",
+        "title": "Marc Márquez gana la 'sprint race' y tendrá bola de partido este domingo en Qatar",
+        "publishedAt": "2026-11-07 17:23 UTC",
+        "source": "El Mundo",
+        "url": "https://www.elmundo.es/deportes/motociclismo/2026/11/07/6aef478afdddff1e3e8b4574.html"
+      },
+      {
+        "title": "EEUU anuncia la operación Puerta de Hierro para bloquear también el comercio terrestre de Irán",
+        "publishedAt": "2026-11-07 17:20 UTC",
+        "source": "Europa Press",
+        "url": "https://www.europapress.es/internacional/noticia-eeuu-anuncia-operacion-puerta-hierro-bloquear-tambien-comercio-terrestre-iran-20261107182055.html"
+      },
+      {
+        "title": "León XIV llama a los fieles uruguayos a \"construir puentes\" y transmitir \"la alegría de la fe\"",
+        "publishedAt": "2026-11-07 16:56 UTC",
+        "source": "El Mundo",
+        "url": "https://www.elmundo.es/internacional/2026/11/07/6aef5657e9cf4afd3b8b459b.html"
+      },
+      {
+        "title": "Al menos seis muertos y una quincena de heridos en un atentado en la plaza mayor de Cracovia",
         "publishedAt": "2026-11-07 16:44 UTC",
         "source": "El País",
         "url": "https://elpais.com/internacional/2026-11-07/varios-muertos-y-heridos-en-un-atentado-en-la-plaza-mayor-de-cracovia.html"
@@ -8587,7 +8601,7 @@
         "url": "https://www.elmundo.es/espana/2026/11/07/6aef1a9efc6c83a47c8b4575.html"
       },
       {
-        "title": "‘La revuelta’ cancela la presencia de su público previsto para la entrevista con Santiago Abascal: “Se va a grabar en condiciones distintas”",
+        "title": "‘La revuelta’ cancela la presencia de su público previsto para la entrevista con Santiago Abascal, según personas invitadas al programa",
         "publishedAt": "2026-11-07 16:06 UTC",
         "source": "El País",
         "url": "https://elpais.com/television/2026-11-07/la-revuelta-cancela-la-presencia-de-su-publico-previsto-para-la-entrevista-con-santiago-abascal-se-va-a-grabar-en-condiciones-distintas.html"
@@ -8599,43 +8613,55 @@
         "url": "https://elpais.com/espana/2026-11-07/el-hierro-pide-mas-ayuda-al-estado-ante-la-llegada-de-mas-cayucos-a-canarias.html"
       },
       {
-        "title": "Garriga (Vox) acusa al PSOE de gastarse en \"mordidas\" el dinero de las mejoras ferroviarias",
-        "publishedAt": "2026-11-07 15:56 UTC",
-        "source": "Europa Press",
-        "url": "https://www.europapress.es/catalunya/noticia-garriga-vox-acusa-psoe-gastarse-mordidas-dinero-mejoras-ferroviarias-20261107165627.html"
+        "title": "'Viva Carmen', la más brillante (y feminista) lectura de la ópera de Bizet desde la animación",
+        "publishedAt": "2026-11-07 15:50 UTC",
+        "source": "El Mundo",
+        "url": "https://www.elmundo.es/cultura/cine/2026/11/07/6aef3da3e9cf4aad398b456d.html"
       },
       {
-        "title": "Al menos cinco muertos y una decena de heridos tras un tiroteo en Cracovia",
+        "title": "Al menos seis muertos y 15 heridos tras un tiroteo en Cracovia",
         "publishedAt": "2026-11-07 15:47 UTC",
         "source": "El Mundo",
         "url": "https://www.elmundo.es/internacional/2026/11/07/6aef4327fdddff200a8b4573.html"
       },
       {
-        "title": "Al menos 5 muertos y una docena de heridos en un tiroteo en Cracovia: la policía investiga \"las circunstancias del atentado\" - El Español",
-        "publishedAt": "2026-11-07 15:23 UTC",
-        "source": "El Español",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOVQyVFQxbnVzXzgxbkpSanJvaFdvUmstNG85SlYzTTZvWHk0SWdOazN5bV9XN09NVk80c3dVakJNQTJHd0xZeUdvQlNHbGsxeHFKa1cxWnpmZ1VoM2pLRTJNX2lvQXAyRWloQUpaZVlfRTY1TEJEZlJiYkRKQ0ZlWXpCYWNUSnJCaXgzNl9HemFwakFFb3NEeUUySDVSXy05VHNWS3JDNGtiT1oxV2FvR3h2ZmVMWEZ2X0hyRzg4Qmluc0RQakZJaXluSUM4dkU1REtSTWllWWNYcHfSAeABQVVfeXFMTV9QV2hTNHpQZkZlQmFkNHBrUkM1QjYwXy01MnNJT2ZUM1FHajlzV19INkdUN3RuZFpVek51VDRtV0JTdWJZaEF1MkdGaS1DaEFzYWlBNWZITGJwQk5JWXk1RFZRU1ZjZWdRZ09scEx6WGNRX1BtVmNtdDZqSmlnQzFqZG5lakRXNlNYODJRTEVvdGFyWWZ5NzJ2S2ktSkVJTUpEcHNWb3FIVmZBaDJGandlWGNvSjZKdzh2aXZwUDExc2hmcGJab2hXWkhUcmo0em92OGpJV2wxYmhxcG84UTM?oc=5"
-      },
-      {
-        "title": "Los chalecos amarillos desafían al Gobierno francés con actos de desobediencia civil: \"Queremos recuperar nuestro poder para vivir con dignidad y libertad\"",
-        "publishedAt": "2026-11-07 14:30 UTC",
-        "source": "El Mundo",
-        "url": "https://www.elmundo.es/internacional/2026/11/07/6aef2ff821efa02e0e8b45a1.html"
-      },
-      {
-        "title": "Cine en casa por menos de 30 euros: este proyector con Android pocas veces ha estado tan barato - La Razón",
-        "publishedAt": "2026-11-07 14:30 UTC",
-        "source": "La Razón",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMzNQZEFPZGFBNnJaeExOeTNfUGhuTEFJNFQ1dm1jZG5jMXc4SUxidmlmSDVEVEIyOWZuZHc0dUdYejlaOVNEMy04akNNQ0NtVnQ4ZlBleVBrVkhQRnBTU0ZnNGJDQ0sxeW5aWGV1bzhGLTdSanBSM0ZNcUhuWTFDT19uc09FQVJWNm44eU5hdWdqbzJkbGUxVDVlcFFFQTF1OFNLbkFrV3BxT1NsRGZ1Rllhamoxa1h4OGczVmlSQ0g4WU04RlRPVkpVRHNhd3Y0UFZDd2J5QjZHQkJWTk1DN091TUJJc1hReVlyMWFwVE1ialozSGfSAYoCQVVfeXFMTU5lbUtvMlJPei1NblJ3bEVFNGNXQ3JkS0pUM0VyeFE4N0wyT01qZnFEbk9XNUZkS2o0V0lVNHk3aXN1R3MxWVpOajJsNC0wLXJwcV9EZjFEUUNEWmZuSlVOZ0RFU3lIVzJoaWhRWkV3YnlmNVViQTFEbGJOSUlScjV3X2pWWWdZS0VZUlp6ekRqczRmbjUyNWVDM1ZxaVlmTHBoUVZJdUtPU3dKVjRrQlIzaE9hU25BXzM2bmxOd1NxaWdvdW1yMXdObTF2dWxMVTQwMWNJNDdZR2RpT0MtQXdZNUlUcVZ3dTROS2tNNG9SRTFzV1QxbU1oX185UFRORk5nYmF6OTdKMXc?oc=5"
-      },
-      {
-        "title": "Colau promete que Frente Amplio expropiará a los \"fondos buitre\" de vivienda",
-        "publishedAt": "2026-11-07 14:14 UTC",
+        "title": "Al menos cinco muertos y varios heridos en un ataque con arma de fuego en el centro de Cracovia",
+        "publishedAt": "2026-11-07 15:34 UTC",
         "source": "Europa Press",
-        "url": "https://www.europapress.es/catalunya/noticia-29n-colau-promete-frente-amplio-expropiara-fondos-buitre-vivienda-20261107151424.html"
+        "url": "https://www.europapress.es/internacional/noticia-menos-cinco-muertos-varios-heridos-ataque-arma-fuego-centro-cracovia-20261107163421.html"
       }
     ],
     "mundo": [
+      {
+        "title": "What Renée Geyer taught soul protégé Ella Thompson about authenticity",
+        "publishedAt": "2026-11-07 17:30 UTC",
+        "source": "ABC Australia",
+        "url": "https://www.abc.net.au/news/2026-11-08/ella-thompson-triumph-and-sadness-album-soul-music-renee-geyer/107350826"
+      },
+      {
+        "title": "ABC Wordage quiz: It's time to get to work",
+        "publishedAt": "2026-11-07 17:30 UTC",
+        "source": "ABC Australia",
+        "url": "https://www.abc.net.au/news/2026-11-08/abc-wordage-quiz-work/107328912"
+      },
+      {
+        "title": "Six dead after gunman opens fire ‘at random’ in Kraków market square",
+        "publishedAt": "2026-11-07 17:17 UTC",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman"
+      },
+      {
+        "title": "Ousted Paraguayan president appears before prosecutors",
+        "publishedAt": "2026-11-07 17:14 UTC",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse"
+      },
+      {
+        "title": "Kraków shooting latest updates: six killed and more than a dozen injured, police say",
+        "publishedAt": "2026-11-07 17:11 UTC",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates"
+      },
       {
         "title": "Italian foreign minister says hackers leaked his personal data",
         "publishedAt": "2026-11-07 16:50 UTC",
@@ -8643,28 +8669,22 @@
         "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Kraków shooting latest updates: five killed and more than a dozen injured, police say",
-        "publishedAt": "2026-11-07 16:36 UTC",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates"
-      },
-      {
-        "title": "Breaking: At least five killed in shooting in Krakow",
+        "title": "Breaking: At least five killed in shooting at Krakow's main square",
         "publishedAt": "2026-11-07 16:35 UTC",
         "source": "ABC Australia",
         "url": "https://www.abc.net.au/news/2026-11-08/five-killed-in-krakow/107360360"
-      },
-      {
-        "title": "EXCLUSIVE: Expanding on naval blockade, US military looks to restrict Iranian land commerce - Reuters",
-        "publishedAt": "2026-11-07 16:09 UTC",
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGRyZ1FFOWdNalpDbFdEeHZqc1JMNVVkekpWT3NULUU4N0hXTkN3MTQ5dlNSWjdhaUVCWlVUQVdhbkZrOEdDZ2FlNS1qOENqVnhOWGNYcmgtSU8xN3pHUjIzdDZ5akJZNzhnR3g4U0w5NjR1NUNka204MWRxak1WN056VUQ1MEhpNnpnaWVGSF90RlBMaTBWY1R5NFJDa3Q0SE1rMDhUUHRJZ01EMDJHdkhqMTY5aFU5TGd6WTNsekRoQkcyUkE?oc=5"
       },
       {
         "title": "Five killed in shooting in main square of Polish city of Krakow, police say - Reuters",
         "publishedAt": "2026-11-07 16:03 UTC",
         "source": "Reuters",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTFhVC1uNVB5TFlvcHRtb2h6RmJPdjY0SDZjdWRJSUw0RlVLUUtnbkFlNGtZRlczbE5RU1U0NEhIRG9Ya3ZmNVlRb243YWQ5OTNkNThoaG1ZYUxONkZsaDJTeTctek9yX3hidk5lVU9qRUJidG5PNkczQVhKcEJKMG5nZzdGSVhUZUJ0S3RwWFJqbmVzSFU5YmE3dDgtRllhUVpDNkxxdnN6Q21MQ1A1cjFPNjc4cUdx?oc=5"
+      },
+      {
+        "title": "Zelenskiy criticises Ukraine's SBU security service over corruption scandal - Reuters",
+        "publishedAt": "2026-11-07 15:59 UTC",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSXpPV24wYmo0V1FlNXdBMEdMZTdlSmwwQVcyZFNxSGVBX1VBVFVFSEVVUlk4SEphTXU0UDFYbk5fN0ZlSXliR3lMeGEyT005WWE1UmMxTDA0ZlF6bzJlUC1BQXZmYjk1RjEzaVNfdkUtQ08zay1Sd0N3Ri15RlhrZU1ma0Q5bXV0MU9JTXUxS3F0TnVLRmNvLU1US3g0YzRfV25sYV9sSFRLd2FfU2FYV2VwamlaZEFRcW9BYk1MN18?oc=5"
       },
       {
         "title": "No clear winner after tight New Zealand general election",
@@ -8683,33 +8703,21 @@
         "publishedAt": "2026-11-07 15:04 UTC",
         "source": "ABC Australia",
         "url": "https://www.abc.net.au/news/2026-11-08/who-gives-a-crap-hack/107359858"
-      },
-      {
-        "title": "New Zealand may not know its government for weeks — key takeaways",
-        "publishedAt": "2026-11-07 14:36 UTC",
-        "source": "ABC Australia",
-        "url": "https://www.abc.net.au/news/2026-11-08/new-zealand-election-results-key-takeaways/107359778"
-      },
-      {
-        "title": "New Zealand faces weeks of uncertainty with election ‘too close to call’",
-        "publishedAt": "2026-11-07 13:48 UTC",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count"
-      },
-      {
-        "title": "New Zealand election coalition talks will likely take weeks – as it happened",
-        "publishedAt": "2026-11-07 13:12 UTC",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls"
-      },
-      {
-        "title": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
-        "publishedAt": "2026-11-07 13:03 UTC",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid"
       }
     ],
     "cultura": [
+      {
+        "title": "Queens of the Stone Age / Perfecth - Jenesaispop",
+        "publishedAt": "2026-11-07 16:00 UTC",
+        "source": "Jenesaispop",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTGpqX0lrOHJNSFVOOE9pbTlpZjNSNmhZOXR0WDhOa1J1SEozdndXNzVzN3dsc1hWVlMwMDFvYVpMN256Sm00d014cExISld6VmoyVkJ2QXdtdkVlWkJ2YW5rd0VkU0hJSlFYS0c1aFRnX3pWTkZ0SlRZb0YyeDd4dtIBhgFBVV95cUxPaW84WnRZdkhweEpOWERCU205Y0FldXMyTEVRZk1XWmhZWkwxZDllZ1ByRXJmTGNESXpWbEJNT3NYRU9KdVVEaE5LamtYRTYzOUR5MnhIWS1EUFRxSzRwYVdkWTlPNTNWRlFvQWctbVBhWmJ3eEFHNWhSeDF1WGhjdHNNbExfQQ?oc=5"
+      },
+      {
+        "title": "Muere el director chileno Sebastián Lelio, ganador del Oscar - Jenesaispop",
+        "publishedAt": "2026-11-07 14:29 UTC",
+        "source": "Jenesaispop",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUX2FXYThVNVNvRUtsNU1lVkpuRHU3c0pIMlRBZzFiOGI3RFdQdFVyRTB0aWxUN01OdUxzemxCX2VCSGhETVB4aXlCMmRnX3dfYkYyS1B0aWpPMktlSmlnbFlPaUFsSDZfZ2lqcXhpY3lSd9IBd0FVX3lxTE53RDBFWnVyUS1NQUlmeHpCNV85ZTBscGpJaVRpMk5BajdmY2tiRWpURVBac1BVb0ROaXJkTExoWEszT2lsb0REdHE3enZhMTVtUk5vQ2Z5VkRLNW94V1pwd0h0aDhmWUs0d3NibVBmaG1QejRtSTZZ?oc=5"
+      },
       {
         "title": "Amy Winehouse inspired me to quit a soul-crushing job",
         "publishedAt": "2026-11-07 12:00 UTC",
@@ -8721,6 +8729,12 @@
         "publishedAt": "2026-11-07 12:00 UTC",
         "source": "Film EN",
         "url": "https://www.theguardian.com/film/2026/nov/07/michelle-yeoh-interview-blade-runner-2099-everything-everywhere-oscar"
+      },
+      {
+        "title": "Oro Viejo by DJ Nano: fiesta de Navidad en Madrid 2026 - Guía del Ocio",
+        "publishedAt": "2026-11-07 10:27 UTC",
+        "source": "Música ES",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZURfMTB1WEVDb3gzVjVwQkUzVkplWHF1RTF5cy1BWm53bEplZmJ0c2g3QzZOTEpfZTZxaGZGUXRJb3BTNmN4a0R0YVJEMVVsX2tROGN5dXEzaUZaX0tzeG1YS1ltWkpaMmdGeDlTVVU2X3RtUTllaFctellkeTI2RXBJbXViMy1wX0Q3TzVqaFVlVUlISW5idlg2OGdlcHFNWU9WVnQ3UHlqLWZVdGFuS2ZJNA?oc=5"
       },
       {
         "title": "Hostia Pedagógica - MondoSonoro",
@@ -8763,21 +8777,9 @@
         "publishedAt": "2026-11-06 19:46 UTC",
         "source": "Music EN",
         "url": "https://www.theguardian.com/music/2026/nov/06/macklemore-arenas-free-palestine-tour"
-      },
-      {
-        "title": "Sebastián Lelio, director of A Fantastic Woman and Gloria, dies aged 52",
-        "publishedAt": "2026-11-06 19:23 UTC",
-        "source": "Film EN",
-        "url": "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-director-dies"
       }
     ],
     "television": [
-      {
-        "title": "Puebla vs Atl. San Luis: dónde ver, 20 de noviembre - FormulaTV",
-        "publishedAt": "2026-11-07 14:44 UTC",
-        "source": "FormulaTV",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZURSZ3Rhc1cwRGk4Qy1URm9reXN4YUJGaGY1Tm1KbkVwX1JuaE5VSTJqNGlZelZ0eWlHb3JoS2N4QlA2bHNheHQwVEZWOFlYWGpCQXVxSnR2WEtHZWo2VU5wN0hGZG9YWXJBS0tudUp1VkwydHhQQi1pcDdTQXVReWVNenJONjdSZWxGVEFUa1cwclZzNnc?oc=5"
-      },
       {
         "title": "Karmele responde a la indirecta de Jorge Javier tras hacerse oficial su fichaje por 'GH VIP': \"Ha saltado la polémica\"",
         "publishedAt": "2026-11-07 14:34 UTC",
@@ -8843,14 +8845,32 @@
         "publishedAt": "2026-11-07 01:36 UTC",
         "source": "Variety TV",
         "url": "https://variety.com/2026/tv/news/remarried-empress-disney-hulu-biggest-local-premiere-ever-1236941857/"
+      },
+      {
+        "title": "Alien Cat Sent to Conquer Earth Goes Soft for Catnip and Canned Tuna in Taiwan Creative Content Fest Animated Series ‘Operation Maomao’",
+        "publishedAt": "2026-11-06 23:33 UTC",
+        "source": "Variety TV",
+        "url": "https://variety.com/2026/tv/markets-festivals/alien-cat-comedy-operation-maomao-taiwan-creative-content-fest-1236941796/"
       }
     ],
     "tecnologia": [
       {
-        "title": "Si de pequeño tenías el pelo rubio y ahora lo tienes oscuro, hay una explicación detrás - Xataka",
-        "publishedAt": "2026-11-07 14:31 UTC",
+        "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+        "publishedAt": "2026-11-07 17:24 UTC",
+        "source": "TechCrunch EN",
+        "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/"
+      },
+      {
+        "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
+        "publishedAt": "2026-11-07 17:18 UTC",
+        "source": "TechCrunch EN",
+        "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/"
+      },
+      {
+        "title": "EEUU ha mirado por satélite una fábrica china y ha encontrado algo que no le gusta: cuatro aviones para cambiar la guerra aérea en el Pacífico - Xataka",
+        "publishedAt": "2026-11-07 16:01 UTC",
         "source": "Xataka",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTmc2dVk5UHY5cWdCdG9aNlZhQVFlM04zMWRYdVBRdXRPME5KaVhtbGxPOXhNTGtUbXpFRWIwY0cxTDV2SmdIWnotVW9qVkgzUEN2UmpvMkU1VWlCekF4S2lkaWdNZjRSTkI1QTF2VDhGVU4zSWR5QnktaHFNelZwZHJQWC1QUC0yQUp5TGFONHQwSE5ienZ0V1ZqV0NtZ0tpQWhEbGFtcnRuQnlB0gGyAUFVX3lxTE03RERQb3c1R0VQdUgyUDkydkZIVEpCQUhheUlqYkZFaHU3TG1XN3hWeUx4QTJ3a1FkTXRwSk5TU043Qkl0eGVvSUo5QVg2R3ZFSmZfZzdRODFsSjVEeGtES3hnMEVNRDhSS0NidFNLcXZaXzJlQzJzMFdSbnd2Vy1kU2RNMUpwTlJYc0ZWQ1hBTm10VjYtM0drWWN2bmNVc0hGUjBCS1R5UnVMdTdqTmU5aHc?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRW5nZ0hVRGJoX2drYWF1MkZuTjVwbTlzQ25yMFFwdklSUnk4QVlXRFVTak1GclJQeW12dlNqRTlKMzVyYldqa2NCZ0xBZ3htY3ZZLXctS3RlWTEwM0tWa0JEdzY1UUQtNVN1MlZLeVFXN3N5Y2FjTkUxa0FBSUZaQ0g0UTZjUmpUOTJGTDFMQUVpUEF3eHNjZ3hpNktVMHdzNkNoMkhhRXhzT0J6bjREZkRvMkd1WmZrNHE3MDROdXRUNFh1ZzhBUERmckNnZHFZcGRaa0JZU1ZydTQycFM0RGQxYWt0RWfSAewBQVVfeXFMT0ZpUXduVUQ3VVdLZUxNQUJlZ2hXR0oxNEk3Zk16TDZXcVZFSnB2R0RIVnl2Um1MUlJmb0JGUjFGWkxMdGx5c0JrRUlRN3pHZ280YlByOEM0eXNCT2RfNEJQdUhueDNqT0R3My1id0ZZMEluWElwZlZZaHZXanZEaG1iZjFNMkRfNlg1eTVQcGJRdnlGaEF3ZU5jTjNIZV82MGlUVkRhdXIxREUzOHkwUnk5dG9DMDRNQnZ3cUprUkZ3Ri1RdS01eTRMNWdvUXV3cHIwMlMxX1FGckNYY2VHZjhCQkR3TlNlQUtjYkM?oc=5"
       },
       {
         "title": "Standing in the way of slop bowls: the woman blocking food delivery robots",
@@ -8863,12 +8883,6 @@
         "publishedAt": "2026-11-07 13:31 UTC",
         "source": "Xataka",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU1hPMDhrMzJpb3JHb1gyelR1VW1sbkhWN29VY05BU3A1TEhNa3FYcW1TaXZtaWhKX1RnSmw4TU1hTzlsZVNKZEY1TTFzRU05MTZmMmhzazdDTGF3UXdoOWVDWW41RTRqeFFjZXgzc2JxWk1oUGJiXzFucU0zV0UwbUI3YWNMcDZfMWZPTVpfekI3ZlFQMUtJSkl1Q3Z0ZXV4YmFOUERvNUhXWUx0QU9XLThTVXJHNl9QNjVrRV9KUkdydnfSAcgBQVVfeXFMTmpFdElMVV83cUQ3U2hXczA0dEtuV2FwRTc2a2M4ZFNpMnRsc0hzMl81LXQ1enpfcFFDTXRZdU1WTEhEOFdQczcyYUlPNGhfM1p2ZVhZdXZUdUNPWEgyYy1YRllUMkNIcGxIcXEyMTRaSmlXMHIyMGdvZm1LOHpQbGNIX2hndkdURm9qQUJSbEd0R3hGcmZHeVp3X0d1dFh4NGVuYUdwLU9tTS10dHAxWmZhNmZQRFpFS0FsUVdXRG1IdzhRN0JUOFc?oc=5"
-      },
-      {
-        "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call - WIRED",
-        "publishedAt": "2026-11-07 13:00 UTC",
-        "source": "Wired",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOekRURVpneWNySTZ1ZU1aalFteU55M19xYzZwVFozNmdVbnZydmpuTjhqanIwTTlmTktESUtmOWZYaGNYQnMwV2x5TWVMdHhfNGZ4OUpER3ZOZUdXWUJ5cnE5czV4QWVyRHFfTUdYWThBaGU4a0RkVFplblkxWW5BcXNkZTdjNkU?oc=5"
       },
       {
         "title": "Gotta buy ’em all: how Pokémon card collecting became race against scalpers",
@@ -8911,18 +8925,12 @@
         "publishedAt": "2026-11-07 09:00 UTC",
         "source": "Tech EN",
         "url": "https://www.theguardian.com/technology/2026/nov/07/tiktok-sex-industry-girls-onlyfans"
-      },
-      {
-        "title": "Can AI really save you money on your heating bill? I spent two years testing to find out",
-        "publishedAt": "2026-11-07 07:00 UTC",
-        "source": "Tech EN",
-        "url": "https://www.theguardian.com/money/2026/nov/07/can-ai-save-you-money-heating-bill"
       }
     ],
     "estilo": [
       {
         "title": "Zinedine Zidane subasta el reloj Cartier que compró con su primer sueldo como futbolista - Esquire",
-        "publishedAt": "2026-11-07 14:15 UTC",
+        "publishedAt": "2026-11-07 14:25 UTC",
         "source": "Esquire España",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORHV3YTdTMjhUWWZUaE5oVkVuMU0tenVIWU4yRkczOGpTNVJSZmpvRzNBVUx4eEhkYzZYNzdndHUyb3BoQWdFbzFlaHIxZ3pRMlVfNlhXQTNkQWs1ejNab256bE5zLWtldjlkeTZDaENac1J2VEp3QW15TXdwbnNIQkkwMmdQRDZUdm55S244aTE?oc=5"
       },
@@ -9001,12 +9009,6 @@
         "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOczFnRUIxZmdvN2ZYbmpmX0FFaU9sb0NMeFNpN1JJRm5SR2s1SGFpckQ4VWZEa1BNRHdLQnV2SzBjVWZxeVNveklUT2NRLVJJMWRBWFA4VTNIUmIxUHQxZHktYmZybjV2aXdmU3JUSGtaLXFfWmVxT2o0LXhmU2ZzcmlBNWdrTHgzZUUxN3FuaE5nVXNFQkNsVkRjN0NudUVZWnBjNkJmNTRCV3cwNEsxQzVfTTVZcXp6emZPZDVSWmxTT3Aya21MUVRURUFoY1VfcG42Q3Z4bnVrLUF2cEVxV1dTUWJUMHVRTG5DZ0I3ajROaXBz?oc=5"
       },
       {
-        "title": "La Comunidad de Madrid programa este otoño teatro, danza, ópera, flamenco y música en 73 municipios a través de la Red de Teatros - Comunidad de Madrid |",
-        "publishedAt": "2026-11-07 08:57 UTC",
-        "source": "Madrid POP",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcl83UTJHS0hEZVRLZWVhRmM5R21fcjRxYzE2RHdmZTZTVGpPaDJNazhQaHoyUndReHFlN08tMGdsbUs3Mk5NMnUyLWlsMzg0SG9yaTJ4YVZXMzZKemw1TVpnWVVXV1JKS2dUbHpTUTF2Q1RvcDFVdjV6Y1k0NXVZOFl3dFV6amEwYkFQWE43VHZneUdrYmtRUDdGR3Atc2FUTzRmTGZBeTl6LWJnLWF4ZVp5dndKOVAySVV1M0lqdlViYWpaaElrTjFkVjl3UkJDMzhHSFJPZHRfdjdMZHptUWVNcU5mLTVO?oc=5"
-      },
-      {
         "title": "Festival Cine por Mujeres Madrid: Rebecca Horn - The Secret Life of Things - Museo Nacional Thyssen-Bornemisza",
         "publishedAt": "2026-11-07 08:03 UTC",
         "source": "Museo Thyssen",
@@ -9045,6 +9047,18 @@
     ],
     "viral": [
       {
+        "title": "VIDEO: ¡Abrieron la puerta y tenían un oso en la sala! El inesperado visitante que aterrorizó a una familia - https://www.aztecamichoacan.com/",
+        "publishedAt": "2026-11-07 17:14 UTC",
+        "source": "Viral ES",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPc1FfUkE5N2E3cWc0Smp6ZlFGU3Y4djd4YzJ3b0xIQUV1bW1oRUFTbllhaHY4QlM3akNjb1pNelhaUWVWYzA2alFNendtbWlQSWp1Y0hKbTVFanBpSVh6UldWb25kWmFtOFl5Z1JjQjB1OVZ4YmRFWWQ0SzZwOEJ0V1FObnZsVXI4eTUtRVNHeGM1R294UDBDbG5Ua3lub0MzNE5TX3c1NkZaV2Y2ZDdCMFUtcWdCdS1vVUk5YjFMMWM2eTAxTXRFZW5XOENESzljeGJ2ZG0zOC1UMy12Q1QzNEdGM2JJVDgtb3Q4?oc=5"
+      },
+      {
+        "title": "VIDEO: Dos jóvenes habrían intentado patear la cabeza de un hombre en situación de calle mientras dormía - https://www.aztecamichoacan.com/",
+        "publishedAt": "2026-11-07 16:42 UTC",
+        "source": "Viral ES",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWWV5ZDA5NFdHZU5tc0hHUmhGSGJ4SWlORE9ldWRUV0xxclQ0S3h0TUVSUGtNREVELWx4WjUxVDdKUFljVHBTUVdSb1hvd05CMmh2UEZpYUxPalBOQklxbDJXZWdYaU5LTHRlUTNNdzQwaDJEX3BMbFBaMU10TEF5c1hvYlBzbTlIVzVSR3JkQml1cHdjNXcwNTZIaENyYmhlS2NlaDJySm81Ync3YzU3aVIySmdYa2ZSdHJiZTZDdXhvU053ZVhEU29qX1VWRlRYdnZNd2o5MUxfZDM1VFRIT0xWZ0k0ZHVKdVE?oc=5"
+      },
+      {
         "title": "VIDEO: Llevaban un cachorro de león africano por las calles; tres jóvenes no pudieron acreditar su procedencia legal - www.aztecamichoacan.com",
         "publishedAt": "2026-11-07 16:33 UTC",
         "source": "Viral ES",
@@ -9075,16 +9089,10 @@
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdnlUMkc5Z0doZ1N2dGNibjFRb2d3ZHFaT2ZuNjgwZ3ZqN0Nla2l3cnVIRzNKY192OUNuQUVrdGpVelFfdV9yeE4tTi1jZmJKQjRqQkFKUVpiRkRnQ0dIelB4WFU4Q3FpU29BWS03SnZxbTZ6YURta1VuekRjdVJOLTBPSGxxa3Rl0gGIAUFVX3lxTE00TzJVZ1YtaHliWVhmM0dBdi1EWmo5eklrNmhZdHh4UE1kOXRsQk5VNDd4OE9HWmtqaWFSdU1xNE5iZEhmd0YwOGN0eUJHVkZXQ2k0blNFTkN0SFJIWEZ1M1I3TGdsdUpJM0lHRUVraVdZQ2lpYWtnbGpVbGk4THI4dHVqT0E0TWk?oc=5"
       },
       {
-        "title": "TikTok accused of helping to promote sex industry to girls - The Guardian",
-        "publishedAt": "2026-11-07 09:02 UTC",
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZW1nYV82SDB5Sk1NajZ4NmVvUHFkbHJxZUFob1NKcUY2Q254dS1xVDdqa2hnWnZ0alpoWklzQjZYNEpTeElXU2pkdnhENTNza01qR0pkRkR4ektJV0N4WjNyTW4wQUh3RjdlUlRCNU16cFRqTnhvWVY1d3dVUy14SFNNNXF2YloyaWFHZ1RR?oc=5"
-      },
-      {
         "title": "Watch VIRAL Video: Rs 40,000 For A Pillow? Indian CA’s Japan Purchase Goes Viral, Her Surprising Reason Has Internet Talking - The Sunday Guardian",
         "publishedAt": "2026-11-07 07:11 UTC",
         "source": "Viral EN",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaDVWeUsxakwzby0yRkRIZ3lydF9RRWJvQ2d0ODJQaEdRTlFMNzZ2MlMyYTQwT1NjOVFMY3NUR25nQXZjQTZBZVpOOUotZXhYdzBzVks0aWllT1Z3YWFIcjY0bUt2NkswSTZTXzhOQlRKYVpLVU80Z1VhaFNTMXNRYzhseW1mWGliTk9IX0VKRVZNMHZaTENzbWFtYkgxOGRKaHh3QVhQbVZ5LXY1QjJib1U3enBnVVM1R242aXB5MHJrM05Ga1FJOXc3bE9jRXh1dlRZclZnenROcEFwcTQzU0N4SU1yeHhfaGJSUlE3YzlTbVhWbG10S1RGa9IBgAJBVV95cUxQLTM2NG5UbUNQcUdrNkZJcF9qclI5VWh4NUNWZDVEOEdSLTNQUDFld0hJYUVfTktENHhKWWlzNmdnTjZxQjFabVZCZTh5M3A4U0tWM3JQZjJXSnVCR3JQakFaUW52WGEza2oxZ3NBMUM2eHlGS3NyeGJaQUVNaUZ0bGtqSDB5VldncUFBcEtBVkktS0ZqN2lWcWNfMVVWLUMtc29RdEdYTV9GZkxnUF9SX2RYcW9QZXNCdDlFOHdkb2VLMTczM3c1MkJWWWtBOTNhYi1LWTQ0RzdvMkVjWlM5d1VzVTBRdHU4SUlHanp0NkRWX3gweGdUY1RJdDhQVlc4?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQLTM2NG5UbUNQcUdrNkZJcF9qclI5VWh4NUNWZDVEOEdSLTNQUDFld0hJYUVfTktENHhKWWlzNmdnTjZxQjFabVZCZTh5M3A4U0tWM3JQZjJXSnVCR3JQakFaUW52WGEza2oxZ3NBMUM2eHlGS3NyeGJaQUVNaUZ0bGtqSDB5VldncUFBcEtBVkktS0ZqN2lWcWNfMVVWLUMtc29RdEdYTV9GZkxnUF9SX2RYcW9QZXNCdDlFOHdkb2VLMTczM3c1MkJWWWtBOTNhYi1LWTQ0RzdvMkVjWlM5d1VzVTBRdHU4SUlHanp0NkRWX3gweGdUY1RJdDhQVlc40gGAAkFVX3lxTFAtMzY0blRtQ1BxR2s2RklwX2pyUjlVaHg1Q1ZkNUQ4R1ItM1BQMWV3SElhRV9OS0Q0eEpZaXM2Z2dONnFCMVptVkJlOHkzcDhTS1YzclBmMldKdUJHclBqQVpRbnZYYTNrajFnc0ExQzZ4eUZLc3J4YlpBRU1pRnRsa2pIMHlWV2dxQUFwS0FWSS1LRmo3aVZxY18xVVYtQy1zb1F0R1hNX0ZmTGdQX1JfZFhxb1Blc0J0OUU4d2RvZUsxNzMzdzUyQlZZa0E5M2FiLUtZNDRHN28yRWNaUzl3VXNVMFF0dThJSUdqenQ2RFZfeDB4Z1RjVEl0OFBWVzg?oc=5"
       },
       {
         "title": "4 capítulos para ver en 20 minutos: así es la serie de terror que nació en las redes sociales - 20Minutos",
@@ -9109,12 +9117,6 @@
         "publishedAt": "2026-11-06 23:05 UTC",
         "source": "Viral ES",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQjFHdHJ4dnE5cFZFUW9sY0N0OXJfTW1jOGFjb1hoX3Boa3Ftb3laVEJnMzJ4YXB4RC1SN0ltaU05Q3VPOGNMaVFMSl95NEM5VGI3NnNVekItTTZ4MlhBZG4yamE2TE4tbjIzMmZkTXpVNHgtdXpQUW1uY2NYUkZJRURCcWtHQmw5WUxhQjJIdm4xWjZnRmdhclllYzBGalhVNW0tcldrV1Y3UWxLQUwwMDF5NVRsbTlaX3kzYXphajFvMVhfRVItWk00MmY?oc=5"
-      },
-      {
-        "title": "VIDEO: Un perrito estaba a punto de ser arrastrado por la corriente; tres hombres se metieron a salvarlo - https://www.aztecamichoacan.com/",
-        "publishedAt": "2026-11-06 19:17 UTC",
-        "source": "Viral ES",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ1M2TFI4Y19iZk5Qbi1JUVE4THE2YXVaWWwxWHFJaWRjSFFpTXptSFRVY2FNT0plRkVRczJSUnE0ZGZyd0N5ZW5PSElWeDhwZWRHbUw4T0NGMGRndDhIQ2VCRHVZVEtPSWJjUV9tUmw5OFRmZW96VFF6c0hKd2dYS0VYZW16cFlYZDhRejRXbXBIQlNPYVFYdGEzZlNFaFpCNDd0Q0lvUFNWWk1xTG54cUtkOTQzQlU1T2xXUGNCSEk1WjBBV3dZMW5jd0FDS1M3WDNZRl9yVmpyRWdkRUswX1NUZ053ZGpm?oc=5"
       }
     ]
   }
