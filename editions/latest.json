@@ -1,6 +1,6 @@
 {
-  "edition": "THE DAILY · Mañana · 08/11/2026 06:14",
-  "generatedAt": "2026-11-08T05:14:06.972432+00:00",
+  "edition": "THE DAILY · Mañana · 08/11/2026 07:09",
+  "generatedAt": "2026-11-08T06:09:06.668860+00:00",
   "mode": "rss-excerpts",
   "stories": [
     {
@@ -360,6 +360,24 @@
         {
           "name": "El País",
           "url": "https://elpais.com/espana/madrid/2026-11-08/lideres-durante-38-dias-de-convivencia-utopica-de-la-ciudad-de-sol-hemos-creado-una-sociedad-nueva.html"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://www.abc.net.au/news/2026-11-08/snow-falls-parts-of-nsw-after-strong-cold-front/107361014",
+      "section": "mundo",
+      "category": "ABC Australia",
+      "title": "Snow blankets parts of NSW just weeks away from summer",
+      "summary": "A cold front brought rain and storms, and saw temperatures drop by as much as 10 degrees Celsius in some Sydney suburbs.",
+      "image": "https://live-production.wcms.abc-cdn.net.au/e87dc6a9f668ff0fc6eacad2c4acc046?impolicy=wcms_crop_resize&cropH=1046&cropW=1860&xPos=0&yPos=0&width=862&height=485",
+      "publishedAt": "2026-11-08 05:53 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "ABC Australia",
+          "url": "https://www.abc.net.au/news/2026-11-08/snow-falls-parts-of-nsw-after-strong-cold-front/107361014"
         }
       ]
     },
@@ -886,20 +904,38 @@
       ]
     },
     {
-      "id": "mundo|https://www.abc.net.au/news/2026-11-08/meeting-the-love-of-your-life-at-school-pick-up/107347082",
-      "section": "mundo",
-      "category": "ABC Australia",
-      "title": "'I'm going to marry that guy': Meeting the love of your life at school pick-up",
-      "summary": "Casey Beros was collecting the child of a family she was nannying for when teacher Ryan Gowland popped his head in her car window. They have been inseparable since.",
-      "image": "https://live-production.wcms.abc-cdn.net.au/b4e492bdcc88943bd65ef329d6f7bee2?impolicy=wcms_crop_resize&cropH=1701&cropW=3024&xPos=0&yPos=525&width=862&height=485",
-      "publishedAt": "2026-11-07 23:00 UTC",
+      "id": "television|https://variety.com/2026/tv/news/snl-weekend-update-elon-musk-midterms-election-1236942283/",
+      "section": "television",
+      "category": "Variety TV",
+      "title": "‘SNL’ Weekend Update Brutally Roasts Elon Musk Over ‘Epic’ Midterms Defeat",
+      "summary": "An unhinged “Elon Musk” hit the “Saturday Night Live” Weekend Update desk this week to address the outcome of this week’s midterm elections — and Musk, as played by “SNL” featured player Jeremy Culhane, didn’t quite know how to address it. The real Musk, of course, spent nearly $500 million on Republican candidates, especially in […]",
+      "image": "https://variety.com/wp-content/uploads/2026/11/Screenshot-2026-11-08-at-12.37.27-AM.png",
+      "publishedAt": "2026-11-08 05:57 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "ABC Australia",
-          "url": "https://www.abc.net.au/news/2026-11-08/meeting-the-love-of-your-life-at-school-pick-up/107347082"
+          "name": "Variety TV",
+          "url": "https://variety.com/2026/tv/news/snl-weekend-update-elon-musk-midterms-election-1236942283/"
+        }
+      ]
+    },
+    {
+      "id": "television|https://variety.com/2026/tv/news/snl-druski-whiteface-elizabeth-holmes-nathan-fielder-you-can-see-everything-parody-1236942289/",
+      "section": "television",
+      "category": "Variety TV",
+      "title": "‘SNL’: Druski Dons Whiteface as Elizabeth Holmes in ‘You Can See Everything’ Parody",
+      "summary": "Following a busy cold open that saw Texas Senator-elect James Talarico overshadow Donald Trump and a monologue crashed by his future movie co-star Emma Stone, “SNL” host Druski — who made history as the first digital content creator to preside over the show (who had yet to achieve crossover success, a la Issa Rae and […]",
+      "image": "https://variety.com/wp-content/uploads/2026/11/Screenshot-2026-11-08-at-12.19.32-AM.png",
+      "publishedAt": "2026-11-08 05:29 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Variety TV",
+          "url": "https://variety.com/2026/tv/news/snl-druski-whiteface-elizabeth-holmes-nathan-fielder-you-can-see-everything-parody-1236942289/"
         }
       ]
     },
@@ -907,7 +943,7 @@
       "id": "television|https://variety.com/2026/tv/news/emma-stone-druski-snl-monologue-the-catch-1236942272/",
       "section": "television",
       "category": "Variety TV",
-      "title": "Emma Stone Crashes Druski’s ‘SNL’ Monologue in Hilarious Fashion",
+      "title": "Emma Stone Ambushes Druski’s ‘SNL’ Monologue in Hilarious Fashion",
       "summary": "When Druski was announced as a future host of “Saturday Night Live,” it was its most interesting move in quite some time. The sketch-comedy show had tapped its first exclusively digital creator (who hadn’t experienced crossover success, a la Issa Rae or Quinta Brinson) to serve as its master of ceremonies, marking its first major […]",
       "image": "https://variety.com/wp-content/uploads/2026/11/Screenshot-2026-11-07-at-11.48.59-PM.png",
       "publishedAt": "2026-11-08 05:00 UTC",
@@ -926,7 +962,7 @@
       "section": "television",
       "category": "Variety TV",
       "title": "James Talarico Crashes ‘SNL’ Cold Open: ‘I’m the Guy Who’s Been Texting You Every Day Asking for $5’",
-      "summary": "Newly elected Texas Sen. James Talarico crashed this week’s “Saturday Night Live” cold open — in order to ask the question on everyone’s mind: How many more of these “Donald-Trump-freezes-the-action-to-ramble” cold opens is “SNL” going to do? Responded “Donald Trump” (James Austin Johnson): “Infinity!” Talarico popped up near the end of the cold open to […]",
+      "summary": "Newly elected Texas Sen. James Talarico crashed this week’s “Saturday Night Live” cold open in order to ask the question on everyone’s mind: How many more of these “Donald-Trump-freezes-the-action-to-ramble” cold opens is “SNL” going to do? Responded “Donald Trump” (James Austin Johnson): “Infinity!” Talarico popped up near the end of the cold open to cheers…",
       "image": "https://variety.com/wp-content/uploads/2026/11/Screenshot-2026-11-07-at-11.36.08-PM.png",
       "publishedAt": "2026-11-08 04:53 UTC",
       "language": "en",
@@ -1134,42 +1170,6 @@
         {
           "name": "Variety TV",
           "url": "https://variety.com/2026/tv/news/bill-maher-trump-midterms-loss-real-time-hbo-lindsey-graham-1236941912/"
-        }
-      ]
-    },
-    {
-      "id": "television|https://variety.com/2026/tv/news/fire-country-sheriff-country-crossover-episode-1236941480/",
-      "section": "television",
-      "category": "Variety TV",
-      "title": "‘Fire Country’ and ‘Sheriff Country’ Bosses Break Down the Crossover Episode, ‘Con Air’ Influences and the Potential Romance That Wasn’t on the Page",
-      "summary": "SPOILER ALERT: This post contains spoilers for “Sheriff Country” Season 2, Episode 5, “No Way In” and “Fire Country” Season 5, Episode 5, “No Way Out.” Both series stream on Paramount+. It was all hands on deck for the most recent crossover between CBS procedurals “Sheriff Country” and “Fire Country.” A raging wildfire sent Manny […]",
-      "image": "https://variety.com/wp-content/uploads/2026/11/FireCountrySheriffCountry-crossover-MAIN.jpg",
-      "publishedAt": "2026-11-07 03:00 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Variety TV",
-          "url": "https://variety.com/2026/tv/news/fire-country-sheriff-country-crossover-episode-1236941480/"
-        }
-      ]
-    },
-    {
-      "id": "television|https://variety.com/2026/tv/markets-festivals/suits-japan-swapped-drugs-cash-nbcuniversal-tbs-format-localization-1236941878/",
-      "section": "television",
-      "category": "Variety TV",
-      "title": "Why ‘Suits’ Japan Swapped Drugs for Cash: NBCUniversal, TBS Format Chiefs on Localizing Hits at Taiwan Creative Content Fest",
-      "summary": "In the pilot of “Suits,” the briefcase that springs open during a job interview is full of marijuana, and it stays that way in the show’s Korean and Mongolian remakes. In Japan, the drugs became money, because drugs can’t be shown on Japanese TV, according to Linfield Ng, VP of format sales and production, Asia […]",
-      "image": "https://variety.com/wp-content/uploads/2026/11/TCCF-formats-panel.jpg",
-      "publishedAt": "2026-11-07 02:45 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Variety TV",
-          "url": "https://variety.com/2026/tv/markets-festivals/suits-japan-swapped-drugs-cash-nbcuniversal-tbs-format-localization-1236941878/"
         }
       ]
     },
@@ -1462,42 +1462,6 @@
       ]
     },
     {
-      "id": "mundo|https://news.google.com/rss/articles/CBMiggFBVV95cUxPX1I1N1BFbGNIVVRFanV4NVNwWXd4TTZ1Yk9EZjFrTnRsMUREM3U4UXNucTZKVThkbUYwdTc4bnAzOURNb25oRjBhYVFfQTJrYW9PRU9tOWNZR0tELU9kQnQ1b3pQZlRZM2x6blFJMWxQbUZJU0x4TG1pSUZ5Q0MxZktB0gGWAUFVX3lxTE9ncmlzd29OSXNCY0Z1QzV2VVF6MlJ1SGd0QjJfcC1IcmlpOXh0UmtNUEc2ZERjUkRtQ3FSR0dwMWtxS1VGVHNJVl9nQmtmTXhmTGotbDR0M0JnV3NMWGkzLWcwZUxQYVBibmF6RGZJN0I0RjU4NWlIVVpJWjFPcm5tVEdMSDkzclhjVlduZ24xRW80elRaUQ?oc=5",
-      "section": "mundo",
-      "category": "Noticias internacionales",
-      "title": "El mundo tras la derrota de Trump - EL PAÍS",
-      "summary": "El mundo tras la derrota de Trump EL PAÍS",
-      "image": "",
-      "publishedAt": "2026-11-08 04:30 UTC",
-      "language": "es",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Noticias internacionales",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX1I1N1BFbGNIVVRFanV4NVNwWXd4TTZ1Yk9EZjFrTnRsMUREM3U4UXNucTZKVThkbUYwdTc4bnAzOURNb25oRjBhYVFfQTJrYW9PRU9tOWNZR0tELU9kQnQ1b3pQZlRZM2x6blFJMWxQbUZJU0x4TG1pSUZ5Q0MxZktB0gGWAUFVX3lxTE9ncmlzd29OSXNCY0Z1QzV2VVF6MlJ1SGd0QjJfcC1IcmlpOXh0UmtNUEc2ZERjUkRtQ3FSR0dwMWtxS1VGVHNJVl9nQmtmTXhmTGotbDR0M0JnV3NMWGkzLWcwZUxQYVBibmF6RGZJN0I0RjU4NWlIVVpJWjFPcm5tVEdMSDkzclhjVlduZ24xRW80elRaUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aVWlndXczS0VQYTNZanZVZzlwUHByem5kRC0zZFZNM2ltSi1MX0FCVVNUam1HTXkyaHZpX24yVmRFTHlXRFVSWE5CYnZOYzBENnJDdWYyeGpCSkVu0gFiQVVfeXFMT29sblRwaXh5ZzVpM1JxdWNyMGxjTGFVRFVvYi1BQkZUdkJkRXU5OHhfemlENkRMdGNRYUd2Wl9DR1hrTDU0UUNIT3ZaVFZLR3RETmtmaWRwdVBUTjVoWUp0emc?oc=5",
-      "section": "mundo",
-      "category": "Noticias internacionales",
-      "title": "\"Cuando hablamos del fin del mundo, todos piensan en meteoritos, virus o un supertsunami, pero pocos imaginan un choque ontológico\": Julio Rojas - BBC",
-      "summary": "\"Cuando hablamos del fin del mundo, todos piensan en meteoritos, virus o un supertsunami, pero pocos imaginan un choque ontológico\": Julio Rojas BBC",
-      "image": "",
-      "publishedAt": "2026-11-07 13:11 UTC",
-      "language": "es",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Noticias internacionales",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aVWlndXczS0VQYTNZanZVZzlwUHByem5kRC0zZFZNM2ltSi1MX0FCVVNUam1HTXkyaHZpX24yVmRFTHlXRFVSWE5CYnZOYzBENnJDdWYyeGpCSkVu0gFiQVVfeXFMT29sblRwaXh5ZzVpM1JxdWNyMGxjTGFVRFVvYi1BQkZUdkJkRXU5OHhfemlENkRMdGNRYUd2Wl9DR1hrTDU0UUNIT3ZaVFZLR3RETmtmaWRwdVBUTjVoWUp0emc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "mundo|https://news.google.com/rss/articles/CBMiXEFVX3lxTE03aFozVzZBbW00ZEd4WVMxRWQ3cHpxWUswMnNuRnJ4RWREWFJoeVZ4ZXRqMlNRVFRIcU9saTJMYV8zMDFKZE56WllPQThrR1E0TFY1LWZJQ0lKWU1q0gFiQVVfeXFMUE1EZ1ZZNnA1ZzVkNmFlWEJxSTlhSUFJYTlRTFM4OGl4dVZ1NWdmc01wZXFYcjY1dVB2YlFkcmgweE42SC16T3gzQkhFYW56REd3aWduUTNUa0poTU1yOHhxbkE?oc=5",
       "section": "mundo",
       "category": "Noticias internacionales",
@@ -1516,6 +1480,24 @@
       ]
     },
     {
+      "id": "mundo|https://news.google.com/rss/articles/CBMiggFBVV95cUxPX1I1N1BFbGNIVVRFanV4NVNwWXd4TTZ1Yk9EZjFrTnRsMUREM3U4UXNucTZKVThkbUYwdTc4bnAzOURNb25oRjBhYVFfQTJrYW9PRU9tOWNZR0tELU9kQnQ1b3pQZlRZM2x6blFJMWxQbUZJU0x4TG1pSUZ5Q0MxZktB0gGWAUFVX3lxTE9ncmlzd29OSXNCY0Z1QzV2VVF6MlJ1SGd0QjJfcC1IcmlpOXh0UmtNUEc2ZERjUkRtQ3FSR0dwMWtxS1VGVHNJVl9nQmtmTXhmTGotbDR0M0JnV3NMWGkzLWcwZUxQYVBibmF6RGZJN0I0RjU4NWlIVVpJWjFPcm5tVEdMSDkzclhjVlduZ24xRW80elRaUQ?oc=5",
+      "section": "mundo",
+      "category": "Noticias internacionales",
+      "title": "El mundo tras la derrota de Trump - EL PAÍS",
+      "summary": "El mundo tras la derrota de Trump EL PAÍS",
+      "image": "",
+      "publishedAt": "2026-11-08 04:30 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Noticias internacionales",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX1I1N1BFbGNIVVRFanV4NVNwWXd4TTZ1Yk9EZjFrTnRsMUREM3U4UXNucTZKVThkbUYwdTc4bnAzOURNb25oRjBhYVFfQTJrYW9PRU9tOWNZR0tELU9kQnQ1b3pQZlRZM2x6blFJMWxQbUZJU0x4TG1pSUZ5Q0MxZktB0gGWAUFVX3lxTE9ncmlzd29OSXNCY0Z1QzV2VVF6MlJ1SGd0QjJfcC1IcmlpOXh0UmtNUEc2ZERjUkRtQ3FSR0dwMWtxS1VGVHNJVl9nQmtmTXhmTGotbDR0M0JnV3NMWGkzLWcwZUxQYVBibmF6RGZJN0I0RjU4NWlIVVpJWjFPcm5tVEdMSDkzclhjVlduZ24xRW80elRaUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "mundo|https://news.google.com/rss/articles/CBMifEFVX3lxTFA1ODRuOXZqT3RSb3VLcWlfNjNQRlBnR1pwZEZ4VldxSlpEUzZPRUhQN1ZGOFppMmliSVpEREc3ZVlDVE04NEJEaWxiS3NsYnNlTmlPMk5TemoyYm9UM0VlYmlWR0VDTVZJbG1pQ3VkdHZQUXkwN3RFWmRMZ2nSAXxBVV95cUxOel83dnRRYVIwMDktQ3JXLUNUdmZhbVFmQzVrckQ0V1BkU2xXbmVsaGxjcjFyUGI3Z2puMjd0Nm9vbHZNZEkwb004YUhaaG9zakdiSkZ5ejlNRlhSRnlMdjlnMnNiWmQ5UzZEeUZUSlVrUUtDSXBndV90bTRY?oc=5",
       "section": "mundo",
       "category": "Noticias internacionales",
@@ -1530,6 +1512,24 @@
         {
           "name": "Noticias internacionales",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1ODRuOXZqT3RSb3VLcWlfNjNQRlBnR1pwZEZ4VldxSlpEUzZPRUhQN1ZGOFppMmliSVpEREc3ZVlDVE04NEJEaWxiS3NsYnNlTmlPMk5TemoyYm9UM0VlYmlWR0VDTVZJbG1pQ3VkdHZQUXkwN3RFWmRMZ2nSAXxBVV95cUxOel83dnRRYVIwMDktQ3JXLUNUdmZhbVFmQzVrckQ0V1BkU2xXbmVsaGxjcjFyUGI3Z2puMjd0Nm9vbHZNZEkwb004YUhaaG9zakdiSkZ5ejlNRlhSRnlMdjlnMnNiWmQ5UzZEeUZUSlVrUUtDSXBndV90bTRY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aVWlndXczS0VQYTNZanZVZzlwUHByem5kRC0zZFZNM2ltSi1MX0FCVVNUam1HTXkyaHZpX24yVmRFTHlXRFVSWE5CYnZOYzBENnJDdWYyeGpCSkVu0gFiQVVfeXFMT29sblRwaXh5ZzVpM1JxdWNyMGxjTGFVRFVvYi1BQkZUdkJkRXU5OHhfemlENkRMdGNRYUd2Wl9DR1hrTDU0UUNIT3ZaVFZLR3RETmtmaWRwdVBUTjVoWUp0emc?oc=5",
+      "section": "mundo",
+      "category": "Noticias internacionales",
+      "title": "\"Cuando hablamos del fin del mundo, todos piensan en meteoritos, virus o un supertsunami, pero pocos imaginan un choque ontológico\": Julio Rojas - BBC",
+      "summary": "\"Cuando hablamos del fin del mundo, todos piensan en meteoritos, virus o un supertsunami, pero pocos imaginan un choque ontológico\": Julio Rojas BBC",
+      "image": "",
+      "publishedAt": "2026-11-07 13:11 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Noticias internacionales",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aVWlndXczS0VQYTNZanZVZzlwUHByem5kRC0zZFZNM2ltSi1MX0FCVVNUam1HTXkyaHZpX24yVmRFTHlXRFVSWE5CYnZOYzBENnJDdWYyeGpCSkVu0gFiQVVfeXFMT29sblRwaXh5ZzVpM1JxdWNyMGxjTGFVRFVvYi1BQkZUdkJkRXU5OHhfemlENkRMdGNRYUd2Wl9DR1hrTDU0UUNIT3ZaVFZLR3RETmtmaWRwdVBUTjVoWUp0emc?oc=5"
         }
       ]
     },
@@ -1642,24 +1642,6 @@
       ]
     },
     {
-      "id": "television|https://news.google.com/rss/articles/CBMif0FVX3lxTE5Oak9YV0ctT0FoOTlqc293eGVQWWNZTl94NFQ2MVVLTDByMU5qNGxnUGZjYWtjMk1iVnNac3lLTllIb1hXTU5RLWtUeWwyYnlnYmtXT0drbXZlWjVkQXI0U1N4ZGR4a2dJNTZmNi1QRzNYWUV3QjBhSEJqelZaM3fSAX9BVV95cUxNZ0ZzZzZfU3dJeU14UmVjSFNKay11UHJoXzU0U2JQZ202UExfZ2NvczFaSU5hN3BZTDMxanlaZUNzLTgtZWNlc2Z1ZXZHOU5sZzhzblFUcnlSdWtmUWhENDZ2Y1RSdU9pMDVLY2JIVUF2N1Z4UktFSnZMX28weDNN?oc=5",
-      "section": "television",
-      "category": "Televisión España",
-      "title": "La Séptima arranca con la casa a medio hacer y una fantasía: comerse parte del pastel de laSexta y Cuatro y llegar al 3% de audiencia - El Mundo",
-      "summary": "La Séptima arranca con la casa a medio hacer y una fantasía: comerse parte del pastel de laSexta y Cuatro y llegar al 3% de audiencia El Mundo",
-      "image": "",
-      "publishedAt": "2026-11-05 05:30 UTC",
-      "language": "es",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Televisión España",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Oak9YV0ctT0FoOTlqc293eGVQWWNZTl94NFQ2MVVLTDByMU5qNGxnUGZjYWtjMk1iVnNac3lLTllIb1hXTU5RLWtUeWwyYnlnYmtXT0drbXZlWjVkQXI0U1N4ZGR4a2dJNTZmNi1QRzNYWUV3QjBhSEJqelZaM3fSAX9BVV95cUxNZ0ZzZzZfU3dJeU14UmVjSFNKay11UHJoXzU0U2JQZ202UExfZ2NvczFaSU5hN3BZTDMxanlaZUNzLTgtZWNlc2Z1ZXZHOU5sZzhzblFUcnlSdWtmUWhENDZ2Y1RSdU9pMDVLY2JIVUF2N1Z4UktFSnZMX28weDNN?oc=5"
-        }
-      ]
-    },
-    {
       "id": "television|https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcGVZQnpDc1JLMDByeWhQQ0hDR1lSMGlwUExzazVnTWkySDlnSlBUaFQ5WUxlSUlRUmx3NElPaVZ5eWFWeVh4Wk9BYTdjZHY3V29qSVR0THZwS1FTZXVSUlhkUHA4VFRQYVpha3ZMMm5HTGhDQVJfOEtQSDBlcXM3bUhreGs2bFJSYU5qLUV6OERQZ1BxRWljUzNzT2g0OFp4WVpoVWN5ZXJndERhdWV4dVdFcm9oZ2ZkTHVwUV9OX1EyZ3ItZEw3SUR4UzQzczhqYkVqOGpTbmNnd055MGJZOFZpc05ONnI1bVdCVXVmd2ktQ0g3blQ2TjNHMELSAYICQVVfeXFMTzYzX0prNkk0dm15Q1hFS2NZZ3ZFWVAwTk5aZXhMS0JpLUpLTWYybVd1TGNfdG1oOW9SMXNxSXc3VFRaUEJQWEVLSEtBQkJvZ2k5N3RIZ2ljd0NfSG96VGhRMkxOa2YwaVJVdm9OYzAyQk1Oa3ZLOTZMNmFlVENnY2VGdFhfMFFHemp1UEc3TFlLZ19IOUlrZ2lSTGVQWUZ2aU9ZNkhsQjJ3STRCeEtlRGEweEtNWGg2RFYxcnlMYjd1WDBZVjZsbnFCTDZSaXI1amZnVGRhRno5NVF1UjhTWDd5NWUyYlVIbVktTEJROFlybjlNZmRWd3M1OThwRVAwUEh3?oc=5",
       "section": "television",
       "category": "Televisión España",
@@ -1674,6 +1656,24 @@
         {
           "name": "Televisión España",
           "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcGVZQnpDc1JLMDByeWhQQ0hDR1lSMGlwUExzazVnTWkySDlnSlBUaFQ5WUxlSUlRUmx3NElPaVZ5eWFWeVh4Wk9BYTdjZHY3V29qSVR0THZwS1FTZXVSUlhkUHA4VFRQYVpha3ZMMm5HTGhDQVJfOEtQSDBlcXM3bUhreGs2bFJSYU5qLUV6OERQZ1BxRWljUzNzT2g0OFp4WVpoVWN5ZXJndERhdWV4dVdFcm9oZ2ZkTHVwUV9OX1EyZ3ItZEw3SUR4UzQzczhqYkVqOGpTbmNnd055MGJZOFZpc05ONnI1bVdCVXVmd2ktQ0g3blQ2TjNHMELSAYICQVVfeXFMTzYzX0prNkk0dm15Q1hFS2NZZ3ZFWVAwTk5aZXhMS0JpLUpLTWYybVd1TGNfdG1oOW9SMXNxSXc3VFRaUEJQWEVLSEtBQkJvZ2k5N3RIZ2ljd0NfSG96VGhRMkxOa2YwaVJVdm9OYzAyQk1Oa3ZLOTZMNmFlVENnY2VGdFhfMFFHemp1UEc3TFlLZ19IOUlrZ2lSTGVQWUZ2aU9ZNkhsQjJ3STRCeEtlRGEweEtNWGg2RFYxcnlMYjd1WDBZVjZsbnFCTDZSaXI1amZnVGRhRno5NVF1UjhTWDd5NWUyYlVIbVktTEJROFlybjlNZmRWd3M1OThwRVAwUEh3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "television|https://news.google.com/rss/articles/CBMizwFBVV95cUxQcGV4ZUI4dkU4a3preWFDMU9YRkFpNDgxWnZKTk5JMVVpaHZvaTBXcGpJRnNBdktHM1RYODZRSGQ5SzZXRWJnNjEwdmtJcmtURlRMOWhlM3diakVTLUR1Mlg3MWZoY19NQmJZT3lIOEFoSTdNb0RkQUJqd203ZWIzeEFzMVdmaXJaU3NhaXJrQzhkWVhCUks0Q3lTb2ZpcFpsNXFvRnVxMUd0c2VqMFNwVHFTOFNuU2VPaGJBQmJ0X1dDOUxEQUR3RDc4ZGNtX2M?oc=5",
+      "section": "television",
+      "category": "Televisión España",
+      "title": "Audiencias TV | Feijóo registra en 'Espejo público' su entrevista más vista en un programa de actualidad del último año y medio - El Confidencial",
+      "summary": "Audiencias TV | Feijóo registra en 'Espejo público' su entrevista más vista en un programa de actualidad del último año y medio El Confidencial",
+      "image": "",
+      "publishedAt": "2026-11-05 07:57 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Televisión España",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcGV4ZUI4dkU4a3preWFDMU9YRkFpNDgxWnZKTk5JMVVpaHZvaTBXcGpJRnNBdktHM1RYODZRSGQ5SzZXRWJnNjEwdmtJcmtURlRMOWhlM3diakVTLUR1Mlg3MWZoY19NQmJZT3lIOEFoSTdNb0RkQUJqd203ZWIzeEFzMVdmaXJaU3NhaXJrQzhkWVhCUks0Q3lTb2ZpcFpsNXFvRnVxMUd0c2VqMFNwVHFTOFNuU2VPaGJBQmJ0X1dDOUxEQUR3RDc4ZGNtX2M?oc=5"
         }
       ]
     },
@@ -1710,24 +1710,6 @@
         {
           "name": "Televisión España",
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYi1acDg5Rk9vWGhaa3ZrY0xtX0NwYm9lR3hnQUZDaDFFTzM1dzYxUlNMRkhPUVhzY2FfY2E5T2tDRTBtN2FOYnRsalF5WDFfMzc5WnBLMm9CSDVIeFpiRkNhQW9XS3NfZWd3VHZPcG44YlMyT2U5aUZ1VWJDc2NrdjR2U3NuazZtRFFNeWx2cWt0RFN0aHFDd3BnY0xpVUktOENnR2oxOFZndXE4UEJCVGpZZ2ZhNFZERU9TUWlNMnpNeDRZMnZuVG5uZVhTdGVzS3laNE8ybTRIVWfSAeABQVVfeXFMT0pJcWw3WU5jZlZDWmpwcEV4U0RGNWp2RXBIQmpjeDhnTzZCOV9BQ0x6T01XRmt2dUotNmp5UlhqT0x6NlRLekZhNE1jUDVsU2MxQ285OGZxZ2ZMVjZWZGhrLWlvSEZPWFZYM0FLcllfWEpWR1lsOGEwWWEtVm83S2g5WTJvdm9MTldqdFB1VjlEUWgyVVd5WFJTMjJVQ3RKWlJieGx6YlVXMi1pWnVmX2txUzhQZjVFY0V6WmNXdlYyT1o4TTAxRzNwOFpsYjdJSHFZZm5QSUFPLVlwWlFMeUc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "television|https://news.google.com/rss/articles/CBMizwFBVV95cUxQcGV4ZUI4dkU4a3preWFDMU9YRkFpNDgxWnZKTk5JMVVpaHZvaTBXcGpJRnNBdktHM1RYODZRSGQ5SzZXRWJnNjEwdmtJcmtURlRMOWhlM3diakVTLUR1Mlg3MWZoY19NQmJZT3lIOEFoSTdNb0RkQUJqd203ZWIzeEFzMVdmaXJaU3NhaXJrQzhkWVhCUks0Q3lTb2ZpcFpsNXFvRnVxMUd0c2VqMFNwVHFTOFNuU2VPaGJBQmJ0X1dDOUxEQUR3RDc4ZGNtX2M?oc=5",
-      "section": "television",
-      "category": "Televisión España",
-      "title": "Audiencias TV | Feijóo registra en 'Espejo público' su entrevista más vista en un programa de actualidad del último año y medio - El Confidencial",
-      "summary": "Audiencias TV | Feijóo registra en 'Espejo público' su entrevista más vista en un programa de actualidad del último año y medio El Confidencial",
-      "image": "",
-      "publishedAt": "2026-11-05 07:57 UTC",
-      "language": "es",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Televisión España",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcGV4ZUI4dkU4a3preWFDMU9YRkFpNDgxWnZKTk5JMVVpaHZvaTBXcGpJRnNBdktHM1RYODZRSGQ5SzZXRWJnNjEwdmtJcmtURlRMOWhlM3diakVTLUR1Mlg3MWZoY19NQmJZT3lIOEFoSTdNb0RkQUJqd203ZWIzeEFzMVdmaXJaU3NhaXJrQzhkWVhCUks0Q3lTb2ZpcFpsNXFvRnVxMUd0c2VqMFNwVHFTOFNuU2VPaGJBQmJ0X1dDOUxEQUR3RDc4ZGNtX2M?oc=5"
         }
       ]
     },
@@ -2056,6 +2038,24 @@
       ]
     },
     {
+      "id": "viral|https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcy1XN0thdE5peldPekMzQnlGUGd1Tm9YNk1KVFdueXNLV2RTRTFxVTRtMFRlVm4wbE1LNkZPbUpWbmZFVXo0SDRyYWQ2V1NROEhkV0J1RkNRZ1AwS2VJOVdtc0hyRnhqZnFoOHNSOVJQSll6bG5RdTU0VThud2pwQnpKUEl1Z0ZiejBQVGlyajZEN3lPSHMwN0RialF6MjVfUEVKTnM2VV9oRXNSZ3ppWW42ODhFMEpCZlR6UWZ2ZmFoaElmTkpWVENpS3ZVQ29mQW9qSG9fZGFQXzcxeHVldGdxU0NpdVXSAewBQVVfeXFMTzBSTks5MXIybURjb1hXaHRzMWVFRmJYRVlveUtfT1lCanpWQWdpTXlOdFZKVFp2RnFsOTZrNFpMSFFMZDVBcTNWdkZlNEhUUFQ2UXdqYjdKdGc3YXhlRVRqNXptODFLTjdaT3FZdHpjRy0yWHU3UTl6R09mbEZVc25zamdvWTJPa3g2UTdPZ054cGI3REk5bGFJaUphOTFkRURpeE9sV0cyNXRhZ05WSE9ad0FBODB3RUl6LWllZzJJTUZHTUpDN01oOWNrWWZyZUswS0NlODZQTUxMTm4wOUxSYktvM0Y3WnpUMEk?oc=5",
+      "section": "viral",
+      "category": "Viral EN",
+      "title": "Indian Tourists Organise 'Bhandara' At Vietnam Airport; Internet Says 'Poore Duniya Mai Desh Ko Badnaam Kar - News18",
+      "summary": "Indian Tourists Organise 'Bhandara' At Vietnam Airport; Internet Says 'Poore Duniya Mai Desh Ko Badnaam Kar News18",
+      "image": "",
+      "publishedAt": "2026-11-07 04:25 UTC",
+      "language": "en",
+      "topic": "Tendencias",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Viral EN",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcy1XN0thdE5peldPekMzQnlGUGd1Tm9YNk1KVFdueXNLV2RTRTFxVTRtMFRlVm4wbE1LNkZPbUpWbmZFVXo0SDRyYWQ2V1NROEhkV0J1RkNRZ1AwS2VJOVdtc0hyRnhqZnFoOHNSOVJQSll6bG5RdTU0VThud2pwQnpKUEl1Z0ZiejBQVGlyajZEN3lPSHMwN0RialF6MjVfUEVKTnM2VV9oRXNSZ3ppWW42ODhFMEpCZlR6UWZ2ZmFoaElmTkpWVENpS3ZVQ29mQW9qSG9fZGFQXzcxeHVldGdxU0NpdVXSAewBQVVfeXFMTzBSTks5MXIybURjb1hXaHRzMWVFRmJYRVlveUtfT1lCanpWQWdpTXlOdFZKVFp2RnFsOTZrNFpMSFFMZDVBcTNWdkZlNEhUUFQ2UXdqYjdKdGc3YXhlRVRqNXptODFLTjdaT3FZdHpjRy0yWHU3UTl6R09mbEZVc25zamdvWTJPa3g2UTdPZ054cGI3REk5bGFJaUphOTFkRURpeE9sV0cyNXRhZ05WSE9ad0FBODB3RUl6LWllZzJJTUZHTUpDN01oOWNrWWZyZUswS0NlODZQTUxMTm4wOUxSYktvM0Y3WnpUMEk?oc=5"
+        }
+      ]
+    },
+    {
       "id": "viral|https://news.google.com/rss/articles/CBMijgJBVV95cUxOVlE0MWtSRGIwU2dSVHJfOUFtb0JSRTc3RDRPdnNsc1dfOGVvMTNoYlpQdm4xNzdIODhWblhPQ3BFQkhPRzJjRFFScUhaSGtOS1FLWmctT3JKZWp1cTB2TkhRS0tDbnNGYU1EOV9sMTlTVG9QZnZDNTF1bzBGcjJKNk1CT1pvb0twSmZoVzBoYXNCTUlWNng0R1BMZG1teHdqYXc5NURhWEt2UTRNcWcyUXN3MUIzNDdyUndubGdQVWthYS1yNHpRS3RTZm5ETkIxeWo3cElvekJQNlZkU2ZhSlR1RTI0ai0xTmx3WlFSN0g0cHF3bnR3Z2ZsZGFuYzRnZ2J4aFd0Uk8wS04ycEHSAZMCQVVfeXFMTVBmZlVKUW91amJVT0RDNGNyR1JvZ0REeTJ1TnFndFRyb1VKTzJGeWdkNmtKUmRaSDRNa004Zm9wcWlLWGFSYXhQRjhhX2U0ZzJkSTNYeEdQRG11WWVHaVFzOHdYWHBZQ2JCWFBsRDA4ODkyYmZNVlFGRmFPRmpRdlJSMDhwTTZJbWpNbWxmUjZNM1lNeUNhSUZEdW5tQV9ubFdhZzZqbVpISGR3elJpWjBIZnhZRVIwaUxRclNlVllBdHFfM3FzckRJYnhleUF6UlVwbDFuWGs1YVB6d25WTm81VUxWQTh0T05pWXFkY0FlQUlHM3VIMGFSd0dfQ0JGdU4yQjRUcVpCT3pZdFl2Q1RNNHc?oc=5",
       "section": "viral",
       "category": "Viral EN",
@@ -2142,24 +2142,6 @@
         {
           "name": "Viral EN",
           "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQelg5UklhT3N4ZU5UemxhaXBWU1htMnRUMDNwVmhBb3pTX0hIcWZlMmNIdVF5Z0ItZDE0N212cEVXMkdlMGpDb1dBdzViZUZlMlNDY2lYaFR6VGpWMVNMQ0ZleHB2bGJ3R1BLekR6ejV0d0JmcnpheHF1YXNGVjhadEFqSnk4bEFVczlkdUNDcnJLN3NJemgtd2tKRDNjWlR6ZEVIbk1uUTVDLWx4Z1g0dmZkV3NvYzJNQXRMSWpMQm5zSXJ2dGptRW9vY1dqVXVCT3JxV3dRc0tZQXd2UWU3VEY5LUtjTU0yQ3ZJ0gHwAUFVX3lxTE1WTUEtcnoxLWZNV1U5d3BLMmhkbW5vX0lTNC1kODNrMlVRODBidnNQTnlIeWhqd0VQaUVYZkltSmp3VEhmVFdNeTU3MGZGekhtTVg1dUVGd3VTUzFyUXhqb2xRNzBwTHZrUnZVRVlmcWliTHp1VnBMOGRXUUZ2bV9kZDhhbXBBRDlib2VtS01LN3lMbGYzQUVUNU9aM21kb0h5YTVXZm9yZ0VfaC1mTHdPLWlfclJxSzNQajROUVRDOHgwZmM2LUF2S3RubG9xQmp0MlBGbFJCOHR3SGFiTWZVT1c3ZHVVTHFjNDVpQ2h1TA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "viral|https://news.google.com/rss/articles/CBMiigJBVV95cUxPb1dqRlkxSnlxR3JsOVE1dUxFNjZMX2JyUTZTRjlEbTNKNDhybnkyNWVfVWlyUXFla09uUENhV1FuUlNEeGd6Ul8wT3N0aXZqeWVEVjdRVWo2T2h6VHNxUVVZMUJ1ejcwaWo3bnFNSVpLV1hxMkUtT1JrQ2J3YnNjc3JtRWEyd1lPUkdGUWowajBYOTNyTWRxSnpLbEpaVGZtaTNkVW9MUUZGMWNkUFh2bUtnYVFhODY5cHdrMEVGbEk0bGl5SEVQUFZSa2NYMUhqMEVRbmc4Y2NyTlRWOEIxanowV1N4Ql9wWW5YVzNGUHh4U2xyV3VoTEc4TW5aREdBWXF5RlBTa1pWd9IBjwJBVV95cUxQSlhTUVl5QUJRLWFramFFY25tMzkzb1JfZjJVSXVOVzdRLS1qVU1XQnVpbndITXowYndybDJ3U0pwWEJoVEpUYzQ1T005QktoTFNHbTV0OXBHZmtleXlCVlFQRHFzQ2dUaW5jckNnR2ExOHlOcWp4NkZEUlBZT2hXNEh1VnJrVTZvSnBKWDFRZ1RadWZXR0RuTzVZa1NuQ0pRWmxQYjZrcTlxblFxTnN6U0h6Y19lY3Y4RXlhS3NsOWs2X2ZMLWtuTFZuc3BUcW5uem05RnVOWFZNclpPV0Fsc3Y3SUlJa3p6Wkx2UDc0RlFPcWItNGF4SFo0MGFnRFdaTTlDZG90TFlnYlU3b1o0?oc=5",
-      "section": "viral",
-      "category": "Viral EN",
-      "title": "Watch Viral Video: Man Gets Stopped At PVR Cinema Over THESE Glasses, But His Unexpected Argument Leaves Internet Divided - The Sunday Guardian",
-      "summary": "Watch Viral Video: Man Gets Stopped At PVR Cinema Over THESE Glasses, But His Unexpected Argument Leaves Internet Divided The Sunday Guardian",
-      "image": "",
-      "publishedAt": "2026-11-06 08:02 UTC",
-      "language": "en",
-      "topic": "Tendencias",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Viral EN",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPb1dqRlkxSnlxR3JsOVE1dUxFNjZMX2JyUTZTRjlEbTNKNDhybnkyNWVfVWlyUXFla09uUENhV1FuUlNEeGd6Ul8wT3N0aXZqeWVEVjdRVWo2T2h6VHNxUVVZMUJ1ejcwaWo3bnFNSVpLV1hxMkUtT1JrQ2J3YnNjc3JtRWEyd1lPUkdGUWowajBYOTNyTWRxSnpLbEpaVGZtaTNkVW9MUUZGMWNkUFh2bUtnYVFhODY5cHdrMEVGbEk0bGl5SEVQUFZSa2NYMUhqMEVRbmc4Y2NyTlRWOEIxanowV1N4Ql9wWW5YVzNGUHh4U2xyV3VoTEc4TW5aREdBWXF5RlBTa1pWd9IBjwJBVV95cUxQSlhTUVl5QUJRLWFramFFY25tMzkzb1JfZjJVSXVOVzdRLS1qVU1XQnVpbndITXowYndybDJ3U0pwWEJoVEpUYzQ1T005QktoTFNHbTV0OXBHZmtleXlCVlFQRHFzQ2dUaW5jckNnR2ExOHlOcWp4NkZEUlBZT2hXNEh1VnJrVTZvSnBKWDFRZ1RadWZXR0RuTzVZa1NuQ0pRWmxQYjZrcTlxblFxTnN6U0h6Y19lY3Y4RXlhS3NsOWs2X2ZMLWtuTFZuc3BUcW5uem05RnVOWFZNclpPV0Fsc3Y3SUlJa3p6Wkx2UDc0RlFPcWItNGF4SFo0MGFnRFdaTTlDZG90TFlnYlU3b1o0?oc=5"
         }
       ]
     },
@@ -2286,6 +2268,24 @@
         {
           "name": "Tech EN",
           "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/07/philadelphia-blocking-food-delivery-robots"
+        }
+      ]
+    },
+    {
+      "id": "tecnologia|https://www.theguardian.com/world/2026/nov/07/israel-intelligence-cisco-gaza-palestine",
+      "section": "tecnologia",
+      "category": "Tech EN",
+      "title": "A ‘customer success story’: leaked documents show Cisco doubled down on Israeli military deals during Gaza war",
+      "summary": "Tech giant leaped to shore up relationship even as company was roiled by worker protest over its role in the war A year into the war in Gaza , the networks of Israel ’s military intelligence community were plagued with technical problems. There were major, multi-hour outages to their systems, and repeated crashes. Built-in debugging mechanisms failed. The pr…",
+      "image": "https://i.guim.co.uk/img/media/60a84798eb17356220e1eb8ab76f14087a8cd747/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=cea2e5100ec572f808c1994331acef93",
+      "publishedAt": "2026-11-07 12:00 UTC",
+      "language": "en",
+      "topic": "Tecnología",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Tech EN",
+          "url": "https://www.theguardian.com/world/2026/nov/07/israel-intelligence-cisco-gaza-palestine"
         }
       ]
     },
@@ -2466,24 +2466,6 @@
         {
           "name": "Tech EN",
           "url": "https://www.theguardian.com/us-news/2026/nov/06/democrats-renew-calls-for-datacenter-pauses"
-        }
-      ]
-    },
-    {
-      "id": "tecnologia|https://www.theguardian.com/thefilter-us/2026/nov/06/best-personalized-custom-gift-ideas",
-      "section": "tecnologia",
-      "category": "Tech EN",
-      "title": "The nine best personalized gift ideas: customized for the person you love",
-      "summary": "Monogramming or customizing takes gifts to the next level – and shows recipients that you know what they like and who they are The best beauty Advent calendars of 2026 in the US Sign up for the Filter US newsletter, your weekly guide to buying fewer, better things A personalized gift is a special thing that says that you not only know what the recipient like…",
-      "image": "https://i.guim.co.uk/img/media/916a350ef95f6264f22ddf0f6898ff1adb457690/0_0_1799_1440/master/1799.jpg?width=140&quality=85&auto=format&fit=max&s=9084e35d496be603b983150503556ce4",
-      "publishedAt": "2026-11-06 20:15 UTC",
-      "language": "en",
-      "topic": "Tecnología",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Tech EN",
-          "url": "https://www.theguardian.com/thefilter-us/2026/nov/06/best-personalized-custom-gift-ideas"
         }
       ]
     },
@@ -2704,24 +2686,6 @@
       ]
     },
     {
-      "id": "estilo|https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcVE4eDc5bXRJTW92bGZqc01Ddk5LSERBcmhPdUVER1ZnV19oTkd6LXVFOEtJaHR4NFNXUkJKa0dDRXVtLTBmUDBoUFZqS1pDaXhKOTRKdHV2Qkw5cFRZRVVxdnpNeXFKdU9WcXBHRjF5NFdkX3dob0lZZmdzcG9EWEkwS2syWlNXWm9taDE1bGRiSWlWLUJVMjNmQXZ0M2g0bmRuQlBNOFVlR01SWTY0UXBYWFVVMlZoaFhhZUp4U2dSV2xPRWZWZGVMY1dzX0c5N0RQd3RhdnpENXVuVHc?oc=5",
-      "section": "estilo",
-      "category": "GQ España",
-      "title": "El nuevo documental de Netflix sobre Matthew Perry: una mirada imprescindible a través de sus verdaderos amigos - GQ España",
-      "summary": "El nuevo documental de Netflix sobre Matthew Perry: una mirada imprescindible a través de sus verdaderos amigos GQ España",
-      "image": "",
-      "publishedAt": "2026-11-07 10:30 UTC",
-      "language": "es",
-      "topic": "Moda",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "GQ España",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcVE4eDc5bXRJTW92bGZqc01Ddk5LSERBcmhPdUVER1ZnV19oTkd6LXVFOEtJaHR4NFNXUkJKa0dDRXVtLTBmUDBoUFZqS1pDaXhKOTRKdHV2Qkw5cFRZRVVxdnpNeXFKdU9WcXBHRjF5NFdkX3dob0lZZmdzcG9EWEkwS2syWlNXWm9taDE1bGRiSWlWLUJVMjNmQXZ0M2g0bmRuQlBNOFVlR01SWTY0UXBYWFVVMlZoaFhhZUp4U2dSV2xPRWZWZGVMY1dzX0c5N0RQd3RhdnpENXVuVHc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "estilo|https://news.google.com/rss/articles/CBMipgFBVV95cUxPOEFfNnlISGkxZlp2NVo3cDJrT241ekJXWVdWLUFSQ2lHRnI0X3ZGSzBLUUdiazRLSU9rcE5sanNDOWhaNkRGRG1vZ1F3SXhHRlVWdFZoMm9lREkxTk1aVENoTzFqZElDbGctVVhrTWFXSGtkZGR3SUlaZXViTHBtU1NmZjlQUDc4ZEpqT1BtZkxLemNEcHZab2pTX2tBNUZWRjdiTXdn?oc=5",
       "section": "estilo",
       "category": "GQ España",
@@ -2844,6 +2808,24 @@
         {
           "name": "GQ España",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPamFDVkptOVJ3eFh3QjlDUjdZb3FPV09tNlVpdUFqdWRkSHlYLUtRLWpFR2tOZlQ1ZjR0Q0hqUEVyMzNUelIxR2tMRFJ1MEMzdjhORE9ZaWRvZVR1TGd6T1F3QzFUM2VKU0QyTHk1NzlrbGd6NkRkaFN0cUFjaWlKRURaZ0UyR0hESDZrbW1JWG1qZVdOU0hZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "estilo|https://news.google.com/rss/articles/CBMisAFBVV95cUxOb0hUcWYtU2FHcE1iR1g2b2JzUEFrMjBsUmI0WWlURWk2QlI0bUp5dWVPUTJlelFFNENBOEFiaklqdUY3ZHFDZFJLc3ZRYzF3NjRmQlp5MXNvblc4aFRjZzBqaE1SdWNwWE1iV3hCOHdUTlJuOURfS0JkNzhDRXFTV3BfbnZjS05JUmNpOHRIbjhST2EwNXNiRUVocW42Q19zUHBCdWJZVDJ0SWpOMTB3ag?oc=5",
+      "section": "estilo",
+      "category": "GQ España",
+      "title": "La era de los péptidos inyectables: el atajo biológico para ser más grande, fuerte y joven - GQ España",
+      "summary": "La era de los péptidos inyectables: el atajo biológico para ser más grande, fuerte y joven GQ España",
+      "image": "",
+      "publishedAt": "2026-11-05 12:02 UTC",
+      "language": "es",
+      "topic": "Moda",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "GQ España",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb0hUcWYtU2FHcE1iR1g2b2JzUEFrMjBsUmI0WWlURWk2QlI0bUp5dWVPUTJlelFFNENBOEFiaklqdUY3ZHFDZFJLc3ZRYzF3NjRmQlp5MXNvblc4aFRjZzBqaE1SdWNwWE1iV3hCOHdUTlJuOURfS0JkNzhDRXFTV3BfbnZjS05JUmNpOHRIbjhST2EwNXNiRUVocW42Q19zUHBCdWJZVDJ0SWpOMTB3ag?oc=5"
         }
       ]
     },
@@ -3136,6 +3118,42 @@
       ]
     },
     {
+      "id": "estilo|https://news.google.com/rss/articles/CBMiaEFVX3lxTFBScWtrUkZzWHhNZnpfVHNuRDFmMV9FSFM3NjQwZFh0aWF4NEZob09mejNpeHlLMUtqbHdIVFRsWTI0VlR0bTQxVGlzbFh1NmxaTWR4QmhkME1fY2hEWFBnT3h4M3BKOU1O?oc=5",
+      "section": "estilo",
+      "category": "GQ EN",
+      "title": "Our Favorite Loafer Now Comes in Menswear’s Favorite Leather - GQ",
+      "summary": "Our Favorite Loafer Now Comes in Menswear’s Favorite Leather GQ",
+      "image": "",
+      "publishedAt": "2026-11-05 16:43 UTC",
+      "language": "en",
+      "topic": "Moda",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "GQ EN",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBScWtrUkZzWHhNZnpfVHNuRDFmMV9FSFM3NjQwZFh0aWF4NEZob09mejNpeHlLMUtqbHdIVFRsWTI0VlR0bTQxVGlzbFh1NmxaTWR4QmhkME1fY2hEWFBnT3h4M3BKOU1O?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "estilo|https://news.google.com/rss/articles/CBMiigFBVV95cUxPWXVtcVN4czFCRjEtdDIyZWs4NHRVNmJ4NjdFS0c0cm1SM3VzcFBsZ0tnVERhZjFNWWEtUThWbWV1LUg0X1QxLXJtMDZGX0t3TTI3dWFFUjNBeUhZWV8za21VWXZMb29CaXZWcFVyRjlkS0FLZ09PNXFiYnplNUJIV0pDMlo5b19qbnc?oc=5",
+      "section": "estilo",
+      "category": "GQ EN",
+      "title": "A Deodorant for Every Day of the Week - GQ",
+      "summary": "A Deodorant for Every Day of the Week GQ",
+      "image": "",
+      "publishedAt": "2026-11-04 19:28 UTC",
+      "language": "en",
+      "topic": "Moda",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "GQ EN",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWXVtcVN4czFCRjEtdDIyZWs4NHRVNmJ4NjdFS0c0cm1SM3VzcFBsZ0tnVERhZjFNWWEtUThWbWV1LUg0X1QxLXJtMDZGX0t3TTI3dWFFUjNBeUhZWV8za21VWXZMb29CaXZWcFVyRjlkS0FLZ09PNXFiYnplNUJIV0pDMlo5b19qbnc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "estilo|https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLNG9NcDI0dENrbnNiUzBVaTJxSW85dkVIU0lnbmJhb0dKb1ZJaGQ1enptd3V4Z0ZDWUlKRHpVU0ZrR3ZIZDQzVWtZRjlJOFhRdHQ3ODEyM0dSQVZ1?oc=5",
       "section": "estilo",
       "category": "GQ EN",
@@ -3186,42 +3204,6 @@
         {
           "name": "GQ EN",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zQi1kam1sTkM4bWNXLV8yYXoyZWZFUUFQeVF1bWJhQjR2b1Mxdm1rR1VhUV9vNVFmeU80ZVlpeUtmQnA0YWFSOEVDQjgwTnYzbmllMW13?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "estilo|https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXSURfSzRKNHBiZlpYY093LWZSVEw1Q3NKVkFzNElWS1p4b0NSdmpwcmRrZWdXVVVwNV9Xb3BwNDlHSWMwRG1SejEwMTBCRXo4cDVCMG5jbWZtaWM?oc=5",
-      "section": "estilo",
-      "category": "GQ EN",
-      "title": "A Great Raincoat Makes Bad Weather Look Good - GQ",
-      "summary": "A Great Raincoat Makes Bad Weather Look Good GQ",
-      "image": "",
-      "publishedAt": "2022-04-26 12:19 UTC",
-      "language": "en",
-      "topic": "Moda",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "GQ EN",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXSURfSzRKNHBiZlpYY093LWZSVEw1Q3NKVkFzNElWS1p4b0NSdmpwcmRrZWdXVVVwNV9Xb3BwNDlHSWMwRG1SejEwMTBCRXo4cDVCMG5jbWZtaWM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "estilo|https://news.google.com/rss/articles/CBMiTEFVX3lxTE9UWWlEYjhhbGNvaVVMV285SFNqcmdpUm9YZnZCSzlOaGpJTFRiUGhPc1RqSFU1bzU1bHJVdm9lNzFQa2VFazJaTjFPY0k?oc=5",
-      "section": "estilo",
-      "category": "GQ EN",
-      "title": "Los Angeles News, In-Depth Articles, Pictures & Videos - GQ",
-      "summary": "Los Angeles News, In-Depth Articles, Pictures & Videos GQ",
-      "image": "",
-      "publishedAt": "2010-01-06 01:13 UTC",
-      "language": "en",
-      "topic": "Moda",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "GQ EN",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9UWWlEYjhhbGNvaVVMV285SFNqcmdpUm9YZnZCSzlOaGpJTFRiUGhPc1RqSFU1bzU1bHJVdm9lNzFQa2VFazJaTjFPY0k?oc=5"
         }
       ]
     },
@@ -3748,6 +3730,24 @@
       ]
     },
     {
+      "id": "mundo|https://news.google.com/rss/articles/CBMitAFBVV95cUxQeC1mdElFZXUyYm4xaVhUemJnQm5XVUcybXJBYmdBRi1leDJwLTRPVnljdjFvYmJLemFubkpMaml3R0M5MjIxSk9IOHpNNnV2NXNNR1FiMllyc1l0SFhDdFB4N0hMYW1OajJqMGtBUy1JajR3UjVFVmdFcVA1S2c0OUFFY25hM3owcUszOFFhOVloS3R3VEM0bGVZX1ItRVVQYlM4OTNaQTcxNXBSOUY1SnpHaDQ?oc=5",
+      "section": "mundo",
+      "category": "AP News",
+      "title": "Scott Colom and Black Mississippians stand on the cusp of Senate history as vote count stretches on - AP News",
+      "summary": "Scott Colom and Black Mississippians stand on the cusp of Senate history as vote count stretches on AP News",
+      "image": "",
+      "publishedAt": "2026-11-07 23:13 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeC1mdElFZXUyYm4xaVhUemJnQm5XVUcybXJBYmdBRi1leDJwLTRPVnljdjFvYmJLemFubkpMaml3R0M5MjIxSk9IOHpNNnV2NXNNR1FiMllyc1l0SFhDdFB4N0hMYW1OajJqMGtBUy1JajR3UjVFVmdFcVA1S2c0OUFFY25hM3owcUszOFFhOVloS3R3VEM0bGVZX1ItRVVQYlM4OTNaQTcxNXBSOUY1SnpHaDQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "mundo|https://news.google.com/rss/articles/CBMizAFBVV95cUxPaDFVTWxqNmxoN1JVVzVfSVdkQ1hSOXFmbkxBUnk3Y3FFaFZMZ3RFU1R1eUFiZTlUWG5Vdk9NU2NrRF9LSHVlaklHTUlpS2ZWMXRuNnRBb0JacVkxTEhpdmVTRlRKSDlQUWpZU3ZwVjVES2VCZU9WbGVWdXZRNVlRaGZadUYtTXRBVzZrbWhLQUFDb1oxTlF0MEpBRFlubEhVNmJvcnNLRW1zdEhqdmEwc3FTbGpJMXVHSGNYRmRfUkpiWFhGa3NHUnVxeG0?oc=5",
       "section": "mundo",
       "category": "AP News",
@@ -3762,24 +3762,6 @@
         {
           "name": "AP News",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaDFVTWxqNmxoN1JVVzVfSVdkQ1hSOXFmbkxBUnk3Y3FFaFZMZ3RFU1R1eUFiZTlUWG5Vdk9NU2NrRF9LSHVlaklHTUlpS2ZWMXRuNnRBb0JacVkxTEhpdmVTRlRKSDlQUWpZU3ZwVjVES2VCZU9WbGVWdXZRNVlRaGZadUYtTXRBVzZrbWhLQUFDb1oxTlF0MEpBRFlubEhVNmJvcnNLRW1zdEhqdmEwc3FTbGpJMXVHSGNYRmRfUkpiWFhGa3NHUnVxeG0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://news.google.com/rss/articles/CBMipgFBVV95cUxOYkdNclU1NURkXzBzcmRNRDZKSDdGaDZTdC1aSThJc09TM2pPcEJTZktIQllOV1ZrX0N6QXk4eEhHR0prbE03QlJjS28wMWp2VVYzMVhUeTlKYzBuRWtiazFEaThCNUhLNUQzUG9rb0xPaEQ1bF9KcFo4dzQ0a2FxSWNEM2JYWEkwQTRLQ2ZCSkk3c2luaWhqUERaZUhkLUVsdFpaQlFR?oc=5",
-      "section": "mundo",
-      "category": "AP News",
-      "title": "Tesla’s Cybertruck heads for an exit after years of hype and division - AP News",
-      "summary": "Tesla’s Cybertruck heads for an exit after years of hype and division AP News",
-      "image": "",
-      "publishedAt": "2026-11-06 22:27 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYkdNclU1NURkXzBzcmRNRDZKSDdGaDZTdC1aSThJc09TM2pPcEJTZktIQllOV1ZrX0N6QXk4eEhHR0prbE03QlJjS28wMWp2VVYzMVhUeTlKYzBuRWtiazFEaThCNUhLNUQzUG9rb0xPaEQ1bF9KcFo4dzQ0a2FxSWNEM2JYWEkwQTRLQ2ZCSkk3c2luaWhqUERaZUhkLUVsdFpaQlFR?oc=5"
         }
       ]
     },
@@ -3802,38 +3784,20 @@
       ]
     },
     {
-      "id": "mundo|https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeFVIQnBneGRnclNCeTc2VDNNejZjT2NXOEZBLVdZdVZSWUVuTHc3ckdFcWVTSnNqWlpKblI0NnZ1R0pSaWRnb2c0OEtoQ3NpWU9FdmQ1dGR2UHNOQ0FhWUpsQnVGbHBaTEpYVkhjWDJXdlcxZXZ0Q2VocC01OUxVWk1rVXN1TXBhRy03eVpqYzYyM3ZRYm9YNGo4WG5zczRXWmhRLXRoN1owWDF6TWM3bzJFWFk1X0xxOGZoSktXRmhPSUhITE9UdnpxbTNNa2Qy?oc=5",
+      "id": "mundo|https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYmFtdFhxbkprUnFrTFEyOGhDT2VhamxXNDA1bXRPNDYyMU1kaldYUk5lLS1LcVdsX0FLWW4tU19zRHR0a0tNWG1KMkNoZWtyR2pTcVNFVVdDNnZLMXBPWTlxR21sRkxkUjRHa2RhS3VQVDFZR01tekdGM2RiSkx0cFJsRlZiR1dqWmdrVnFWNGhvbUx5NGZiRTRwbVN1WDBZM0ZFX0ZaaUpjSE1pYXBEYzNiLWM5WVVW?oc=5",
       "section": "mundo",
       "category": "France 24",
-      "title": "'We must change everything,' French far-left presidential candidate Mélenchon says - France 24",
-      "summary": "'We must change everything,' French far-left presidential candidate Mélenchon says France 24",
+      "title": "Gunman who killed at least six people in Krakow had ‘far-right’ views, Polish government says - France 24",
+      "summary": "Gunman who killed at least six people in Krakow had ‘far-right’ views, Polish government says France 24",
       "image": "",
-      "publishedAt": "2026-11-07 14:44 UTC",
+      "publishedAt": "2026-11-07 15:23 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "France 24",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeFVIQnBneGRnclNCeTc2VDNNejZjT2NXOEZBLVdZdVZSWUVuTHc3ckdFcWVTSnNqWlpKblI0NnZ1R0pSaWRnb2c0OEtoQ3NpWU9FdmQ1dGR2UHNOQ0FhWUpsQnVGbHBaTEpYVkhjWDJXdlcxZXZ0Q2VocC01OUxVWk1rVXN1TXBhRy03eVpqYzYyM3ZRYm9YNGo4WG5zczRXWmhRLXRoN1owWDF6TWM3bzJFWFk1X0xxOGZoSktXRmhPSUhITE9UdnpxbTNNa2Qy?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ0NjcVBHZUU5QUc2UWo0b1h4UDlaZWQzT2d6OWR0TTdVVjhLTHdMU1pfQ2NFX3JGdzNnVjRyY0t1YVBqbWg5TGlIenBxNFctSFhfMUtHY1VmU2VMU0ttTXQxUF9Wc1VMWHJWX3pWYk55dXdTaU9BQVIxck9rN2Rkcmx1Qi10UnE0LU9ZY2RodkxrUHRCLVBVeE5RYXF3RWFYZ0toZDlXUG9DbTZSQWhvc1ZvbmtRd9IBuwFBVV95cUxNSFhjb0M1b3NzRTZqaXVfeXpxRDE3Skx3eUF2TTBYa2MybVloeERWeEdLaVhmbW1tanFLQXZRT1VQd0RwYjZzTU9RTXNTZWUtQVMtYjZTYUlMZ1VVTFB3WllRRHJYUjk1bW1LYmw5TU1tTzI1UlRHWUE0NlE5QmdSUWRjSXFuMDllTDF5eG5DWXdKUWRaUFQ1OUtvck5DZEw5LVdBZWJ0UlpkRlJWVDZ0anFvOWhTLUVId29r?oc=5",
-      "section": "mundo",
-      "category": "Al Jazeera",
-      "title": "Yemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa - Al Jazeera",
-      "summary": "Yemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa Al Jazeera",
-      "image": "",
-      "publishedAt": "2026-11-07 19:08 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ0NjcVBHZUU5QUc2UWo0b1h4UDlaZWQzT2d6OWR0TTdVVjhLTHdMU1pfQ2NFX3JGdzNnVjRyY0t1YVBqbWg5TGlIenBxNFctSFhfMUtHY1VmU2VMU0ttTXQxUF9Wc1VMWHJWX3pWYk55dXdTaU9BQVIxck9rN2Rkcmx1Qi10UnE0LU9ZY2RodkxrUHRCLVBVeE5RYXF3RWFYZ0toZDlXUG9DbTZSQWhvc1ZvbmtRd9IBuwFBVV95cUxNSFhjb0M1b3NzRTZqaXVfeXpxRDE3Skx3eUF2TTBYa2MybVloeERWeEdLaVhmbW1tanFLQXZRT1VQd0RwYjZzTU9RTXNTZWUtQVMtYjZTYUlMZ1VVTFB3WllRRHJYUjk1bW1LYmw5TU1tTzI1UlRHWUE0NlE5QmdSUWRjSXFuMDllTDF5eG5DWXdKUWRaUFQ1OUtvck5DZEw5LVdBZWJ0UlpkRlJWVDZ0anFvOWhTLUVId29r?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYmFtdFhxbkprUnFrTFEyOGhDT2VhamxXNDA1bXRPNDYyMU1kaldYUk5lLS1LcVdsX0FLWW4tU19zRHR0a0tNWG1KMkNoZWtyR2pTcVNFVVdDNnZLMXBPWTlxR21sRkxkUjRHa2RhS3VQVDFZR01tekdGM2RiSkx0cFJsRlZiR1dqWmdrVnFWNGhvbUx5NGZiRTRwbVN1WDBZM0ZFX0ZaaUpjSE1pYXBEYzNiLWM5WVVW?oc=5"
         }
       ]
     },
@@ -3852,6 +3816,24 @@
         {
           "name": "Al Jazeera",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNmpOc3NISlNqd2RIa3JOMjU1TUxPQ1loWXFoN2ZycXNmZ1QyU3hBVG9TWVhHcDNuWlZ2MGE1eVdLRGw5b2tCOTdseGZ6RHQ0RDB6UzZQVWpMSENnTmRSZFhWaGpBRWgyZXJEalpsc0xIbnpHQi1mQmJya1BXTlE4MTdnd056SkZlc1BXTnE2YktwRmhrR1kw0gGcAUFVX3lxTFBQamY0WVlzbUcwRjcyeXRQVFhPZWc0cTZmZWw5WEZxQmhwRkk0TnZlNDhwMFBLb2RZVWNKcGRjTENOV2NKeDlDbHkzUWs0SnBFS3ZkRkpwOXl5VWUza3RELUtQZm1HbTkzMlZCUjJMdHRoN1dHb1FTTTZxZlF1TzFKSXlnU1VWbnBSSjFJUzBqWWVPOUFHYmJua2pabA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://news.google.com/rss/articles/CBMipwFBVV95cUxORWd2ZHNRRjNUZE56eU5kdTU3cl9ja2dwemEtRWYyaG9GcEVBU2RBS3N5a3g1dFY4blY4a1d0eEtQa0VwdTFtNGVZRGhkWW9fZURoZFlnS0dZUXBndnJMME5EUjloYmthMDlOcnltMUNVblF2eHRXNU53RWdLNEZuRWtZYzF3M0d6QlllRjBMMnJaUU5SdVJ0YVVWUXM3V0hKeVg0YXV4ONIBrAFBVV95cUxPSXZRVmV6bnNJWlA5Zm5mcHZNMEdFNjBGbXdGYWJsYnllQUxFM0pQZ2N6OTdpYUZ5NUFtSHhjaG15YTF3VVg4TFM2MTFZVE1nOGN1dngxOFZfOExmajNUMXFJYVRwR3VISFRiMWFBVWlHOE9pSjJtdkJZTHlHMGFFN0xkOVVRRVotTjgzOVBFVGhBbGxETTRVN2JXNHV2OXRYVjlSQ3ROdFRTeFFF?oc=5",
+      "section": "mundo",
+      "category": "Al Jazeera",
+      "title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’? - Al Jazeera",
+      "summary": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’? Al Jazeera",
+      "image": "",
+      "publishedAt": "2026-11-07 08:51 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWd2ZHNRRjNUZE56eU5kdTU3cl9ja2dwemEtRWYyaG9GcEVBU2RBS3N5a3g1dFY4blY4a1d0eEtQa0VwdTFtNGVZRGhkWW9fZURoZFlnS0dZUXBndnJMME5EUjloYmthMDlOcnltMUNVblF2eHRXNU53RWdLNEZuRWtZYzF3M0d6QlllRjBMMnJaUU5SdVJ0YVVWUXM3V0hKeVg0YXV4ONIBrAFBVV95cUxPSXZRVmV6bnNJWlA5Zm5mcHZNMEdFNjBGbXdGYWJsYnllQUxFM0pQZ2N6OTdpYUZ5NUFtSHhjaG15YTF3VVg4TFM2MTFZVE1nOGN1dngxOFZfOExmajNUMXFJYVRwR3VISFRiMWFBVWlHOE9pSjJtdkJZTHlHMGFFN0xkOVVRRVotTjgzOVBFVGhBbGxETTRVN2JXNHV2OXRYVjlSQ3ROdFRTeFFF?oc=5"
         }
       ]
     },
@@ -4342,6 +4324,24 @@
       ]
     },
     {
+      "id": "estilo|https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcVE4eDc5bXRJTW92bGZqc01Ddk5LSERBcmhPdUVER1ZnV19oTkd6LXVFOEtJaHR4NFNXUkJKa0dDRXVtLTBmUDBoUFZqS1pDaXhKOTRKdHV2Qkw5cFRZRVVxdnpNeXFKdU9WcXBHRjF5NFdkX3dob0lZZmdzcG9EWEkwS2syWlNXWm9taDE1bGRiSWlWLUJVMjNmQXZ0M2g0bmRuQlBNOFVlR01SWTY0UXBYWFVVMlZoaFhhZUp4U2dSV2xPRWZWZGVMY1dzX0c5N0RQd3RhdnpENXVuVHc?oc=5",
+      "section": "estilo",
+      "category": "GQ España",
+      "title": "El nuevo documental de Netflix sobre Matthew Perry: una mirada imprescindible a través de sus verdaderos amigos - GQ España",
+      "summary": "El nuevo documental de Netflix sobre Matthew Perry: una mirada imprescindible a través de sus verdaderos amigos GQ España",
+      "image": "",
+      "publishedAt": "2026-11-07 10:30 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "GQ España",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcVE4eDc5bXRJTW92bGZqc01Ddk5LSERBcmhPdUVER1ZnV19oTkd6LXVFOEtJaHR4NFNXUkJKa0dDRXVtLTBmUDBoUFZqS1pDaXhKOTRKdHV2Qkw5cFRZRVVxdnpNeXFKdU9WcXBHRjF5NFdkX3dob0lZZmdzcG9EWEkwS2syWlNXWm9taDE1bGRiSWlWLUJVMjNmQXZ0M2g0bmRuQlBNOFVlR01SWTY0UXBYWFVVMlZoaFhhZUp4U2dSV2xPRWZWZGVMY1dzX0c5N0RQd3RhdnpENXVuVHc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "estilo|https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUW5aNGRKcXVsWTNvRjNId0RKTHA1bVRrUHFjQkZVLVNxZllMNFBXNFdaNnhQVlp0dUNFNmF0NWtrdDR3TG9WdVdBaVM1aElQRlR4aF9xQWt3ZnZ0aVk2YUhtbE1VMng2dnc1RGR1dXFYb204Z2ZjbEEzWVJHYmdmVVlwQVlxUURwczNFYmpPeVNXSHJGSkpKUEdqUFpfazJDVWNtekphd1NXVm5IZ3VpZEZsemoxLTNPMFRGMHVYZTZEaVk1QTRGag?oc=5",
       "section": "estilo",
       "category": "GQ España",
@@ -4356,6 +4356,24 @@
         {
           "name": "GQ España",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUW5aNGRKcXVsWTNvRjNId0RKTHA1bVRrUHFjQkZVLVNxZllMNFBXNFdaNnhQVlp0dUNFNmF0NWtrdDR3TG9WdVdBaVM1aElQRlR4aF9xQWt3ZnZ0aVk2YUhtbE1VMng2dnc1RGR1dXFYb204Z2ZjbEEzWVJHYmdmVVlwQVlxUURwczNFYmpPeVNXSHJGSkpKUEdqUFpfazJDVWNtekphd1NXVm5IZ3VpZEZsemoxLTNPMFRGMHVYZTZEaVk1QTRGag?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "estilo|https://news.google.com/rss/articles/CBMijgFBVV95cUxPVjE3bzM0N2ZZTV9ET1k4NUJ4SnhfckFOZHpNWm9yZ0NHU0UyckIxM21ZbndSa1pGOXNXbUl0RE5PWV9yd0RUdkEtcFU0andKYndvaWRibVR4UnNqQkNaLWVXcWVBNnR3RVNnNVJGRUtFYVFreDFraTFlbnB4ZWNUX0pjTHhyeThZZk5JUktR?oc=5",
+      "section": "estilo",
+      "category": "Esquire España",
+      "title": "Timex estrena un reloj automático clásico que parece mucho más caro de lo que es - Esquire",
+      "summary": "Timex estrena un reloj automático clásico que parece mucho más caro de lo que es Esquire",
+      "image": "",
+      "publishedAt": "2026-11-06 09:17 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Esquire España",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVjE3bzM0N2ZZTV9ET1k4NUJ4SnhfckFOZHpNWm9yZ0NHU0UyckIxM21ZbndSa1pGOXNXbUl0RE5PWV9yd0RUdkEtcFU0andKYndvaWRibVR4UnNqQkNaLWVXcWVBNnR3RVNnNVJGRUtFYVFreDFraTFlbnB4ZWNUX0pjTHhyeThZZk5JUktR?oc=5"
         }
       ]
     },
@@ -4558,42 +4576,22 @@
       ]
     },
     {
-      "id": "viral|https://news.google.com/rss/articles/CBMijgFBVV95cUxOZW1nYV82SDB5Sk1NajZ4NmVvUHFkbHJxZUFob1NKcUY2Q254dS1xVDdqa2hnWnZ0alpoWklzQjZYNEpTeElXU2pkdnhENTNza01qR0pkRkR4ektJV0N4WjNyTW4wQUh3RjdlUlRCNU16cFRqTnhvWVY1d3dVUy14SFNNNXF2YloyaWFHZ1RR?oc=5",
+      "id": "viral|https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2RuMDlRRE03ZUFBMmMtbFJ6SWttNEQycEZtVHhENktoX3RNV0puNWNXTlFFbVAwRmt6YWFKclM2TVlwaVNoVlpQR0ptMlhvNDVyZmRaWlA5NG42dDMzY05XTVhhRzJKeU96NEE1STZhaVBkallaalZhX1lXdUJTOGh3b3hlMmJ4dGM0RU1DTGRDMHBUYmNoT250X3BQdVZZRVl4aWlNRGM4cjVoMEF1UDVJTWNrXzItckYtYnZIYThOWnA1?oc=5",
       "section": "viral",
       "category": "The Guardian",
-      "title": "TikTok accused of helping to promote sex industry to girls - The Guardian",
-      "summary": "TikTok accused of helping to promote sex industry to girls The Guardian",
+      "title": "'Justice has been served' for Russell Brand's victims, prosecutor says – video - The Guardian",
+      "summary": "'Justice has been served' for Russell Brand's victims, prosecutor says – video The Guardian",
       "image": "",
-      "publishedAt": "2026-11-07 09:02 UTC",
+      "publishedAt": "2026-11-05 17:37 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZW1nYV82SDB5Sk1NajZ4NmVvUHFkbHJxZUFob1NKcUY2Q254dS1xVDdqa2hnWnZ0alpoWklzQjZYNEpTeElXU2pkdnhENTNza01qR0pkRkR4ektJV0N4WjNyTW4wQUh3RjdlUlRCNU16cFRqTnhvWVY1d3dVUy14SFNNNXF2YloyaWFHZ1RR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2RuMDlRRE03ZUFBMmMtbFJ6SWttNEQycEZtVHhENktoX3RNV0puNWNXTlFFbVAwRmt6YWFKclM2TVlwaVNoVlpQR0ptMlhvNDVyZmRaWlA5NG42dDMzY05XTVhhRzJKeU96NEE1STZhaVBkallaalZhX1lXdUJTOGh3b3hlMmJ4dGM0RU1DTGRDMHBUYmNoT250X3BQdVZZRVl4aWlNRGM4cjVoMEF1UDVJTWNrXzItckYtYnZIYThOWnA1?oc=5"
         }
       ]
-    },
-    {
-      "id": "eventos|https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVjZzYW52MjEtaV84QkNLOHNLWjYwYTdGSGNwS0prcmpHUmJKNHMzLWZlYUJscW9sVzdiYlpMekVPcjBtcUQ1b1Z4T3ZtcnBQaGJKcGIzRXRxbGxFR2hHQWhlSzRqT2JiSktzY2hXenV6ODVsYlQ4dHI5a3pWTFA3TVZSZDllZFpoZUFKY3RuVURmRE9XX3Q2dGdGd1p3U0NSM2x4cmNpMGtseUR0dFNMYnpBX25UbHAwTlFRV0RwVlDSAcABQVVfeXFMT1Y2c2FudjIxLWlfOEJDSzhzS1o2MGE3RkhjcEtKa3JqR1JiSjRzMy1mZWFCbHFvbFc3YmJaTHpFT3IwbXFENW9WeE92bXJwUGhiSnBiM0V0cWxsRUdoR0FoZUs0ak9iYkpLc2NoV3p1ejg1bGJUOHRyOWt6VkxQN01WUmQ5ZWRaaGVBSmN0blVEZkRPV190NnRnRndad1NDUjNseHJjaTBrbHlEdHRTTGJ6QV9uVGxwME5RUVdEcFZQ?oc=5",
-      "section": "eventos",
-      "category": "Madrid POP",
-      "title": "Ultraligera en el Movistar Arena 2027: la fecha del concierto en Madrid y cómo comprar las entradas - elDiario.es",
-      "summary": "Ultraligera en el Movistar Arena 2027: la fecha del concierto en Madrid y cómo comprar las entradas elDiario.es",
-      "image": "",
-      "publishedAt": "2026-11-06 10:17 UTC",
-      "language": "es",
-      "topic": "Conciertos",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Madrid POP",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVjZzYW52MjEtaV84QkNLOHNLWjYwYTdGSGNwS0prcmpHUmJKNHMzLWZlYUJscW9sVzdiYlpMekVPcjBtcUQ1b1Z4T3ZtcnBQaGJKcGIzRXRxbGxFR2hHQWhlSzRqT2JiSktzY2hXenV6ODVsYlQ4dHI5a3pWTFA3TVZSZDllZFpoZUFKY3RuVURmRE9XX3Q2dGdGd1p3U0NSM2x4cmNpMGtseUR0dFNMYnpBX25UbHAwTlFRV0RwVlDSAcABQVVfeXFMT1Y2c2FudjIxLWlfOEJDSzhzS1o2MGE3RkhjcEtKa3JqR1JiSjRzMy1mZWFCbHFvbFc3YmJaTHpFT3IwbXFENW9WeE92bXJwUGhiSnBiM0V0cWxsRUdoR0FoZUs0ak9iYkpLc2NoV3p1ejg1bGJUOHRyOWt6VkxQN01WUmQ5ZWRaaGVBSmN0blVEZkRPV190NnRnRndad1NDUjNseHJjaTBrbHlEdHRTTGJ6QV9uVGxwME5RUVdEcFZQ?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "popHorizon": "entradas"
     },
     {
       "id": "eventos|https://news.google.com/rss/articles/CBMiakFVX3lxTE1fd0w5aUNhdTBXOGZrdDVOOWFOLWxBaHltTWpiVFZxUVlhR013ZDhFVEJhWE0xN2tKSjV1QnI4MldlUEpLc3VaVmlaVHRNM2g1TUI4TjB1QW5zdExBQlBwOTBFaVJwT2J1c0E?oc=5",
@@ -4836,6 +4834,26 @@
       "popHorizon": "futuro"
     },
     {
+      "id": "eventos|https://news.google.com/rss/articles/CBMiswFBVV95cUxNMmNEaW1pVWdpWXlUZ1Y3SVpoRFVxQ2FtYVpaM04yVkp5X1loalEzeDR3RlZIOE9ZN1RNWHVta0szbXRnQ2s4NHFUVEk1OW1GaVhjNS1OcUhSTVl2N0h1SHdEWWd1bE44Q0EweTRZSWstOWZzdmwtd2hMS3YtMXZWdEJvOEp1aHh4R05jaFo3MHZrZm1CZGlDRk9sRWxRbl9uMDBNMmcxRnJSZzR4T1RSV2liNA?oc=5",
+      "section": "eventos",
+      "category": "Madrid POP",
+      "title": "Simple Minds dará su único concierto en… - Movistar Arena Madrid",
+      "summary": "Simple Minds dará su único concierto en… Movistar Arena Madrid",
+      "image": "",
+      "publishedAt": "2026-09-02 07:00 UTC",
+      "language": "es",
+      "topic": "Planes futuros",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Madrid POP",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMmNEaW1pVWdpWXlUZ1Y3SVpoRFVxQ2FtYVpaM04yVkp5X1loalEzeDR3RlZIOE9ZN1RNWHVta0szbXRnQ2s4NHFUVEk1OW1GaVhjNS1OcUhSTVl2N0h1SHdEWWd1bE44Q0EweTRZSWstOWZzdmwtd2hMS3YtMXZWdEJvOEp1aHh4R05jaFo3MHZrZm1CZGlDRk9sRWxRbl9uMDBNMmcxRnJSZzR4T1RSV2liNA?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "popHorizon": "ahora"
+    },
+    {
       "id": "eventos|https://news.google.com/rss/articles/CBMifkFVX3lxTE9MSVo2VHNGcGdqZUtuMnZtT2NVbW53VS13SWVqYUtiRGozX2lPbGFRY0kzQkE0bHBZZ0dGYUdyaG5RSmZJV09VWUM2c3hKRzlQRHNxUUdfaXU2b3NXOXdiN1d3ZlcwNnM4VUY3WHpuMTlsR2hTajhPX1dYNFhyZw?oc=5",
       "section": "eventos",
       "category": "Madrid POP",
@@ -5076,6 +5094,26 @@
       "popHorizon": "entradas"
     },
     {
+      "id": "eventos|https://news.google.com/rss/articles/CBMif0FVX3lxTFBrWGdLVHNhaGttaldXUVhsSDFreGhlYkFWS1BOU0Y2dnNHSi03U3R4UzdkUXZnSWxpTHVEVm4tcHczajloRHQ3RUhtSDFxSG44YXl1TVRmUmpaOE5sNmswaGQ2cjJhTmJFTDlMcnFPYm9kTkhPUkZIZjh2aW5jR0U?oc=5",
+      "section": "eventos",
+      "category": "Guía del Ocio",
+      "title": "Krakatoa Live en Madrid: espectáculo audiovisual - Guía del Ocio",
+      "summary": "Krakatoa Live en Madrid: espectáculo audiovisual Guía del Ocio",
+      "image": "",
+      "publishedAt": "2026-11-08 05:18 UTC",
+      "language": "es",
+      "topic": "Planes y ocio",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Guía del Ocio",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrWGdLVHNhaGttaldXUVhsSDFreGhlYkFWS1BOU0Y2dnNHSi03U3R4UzdkUXZnSWxpTHVEVm4tcHczajloRHQ3RUhtSDFxSG44YXl1TVRmUmpaOE5sNmswaGQ2cjJhTmJFTDlMcnFPYm9kTkhPUkZIZjh2aW5jR0U?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "popHorizon": "ahora"
+    },
+    {
       "id": "eventos|https://news.google.com/rss/articles/CBMiekFVX3lxTE5wVC1sMzBiMFFYdzZxTnU0NHJxVFIxTmlXWVhOaExqNmQyTV9oM2NRSm1Zc1ZRMkEyZ3RzekRZYlpzczYzdmRYSldERkhQZHZGRHkzRFJYdHVyTmdWNFFhTWZHTXhsSlFaR0pyTXprajRQNHlWRzJaeGxB?oc=5",
       "section": "eventos",
       "category": "Guía del Ocio",
@@ -5110,26 +5148,6 @@
         {
           "name": "Guía del Ocio",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13WUdZaUlOaVJoSlZRR1djVmZTZndqUWp3cnVoUHEwZnJJRTJlQkNWUmNLckY5S1BYUUljNi1FdjQ4TzZXN0x3Y2FoWEpKU2RiMzMtM21UcWx4R1NiTWN5QXlyTE14cks5dVAyQi1lUmw?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "popHorizon": "ahora"
-    },
-    {
-      "id": "eventos|https://news.google.com/rss/articles/CBMie0FVX3lxTFBIdmx5Sld4d0VBb2R3aTB2SWxBX0x1ek1ORWY3cHZnRk1NZ2NENmYzQmE3TC0wUW1XVkE5d1pzRTBEQ1FKNEk5U2xhdHhwU1VoWHQ4T1FTZEowRW4wVlpCZlZqUHBlRVBxZTVkM3ZOZU0yd3ZOMEppZWJ5SQ?oc=5",
-      "section": "eventos",
-      "category": "Guía del Ocio",
-      "title": "Museo Sorolla: nueva apertura en Madrid el 15 de octubre - Guía del Ocio",
-      "summary": "Museo Sorolla: nueva apertura en Madrid el 15 de octubre Guía del Ocio",
-      "image": "",
-      "publishedAt": "2026-10-15 07:00 UTC",
-      "language": "es",
-      "topic": "Planes y ocio",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Guía del Ocio",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIdmx5Sld4d0VBb2R3aTB2SWxBX0x1ek1ORWY3cHZnRk1NZ2NENmYzQmE3TC0wUW1XVkE5d1pzRTBEQ1FKNEk5U2xhdHhwU1VoWHQ4T1FTZEowRW4wVlpCZlZqUHBlRVBxZTVkM3ZOZU0yd3ZOMEppZWJ5SQ?oc=5"
         }
       ],
       "region": "Madrid",
@@ -5310,26 +5328,6 @@
         {
           "name": "Madrid Secreto",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSDVpZWxsZmJ0dHJzQ3gtcVlfRkkyM2M1NVdhQkxTUWc1SU1JNGI2R0dhUzhmWFJTOXNrSXFHNGQwOUJ2RkRCZWEwVEF0em5SRVJJc3FhV2NSTFFQeFplaFd4blR5YmJiSTZyMkYtMTVIdk9JTnRRdWtIYjRUNGUtX1ZiWkl1OVhrenlZRWYtZGNzLUZELVVKbHVEbTVBd2wxZzJhVHdNUE5VWE4tQVVhbVhXY1gyN21VOVUtT0RhaGdndVYySldHVDZNdDdkd0tQUDVV?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "popHorizon": "ahora"
-    },
-    {
-      "id": "eventos|https://news.google.com/rss/articles/CBMiswFBVV95cUxNcGZ6bzRULVBUTnZILTRiTFhOWGk3dVFKS3dVbEZZdnNSQi1BWFhLMXM0NjhMMlI2ZFZsbGRfTjZ2WTBPYS1tQjdtZVIzNXJ1RXFQUU9tdE9Cbjd4NDVVZmdjdnFLcTd0ajVvcHIyYlB6bk9hSXZLbnlzcDh2RzNETDM5NjVTd1I4Y2xlWVJKWm13NHJBSm1JRWN3UWFid3BCVkUtNW1fUnZ2bGNaMm8zbGYxUQ?oc=5",
-      "section": "eventos",
-      "category": "Madrid Destino",
-      "title": "Concierto de Aranjuez 125° del nacimiento de Joaquín Rodrigo - Madrid Destino",
-      "summary": "Concierto de Aranjuez 125° del nacimiento de Joaquín Rodrigo Madrid Destino",
-      "image": "",
-      "publishedAt": "2026-10-29 17:08 UTC",
-      "language": "es",
-      "topic": "Arte y cultura",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Madrid Destino",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcGZ6bzRULVBUTnZILTRiTFhOWGk3dVFKS3dVbEZZdnNSQi1BWFhLMXM0NjhMMlI2ZFZsbGRfTjZ2WTBPYS1tQjdtZVIzNXJ1RXFQUU9tdE9Cbjd4NDVVZmdjdnFLcTd0ajVvcHIyYlB6bk9hSXZLbnlzcDh2RzNETDM5NjVTd1I4Y2xlWVJKWm13NHJBSm1JRWN3UWFid3BCVkUtNW1fUnZ2bGNaMm8zbGYxUQ?oc=5"
         }
       ],
       "region": "Madrid",
@@ -6236,20 +6234,20 @@
       "popHorizon": "ahora"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMid0FVX3lxTE9sMkpBQm1qMHlyNjVaZlVOMXQwVkxpNk9XSnFhLXFDWVpEUWJBWW9mQUVHd0pUQlZPZjJWRTJ4NFVxZG9KdzVJRTJfNkQzZ245VEhWN21TX1RLamtJSVNBYmd4cUtZWTYyM1B6X2Q2TXZ0c1BjVUQw?oc=5",
+      "id": "eventos|https://news.google.com/rss/articles/CBMid0FVX3lxTE1LdjRvVk0tNlFOZ3ZSNWRWbkxFN2xaaGRYb0FSbXBQTG9mNjdzc0FUb29EQnpiUHhOQW44Z3oySkUwdUpJWERtSkxRYmN1WTJwdXl1d1R4SUJlMW1hVUJwNnQ1RGNqVmdxdFJyNkxTblRNZms0cHZJ?oc=5",
       "section": "eventos",
       "category": "Teatros del Canal",
-      "title": "Eventos en 19 noviembre, 2026 - Teatros del Canal",
-      "summary": "Eventos en 19 noviembre, 2026 Teatros del Canal",
+      "title": "Eventos en 24 noviembre, 2026 - Teatros del Canal",
+      "summary": "Eventos en 24 noviembre, 2026 Teatros del Canal",
       "image": "",
-      "publishedAt": "2026-11-01 19:23 UTC",
+      "publishedAt": "2026-11-01 19:22 UTC",
       "language": "es",
       "topic": "Teatro y musicales",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Teatros del Canal",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sMkpBQm1qMHlyNjVaZlVOMXQwVkxpNk9XSnFhLXFDWVpEUWJBWW9mQUVHd0pUQlZPZjJWRTJ4NFVxZG9KdzVJRTJfNkQzZ245VEhWN21TX1RLamtJSVNBYmd4cUtZWTYyM1B6X2Q2TXZ0c1BjVUQw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LdjRvVk0tNlFOZ3ZSNWRWbkxFN2xaaGRYb0FSbXBQTG9mNjdzc0FUb29EQnpiUHhOQW44Z3oySkUwdUpJWERtSkxRYmN1WTJwdXl1d1R4SUJlMW1hVUJwNnQ1RGNqVmdxdFJyNkxTblRNZms0cHZJ?oc=5"
         }
       ],
       "region": "Madrid",
@@ -6294,26 +6292,6 @@
       ],
       "region": "Madrid",
       "popHorizon": "futuro"
-    },
-    {
-      "id": "eventos|https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HSGFjS2ZUb1NWdW9jSWZpaUVuV01nUzY5MWZkLTQyMWpMaDV0djVlbHJwM2g3Q0luNVRfS1k4cGN3ZU03VzRQM0JJTGtVVDU5LVNUa041NndkaWZFcXc?oc=5",
-      "section": "eventos",
-      "category": "Teatro Real",
-      "title": "TOMATITO - Teatro Real",
-      "summary": "TOMATITO Teatro Real",
-      "image": "",
-      "publishedAt": "2026-10-19 14:12 UTC",
-      "language": "es",
-      "topic": "Teatro y musicales",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Teatro Real",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HSGFjS2ZUb1NWdW9jSWZpaUVuV01nUzY5MWZkLTQyMWpMaDV0djVlbHJwM2g3Q0luNVRfS1k4cGN3ZU03VzRQM0JJTGtVVDU5LVNUa041NndkaWZFcXc?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "popHorizon": "ahora"
     },
     {
       "id": "eventos|https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZQ1BfZV9mSVlXZmpJWDZoRkVrS2dWd2VjbFh6Q0doSHBmWnBENG5vYklRSzJxeG1tTjY1SmZuamZvbFdkdjFGSlhFdnZDSm9OcmJwcDhUbUJkX25aWmJDcEJoRWFkX3A0WWFjUWRLRl9GNVZaM1JXd0ZBbw?oc=5",
@@ -6416,40 +6394,20 @@
       "popHorizon": "ahora"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMingFBVV95cUxNbkc2cjNVeDBLQmtWWlRKM1BoOElKS3Rtb2ZQMFlabTNxc1l5Y2NWMlk5WVdZVC16emhhdG9fcmdZOUJMWEg3SXoyUU9GNTd5RzNtNC0xUDZXTDk0bE5kRklnTWhkZzJlUy1qUl9lNktWZ3NDT2pzMGZVTHJnamExMklKSEhOTF81d1BPaDhGblFxRTVnZWx5Rm5GY3lfQQ?oc=5",
+      "id": "eventos|https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMNXJ1cVZGbWVTVkpkcWlMX0RnVHJtQ25SVkwxVEFtRkVmMU1SZU5nemg4RGRzTWJqNk1yaFhBcmtoOGNnTkJmV0FNblplZmI2ZVZqSXBSS2UyZWlVeUlZ?oc=5",
       "section": "eventos",
-      "category": "Teatro Fernán Gómez",
-      "title": "El teatro Fernán Gómez. Centro Cultural de la Villa presenta El público, de Federico García Lorca - Teatro Fernán Gómez",
-      "summary": "El teatro Fernán Gómez. Centro Cultural de la Villa presenta El público, de Federico García Lorca Teatro Fernán Gómez",
+      "category": "Teatro Real",
+      "title": "Giselle - Teatro Real",
+      "summary": "Giselle Teatro Real",
       "image": "",
-      "publishedAt": "2026-09-24 07:00 UTC",
+      "publishedAt": "2022-04-01 11:15 UTC",
       "language": "es",
       "topic": "Teatro y musicales",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "Teatro Fernán Gómez",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbkc2cjNVeDBLQmtWWlRKM1BoOElKS3Rtb2ZQMFlabTNxc1l5Y2NWMlk5WVdZVC16emhhdG9fcmdZOUJMWEg3SXoyUU9GNTd5RzNtNC0xUDZXTDk0bE5kRklnTWhkZzJlUy1qUl9lNktWZ3NDT2pzMGZVTHJnamExMklKSEhOTF81d1BPaDhGblFxRTVnZWx5Rm5GY3lfQQ?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "popHorizon": "ahora"
-    },
-    {
-      "id": "eventos|https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rVXg0b2hMMks5VVcxcm9oTTlFNVhWa2NBTjVFMXpqMVU5OHpNWnJvS2lPRzVLN1p6bmpMUWZ1bkF1T1BLbmhLeWpkWmVtNW9RMEx4NVRmVG9ld2xFNDZsVEFB?oc=5",
-      "section": "eventos",
-      "category": "Teatro Fernán Gómez",
-      "title": "EL PÚBLICO - Teatro Fernán Gómez",
-      "summary": "EL PÚBLICO Teatro Fernán Gómez",
-      "image": "",
-      "publishedAt": "2026-10-30 22:13 UTC",
-      "language": "es",
-      "topic": "Teatro y musicales",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Teatro Fernán Gómez",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rVXg0b2hMMks5VVcxcm9oTTlFNVhWa2NBTjVFMXpqMVU5OHpNWnJvS2lPRzVLN1p6bmpMUWZ1bkF1T1BLbmhLeWpkWmVtNW9RMEx4NVRmVG9ld2xFNDZsVEFB?oc=5"
+          "name": "Teatro Real",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMNXJ1cVZGbWVTVkpkcWlMX0RnVHJtQ25SVkwxVEFtRkVmMU1SZU5nemg4RGRzTWJqNk1yaFhBcmtoOGNnTkJmV0FNblplZmI2ZVZqSXBSS2UyZWlVeUlZ?oc=5"
         }
       ],
       "region": "Madrid",
@@ -6530,6 +6488,46 @@
         {
           "name": "Teatro Fernán Gómez",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaGN6M3hjc1hCNkxtc0I3elJ3Q21NSDNYOE1JOUM1dnE5S3YtQl84aXljV3VZV2JheG84bGNmUmVkMVhBaXphR3dpLWhPcFJfZlB0SXhiejZ3dWg0a0JLMS1mZ0lRc2w1TXF6eWExbXRJblBzREE4NmJvV1hfbHNRTmlGUVdPeXFGYnBTV0FKNWZWOE1aWVNFTDgxY0txWE4yRHRz?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "popHorizon": "ahora"
+    },
+    {
+      "id": "eventos|https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZFBZcTEzOWhjSjFrMndpMDhsQnRmSEZiY2FVTXlxQ3VXekh4RDR2d0pBMktVOGUyanp1dUxDS2QyQXNwMkZPckRYd3ZxQ1M1RU1OZEpmaVZrbDJiYmxmRU8xUVN4SlhOMU90TWNJbFFCenhGcHBEYzFkLUE2a1lZRERHYWFiV3JuZmlmV292cnloZmJ6LUxLbXlSem9PY2N0UF9JS1BnTHZvUDNnaUtWSURTRDFyTjdM?oc=5",
+      "section": "eventos",
+      "category": "Teatro Fernán Gómez",
+      "title": "EXPOSICIÓN TEATRO DE GRANDEZA. ARTE, ARQUITECTURA Y CIUDAD EN EL MADRID BARROCO - Teatro Fernán Gómez",
+      "summary": "EXPOSICIÓN TEATRO DE GRANDEZA. ARTE, ARQUITECTURA Y CIUDAD EN EL MADRID BARROCO Teatro Fernán Gómez",
+      "image": "",
+      "publishedAt": "2026-10-15 23:53 UTC",
+      "language": "es",
+      "topic": "Teatro y musicales",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Teatro Fernán Gómez",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZFBZcTEzOWhjSjFrMndpMDhsQnRmSEZiY2FVTXlxQ3VXekh4RDR2d0pBMktVOGUyanp1dUxDS2QyQXNwMkZPckRYd3ZxQ1M1RU1OZEpmaVZrbDJiYmxmRU8xUVN4SlhOMU90TWNJbFFCenhGcHBEYzFkLUE2a1lZRERHYWFiV3JuZmlmV292cnloZmJ6LUxLbXlSem9PY2N0UF9JS1BnTHZvUDNnaUtWSURTRDFyTjdM?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "popHorizon": "ahora"
+    },
+    {
+      "id": "eventos|https://news.google.com/rss/articles/CBMirAFBVV95cUxQV2dWVlZ4U1dBRUsyY0trVmpWa1dUd1JGakV6U05kRGR6YzZrcHp4QUtRTlZvX3cxT0tiSFBrRWJWa2d6Nk1WbHBNOWgzb3lXOHRwaUJMWXpFdUZUZVlQN2tnVDFoVjF4WEJhcm13SDk2dXdiZUVrMkRBcHktbEsyb0Nnc3NrWkFYVlQzdkRnRW55NVJLdmo5WVByV0ZYS0VTWEhUdlBiZmVQWV9K?oc=5",
+      "section": "eventos",
+      "category": "Teatro Fernán Gómez",
+      "title": "El teatro Fernán Gómez. Centro Cultural de la Villa presenta una exposición temporal sobre Madrid: Teatro de grandeza. Arte, arquitectura y ciudad en el Madrid barroco - Teatro Fernán Gómez",
+      "summary": "El teatro Fernán Gómez. Centro Cultural de la Villa presenta una exposición temporal sobre Madrid: Teatro de grandeza. Arte, arquitectura y ciudad en el Madrid barroco Teatro Fernán Gómez",
+      "image": "",
+      "publishedAt": "2026-10-14 07:00 UTC",
+      "language": "es",
+      "topic": "Teatro y musicales",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Teatro Fernán Gómez",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV2dWVlZ4U1dBRUsyY0trVmpWa1dUd1JGakV6U05kRGR6YzZrcHp4QUtRTlZvX3cxT0tiSFBrRWJWa2d6Nk1WbHBNOWgzb3lXOHRwaUJMWXpFdUZUZVlQN2tnVDFoVjF4WEJhcm13SDk2dXdiZUVrMkRBcHktbEsyb0Nnc3NrWkFYVlQzdkRnRW55NVJLdmo5WVByV0ZYS0VTWEhUdlBiZmVQWV9K?oc=5"
         }
       ],
       "region": "Madrid",
@@ -7518,22 +7516,22 @@
     {
       "id": "cultura|https://news.google.com/rss/articles/CBMiggFBVV95cUxOVFdJd3lVQ2dXWHpLX29panliVzEtdWRoS1dfajhmTDdjam1RLXUzaEkwZFFBTkZIek4yeUNuSFQzbS1UcWxBb3BiX19CcDdDelhXM2xxcDVmRFc1bnlERG1TY2xTRms0d3loc1hOVWhZWlozdjJsTGswSVJmX2NneUpR0gGHAUFVX3lxTE1zcXM1azdYMFBLZUdJc2xrSlQ5UkZMbVRMMVVHMnJOQ3JJQ1VfYU95Q1J6cHVKeVRnak8yWWg5S0NUc0lxRUlHN1VEYlVEaktxdS1hOW5aQXNyMy1kdlBiYkVFT2tjckxjdjU2V0NZMVFvLU1FY19jcFVWUU9LMWE1ZmMzNUFNaw?oc=5",
       "section": "cultura",
-      "category": "Cultura ES",
+      "category": "Agenda Madrid",
       "title": "Qué hacer en Madrid este fin de semana - elDiario.es",
       "summary": "Qué hacer en Madrid este fin de semana elDiario.es",
       "image": "",
       "publishedAt": "2026-11-05 09:02 UTC",
       "language": "es",
-      "topic": "Cultura general",
+      "topic": "Música",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "Cultura ES",
+          "name": "Agenda Madrid",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVFdJd3lVQ2dXWHpLX29panliVzEtdWRoS1dfajhmTDdjam1RLXUzaEkwZFFBTkZIek4yeUNuSFQzbS1UcWxBb3BiX19CcDdDelhXM2xxcDVmRFc1bnlERG1TY2xTRms0d3loc1hOVWhZWlozdjJsTGswSVJmX2NneUpR0gGHAUFVX3lxTE1zcXM1azdYMFBLZUdJc2xrSlQ5UkZMbVRMMVVHMnJOQ3JJQ1VfYU95Q1J6cHVKeVRnak8yWWg5S0NUc0lxRUlHN1VEYlVEaktxdS1hOW5aQXNyMy1kdlBiYkVFT2tjckxjdjU2V0NZMVFvLU1FY19jcFVWUU9LMWE1ZmMzNUFNaw?oc=5"
         }
       ],
       "region": "Madrid",
-      "cultureView": "noticias"
+      "cultureView": "agenda"
     },
     {
       "id": "cultura|https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOEd0b3FKN1JLTkhqUTJra2xmSlBhNFh5WVZwYnlVdXBnWDhZa2lFRmtRTnlFdnVLMVNXdEtuNGxSXzgwODJxcGRMYWp4aTZNVl82dURYcGdHZkJQT0plVE5CNVAzUEc0MFBGQ1lKRHFpWG51a3J3cGVoeS0tQjdGSDVMUzA2M2QzTHU5ZDUxdWZTSnN3RDNFamVmYTFCc00tMXJwdlJJNl9RY3BCa01mR3h5azAtaHA5OVVVZnRBVVFMY0VrcXdYenRDU3BWb0E0WFFR?oc=5",
@@ -8576,6 +8574,26 @@
       "cultureView": "noticias"
     },
     {
+      "id": "cultura|https://news.google.com/rss/articles/CBMisgFBVV95cUxQOEU4VVZteDNrMk5iY3NqRTdHSXJ5T29YRlBOQ1lEVk9nUk9KMzZMZUozcnR3ZVB1N2FXY1k3ZkhOcm5BdURoSjc3UE5TdFgzZDVpVDUtem5IUUZwN1dRSl9Wa2FFTVhYTUoxM05qLW85dG1VNVBGQkJvUmxVUEJRNExMMnF5c1EzT0hPOU94MDNLNl9NSUd6M0RBNFN2Z3haSVQ3a191NDBzck44X0IxbU130gHGAUFVX3lxTE52LU94Y2g4TE9jV0lwUTFtcHZ3NU9KMXE5U2Zvb1JKemhTdWhHaEVUVWxIRWVObzh0YTZVc3ZEOE5lUm5POHdnY0NlNHZ1dm5zQlFIRGZvdU1abHkzR3ZEa243UGF4OVZkeWFCZGUtaER5dVF6NzZubTRkVFJ1VzFJNDJzSlJEUFBaWEs4RW1aTXhwYU5VSkJEMTVyd3QzWFlvYWVEZjlhY1dubGpQOTVVOHZhOFBpeFBFdGNaWWlSTDYxUjZ5dw?oc=5",
+      "section": "cultura",
+      "category": "Cultura ES",
+      "title": "Fallece en Elche el artista Eutiquio Estirado - Cadena SER",
+      "summary": "Fallece en Elche el artista Eutiquio Estirado Cadena SER",
+      "image": "",
+      "publishedAt": "2026-11-05 12:20 UTC",
+      "language": "es",
+      "topic": "Cultura general",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Cultura ES",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOEU4VVZteDNrMk5iY3NqRTdHSXJ5T29YRlBOQ1lEVk9nUk9KMzZMZUozcnR3ZVB1N2FXY1k3ZkhOcm5BdURoSjc3UE5TdFgzZDVpVDUtem5IUUZwN1dRSl9Wa2FFTVhYTUoxM05qLW85dG1VNVBGQkJvUmxVUEJRNExMMnF5c1EzT0hPOU94MDNLNl9NSUd6M0RBNFN2Z3haSVQ3a191NDBzck44X0IxbU130gHGAUFVX3lxTE52LU94Y2g4TE9jV0lwUTFtcHZ3NU9KMXE5U2Zvb1JKemhTdWhHaEVUVWxIRWVObzh0YTZVc3ZEOE5lUm5POHdnY0NlNHZ1dm5zQlFIRGZvdU1abHkzR3ZEa243UGF4OVZkeWFCZGUtaER5dVF6NzZubTRkVFJ1VzFJNDJzSlJEUFBaWEs4RW1aTXhwYU5VSkJEMTVyd3QzWFlvYWVEZjlhY1dubGpQOTVVOHZhOFBpeFBFdGNaWWlSTDYxUjZ5dw?oc=5"
+        }
+      ],
+      "region": "Internacional",
+      "cultureView": "noticias"
+    },
+    {
       "id": "cultura|https://www.theguardian.com/stage/2026/nov/05/christos-papadopoulos-my-fierce-ignorant-step-sadlers-wells",
       "section": "cultura",
       "category": "Stage EN",
@@ -8753,6 +8771,12 @@
     ],
     "mundo": [
       {
+        "title": "Snow blankets parts of NSW just weeks away from summer",
+        "publishedAt": "2026-11-08 05:53 UTC",
+        "source": "ABC Australia",
+        "url": "https://www.abc.net.au/news/2026-11-08/snow-falls-parts-of-nsw-after-strong-cold-front/107361014"
+      },
+      {
         "title": "Swans prevail in AFLW elimination final scrap against Bulldogs",
         "publishedAt": "2026-11-08 04:50 UTC",
         "source": "ABC Australia",
@@ -8817,12 +8841,6 @@
         "publishedAt": "2026-11-08 02:42 UTC",
         "source": "ABC Australia",
         "url": "https://www.abc.net.au/news/2026-11-08/nt-catholic-schools-increased-police-terrorism-related-charges/107359480"
-      },
-      {
-        "title": "Cold blast brings springtime snow to alpine regions as temperatures plummet across Australia’s south-east",
-        "publishedAt": "2026-11-08 02:34 UTC",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/australia-news/2026/nov/08/australia-weather-cold-blast-springtime-snow-thredbo-perisher-hotham-victoria-tasmania-el-nino"
       }
     ],
     "cultura": [
@@ -8883,7 +8901,19 @@
     ],
     "television": [
       {
-        "title": "Emma Stone Crashes Druski’s ‘SNL’ Monologue in Hilarious Fashion",
+        "title": "‘SNL’ Weekend Update Brutally Roasts Elon Musk Over ‘Epic’ Midterms Defeat",
+        "publishedAt": "2026-11-08 05:57 UTC",
+        "source": "Variety TV",
+        "url": "https://variety.com/2026/tv/news/snl-weekend-update-elon-musk-midterms-election-1236942283/"
+      },
+      {
+        "title": "‘SNL’: Druski Dons Whiteface as Elizabeth Holmes in ‘You Can See Everything’ Parody",
+        "publishedAt": "2026-11-08 05:29 UTC",
+        "source": "Variety TV",
+        "url": "https://variety.com/2026/tv/news/snl-druski-whiteface-elizabeth-holmes-nathan-fielder-you-can-see-everything-parody-1236942289/"
+      },
+      {
+        "title": "Emma Stone Ambushes Druski’s ‘SNL’ Monologue in Hilarious Fashion",
         "publishedAt": "2026-11-08 05:00 UTC",
         "source": "Variety TV",
         "url": "https://variety.com/2026/tv/news/emma-stone-druski-snl-monologue-the-catch-1236942272/"
@@ -8941,18 +8971,6 @@
         "publishedAt": "2026-11-07 11:12 UTC",
         "source": "FormulaTV",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVXc2ZTFtZkZ4bjJGOGpGMnctSFJQTUJsT0p4VE55ZkFUcWdNSFN4bFhHZVlRbWhRdTZpZ3VJYWlxWTY5TEpRbkVGTjdGd05mRHJ1NWZiYkQyMlNuRXotdkdEcUZ6al9NZlJja29WYlROdHdQTFUtd0pGNnI3Yi02amJwcy15QkllYVZfZnY4ZS1BUQ?oc=5"
-      },
-      {
-        "title": "Pedro Sánchez será entrevistado por Javier Ruiz en La Séptima coincidiendo con la visita de Abascal a 'La Revuelta' de RTVE",
-        "publishedAt": "2026-11-07 10:14 UTC",
-        "source": "Vertele",
-        "url": "https://www.eldiario.es/vertele/noticias/pedro-sanchez-sera-entrevistado-javier-ruiz-septima-coincidiendo-visita-abascal-revuelta-rtve_1_13646145.html"
-      },
-      {
-        "title": "Raquel Mosquera ficha por 'GH VIP 9' y vuelve al universo Mediaset tras pasar dos veces por 'Supervivientes'",
-        "publishedAt": "2026-11-07 10:00 UTC",
-        "source": "Vertele",
-        "url": "https://www.eldiario.es/vertele/noticias/raquel-mosquera-ficha-gh-vip-vuelve-universo-mediaset-pasar-veces-supervivientes_1_13646074.html"
       }
     ],
     "tecnologia": [
@@ -9023,10 +9041,10 @@
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOekRURVpneWNySTZ1ZU1aalFteU55M19xYzZwVFozNmdVbnZydmpuTjhqanIwTTlmTktESUtmOWZYaGNYQnMwV2x5TWVMdHhfNGZ4OUpER3ZOZUdXWUJ5cnE5czV4QWVyRHFfTUdYWThBaGU4a0RkVFplblkxWW5BcXNkZTdjNkU?oc=5"
       },
       {
-        "title": "Gotta buy ’em all: how Pokémon card collecting became race against scalpers",
+        "title": "A ‘customer success story’: leaked documents show Cisco doubled down on Israeli military deals during Gaza war",
         "publishedAt": "2026-11-07 12:00 UTC",
         "source": "Tech EN",
-        "url": "https://www.theguardian.com/games/2026/nov/07/gotta-buy-em-all-how-pokemon-card-collecting-became-race-against-scalpers"
+        "url": "https://www.theguardian.com/world/2026/nov/07/israel-intelligence-cisco-gaza-palestine"
       }
     ],
     "estilo": [
@@ -9061,16 +9079,16 @@
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb0Rub3VtTWd1NzdkR2czcGI0UFJHcjh5Y2R2cUhteV9na0lZbFpkSWVmdGU0THNvaU9maWc4WURYVU5ITVJ6ZkxzLVkxU3ZKWXo3eDBVNGVkbDFLVFl4Sktfbmc2a1o3N0lBV3VDV3AxRWphVlJ4RjBzS3QzNUV2QVRHV2MzcEIteUd0SEF0Q3pxZlJYTFpfSHRCY19jbnlWTXZnSkEzcUNLZmJtUWNFQ2R1QlVvNGlDd2t4QmpDa3V2bTlZLXAzX05obEZqSGp1ZF8yTzRB?oc=5"
       },
       {
-        "title": "El nuevo documental de Netflix sobre Matthew Perry: una mirada imprescindible a través de sus verdaderos amigos - GQ España",
-        "publishedAt": "2026-11-07 10:30 UTC",
-        "source": "GQ España",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcVE4eDc5bXRJTW92bGZqc01Ddk5LSERBcmhPdUVER1ZnV19oTkd6LXVFOEtJaHR4NFNXUkJKa0dDRXVtLTBmUDBoUFZqS1pDaXhKOTRKdHV2Qkw5cFRZRVVxdnpNeXFKdU9WcXBHRjF5NFdkX3dob0lZZmdzcG9EWEkwS2syWlNXWm9taDE1bGRiSWlWLUJVMjNmQXZ0M2g0bmRuQlBNOFVlR01SWTY0UXBYWFVVMlZoaFhhZUp4U2dSV2xPRWZWZGVMY1dzX0c5N0RQd3RhdnpENXVuVHc?oc=5"
-      },
-      {
         "title": "“Me salieron canas a los 16”: cuando tu pelo envejece más rápido que tú - GQ España",
         "publishedAt": "2026-11-07 10:30 UTC",
         "source": "GQ España",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOEFfNnlISGkxZlp2NVo3cDJrT241ekJXWVdWLUFSQ2lHRnI0X3ZGSzBLUUdiazRLSU9rcE5sanNDOWhaNkRGRG1vZ1F3SXhHRlVWdFZoMm9lREkxTk1aVENoTzFqZElDbGctVVhrTWFXSGtkZGR3SUlaZXViTHBtU1NmZjlQUDc4ZEpqT1BtZkxLemNEcHZab2pTX2tBNUZWRjdiTXdn?oc=5"
+      },
+      {
+        "title": "El nuevo documental de Netflix sobre Matthew Perry: una mirada imprescindible a través de sus verdaderos amigos - GQ España",
+        "publishedAt": "2026-11-07 10:30 UTC",
+        "source": "GQ España",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcVE4eDc5bXRJTW92bGZqc01Ddk5LSERBcmhPdUVER1ZnV19oTkd6LXVFOEtJaHR4NFNXUkJKa0dDRXVtLTBmUDBoUFZqS1pDaXhKOTRKdHV2Qkw5cFRZRVVxdnpNeXFKdU9WcXBHRjF5NFdkX3dob0lZZmdzcG9EWEkwS2syWlNXWm9taDE1bGRiSWlWLUJVMjNmQXZ0M2g0bmRuQlBNOFVlR01SWTY0UXBYWFVVMlZoaFhhZUp4U2dSV2xPRWZWZGVMY1dzX0c5N0RQd3RhdnpENXVuVHc?oc=5"
       },
       {
         "title": "Agustín Trapero, sumiller: \"El consumidor medio sigue en Rioja, Ribera del Duero, Rueda y Rías Baixas, esa zona de confort a la que muchos recurren por seguridad\" - Esquire",
@@ -9093,6 +9111,12 @@
     ],
     "eventos": [
       {
+        "title": "Krakatoa Live en Madrid: espectáculo audiovisual - Guía del Ocio",
+        "publishedAt": "2026-11-08 05:18 UTC",
+        "source": "Guía del Ocio",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrWGdLVHNhaGttaldXUVhsSDFreGhlYkFWS1BOU0Y2dnNHSi03U3R4UzdkUXZnSWxpTHVEVm4tcHczajloRHQ3RUhtSDFxSG44YXl1TVRmUmpaOE5sNmswaGQ2cjJhTmJFTDlMcnFPYm9kTkhPUkZIZjh2aW5jR0U?oc=5"
+      },
+      {
         "title": "Peeping Tom presenta en Centro Danza Matadero ‘Chroniques’, un viaje físico y poético por los límites de la existencia - Diario del Ayuntamiento de Madrid",
         "publishedAt": "2026-11-07 10:36 UTC",
         "source": "Agenda Ayuntamiento Madrid",
@@ -9103,12 +9127,6 @@
         "publishedAt": "2026-11-07 08:03 UTC",
         "source": "Museo Thyssen",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZGdTMXJaaGh5U1NrOUF6UlVRa1JySGxiNFVzNzcxSTg0UUtlcV82QVRDM0JJSFozaDlhNGs1cFVvbWptZ2FnNDZ0Zl9CYlZpVVY4cXk1MC1OamgtREtRUV9vOFpHRjBuWWotMG5yY2MxbS1BX1NHM09BNlZyOWowZg?oc=5"
-      },
-      {
-        "title": "Comunidad de Madrid - Museo Reina Sofía",
-        "publishedAt": "2026-11-07 05:25 UTC",
-        "source": "Museo Reina Sofía",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYmQtU1FOY25WQU9HangwVmpRYzdVRmo0aUluc1NaMFg2d01rTkEya0RmUTRDRjZHQU9LdzkxU0VlTm8zWXhxa3MxRm1wS2ZYeHB3ODVoRENEcnMxSm5NbnkwUE5zSnZYUTJHcnRJQ3kyU3Y1UnBIc2VqVmNQTW9nX1FCWQ?oc=5"
       }
     ],
     "viral": [
