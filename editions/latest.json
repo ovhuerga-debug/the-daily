@@ -1,16 +1,16 @@
 {
-  "edition": "THE DAILY · Mañana · 09/11/2026 02:08",
-  "generatedAt": "2026-11-09T01:08:44.866399+00:00",
+  "edition": "THE DAILY · Mañana · 09/11/2026 03:22",
+  "generatedAt": "2026-11-09T02:22:52.287379+00:00",
   "mode": "rss-excerpts",
   "stories": [
     {
       "id": "espana|https://elpais.com/america/2026-11-08/la-visita-de-leon-xiv-en-uruguay-en-vivo.html",
       "section": "espana",
       "category": "El País",
-      "title": "La visita de León XIV en Argentina, en vivo | Frente a Milei, el Papa aboga por la necesidad de “escuchar” y por “el cuidado de la palabra”",
-      "summary": "El Pontífice mantiene una reunión privada con el presidente argentino y luego pronuncia su primer discurso en Buenos Aires",
+      "title": "Así le hemos contado el primer día del Papa León XIV en Argentina",
+      "summary": "El Pontífice sostuvo una reunión privada con el presidente argentino y luego pronunció su primer discurso en Buenos Aires",
       "image": "https://imagenes.elpais.com/resizer/v2/6NSJPPAIMFH2ZJIHGM4UU2FD6M.JPG?auth=694b3ce4c14291e87e628d86f40c065712218b7739af846aa3fbecef484c166a",
-      "publishedAt": "2026-11-09 00:30 UTC",
+      "publishedAt": "2026-11-09 02:10 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
@@ -18,6 +18,114 @@
         {
           "name": "El País",
           "url": "https://elpais.com/america/2026-11-08/la-visita-de-leon-xiv-en-uruguay-en-vivo.html"
+        }
+      ]
+    },
+    {
+      "id": "espana|https://www.elmundo.es/internacional/2026/11/09/6af12214e4d4d88f658b457b.html",
+      "section": "espana",
+      "category": "El Mundo",
+      "title": "Trump confiesa que \"solo bromeaba\" cuando pidió al director de las luchas UFC ser su portavoz: \"Si él estuviese, no se meterían tanto con él\"",
+      "summary": "La CNN reportó que \"una fuente familiarizada con el asunto afirmó que el director ejecutivo del UFC rechazó la idea poco ortodoxa\" Leer",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/09/17941878484146.jpg",
+      "publishedAt": "2026-11-09 01:33 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "El Mundo",
+          "url": "https://www.elmundo.es/internacional/2026/11/09/6af12214e4d4d88f658b457b.html"
+        }
+      ]
+    },
+    {
+      "id": "espana|https://www.elmundo.es/elecciones/elecciones-generales/2026/11/08/6af0bb62fc6c83752d8b4585.html",
+      "section": "espana",
+      "category": "El Mundo",
+      "title": "El corazón del 'sorpasso' de Vox al PSOE en Torre Pacheco: \"Hay que poner todo en su sitio\"",
+      "summary": "Abascal tiene en esta autonomía un feudo. Campo, agua e inmigración lo dispararon a la victoria en 2019 y en 2026 volverá a superar al PSOE. La derecha aspira a un 8-2 en Murcia, territorio clave que inaugura la serie 'Aquí se decide la campaña' Leer",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/08/17941611127343.jpg",
+      "publishedAt": "2026-11-09 01:23 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "El Mundo",
+          "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/08/6af0bb62fc6c83752d8b4585.html"
+        }
+      ]
+    },
+    {
+      "id": "espana|https://www.elmundo.es/madrid/2026/11/09/6aecb8a5e85ecef1318b457d.html",
+      "section": "espana",
+      "category": "El Mundo",
+      "title": "Afianza, una compañía madrileña, conquista el skyline de la capital: clava su logo en la torre Emperador en una operación de vértigo a 225 metros de altura",
+      "summary": "Uno de los cuatro grandes rascacielos se rebautiza con la llegada de la firma que nació en Legazpi y ha revolucionado el sector de los servicios financieros. GRAN MADRID ha sido testigo directo del delicado proceso de montaje del nuevo letrero Leer",
+      "image": "http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&cg=rss-elmundo&ci=es-widgetueditorial&si=http://www.elmundo.es/rss/index.xml",
+      "publishedAt": "2026-11-09 01:21 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "El Mundo",
+          "url": "https://www.elmundo.es/madrid/2026/11/09/6aecb8a5e85ecef1318b457d.html"
+        }
+      ]
+    },
+    {
+      "id": "espana|https://www.elmundo.es/papel/2026/11/08/6ae88fecfc6c8371578b4579.html",
+      "section": "espana",
+      "category": "El Mundo",
+      "title": "Fernando Savater: \"La pregunta no es cuándo me hice yo de derechas sino cuándo los socialistas se hicieron como Pedro Sánchez\"",
+      "summary": "Figura indiscutible durante 40 años de democracia, su evolución ideológica ha cambiado la percepción de mucha gente. ¿Le importa? Muy poco: \"Las elecciones no van a resolver todos los problemas, pero me alegraré si gana la derecha\" Leer",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/08/17941559547653.jpg",
+      "publishedAt": "2026-11-09 01:19 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "El Mundo",
+          "url": "https://www.elmundo.es/papel/2026/11/08/6ae88fecfc6c8371578b4579.html"
+        }
+      ]
+    },
+    {
+      "id": "espana|https://www.elmundo.es/espana/2026/11/09/6af0684f21efa04e6a8b4575.html",
+      "section": "espana",
+      "category": "El Mundo",
+      "title": "El jefe antinarco de Segovia que se 'vendió' a una red",
+      "summary": "Asuntos Internos de la Guardia Civil atribuye al subteniente detenido \"influencia\" en el grupo criminal Leer",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/08/17941594663418.jpg",
+      "publishedAt": "2026-11-09 01:19 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "El Mundo",
+          "url": "https://www.elmundo.es/espana/2026/11/09/6af0684f21efa04e6a8b4575.html"
+        }
+      ]
+    },
+    {
+      "id": "espana|https://www.elmundo.es/internacional/2026/11/09/6af11c96e9cf4a0b2d8b4597.html",
+      "section": "espana",
+      "category": "El Mundo",
+      "title": "Localizan con vida al alcalde de Río Bravo (México) tras lograr escapar de sus secuestradores y haber caminado más de 80 kilómetros hasta Coahuila",
+      "summary": "El alcalde logró escapar de sus captores tras aprovechar un descuido y corrió más de 80 kilómetros hasta llegar a Coahuila Leer",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/09/17941868170408.jpg",
+      "publishedAt": "2026-11-09 01:14 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "El Mundo",
+          "url": "https://www.elmundo.es/internacional/2026/11/09/6af11c96e9cf4a0b2d8b4597.html"
         }
       ]
     },
@@ -166,24 +274,6 @@
       ]
     },
     {
-      "id": "espana|https://www.elmundo.es/madrid/2026/11/09/6aecb8a5e85ecef1318b457d.html",
-      "section": "espana",
-      "category": "El Mundo",
-      "title": "Afianza, una compañía madrileña, conquista el skyline de la capital: clava su logo en la torre Emperador en una operación de vértigo a 225 metros de altura",
-      "summary": "Uno de los cuatro grandes rascacielos se rebautiza con la llegada de la firma que nació en Legazpi y ha revolucionado el sector de los servicios financieros. GRAN MADRID ha sido testigo directo del delicado proceso de montaje del nuevo letrero Leer",
-      "image": "http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&cg=rss-elmundo&ci=es-widgetueditorial&si=http://www.elmundo.es/rss/index.xml",
-      "publishedAt": "2026-11-08 23:10 UTC",
-      "language": "es",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "El Mundo",
-          "url": "https://www.elmundo.es/madrid/2026/11/09/6aecb8a5e85ecef1318b457d.html"
-        }
-      ]
-    },
-    {
       "id": "espana|https://www.elmundo.es/papel/2026/11/09/6aec9ecce9cf4ad16a8b456e.html",
       "section": "espana",
       "category": "El Mundo",
@@ -274,92 +364,146 @@
       ]
     },
     {
-      "id": "espana|https://www.europapress.es/deportes/futbol-00162/noticia-barca-reivindica-metropolitano-20261108231059.html",
-      "section": "espana",
-      "category": "Europa Press",
-      "title": "El Barça se reivindica en el Metropolitano",
-      "summary": "El FC Barcelona asaltó el Riyadh Air Metropolitano este domingo con un 1-2 sobre el Atlético de Madrid en la jornada 12 de LaLiga EA Sports, remontada con un doblete de Fermín López para defender el liderato antes de un nuevo parón por selecciones.",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261108231059_120.jpg",
-      "publishedAt": "2026-11-08 22:10 UTC",
-      "language": "es",
+      "id": "mundo|https://www.abc.net.au/news/2026-11-09/tennis-carlos-alcaraz-beats-ben-shelton-paris-masters-final/107364040",
+      "section": "mundo",
+      "category": "ABC Australia",
+      "title": "Alcaraz downs Shelton in final to claim maiden Paris Masters title",
+      "summary": "Carlos Alcaraz wins the elusive Paris Masters for the first time in his career, claiming his fifth title win of the calendar year.",
+      "image": "https://live-production.wcms.abc-cdn.net.au/0f49c439e4ccf2750963045f4f3ad0cf?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=461&width=862&height=485",
+      "publishedAt": "2026-11-09 02:17 UTC",
+      "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "Europa Press",
-          "url": "https://www.europapress.es/deportes/futbol-00162/noticia-barca-reivindica-metropolitano-20261108231059.html"
+          "name": "ABC Australia",
+          "url": "https://www.abc.net.au/news/2026-11-09/tennis-carlos-alcaraz-beats-ben-shelton-paris-masters-final/107364040"
         }
       ]
     },
     {
-      "id": "espana|https://www.elmundo.es/deportes/tenis/2026/11/08/6af0b94ee9cf4a85548b4585.html",
-      "section": "espana",
-      "category": "El Mundo",
-      "title": "Alcaraz descubre que también puede reinar bajo techo: \"Por fin he encontrado el camino\"",
-      "summary": "El español encadena diez victorias y dos títulos consecutivos bajo techo tras cuatro meses de baja por lesión, y encara las ATP Finals y la Copa Davis con la mirada puesta en completar los grandes objetivos que todavía se le resisten. Leer",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/08/17941609676946.jpg",
-      "publishedAt": "2026-11-08 22:03 UTC",
-      "language": "es",
+      "id": "mundo|https://www.abc.net.au/news/2026-11-09/man-dies-after-car-crashes-into-medical-centre/107364182",
+      "section": "mundo",
+      "category": "ABC Australia",
+      "title": "Man in waiting room dies after car crashes into medical centre",
+      "summary": "Several people in the North Bundaberg medical centre were hit when the car crashed into the shopfront.",
+      "image": "https://live-production.wcms.abc-cdn.net.au/b6910d1a54aa35a853a2018823d01f19?impolicy=wcms_crop_resize&cropH=935&cropW=1663&xPos=0&yPos=91&width=862&height=485",
+      "publishedAt": "2026-11-09 02:12 UTC",
+      "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "El Mundo",
-          "url": "https://www.elmundo.es/deportes/tenis/2026/11/08/6af0b94ee9cf4a85548b4585.html"
+          "name": "ABC Australia",
+          "url": "https://www.abc.net.au/news/2026-11-09/man-dies-after-car-crashes-into-medical-centre/107364182"
         }
       ]
     },
     {
-      "id": "espana|https://www.elmundo.es/deportes/futbol/primera-division/2026/11/08/6af0c906fc6c83d35b8b458d.html",
-      "section": "espana",
-      "category": "El Mundo",
-      "title": "El Barça conserva el liderato en un ejercicio de contundencia ante un Atlético que terminó desfondado",
-      "summary": "Los culés consiguieron remontar el tanto inicial de Giuliano Simeone con dos martillazos de Fermín Leer",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/08/17941754638722.jpg",
-      "publishedAt": "2026-11-08 22:02 UTC",
-      "language": "es",
+      "id": "mundo|https://www.abc.net.au/news/2026-11-09/chinese-super-league-john-aloisi-oversees-stunning-capitulation/107364010",
+      "section": "mundo",
+      "category": "ABC Australia",
+      "title": "Coach Aloisi oversees stunning capitulation in Chinese Super League title race",
+      "summary": "Needing just one point from its final four games to claim the CSL crown, coach Aloisi's Chengdu Rongcheng loses every game and blows a 14-point lead in the run home.",
+      "image": "https://live-production.wcms.abc-cdn.net.au/11d5137f3f0cb1e23656a91e27172878?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
+      "publishedAt": "2026-11-09 02:12 UTC",
+      "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "El Mundo",
-          "url": "https://www.elmundo.es/deportes/futbol/primera-division/2026/11/08/6af0c906fc6c83d35b8b458d.html"
+          "name": "ABC Australia",
+          "url": "https://www.abc.net.au/news/2026-11-09/chinese-super-league-john-aloisi-oversees-stunning-capitulation/107364010"
         }
       ]
     },
     {
-      "id": "espana|https://www.elmundo.es/economia/empresas/2026/11/08/6af0ed92e85ece421f8b4580.html",
-      "section": "espana",
-      "category": "El Mundo",
-      "title": "Nvidia investigará a su propio director ejecutivo por haber mantenido una relación con una espía china",
-      "summary": "Huang admitió la relación en el borrador de un correo electrónico para sus empleados: \"Fui infiel a mi esposa. Mis actos la lastimaron a ella y a nuestros hijos\" Leer",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/08/17941744532089.jpg",
-      "publishedAt": "2026-11-08 21:50 UTC",
-      "language": "es",
+      "id": "mundo|https://www.abc.net.au/news/2026-11-09/autopilot-suspended-spirit-of-tasmania-ferries-steering-issues/107362396",
+      "section": "mundo",
+      "category": "ABC Australia",
+      "title": "New Spirit ferries not using autopilot near Geelong after steering faults",
+      "summary": "The operator of the new Spirit of Tasmania ferries has suspended the use of autopilot during transits of Port Phillip Bay as a probe into the ships' steering faults continues.",
+      "image": "https://live-production.wcms.abc-cdn.net.au/c4a29ed3363d2f71b2a1456a51fe7031?impolicy=wcms_crop_resize&cropH=905&cropW=1608&xPos=0&yPos=175&width=862&height=485",
+      "publishedAt": "2026-11-09 02:04 UTC",
+      "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "El Mundo",
-          "url": "https://www.elmundo.es/economia/empresas/2026/11/08/6af0ed92e85ece421f8b4580.html"
+          "name": "ABC Australia",
+          "url": "https://www.abc.net.au/news/2026-11-09/autopilot-suspended-spirit-of-tasmania-ferries-steering-issues/107362396"
         }
       ]
     },
     {
-      "id": "espana|https://www.elmundo.es/elecciones/elecciones-generales/2026/11/08/6af06581e85ece11488b4573.html",
-      "section": "espana",
-      "category": "El Mundo",
-      "title": "El PP recuperará la presencia del Estado en el País Vasco y Cataluña en seis meses: funcionarios, comisarías, Seguridad Social...",
-      "summary": "Feijóo promete una auditoría y un plan para que 'vuelva' la Administración Central a estas CCAA y reforzando las delegaciones Leer",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/08/17941436250969.jpg",
-      "publishedAt": "2026-11-08 21:43 UTC",
-      "language": "es",
+      "id": "mundo|https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb",
+      "section": "mundo",
+      "category": "The Guardian World",
+      "title": "‘I never executed Jesse Baird’: Beau Lamarre-Condon reenacts shooting when giving evidence in NSW trial",
+      "summary": "Former police officer has pleaded not guilty to murdering Baird and Luke Davies in Paddington in early 2024 Warning: This article contains graphic content Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has told a Sydney court he did not “execute” Jesse Baird nor realise there was a “massive” gunshot wound to the 26-year-old’…",
+      "image": "https://i.guim.co.uk/img/media/b6bb10a5926a77556033638b05990ec0f53a7b8a/524_54_1008_806/master/1008.jpg?width=140&quality=85&auto=format&fit=max&s=0b81e8643e1c53b1dcdfaac6449868b0",
+      "publishedAt": "2026-11-09 01:44 UTC",
+      "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "El Mundo",
-          "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/08/6af06581e85ece11488b4573.html"
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://www.theguardian.com/australia-news/2026/nov/09/danielle-madgwick-dv-murder-family-of-accused-charged-ntwnfb",
+      "section": "mundo",
+      "category": "The Guardian World",
+      "title": "Wagga Wagga family members of alleged DV murderer charged with being accessories after the fact",
+      "summary": "Danielle Madgwick died in regional NSW in September after suffering multiple stab wounds to her upper body Get our breaking news email , free app or daily news podcast Family members of a man accused of the domestic violence murder of a 23-year-old woman in south-western New South Wales have been charged with being accessories to the alleged crime. Emergency…",
+      "image": "https://i.guim.co.uk/img/media/6cdcfeabc345f0a7e521638862e85ad5c5125b6e/0_174_1516_1212/master/1516.jpg?width=140&quality=85&auto=format&fit=max&s=da413ca53e68c59303cae117c71ea52d",
+      "publishedAt": "2026-11-09 01:30 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/09/danielle-madgwick-dv-murder-family-of-accused-charged-ntwnfb"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://www.abc.net.au/news/2026-11-09/16yo-rj-brown-hits-buzzer-beater-in-debut-adelaide-36er-game/107363130",
+      "section": "mundo",
+      "category": "ABC Australia",
+      "title": "Arena 'electric' as 36ers debutant hits buzzer beater",
+      "summary": "Raheim Brown Jr made headlines in September as the youngest player signed by an NBL club in 44 years, but his debut for the Adelaide 36ers on the weekend will live in the memories of many fans.",
+      "image": "https://live-production.wcms.abc-cdn.net.au/b8c01a3db67b7795e99c6a1bca480cad?impolicy=wcms_crop_resize&cropH=2810&cropW=4995&xPos=0&yPos=0&width=862&height=485",
+      "publishedAt": "2026-11-09 01:21 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "ABC Australia",
+          "url": "https://www.abc.net.au/news/2026-11-09/16yo-rj-brown-hits-buzzer-beater-in-debut-adelaide-36er-game/107363130"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://www.abc.net.au/news/2026-11-09/survivors-of-indonesia-helicopter-crash-named/107362534",
+      "section": "mundo",
+      "category": "ABC Australia",
+      "title": "Two survivors of fatal helicopter crash in Indonesia named",
+      "summary": "The pilots remarkably survived the crash after their aircraft nosedived into a river.",
+      "image": "https://live-production.wcms.abc-cdn.net.au/40404a4344f284f4e9390526fdec68c0?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=83&width=862&height=485",
+      "publishedAt": "2026-11-09 01:19 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "ABC Australia",
+          "url": "https://www.abc.net.au/news/2026-11-09/survivors-of-indonesia-helicopter-crash-named/107362534"
         }
       ]
     },
@@ -414,24 +558,6 @@
         {
           "name": "The Guardian World",
           "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb",
-      "section": "mundo",
-      "category": "The Guardian World",
-      "title": "‘This happened very quick’: Beau Lamarre-Condon reenacts shooting Jesse Baird during double murder trial",
-      "summary": "Former police officer has pleaded not guilty to murdering Jesse Baird and Luke Davies in Paddington in early 2024 Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has demonstrated in court how he claims he shot Jesse Baird, acting out his movements in the witness box in Sydney. The former police officer is accused of fatally s…",
-      "image": "https://i.guim.co.uk/img/media/b6bb10a5926a77556033638b05990ec0f53a7b8a/524_54_1008_806/master/1008.jpg?width=140&quality=85&auto=format&fit=max&s=0b81e8643e1c53b1dcdfaac6449868b0",
-      "publishedAt": "2026-11-08 23:50 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb"
         }
       ]
     },
@@ -511,8 +637,8 @@
       "id": "mundo|https://www.abc.net.au/news/2026-11-09/vic-election-blog-big-build-royal-commission/107357514",
       "section": "mundo",
       "category": "ABC Australia",
-      "title": "Live: Victoria's Big Build royal commission gets underway",
-      "summary": "The first block of public hearings in the the Royal Commission into the Integrity of Major Public and Civil Infrastructure Construction Projects in Victoria is underway. Follow live in our blog.",
+      "title": "Live: CFMEU's 'unprecedented' political links aired at Victoria's Big Build hearing",
+      "summary": "A major contractor in Victoria's Big Build was wary of the \"unprecedented access\" the CFMEU had to Andrews government ministers, a corruption royal commission has heard. Follow live in our blog.",
       "image": "https://live-production.wcms.abc-cdn.net.au/80823b81508919b2c2f03f93a073b901?impolicy=wcms_crop_resize&cropH=900&cropW=1600&xPos=0&yPos=83&width=862&height=485",
       "publishedAt": "2026-11-08 23:17 UTC",
       "language": "en",
@@ -778,128 +904,20 @@
       ]
     },
     {
-      "id": "mundo|https://www.abc.net.au/news/2026-11-09/three-charged-with-accessory-to-alleged-dv-stabbing-murder-wagga/107362302",
-      "section": "mundo",
-      "category": "ABC Australia",
-      "title": "Three more charged over alleged DV stabbing murder",
-      "summary": "Two men, aged 18 and 56, and a 53-year-old woman have been charged with accessory after the fact relating to the alleged DV stabbing murder of Danielle Madgwick.",
-      "image": "https://live-production.wcms.abc-cdn.net.au/3fefa415021e4b6420ca406deecdbf47?impolicy=wcms_crop_resize&cropH=853&cropW=1516&xPos=0&yPos=316&width=862&height=485",
-      "publishedAt": "2026-11-08 20:59 UTC",
+      "id": "television|https://variety.com/2026/tv/markets-festivals/microdrama-makers-turkey-japan-bet-hooks-villains-1236942844/",
+      "section": "television",
+      "category": "Variety TV",
+      "title": "Microdrama Makers From Turkey and Japan Bet on Emotional Hooks and Infuriating Villains at Taiwan Creative Content Fest",
+      "summary": "Microdramas compete for attention in crowded mobile feeds, but a strong opening hook does not always need a dramatic twist, İlkin Kavukcu, founder and CEO of Turkish studio İki Dakika Creative House, said at a Taiwan Creative Content Fest (TCCF) session on microdramas in Taipei. Kavukcu said her studio looks for moments of emotional recognition […]",
+      "image": "https://variety.com/wp-content/uploads/2026/11/TCCF-microdrama-panel.jpg",
+      "publishedAt": "2026-11-09 02:18 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "ABC Australia",
-          "url": "https://www.abc.net.au/news/2026-11-09/three-charged-with-accessory-to-alleged-dv-stabbing-murder-wagga/107362302"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.abc.net.au/news/2026-11-09/heatwave-far-north-queensland-storms-ease-south-east/107360646",
-      "section": "mundo",
-      "category": "ABC Australia",
-      "title": "Storm snaps powerpoles in CQ while 'insufferable' heatwave lingers in Far North",
-      "summary": "Sarina in central Queensland hit with 66,000 lightning strikes while Weipa in the Cape York Peninsula has its hottest November day on record.",
-      "image": "https://live-production.wcms.abc-cdn.net.au/959769e6c89b74d8b5665d36de16e22b?impolicy=wcms_crop_resize&cropH=407&cropW=723&xPos=0&yPos=46&width=862&height=485",
-      "publishedAt": "2026-11-08 20:31 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "ABC Australia",
-          "url": "https://www.abc.net.au/news/2026-11-09/heatwave-far-north-queensland-storms-ease-south-east/107360646"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.abc.net.au/news/2026-11-09/poland-treating-mass-shooting-as-terrorist-offence/107362106",
-      "section": "mundo",
-      "category": "ABC Australia",
-      "title": "Poland treats fatal mass shooting as 'terrorist offence'",
-      "summary": "Four women and two men were killed in the shooting in the Main Square of Krakow's Old Town, which Poland's defence minister has described as an \"act of terror\".",
-      "image": "https://live-production.wcms.abc-cdn.net.au/41cda8275a9ea0c42d1675c9096bcaa4?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=158&width=862&height=485",
-      "publishedAt": "2026-11-08 20:25 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "ABC Australia",
-          "url": "https://www.abc.net.au/news/2026-11-09/poland-treating-mass-shooting-as-terrorist-offence/107362106"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.abc.net.au/news/2026-11-09/nsw-prisoner-complaints-surge-60-percent/107342900",
-      "section": "mundo",
-      "category": "ABC Australia",
-      "title": "Inmate complaints surge 60 per cent amid lockdowns and device shortages",
-      "summary": "Inmate complaints rise 60 per cent, leaving experts \"completely astonished\" as pressure from a growing remand population mounts on the NSW corrections system.",
-      "image": "https://live-production.wcms.abc-cdn.net.au/77d59beb6390c79774bc3dfd90126d42?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=100&width=862&height=485",
-      "publishedAt": "2026-11-08 20:09 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "ABC Australia",
-          "url": "https://www.abc.net.au/news/2026-11-09/nsw-prisoner-complaints-surge-60-percent/107342900"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.abc.net.au/news/2026-11-09/victoria-big-build-construction-royal-commission-explainer/107352214",
-      "section": "mundo",
-      "category": "ABC Australia",
-      "title": "What to expect from Victoria's construction corruption royal commission",
-      "summary": "The construction sites of the Victorian government's Big Build have become hotbeds for allegations of criminal wrongdoing, corruption and serious misconduct.",
-      "image": "https://live-production.wcms.abc-cdn.net.au/f4fba827afc1eabe8877a0632154e442?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
-      "publishedAt": "2026-11-08 20:06 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "ABC Australia",
-          "url": "https://www.abc.net.au/news/2026-11-09/victoria-big-build-construction-royal-commission-explainer/107352214"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.abc.net.au/news/2026-11-09/federal-politics-live-blog-digital-duty-of-care-/107362100",
-      "section": "mundo",
-      "category": "ABC Australia",
-      "title": "Live: Taylor announces 'razor gang' to cut red tape, spending",
-      "summary": "Angus Taylor has announced during an economic speech to Business Sydney that the Coalition will create a \"razor gang\" to cut down on red tape and spending. Follow live.",
-      "image": "https://live-production.wcms.abc-cdn.net.au/534e7ce76a4f94b4c78d8972656f9529?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=100&width=862&height=485",
-      "publishedAt": "2026-11-08 20:06 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "ABC Australia",
-          "url": "https://www.abc.net.au/news/2026-11-09/federal-politics-live-blog-digital-duty-of-care-/107362100"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.abc.net.au/news/2026-11-09/asx-markets-business-live-news/107361534",
-      "section": "mundo",
-      "category": "ABC Australia",
-      "title": "Live: ANZ posts $7.3b profit as Wall St lifts on AI rebound, ASX slides",
-      "summary": "The ASX is lower despite Wall Street closing the week on a positive note with renewed buying of AI-related stocks. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
-      "image": "https://live-production.wcms.abc-cdn.net.au/6219119a4a5d11592beb79d8641bc535?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=138&width=862&height=485",
-      "publishedAt": "2026-11-08 20:05 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "ABC Australia",
-          "url": "https://www.abc.net.au/news/2026-11-09/asx-markets-business-live-news/107361534"
+          "name": "Variety TV",
+          "url": "https://variety.com/2026/tv/markets-festivals/microdrama-makers-turkey-japan-bet-hooks-villains-1236942844/"
         }
       ]
     },
@@ -908,7 +926,7 @@
       "section": "television",
       "category": "Variety TV",
       "title": "Trump on ’60 Minutes’ Reflects on Midterm Loss, Death and Forgiveness: ‘I Do Hate Some of My Enemies’",
-      "summary": "President Trump told “60 Minutes” that he blames Republican candidates and the war in Iran for the party’s midterm defeat, and acknowledged that his mass deportation policy was “too tough.” Sitting down with correspondent Ross Douthat, Trump was also asked about corruption, UFOs, and his views of the afterlife. Douthat, a Catholic conservative, asked Trump […",
+      "summary": "President Trump told “60 Minutes” that he blames Republican candidates and the war in Iran for the party’s midterm defeat, and acknowledged that his mass deportation policy was “too tough.” Sitting down with correspondent Ross Douthat, Trump was also asked about corruption, UFOs and his views of the afterlife. Douthat, a Catholic conservative, asked Trump [……",
       "image": "https://variety.com/wp-content/uploads/2026/11/Screenshot-2026-11-08-at-3.51.55-PM.png",
       "publishedAt": "2026-11-09 01:07 UTC",
       "language": "en",
@@ -980,7 +998,7 @@
       "section": "television",
       "category": "Vertele",
       "title": "Henar Álvarez entrevista en La 2 a una superviviente del 'Patronato' franquista: \"Me metieron en un manicomio por lesbiana\"",
-      "summary": "'Al cielo con ella' habló con Araceli Navarro que recordó cómo a los 17 años le encerraron en un centro del 'Patronato de Protección a la Mujer' donde vivió humillaciones, abusos, vejaciones y torturas a ella y a otras mujeres Una semana después de que RTVE devolviera Al cielo con ella a La 2 , Henar Álvarez sentaba en el sofá de su programa a Araceli Navarr…",
+      "summary": "'Al cielo con ella' habló con Araceli Navarro que recordó cómo a los 17 años le encerraron en un centro del 'Patronato de Protección a la Mujer' donde vivió humillaciones, abusos, vejaciones y torturas a ella y a otras mujeres Gonzo invita a 'Salvados' a Feijóo y a Sánchez e ironiza con los que creen que tienen su “entrevista guardada en un cajón” 'Supervivi…",
       "image": "https://static.eldiario.es/clip/031f21ae-a5c2-4f2d-9785-7faa20c845aa_16-9-discover-aspect-ratio_default_0.jpg",
       "publishedAt": "2026-11-08 22:47 UTC",
       "language": "es",
@@ -998,7 +1016,7 @@
       "section": "television",
       "category": "Vertele",
       "title": "Gonzo invita a 'Salvados' a Feijóo y a Sánchez e ironiza con los que creen que tienen su \"entrevista guardada en un cajón\"",
-      "summary": "El presentador invita a \"los candidatos de los dos principiales partidos\" a 'Salvados' de laSexta y subraya que no tienen ninguna entrevista grabada con el presidente del Gobierno Además - Évole rechaza el boicot contra 'La Revuelta' por Abascal: “Igual es la manera de tener más claro la que se avecina” ENTREVISTA - José Yélamo desmonta 'Timadores' con su de…",
+      "summary": "El presentador invita a \"los candidatos de los dos principiales partidos\" a 'Salvados' de laSexta y subraya que no tienen ninguna entrevista grabada con el presidente del Gobierno Además - Évole rechaza el boicot contra 'La Revuelta' por Abascal: “Igual es la manera de tener más claro la que se avecina” RTVE - Henar Álvarez entrevista en La 2 a una supervivi…",
       "image": "https://static.eldiario.es/clip/24f656ec-4670-44e7-9e7d-b4cdc3f251bc_16-9-discover-aspect-ratio_default_0.jpg",
       "publishedAt": "2026-11-08 21:04 UTC",
       "language": "es",
@@ -1206,24 +1224,6 @@
         {
           "name": "Variety TV",
           "url": "https://variety.com/2026/tv/news/snl-weekend-update-elon-musk-midterms-election-1236942283/"
-        }
-      ]
-    },
-    {
-      "id": "television|https://variety.com/2026/tv/news/snl-druski-whiteface-elizabeth-holmes-nathan-fielder-you-can-see-everything-parody-1236942289/",
-      "section": "television",
-      "category": "Variety TV",
-      "title": "‘SNL’: Druski Dons Whiteface as Elizabeth Holmes in ‘You Can See Everything’ Parody",
-      "summary": "Following a busy cold open that saw Texas Senator-elect James Talarico overshadow Donald Trump and a monologue crashed by his future movie co-star Emma Stone, “SNL” host Druski — who made history as the first digital content creator to preside over the show (who had yet to achieve crossover success, a la Issa Rae and […]",
-      "image": "https://variety.com/wp-content/uploads/2026/11/Screenshot-2026-11-08-at-12.19.32-AM.png",
-      "publishedAt": "2026-11-08 05:29 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Variety TV",
-          "url": "https://variety.com/2026/tv/news/snl-druski-whiteface-elizabeth-holmes-nathan-fielder-you-can-see-everything-parody-1236942289/"
         }
       ]
     },
@@ -1450,7 +1450,7 @@
       "title": "La coalición de Trump está destrozada: ¿qué harán ahora los republicanos? - BBC",
       "summary": "La coalición de Trump está destrozada: ¿qué harán ahora los republicanos? BBC",
       "image": "",
-      "publishedAt": "2026-11-08 21:56 UTC",
+      "publishedAt": "2026-11-08 22:01 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
@@ -1458,24 +1458,6 @@
         {
           "name": "Noticias internacionales",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GZGtWOXQ0ekREZ0VBUXl5OURfXzNkRXQ4S3VHVTdHRWdCUXZxdl9jTTBOM3JPNGVFcWZjWDNZeDBXOVRGU0VuUGpWbkpxaWtVdzBKdVZjS0JPcnRh0gFiQVVfeXFMTngtVzNjaHlLM1FXQk5tLWFSQ0t2N0ZobXBvTXZWTDdrT0N0YzlnZmFVb1NPMVlxaHdaT0J5VTVCNDNyQmFCSzhlVndZX2VPcHRwdXU4VS1xZXpZaU5SdkZDUVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://news.google.com/rss/articles/CBMigwFBVV95cUxQOEVVb29fY2pzTEhxWWJXb3lEanF5QzF4NTdEYjEta09EVnJxdm12d0ZCX0lPR0dfS0tuRVZRN0xhQ0ZsWXY0a1VlRHdqd3hPNm1ZcnJOS3RyRkpUTnhmS2RjMl9nYjgxQThDSjlJb1dpNjFRQ19WYkgxZ2tWOURqalV2c9IBgwFBVV95cUxPNDhVemdlbGZZZjFEd29mVC00X3FWeWNoSElNbXZwRnNqNWVnYVp6SmNrbXhGZ3FPNXV0MWZPZzdBeVZldWh0LVgzcTVRcUo4VlRxbmQwa041NHAzcFpyMkEzS0lBbkp1RmNxQmw2RjZRWXFrdl9JVDlxWjVyWVVqWGRGMA?oc=5",
-      "section": "mundo",
-      "category": "Noticias internacionales",
-      "title": "Un hombre mata a tiros a al menos seis personas en el centro histórico de Cracovia y la Policía encuentra en su vivienda a sus padres y su hermana muertos - El Mundo",
-      "summary": "Un hombre mata a tiros a al menos seis personas en el centro histórico de Cracovia y la Policía encuentra en su vivienda a sus padres y su hermana muertos El Mundo",
-      "image": "",
-      "publishedAt": "2026-11-08 10:31 UTC",
-      "language": "es",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Noticias internacionales",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOEVVb29fY2pzTEhxWWJXb3lEanF5QzF4NTdEYjEta09EVnJxdm12d0ZCX0lPR0dfS0tuRVZRN0xhQ0ZsWXY0a1VlRHdqd3hPNm1ZcnJOS3RyRkpUTnhmS2RjMl9nYjgxQThDSjlJb1dpNjFRQ19WYkgxZ2tWOURqalV2c9IBgwFBVV95cUxPNDhVemdlbGZZZjFEd29mVC00X3FWeWNoSElNbXZwRnNqNWVnYVp6SmNrbXhGZ3FPNXV0MWZPZzdBeVZldWh0LVgzcTVRcUo4VlRxbmQwa041NHAzcFpyMkEzS0lBbkp1RmNxQmw2RjZRWXFrdl9JVDlxWjVyWVVqWGRGMA?oc=5"
         }
       ]
     },
@@ -1494,6 +1476,24 @@
         {
           "name": "Noticias internacionales",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX1I1N1BFbGNIVVRFanV4NVNwWXd4TTZ1Yk9EZjFrTnRsMUREM3U4UXNucTZKVThkbUYwdTc4bnAzOURNb25oRjBhYVFfQTJrYW9PRU9tOWNZR0tELU9kQnQ1b3pQZlRZM2x6blFJMWxQbUZJU0x4TG1pSUZ5Q0MxZktB0gGWAUFVX3lxTE9ncmlzd29OSXNCY0Z1QzV2VVF6MlJ1SGd0QjJfcC1IcmlpOXh0UmtNUEc2ZERjUkRtQ3FSR0dwMWtxS1VGVHNJVl9nQmtmTXhmTGotbDR0M0JnV3NMWGkzLWcwZUxQYVBibmF6RGZJN0I0RjU4NWlIVVpJWjFPcm5tVEdMSDkzclhjVlduZ24xRW80elRaUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://news.google.com/rss/articles/CBMigwFBVV95cUxQOEVVb29fY2pzTEhxWWJXb3lEanF5QzF4NTdEYjEta09EVnJxdm12d0ZCX0lPR0dfS0tuRVZRN0xhQ0ZsWXY0a1VlRHdqd3hPNm1ZcnJOS3RyRkpUTnhmS2RjMl9nYjgxQThDSjlJb1dpNjFRQ19WYkgxZ2tWOURqalV2c9IBgwFBVV95cUxPNDhVemdlbGZZZjFEd29mVC00X3FWeWNoSElNbXZwRnNqNWVnYVp6SmNrbXhGZ3FPNXV0MWZPZzdBeVZldWh0LVgzcTVRcUo4VlRxbmQwa041NHAzcFpyMkEzS0lBbkp1RmNxQmw2RjZRWXFrdl9JVDlxWjVyWVVqWGRGMA?oc=5",
+      "section": "mundo",
+      "category": "Noticias internacionales",
+      "title": "Un hombre mata a tiros a al menos seis personas en el centro histórico de Cracovia y la Policía encuentra en su vivienda a sus padres y su hermana muertos - El Mundo",
+      "summary": "Un hombre mata a tiros a al menos seis personas en el centro histórico de Cracovia y la Policía encuentra en su vivienda a sus padres y su hermana muertos El Mundo",
+      "image": "",
+      "publishedAt": "2026-11-08 10:31 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Noticias internacionales",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOEVVb29fY2pzTEhxWWJXb3lEanF5QzF4NTdEYjEta09EVnJxdm12d0ZCX0lPR0dfS0tuRVZRN0xhQ0ZsWXY0a1VlRHdqd3hPNm1ZcnJOS3RyRkpUTnhmS2RjMl9nYjgxQThDSjlJb1dpNjFRQ19WYkgxZ2tWOURqalV2c9IBgwFBVV95cUxPNDhVemdlbGZZZjFEd29mVC00X3FWeWNoSElNbXZwRnNqNWVnYVp6SmNrbXhGZ3FPNXV0MWZPZzdBeVZldWh0LVgzcTVRcUo4VlRxbmQwa041NHAzcFpyMkEzS0lBbkp1RmNxQmw2RjZRWXFrdl9JVDlxWjVyWVVqWGRGMA?oc=5"
         }
       ]
     },
@@ -1624,6 +1624,42 @@
       ]
     },
     {
+      "id": "viral|https://news.google.com/rss/articles/CBMi9wFBVV95cUxOTlVjMW1TMWFWNlIwTUtsRDI5WlFWb3Fld2Y1d09uM1lNU0hOcTJjZ0xzdFdRTEwtNC11WDBhU1hzeENUaWZ0M2wtR2lJekR0cTFhcXpzcVRHUHN3azBKOFBnZVAzMDRBWmhtRVpIQTlOeExSNzFGUWo4dHpEYnVERS01eUxBMGlXVUVKOGFJN3FYUnNsR1p1R29qcnhQeHM4MDNnUUE1X0xNNDgwQ1FVQ25xZWhpMHdTcGdqLWxXb3RhQWN3aFhOVl9qaTdWMnJXaTBrd3FpYVoyMnRKRDB4NHFELUpXeVpBV2hsOEtfa3c1Q1ZuQ3U4?oc=5",
+      "section": "viral",
+      "category": "Viral ES",
+      "title": "¡Impactante VIDEO! Avioneta aterriza de emergencia en plena autopista y golpea una camioneta en movimiento - TV Azteca Chiapas",
+      "summary": "¡Impactante VIDEO! Avioneta aterriza de emergencia en plena autopista y golpea una camioneta en movimiento TV Azteca Chiapas",
+      "image": "",
+      "publishedAt": "2026-11-08 23:20 UTC",
+      "language": "es",
+      "topic": "Tendencias",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Viral ES",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOTlVjMW1TMWFWNlIwTUtsRDI5WlFWb3Fld2Y1d09uM1lNU0hOcTJjZ0xzdFdRTEwtNC11WDBhU1hzeENUaWZ0M2wtR2lJekR0cTFhcXpzcVRHUHN3azBKOFBnZVAzMDRBWmhtRVpIQTlOeExSNzFGUWo4dHpEYnVERS01eUxBMGlXVUVKOGFJN3FYUnNsR1p1R29qcnhQeHM4MDNnUUE1X0xNNDgwQ1FVQ25xZWhpMHdTcGdqLWxXb3RhQWN3aFhOVl9qaTdWMnJXaTBrd3FpYVoyMnRKRDB4NHFELUpXeVpBV2hsOEtfa3c1Q1ZuQ3U4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "viral|https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRnhqWW1tckh2NHlzVkZ3TmRGaTRGN0Rxb1F5aDMtWmdtYmZjc0YzZ0FjWEU3YUZyYzJoTnpSU2h2TGl2R3FROGVwVnBQd1VzTGRZQm1KcS0xUnVpWFpRT3FZdTljRTk2X05XaHdiMEJxNE9aanYtOGxJRlVEN0pSNnpaQjBUMkdKVEwxV1Z1Uk94eE9FbVVqT244dXUtNHNkSjdLN1k0SmJlcE5tT1BWeV9ENlJLeUVRQThFTi1KWDZUN3d2bF9zNlpZc3pRVUJMa0dDT25KVmJvUHhkWGk1OE0wMmtuOVlPV1E?oc=5",
+      "section": "viral",
+      "category": "Viral ES",
+      "title": "¡Indignación en redes! Video de brut4l 4gr3si0n a una m3nor des4t4 ola de exig3ncias de justicia - TV Azteca Chiapas",
+      "summary": "¡Indignación en redes! Video de brut4l 4gr3si0n a una m3nor des4t4 ola de exig3ncias de justicia TV Azteca Chiapas",
+      "image": "",
+      "publishedAt": "2026-11-08 23:07 UTC",
+      "language": "es",
+      "topic": "Tendencias",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Viral ES",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRnhqWW1tckh2NHlzVkZ3TmRGaTRGN0Rxb1F5aDMtWmdtYmZjc0YzZ0FjWEU3YUZyYzJoTnpSU2h2TGl2R3FROGVwVnBQd1VzTGRZQm1KcS0xUnVpWFpRT3FZdTljRTk2X05XaHdiMEJxNE9aanYtOGxJRlVEN0pSNnpaQjBUMkdKVEwxV1Z1Uk94eE9FbVVqT244dXUtNHNkSjdLN1k0SmJlcE5tT1BWeV9ENlJLeUVRQThFTi1KWDZUN3d2bF9zNlpZc3pRVUJMa0dDT25KVmJvUHhkWGk1OE0wMmtuOVlPV1E?oc=5"
+        }
+      ]
+    },
+    {
       "id": "viral|https://news.google.com/rss/articles/CBMipAFBVV95cUxNUTdxVlUxQzFGRkZpMGhYMjZscFVPd01DMkpXcERsMDFhdkpaN0s1NGN0dm9TQkxrX29PeEFaZzBLQmlCaFRybmFWQ3M3WXc0azRKVmZ1OFZjRG1yd3UtT0FTakJWOFZJVnM1VGxQbHJpYXBNd1JGeWczYVhlY3pzd3h1YWpYMmJ4aVJIMnp2T01ieDJpR3VoNzNfYmJuSG9RMjNfRQ?oc=5",
       "section": "viral",
       "category": "Viral ES",
@@ -1692,24 +1728,6 @@
         {
           "name": "Viral ES",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQmw2eF9sN0VqNjBZWkZJc1NUSkROYWdNVEhWOE9nODdqdXVvcklyOFBsUEpkRVg4U2RFRXpyc185S2w0a0NQWUlsV3FZSkQxVDdiT0cwbWVYbC1CTTdEWWJkWlpGaHJ0ZHNPREs5aDBOckw0TTRzbFI4T19HRzNUWHRCZmJXZUliTGlubEg2OXIwOHo0clplTDJUNlBzYmlDV2IzM3hKUW01QWF5Q0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "viral|https://news.google.com/rss/articles/CBMinwFBVV95cUxNU1JjZzdZQzl0MFNKTGZUekdDd1JpWVgtcUxQUUgwTXZOWDVzemx2dWF6Y1lvRGh1VXVaUnFaYTZHV1o5TUczanB6Z0w0V3YtOWZURTl4SzB3dkZUczJyd3IwckNYdGZGZEh3eHJJbExudkZ0TFFLRjRvdEt5VTdjU1RURzdiZVZtLTBiWU81V1pDMzlYS2NLNXUzZ2czT0E?oc=5",
-      "section": "viral",
-      "category": "Viral ES",
-      "title": "VIDEO: Mujer se agarra a manotazos con pastor en plena misa, ¡no le gustó el sape! - TV Azteca Morelos",
-      "summary": "VIDEO: Mujer se agarra a manotazos con pastor en plena misa, ¡no le gustó el sape! TV Azteca Morelos",
-      "image": "",
-      "publishedAt": "2026-11-07 20:22 UTC",
-      "language": "es",
-      "topic": "Tendencias",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Viral ES",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU1JjZzdZQzl0MFNKTGZUekdDd1JpWVgtcUxQUUgwTXZOWDVzemx2dWF6Y1lvRGh1VXVaUnFaYTZHV1o5TUczanB6Z0w0V3YtOWZURTl4SzB3dkZUczJyd3IwckNYdGZGZEh3eHJJbExudkZ0TFFLRjRvdEt5VTdjU1RURzdiZVZtLTBiWU81V1pDMzlYS2NLNXUzZ2czT0E?oc=5"
         }
       ]
     },
@@ -1818,24 +1836,6 @@
         {
           "name": "Viral ES",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQkJOTktzTTRoOVlvWW8tTFZ5S3BZeE9VbEdNQmtyNXg0Z0IxcVViVG5nbkg5ZEc5MW14U3JHbE5qRXFINE9BTU02RHFNQjl4d2JuYUw1ei1GR0NaWUI2bDJ5amxjVlN2bEVRcmVYV2dRNGx2aUlUcUlqMXBBS3U5Y1IyTUJCUXpKMW4wbXdGYkNHcDJjRG5aeGZCa0tKaWwtYllfWFQ4Q1JUT0hLVEdlalJ2b0JQZ1VabEpCazZyeWRPVEljVkxRQ2lNc0VyM09nMTlEejBDbzI5UF9NV3pJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "viral|https://news.google.com/rss/articles/CBMi-gFBVV95cUxNVHZwQjk2TXNCcjRTS2trUzFKc2dFSlZ5dWZhVllKN2JscWsxWmJPbGRpS1ZRNjRVTlc5RlVadGRkX1JQSTZjVHhINTd5Y3VRc2RGd1BjNDlLN21yY0xCdGJ6bVdkbFEzQ1dtTXl1THRLNEF0VENjOU8xdmk4aGZ3RjBMOVpmYWNzVkN2VkZlVlU5ZG1HLTlkRTUwUEpTbG8tOWI5YWZKWmtmNTVpX2ZhUjA2QldaM1c5Qm1ROXY3QTF1WXE4cjFBOXRtWkNpaWFVZVl5VnJmZlFPYmhjR2xZbHZLNW5IOVZ4Ry1uWEk1RE5kOWZFZlFLa25R?oc=5",
-      "section": "viral",
-      "category": "Viral ES",
-      "title": "¡It's Time! Mariah Carey despierta a la Navidad 2026 con inesperado video tras Halloween - TV Azteca Chiapas",
-      "summary": "¡It's Time! Mariah Carey despierta a la Navidad 2026 con inesperado video tras Halloween TV Azteca Chiapas",
-      "image": "",
-      "publishedAt": "2026-11-07 01:22 UTC",
-      "language": "es",
-      "topic": "Tendencias",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Viral ES",
-          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNVHZwQjk2TXNCcjRTS2trUzFKc2dFSlZ5dWZhVllKN2JscWsxWmJPbGRpS1ZRNjRVTlc5RlVadGRkX1JQSTZjVHhINTd5Y3VRc2RGd1BjNDlLN21yY0xCdGJ6bVdkbFEzQ1dtTXl1THRLNEF0VENjOU8xdmk4aGZ3RjBMOVpmYWNzVkN2VkZlVlU5ZG1HLTlkRTUwUEpTbG8tOWI5YWZKWmtmNTVpX2ZhUjA2QldaM1c5Qm1ROXY3QTF1WXE4cjFBOXRtWkNpaWFVZVl5VnJmZlFPYmhjR2xZbHZLNW5IOVZ4Ry1uWEk1RE5kOWZFZlFLa25R?oc=5"
         }
       ]
     },
@@ -1984,24 +1984,6 @@
       ]
     },
     {
-      "id": "viral|https://news.google.com/rss/articles/CBMi5AJBVV95cUxOWE5GWUlyZnhmZU9vRHNvSUc5NWNGeTJjdVJKMlpGdTl1aVctVkptX255b01rREl2S3kyV3BOeUV1Z0E4dnhtQndGbHBlQ01FSEQyT0x2U0NGVENFYUtQNWxhMXV5STVGTVd4S1pQYzVqV28tSzJnSTBPMGwtSE5XMGxCNERaUEhidEVXQ1Y0bEhVT1FiZ3N3bmZNLVUzZFJPX1BFSjNkaVcxV3FNYkRfckJJMUE4Q1Rtb3MySUdXYU5GS2txTHRPWGxkRWhPUnZaX0RFV296UDVDWWZERmFRX1JDTzFhM1BZVDdzSkIweFJlYzRwTUUyWElmM3EyQVdCQkN6dVNYRXd3cXQ5c2h6ODl1YXByMjV6Mmt4dl9nM0hEakNSWUM2ekdjRHI5WXBzR0dnVTRIcGFLd3NUN3BpdnBpSHdkb2VFQXZjRHB3VUNmR3diUHA1ZlpXcmhVaTJlcHZsM9IB6gJBVV95cUxObDFMM0VyLUdZeTdWQm1ndXZvVlZiWGVHMkNzZnFhMndNWnh5UDgyQldnRDBLWHlhZzB2Z0h0MlpnRk5IQVdLWG96d2JURVJ1bEdkTG5BZG04SUZqc0pVMkw3VjEyeHQtaU4yR1pGT3k0VlBvYm9ZSXVjQ2RtcVRkbmFiYVd0Y0dXWnYzNnFlU1JETFNkZDFjbU1PM0p1dzVHQlYyQnVXbTVRdWNTTkpRY253ak1jMVJxeGFrUkFrSlBXelNJdjdqVjc2b3hjZUhPZWs4OGNwLV9jRFZYTVJVQmJ1Q25zcEdveVRmdGM0UGdnYk85RFNrQmFtb0xieFF0VkxOT1o5ZHM0Y1RYd1h1ZE9kNEpnMkk1VU9xeExqWjZGX0V2RDVhWHIwbmJjdVQ4QTkxU3FYUTIwQnp5TzFUMjhHV0h1SEtJMEVwaDRyMFlBR3RyZUxyazJjc3hBUUVyS21GaHJkT3RLdw?oc=5",
-      "section": "viral",
-      "category": "Viral EN",
-      "title": "WATCH VIDEO | Ghaziabad Police Chowki Blast News: Was It a Terrorist Attack? Mystery Deepens After Tehreek-ul-Mujahideen Hindustan Claims Responsibility in Viral Post - The Sunday Guardian",
-      "summary": "WATCH VIDEO | Ghaziabad Police Chowki Blast News: Was It a Terrorist Attack? Mystery Deepens After Tehreek-ul-Mujahideen Hindustan Claims Responsibility in Viral Post The Sunday Guardian",
-      "image": "",
-      "publishedAt": "2026-11-07 08:11 UTC",
-      "language": "en",
-      "topic": "Tendencias",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Viral EN",
-          "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOWE5GWUlyZnhmZU9vRHNvSUc5NWNGeTJjdVJKMlpGdTl1aVctVkptX255b01rREl2S3kyV3BOeUV1Z0E4dnhtQndGbHBlQ01FSEQyT0x2U0NGVENFYUtQNWxhMXV5STVGTVd4S1pQYzVqV28tSzJnSTBPMGwtSE5XMGxCNERaUEhidEVXQ1Y0bEhVT1FiZ3N3bmZNLVUzZFJPX1BFSjNkaVcxV3FNYkRfckJJMUE4Q1Rtb3MySUdXYU5GS2txTHRPWGxkRWhPUnZaX0RFV296UDVDWWZERmFRX1JDTzFhM1BZVDdzSkIweFJlYzRwTUUyWElmM3EyQVdCQkN6dVNYRXd3cXQ5c2h6ODl1YXByMjV6Mmt4dl9nM0hEakNSWUM2ekdjRHI5WXBzR0dnVTRIcGFLd3NUN3BpdnBpSHdkb2VFQXZjRHB3VUNmR3diUHA1ZlpXcmhVaTJlcHZsM9IB6gJBVV95cUxObDFMM0VyLUdZeTdWQm1ndXZvVlZiWGVHMkNzZnFhMndNWnh5UDgyQldnRDBLWHlhZzB2Z0h0MlpnRk5IQVdLWG96d2JURVJ1bEdkTG5BZG04SUZqc0pVMkw3VjEyeHQtaU4yR1pGT3k0VlBvYm9ZSXVjQ2RtcVRkbmFiYVd0Y0dXWnYzNnFlU1JETFNkZDFjbU1PM0p1dzVHQlYyQnVXbTVRdWNTTkpRY253ak1jMVJxeGFrUkFrSlBXelNJdjdqVjc2b3hjZUhPZWs4OGNwLV9jRFZYTVJVQmJ1Q25zcEdveVRmdGM0UGdnYk85RFNrQmFtb0xieFF0VkxOT1o5ZHM0Y1RYd1h1ZE9kNEpnMkk1VU9xeExqWjZGX0V2RDVhWHIwbmJjdVQ4QTkxU3FYUTIwQnp5TzFUMjhHV0h1SEtJMEVwaDRyMFlBR3RyZUxyazJjc3hBUUVyS21GaHJkT3RLdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "viral|https://news.google.com/rss/articles/CBMigAJBVV95cUxQLTM2NG5UbUNQcUdrNkZJcF9qclI5VWh4NUNWZDVEOEdSLTNQUDFld0hJYUVfTktENHhKWWlzNmdnTjZxQjFabVZCZTh5M3A4U0tWM3JQZjJXSnVCR3JQakFaUW52WGEza2oxZ3NBMUM2eHlGS3NyeGJaQUVNaUZ0bGtqSDB5VldncUFBcEtBVkktS0ZqN2lWcWNfMVVWLUMtc29RdEdYTV9GZkxnUF9SX2RYcW9QZXNCdDlFOHdkb2VLMTczM3c1MkJWWWtBOTNhYi1LWTQ0RzdvMkVjWlM5d1VzVTBRdHU4SUlHanp0NkRWX3gweGdUY1RJdDhQVlc40gGAAkFVX3lxTFAtMzY0blRtQ1BxR2s2RklwX2pyUjlVaHg1Q1ZkNUQ4R1ItM1BQMWV3SElhRV9OS0Q0eEpZaXM2Z2dONnFCMVptVkJlOHkzcDhTS1YzclBmMldKdUJHclBqQVpRbnZYYTNrajFnc0ExQzZ4eUZLc3J4YlpBRU1pRnRsa2pIMHlWV2dxQUFwS0FWSS1LRmo3aVZxY18xVVYtQy1zb1F0R1hNX0ZmTGdQX1JfZFhxb1Blc0J0OUU4d2RvZUsxNzMzdzUyQlZZa0E5M2FiLUtZNDRHN28yRWNaUzl3VXNVMFF0dThJSUdqenQ2RFZfeDB4Z1RjVEl0OFBWVzg?oc=5",
       "section": "viral",
       "category": "Viral EN",
@@ -2052,6 +2034,24 @@
         {
           "name": "Viral EN",
           "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNUGZmVUpRb3VqYlVPREM0Y3JHUm9nRER5MnVOcWd0VHJvVUpPMkZ5Z2Q2a0pSZFpINE1rTThmb3BxaUtYYVJheFBGOGFfZTRnMmRJM1h4R1BEbXVZZUdpUXM4d1hYcFlDYkJYUGxEMDg4OTJiZk1WUUZGYU9GalF2UlIwOHBNNkltak1tbGZSNk0zWU15Q2FJRkR1bm1BX25sV2FnNmptWkhIZHd6UmlaMEhmeFlFUjBpTFFyU2VWWUF0cV8zcXNyRElieGV5QXpSVXBsMW5YazVhUHp3blZObzVVTFZBOHRPTmlZcWRjQWVBSUczdUgwYVJ3R19DQkZ1TjJCNFRxWkJPell0WXZDVE00d9IBkwJBVV95cUxNUGZmVUpRb3VqYlVPREM0Y3JHUm9nRER5MnVOcWd0VHJvVUpPMkZ5Z2Q2a0pSZFpINE1rTThmb3BxaUtYYVJheFBGOGFfZTRnMmRJM1h4R1BEbXVZZUdpUXM4d1hYcFlDYkJYUGxEMDg4OTJiZk1WUUZGYU9GalF2UlIwOHBNNkltak1tbGZSNk0zWU15Q2FJRkR1bm1BX25sV2FnNmptWkhIZHd6UmlaMEhmeFlFUjBpTFFyU2VWWUF0cV8zcXNyRElieGV5QXpSVXBsMW5YazVhUHp3blZObzVVTFZBOHRPTmlZcWRjQWVBSUczdUgwYVJ3R19DQkZ1TjJCNFRxWkJPell0WXZDVE00dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "viral|https://news.google.com/rss/articles/CBMipAFBVV95cUxPTnRPSUdiYWpyVzVXQ2xsTTBvcl8wTGlGbHE3UkwydXpKMUp1MHk3Rm96M3Q2Rl8ycXRGTHR0NWVhanQwdC1pQzM1elZ3Z1VWdjJQd1p4VkxUcFdlV0JHazNaeEFacERHeDVnZXhucFROM2w5QTJ0MWpmekJXV21EY19GTGpFaFpEM3lORWFxUkt5YVp6V1JQM1V1Y2xvNHV4eDI0MQ?oc=5",
+      "section": "viral",
+      "category": "Viral EN",
+      "title": "What does ‘Fanum Tax’ mean? Viral Kai Cenat meme explained - Dexerto",
+      "summary": "What does ‘Fanum Tax’ mean? Viral Kai Cenat meme explained Dexerto",
+      "image": "",
+      "publishedAt": "2026-11-06 20:16 UTC",
+      "language": "en",
+      "topic": "Tendencias",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Viral EN",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTnRPSUdiYWpyVzVXQ2xsTTBvcl8wTGlGbHE3UkwydXpKMUp1MHk3Rm96M3Q2Rl8ycXRGTHR0NWVhanQwdC1pQzM1elZ3Z1VWdjJQd1p4VkxUcFdlV0JHazNaeEFacERHeDVnZXhucFROM2w5QTJ0MWpmekJXV21EY19GTGpFaFpEM3lORWFxUkt5YVp6V1JQM1V1Y2xvNHV4eDI0MQ?oc=5"
         }
       ]
     },
@@ -2124,6 +2124,24 @@
         {
           "name": "Viral medios ES",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTmNPc1hxb1lXYk1iLWh2bk52Ml80eXp2ZjA1R2dRUGYwY1ota2ppRkt4bW00MzBaejVNdlJoNy1NQ2stZWxVN2c0TGxGU1JwdzZNb2ZZQXA3dmZveEszTi1jcnZoN21wNEljckVsRWZDN0dYa3BSV1BwX1NkemlFRV9yLUt5Tk1DZTRwQk9QbXEyYmhvLS12MjdZRG5BVzFzRnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "viral|https://news.google.com/rss/articles/CBMiPEFVX3lxTE1fU1RxaFJPN3owdV9ycENhQTlQM2loT2ZJZHNjeGZoRUZYOUJ2SzBESUdYcGNraGREdU95Yg?oc=5",
+      "section": "viral",
+      "category": "Viral BBC",
+      "title": "Breaking news, video and the latest top stories from the U.S. and around the world - BBC",
+      "summary": "Breaking news, video and the latest top stories from the U.S. and around the world BBC",
+      "image": "",
+      "publishedAt": "2026-11-08 01:35 UTC",
+      "language": "en",
+      "topic": "Tendencias",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Viral BBC",
+          "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE1fU1RxaFJPN3owdV9ycENhQTlQM2loT2ZJZHNjeGZoRUZYOUJ2SzBESUdYcGNraGREdU95Yg?oc=5"
         }
       ]
     },
@@ -3340,7 +3358,7 @@
       "title": "Best Shorts For Men 2026: The 9 Pairs To Wear All Summer - Forbes",
       "summary": "Best Shorts For Men 2026: The 9 Pairs To Wear All Summer Forbes",
       "image": "",
-      "publishedAt": "2026-11-07 07:15 UTC",
+      "publishedAt": "2026-11-08 13:20 UTC",
       "language": "en",
       "topic": "Moda",
       "verification": "fuente identificada; no contrastada independientemente",
@@ -3484,7 +3502,7 @@
       "title": "Nvidia investigará a su propio director ejecutivo por amorío con una supuesta espía china - EFE - Agencia de noticias",
       "summary": "Nvidia investigará a su propio director ejecutivo por amorío con una supuesta espía china EFE - Agencia de noticias",
       "image": "",
-      "publishedAt": "2026-11-08 21:34 UTC",
+      "publishedAt": "2026-11-09 00:35 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
@@ -3550,38 +3568,20 @@
       ]
     },
     {
-      "id": "espana|https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdVp3WU5feWx0U3docWE1RnFWbzR0d1lIRGkxeHVjVV9zSjQ0SXZwSFJfM0wzanp2TDRnWllaang2QU5hTFZ1cEF5Ri03YnZVWU9jV0s5Z2ZpRXVaTHVfVkY2aFNrc190dFBBbWdKVWl0SC10eUxTd0xjZF81SllMMEtrUkc0ZkpXOUoxYTBOandseVp1a0VzcFI1X1E1ZUgwRzIxdjlINGdrZm5wV3FDTEkyMGdXdGhLbVJmRXpKdElzVzNJLXB5YVo5OFhJNThEc3JxVHpnZFhGc0lqVVJ5dklqS3VsUdIB-gFBVV95cUxPUWNaQVBqakxDZXZDQW0xNzV6YjVEUldGVWVuYmVZcDR6SG42aFRTV2V6UnF5ZjR4OERickFGRGhodEQtNGUwemk1ZDJjMU1BZmYwUlYtdGJWQmFvUk4xLTFRWkNkT3RLaHFqTEhaMGdMbWdkc2dycVFlcC1xRE9nUE1DaDdDd3FzdXZzdkluT042Y1dXTkJFSWc3VG5vcUxaVGtiTzlXUG14eGZoa3NPM3lIX0ZkazF6TFczNTZXdTVxeko2cHhuTk5hUGktOUszdVQ2WU42cTlTMG52UzhLTVRZQ1QzVEJCQ1F0WG5oR21zV0hfdW4xVEtn?oc=5",
+      "id": "espana|https://news.google.com/rss/articles/CBMimAFBVV95cUxNX1ZBNnpXQUE4b0luOXBQOXh2T3BOSTRjWERMZVZIeWttYm5DWTV4M3djUmZWem96Umt4c0JkMXJjbm9zeEdqSGkyQ19FNFZHTm5wTXZSaC1pWTdoajVJT1lCakVEb2hWOExWSXNjNUtmbWdtOGpnUGJtMWZ6Tmx2eVpDQ2x1WVNydDhpVlVnQ2FPQVpfLTNKQdIBrAFBVV95cUxPR1pTY2ZVMmhoS1JleTlVX01rX1A0YVdPTzRHRF85MjREQ0lRZmtCbF9zQzhkQUxmR3hua2tPTzdaT0xDYlpFczRMbi03WG4xbmNhb0JiSk5BS1BQYkJ3Rmh2azdXUHJYSTVVcGdIUzhkcnNkWU9oSXMxaFl1MFl1S0Y0SHR5OUhPdVRWOXpxRmNkVTJDc2syUER2eVBPcEhXZ2laTG9GSkp3aTJs?oc=5",
       "section": "espana",
       "category": "La Razón",
-      "title": "Feijóo se compromete a revisar la vía \"palmo a palmo\" y ve \"vomitivas\" las gratificaciones a directivos de Adif - La Razón",
-      "summary": "Feijóo se compromete a revisar la vía \"palmo a palmo\" y ve \"vomitivas\" las gratificaciones a directivos de Adif La Razón",
+      "title": "Carta a un socialista indeciso - La Razón",
+      "summary": "Carta a un socialista indeciso La Razón",
       "image": "",
-      "publishedAt": "2026-11-08 13:11 UTC",
+      "publishedAt": "2026-11-08 00:46 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "La Razón",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdVp3WU5feWx0U3docWE1RnFWbzR0d1lIRGkxeHVjVV9zSjQ0SXZwSFJfM0wzanp2TDRnWllaang2QU5hTFZ1cEF5Ri03YnZVWU9jV0s5Z2ZpRXVaTHVfVkY2aFNrc190dFBBbWdKVWl0SC10eUxTd0xjZF81SllMMEtrUkc0ZkpXOUoxYTBOandseVp1a0VzcFI1X1E1ZUgwRzIxdjlINGdrZm5wV3FDTEkyMGdXdGhLbVJmRXpKdElzVzNJLXB5YVo5OFhJNThEc3JxVHpnZFhGc0lqVVJ5dklqS3VsUdIB-gFBVV95cUxPUWNaQVBqakxDZXZDQW0xNzV6YjVEUldGVWVuYmVZcDR6SG42aFRTV2V6UnF5ZjR4OERickFGRGhodEQtNGUwemk1ZDJjMU1BZmYwUlYtdGJWQmFvUk4xLTFRWkNkT3RLaHFqTEhaMGdMbWdkc2dycVFlcC1xRE9nUE1DaDdDd3FzdXZzdkluT042Y1dXTkJFSWc3VG5vcUxaVGtiTzlXUG14eGZoa3NPM3lIX0ZkazF6TFczNTZXdTVxeko2cHhuTk5hUGktOUszdVQ2WU42cTlTMG52UzhLTVRZQ1QzVEJCQ1F0WG5oR21zV0hfdW4xVEtn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "espana|https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXlzLTl0YkEwWUlCU180emo5T1VBSDdWOHlTS2loeTRtMUc1dU1LQlhNVGtoNThDaDNRX1NOS1JvUFdrVzA3dkJYZTQ1OGVtVUdJV3pacHIxc2ZYY3FRZWlEYzZmb0d1bXpxWDdLTVBYTXRWUXAtXzFwQzI2XzNidUFDSC04eFgyUlQybGtDV0JSOEg0dEpGUDgzYkJzb0txZXpTc1B6LXZKeXBlR24zQUwwUXpTbkR1N1FJc3FqV0lLOElSbkhBR3BuS1kyZw?oc=5",
-      "section": "espana",
-      "category": "20minutos",
-      "title": "Sánchez deja de lado el accidente de Urda y dice que blindará las pensiones y el aborto en la Constitución - 20Minutos",
-      "summary": "Sánchez deja de lado el accidente de Urda y dice que blindará las pensiones y el aborto en la Constitución 20Minutos",
-      "image": "",
-      "publishedAt": "2026-11-08 14:51 UTC",
-      "language": "es",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "20minutos",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXlzLTl0YkEwWUlCU180emo5T1VBSDdWOHlTS2loeTRtMUc1dU1LQlhNVGtoNThDaDNRX1NOS1JvUFdrVzA3dkJYZTQ1OGVtVUdJV3pacHIxc2ZYY3FRZWlEYzZmb0d1bXpxWDdLTVBYTXRWUXAtXzFwQzI2XzNidUFDSC04eFgyUlQybGtDV0JSOEg0dEpGUDgzYkJzb0txZXpTc1B6LXZKeXBlR24zQUwwUXpTbkR1N1FJc3FqV0lLOElSbkhBR3BuS1kyZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX1ZBNnpXQUE4b0luOXBQOXh2T3BOSTRjWERMZVZIeWttYm5DWTV4M3djUmZWem96Umt4c0JkMXJjbm9zeEdqSGkyQ19FNFZHTm5wTXZSaC1pWTdoajVJT1lCakVEb2hWOExWSXNjNUtmbWdtOGpnUGJtMWZ6Tmx2eVpDQ2x1WVNydDhpVlVnQ2FPQVpfLTNKQdIBrAFBVV95cUxPR1pTY2ZVMmhoS1JleTlVX01rX1A0YVdPTzRHRF85MjREQ0lRZmtCbF9zQzhkQUxmR3hua2tPTzdaT0xDYlpFczRMbi03WG4xbmNhb0JiSk5BS1BQYkJ3Rmh2azdXUHJYSTVVcGdIUzhkcnNkWU9oSXMxaFl1MFl1S0Y0SHR5OUhPdVRWOXpxRmNkVTJDc2syUER2eVBPcEhXZ2laTG9GSkp3aTJs?oc=5"
         }
       ]
     },
@@ -3604,6 +3604,24 @@
       ]
     },
     {
+      "id": "espana|https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXlzLTl0YkEwWUlCU180emo5T1VBSDdWOHlTS2loeTRtMUc1dU1LQlhNVGtoNThDaDNRX1NOS1JvUFdrVzA3dkJYZTQ1OGVtVUdJV3pacHIxc2ZYY3FRZWlEYzZmb0d1bXpxWDdLTVBYTXRWUXAtXzFwQzI2XzNidUFDSC04eFgyUlQybGtDV0JSOEg0dEpGUDgzYkJzb0txZXpTc1B6LXZKeXBlR24zQUwwUXpTbkR1N1FJc3FqV0lLOElSbkhBR3BuS1kyZw?oc=5",
+      "section": "espana",
+      "category": "20minutos",
+      "title": "Sánchez deja de lado el accidente de Urda y dice que blindará las pensiones y el aborto en la Constitución - 20Minutos",
+      "summary": "Sánchez deja de lado el accidente de Urda y dice que blindará las pensiones y el aborto en la Constitución 20Minutos",
+      "image": "",
+      "publishedAt": "2026-11-08 14:51 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "20minutos",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXlzLTl0YkEwWUlCU180emo5T1VBSDdWOHlTS2loeTRtMUc1dU1LQlhNVGtoNThDaDNRX1NOS1JvUFdrVzA3dkJYZTQ1OGVtVUdJV3pacHIxc2ZYY3FRZWlEYzZmb0d1bXpxWDdLTVBYTXRWUXAtXzFwQzI2XzNidUFDSC04eFgyUlQybGtDV0JSOEg0dEpGUDgzYkJzb0txZXpTc1B6LXZKeXBlR24zQUwwUXpTbkR1N1FJc3FqV0lLOElSbkhBR3BuS1kyZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "espana|https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeTJFbmFoVmY5MGVqMHF4VEN6VkwzTG9CZjRiS0hwZ3BmbU85dVhCbFVPdmRXU0tXYWtCdWhvbXlPS1hJd0NiZnA1dTJBcXBvR3BWWDFpSTBjRXMzajhCbDY3cDBYTjROWS1WNEE1dUp2QThOM0NreEZybUkwN3RVZ0tzNjhSOTl5Z054dG5jMll3UFE3Y1FodGZpNjY5ZUcwQ1ZFTUR2ZTE5Y28tRXZnZ2pOSE10OGFIbHgxZ1hWbG0xQUpDT3JjTVpqdkNoeHFlNFpISERRbk9sM3l1UFM2Q01VZlDSAeoBQVVfeXFMTk13OG1ucmdPTE03Q3lqOTlJN25yR19qNlZTX19naXV6WjdVbW1DSFcxUEFCMi1PeXJncFhOcGxTLThHMHRpX0hqVzh6em5OX1J5NEpFR2h0N2tNcjNsdDAtTjNicVVkMmpGelhTWE9ISFdKSnJobHZid3UxMmxIVzJ2N1FLMFFQcmNrYXJhY2Z2cVE0aHdHc0hxazF1SG12Vnp6RWkzZE5pY2dRZ213RVluTFVmT3A5SDA1YUJfa0dreGtxUjVLMGI2MHFsSmRHTnE0ci1zNTg4WjBrbzRJV1pRMV9OSnlsWXln?oc=5",
       "section": "espana",
       "category": "El Español",
@@ -3622,20 +3640,20 @@
       ]
     },
     {
-      "id": "espana|https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQllwSDUzcHJBUVpDNk8yMG1XRE1vdWxINlZac2JVU05uM1NvYUFjWWFHbUpyQmlRQ1UxWXBLNDBOclFSS1NKZ096Z2EwcjNVQzFvRkFVNjhDeWsxRFZyR0tScVZsZF93YjlOS25uLTZ0aG5NdC1TZUUzWGliMHRlZnBmc09SMjd6eHpRMHZLWWdKcmRyQkg3dm4tTE1zOVFwX1JRbEJHV1ViOFV2RF9mNDV6dTlUc09JTWxCUDRpa2pWVHZHUThzemt0OFNFODJXSE16ZDRhdTR2Nnh10gHiAUFVX3lxTE9MM1lzbHMyR0QyOUdqNzNuWTR5RllsYkRTb2hneVZzeDBfX2xYakFNRG45b1RjNS13Ul9IRW5HUHJaZnM5djI0VHVHNFh6Tm45MmpzTG5udTMxc1E2WUpTakxLRjJ6U05DWmhhLWZEcEoyV3MyZ3VfdDdfWE5UWmN6RkxDQTJobG5IRnA2ZWt4VmlNTnUxOUpPOXVWOUpzLU9tZ0xpY3VkLU80NFdXamNXVVE3LTFDM1NadzFVVTh4WTV3VEdaSWplWmVUR0tBTWlUTE42ZjVuNWlDMTZ4Wm50MHc?oc=5",
+      "id": "espana|https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbUR5Ulk0MlZvTlZ5c19PbTlMaWZBTHYzSjhXdnBmdmtEaW1XSGZ0ZEQ1ZVdmc0ZDRzA4cl9xQTJISmlHazAwcmRpaFJHTHo0aHhyTzU3QlBBckhPRjc0cnVuSDh0WjIwOUhyQnZwR3hEUS03UG4tWnNsNnpPaXhMUmdhZFNSMWVxS0V2N3FCWGM0TVFNbnktOWpGX18xRmxCWGNzSTh5bzNjaUZvZEpkSnc4M3VNenlBb1pEOHkzRVpiUFh2cVFOdU4zdUprVEktVG9YVjBwN3JiWTFmN0dZMTZsTy1JdEV2Z25uMkZKQQ?oc=5",
       "section": "espana",
       "category": "El Español",
-      "title": "Sólo el 22% de los ocupados tiene intención de secundar la huelga general: el 73% considera que se hace \"contra la oposición\" - El Español",
-      "summary": "Sólo el 22% de los ocupados tiene intención de secundar la huelga general: el 73% considera que se hace \"contra la oposición\" El Español",
+      "title": "Atlético de Madrid - Barça, fútbol hoy en directo: resultado, goleadores y estadísticas en vivo del partido de La Liga - El Español",
+      "summary": "Atlético de Madrid - Barça, fútbol hoy en directo: resultado, goleadores y estadísticas en vivo del partido de La Liga El Español",
       "image": "",
-      "publishedAt": "2026-11-08 04:00 UTC",
+      "publishedAt": "2026-11-08 19:30 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "El Español",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQllwSDUzcHJBUVpDNk8yMG1XRE1vdWxINlZac2JVU05uM1NvYUFjWWFHbUpyQmlRQ1UxWXBLNDBOclFSS1NKZ096Z2EwcjNVQzFvRkFVNjhDeWsxRFZyR0tScVZsZF93YjlOS25uLTZ0aG5NdC1TZUUzWGliMHRlZnBmc09SMjd6eHpRMHZLWWdKcmRyQkg3dm4tTE1zOVFwX1JRbEJHV1ViOFV2RF9mNDV6dTlUc09JTWxCUDRpa2pWVHZHUThzemt0OFNFODJXSE16ZDRhdTR2Nnh10gHiAUFVX3lxTE9MM1lzbHMyR0QyOUdqNzNuWTR5RllsYkRTb2hneVZzeDBfX2xYakFNRG45b1RjNS13Ul9IRW5HUHJaZnM5djI0VHVHNFh6Tm45MmpzTG5udTMxc1E2WUpTakxLRjJ6U05DWmhhLWZEcEoyV3MyZ3VfdDdfWE5UWmN6RkxDQTJobG5IRnA2ZWt4VmlNTnUxOUpPOXVWOUpzLU9tZ0xpY3VkLU80NFdXamNXVVE3LTFDM1NadzFVVTh4WTV3VEdaSWplWmVUR0tBTWlUTE42ZjVuNWlDMTZ4Wm50MHc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbUR5Ulk0MlZvTlZ5c19PbTlMaWZBTHYzSjhXdnBmdmtEaW1XSGZ0ZEQ1ZVdmc0ZDRzA4cl9xQTJISmlHazAwcmRpaFJHTHo0aHhyTzU3QlBBckhPRjc0cnVuSDh0WjIwOUhyQnZwR3hEUS03UG4tWnNsNnpPaXhMUmdhZFNSMWVxS0V2N3FCWGM0TVFNbnktOWpGX18xRmxCWGNzSTh5bzNjaUZvZEpkSnc4M3VNenlBb1pEOHkzRVpiUFh2cVFOdU4zdUprVEktVG9YVjBwN3JiWTFmN0dZMTZsTy1JdEV2Z25uMkZKQQ?oc=5"
         }
       ]
     },
@@ -3682,7 +3700,7 @@
       "title": "Trump says 'only kidding' about naming UFC CEO as White House press secretary - Reuters",
       "summary": "Trump says 'only kidding' about naming UFC CEO as White House press secretary Reuters",
       "image": "",
-      "publishedAt": "2026-11-08 23:34 UTC",
+      "publishedAt": "2026-11-08 23:47 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
@@ -3700,7 +3718,7 @@
       "title": "Oil falls on open as Trump says fresh Iran attacks 'unlikely' - Reuters",
       "summary": "Oil falls on open as Trump says fresh Iran attacks 'unlikely' Reuters",
       "image": "",
-      "publishedAt": "2026-11-08 23:51 UTC",
+      "publishedAt": "2026-11-08 23:50 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
@@ -3748,38 +3766,38 @@
       ]
     },
     {
-      "id": "mundo|https://news.google.com/rss/articles/CBMiygFBVV95cUxQNG5VWS1ZUl9ya1dVRXkySGdyQnU2UVNMUXp5cmx2SlB0LTRoaUZlM09OckQ0WEk5UHo0dXpkaW9DdkJvYnd2RkMxS0QyTjR3cF9sanBsN0d2R1I3VC1Lc2I2UkNlSldtVHRsbjk3VzNjQWRZVlV4dENtR090MEgxQ00zSjhIZ05kZjZuaWdDWnR6NUl1anNMYVBtRDExZHh4VEdTbXhZVkxmWF9PUnlQRzBvQzBIdkQzd0pPd01iRHNPX280ZkxhbVpB?oc=5",
+      "id": "mundo|https://news.google.com/rss/articles/CBMivAFBVV95cUxOZHRSdFJtdVNZeFl0Q1cwTWFNN3AzN2Frb0lOQUMyNGNoalB6bWpYZGJET1VrRDFpMXQzb1RpTWJ2a0gzQm1nNEhIZEQ1VWxzTzc2LWlwb2EwQVlZTmZqUklNemhwQ2NKWkYtREFEY1NQMTFWN19WVlBMMXc4cVMzNUNhMEVsU0VwZzFadTh5ZUNxQ2p3NFkta2xGU2txT2tvWEZPQmtSNXI4SXpWSFFCbi1NT3FRMzJxZHhGdA?oc=5",
       "section": "mundo",
       "category": "France 24",
-      "title": "French student unions say 250,000 people took part in Saturday’s protests - France 24",
-      "summary": "French student unions say 250,000 people took part in Saturday’s protests France 24",
+      "title": "‘10 times more painful’: Menstrual disorders fuel calls to ban tear gas at French protests - France 24",
+      "summary": "‘10 times more painful’: Menstrual disorders fuel calls to ban tear gas at French protests France 24",
       "image": "",
-      "publishedAt": "2026-11-07 08:17 UTC",
+      "publishedAt": "2026-11-08 11:53 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "France 24",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNG5VWS1ZUl9ya1dVRXkySGdyQnU2UVNMUXp5cmx2SlB0LTRoaUZlM09OckQ0WEk5UHo0dXpkaW9DdkJvYnd2RkMxS0QyTjR3cF9sanBsN0d2R1I3VC1Lc2I2UkNlSldtVHRsbjk3VzNjQWRZVlV4dENtR090MEgxQ00zSjhIZ05kZjZuaWdDWnR6NUl1anNMYVBtRDExZHh4VEdTbXhZVkxmWF9PUnlQRzBvQzBIdkQzd0pPd01iRHNPX280ZkxhbVpB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZHRSdFJtdVNZeFl0Q1cwTWFNN3AzN2Frb0lOQUMyNGNoalB6bWpYZGJET1VrRDFpMXQzb1RpTWJ2a0gzQm1nNEhIZEQ1VWxzTzc2LWlwb2EwQVlZTmZqUklNemhwQ2NKWkYtREFEY1NQMTFWN19WVlBMMXc4cVMzNUNhMEVsU0VwZzFadTh5ZUNxQ2p3NFkta2xGU2txT2tvWEZPQmtSNXI4SXpWSFFCbi1NT3FRMzJxZHhGdA?oc=5"
         }
       ]
     },
     {
-      "id": "mundo|https://news.google.com/rss/articles/CBMiowFBVV95cUxNSkphQ0xneEJVaVhiUkxMS2diSVl4eDlqbW9VZHIyR2h1dEVMSFhoczdtb1lONmIzaTk5T2tJN043WGtpVk5kZmljbDNpamxlYmxPWEF1Q2NOZmxrVTlnOHFlQ2VaZ1hYWWxtQ3FQcFZZN0xhQVJHNm5SOWNsRGhjRVktd1U3Ni1uUWJJSENkbFFoTWFPQndVTngtbzVhMlg3YnlB?oc=5",
+      "id": "mundo|https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV3hRaUV5SDdRYm1qU3ZIVmVTbWd2WGpFOXZ0QTlqMDNGRlhRN1R6cVhseDVWc1ZBT0tNalJyX21kTTJ6MEhoNkI2dEJ3aGRYWWJmMTl6dURGZ19ndVhpOVhXVUdWMndtZzR4SVlEdnpRN3E4Wkx6aWFoZEE5RXFqb2QtMnNaWXZ5T0JSZkU2NTBrQlJHcGlfY3hKejlmZDRSZ05TUC1SS1pSRmxQN2V0WURFS0xkNDdxeHRiSnhjbVNrSzQ?oc=5",
       "section": "mundo",
       "category": "France 24",
-      "title": "Poland launches terrorism probe into mass shooting in Krakow - France 24",
-      "summary": "Poland launches terrorism probe into mass shooting in Krakow France 24",
+      "title": "Israeli president picks Netanyahu's rival Eisenkot to try to form government - France 24",
+      "summary": "Israeli president picks Netanyahu's rival Eisenkot to try to form government France 24",
       "image": "",
-      "publishedAt": "2026-11-08 08:59 UTC",
+      "publishedAt": "2026-11-07 19:37 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "France 24",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSkphQ0xneEJVaVhiUkxMS2diSVl4eDlqbW9VZHIyR2h1dEVMSFhoczdtb1lONmIzaTk5T2tJN043WGtpVk5kZmljbDNpamxlYmxPWEF1Q2NOZmxrVTlnOHFlQ2VaZ1hYWWxtQ3FQcFZZN0xhQVJHNm5SOWNsRGhjRVktd1U3Ni1uUWJJSENkbFFoTWFPQndVTngtbzVhMlg3YnlB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV3hRaUV5SDdRYm1qU3ZIVmVTbWd2WGpFOXZ0QTlqMDNGRlhRN1R6cVhseDVWc1ZBT0tNalJyX21kTTJ6MEhoNkI2dEJ3aGRYWWJmMTl6dURGZ19ndVhpOVhXVUdWMndtZzR4SVlEdnpRN3E4Wkx6aWFoZEE5RXFqb2QtMnNaWXZ5T0JSZkU2NTBrQlJHcGlfY3hKejlmZDRSZ05TUC1SS1pSRmxQN2V0WURFS0xkNDdxeHRiSnhjbVNrSzQ?oc=5"
         }
       ]
     },
@@ -3808,7 +3826,7 @@
       "title": "Saudi Aramco building in Riyadh damaged in ‘attempted’ attack - Al Jazeera",
       "summary": "Saudi Aramco building in Riyadh damaged in ‘attempted’ attack Al Jazeera",
       "image": "",
-      "publishedAt": "2026-11-08 13:19 UTC",
+      "publishedAt": "2026-11-09 00:36 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
@@ -4234,20 +4252,20 @@
       ]
     },
     {
-      "id": "tecnologia|https://news.google.com/rss/articles/CBMiugFBVV95cUxObVlMcDNJTVpaZ1FUcFNpZkpGbG5IaFNGYVNZc3ZtRWg4UjBHdHl5NUs3TFNMeFBqWE5iV0EzdFlwZ0pYdGMySjhVRENMVTNVSk9GZFpWTTJaVU9TT0VaTV9PZ21pWjdiNkMyVTJ2WElNVmJ6VlA3R2tzbmR5V1VjOTNjempjTXE5U1U3TXVXZnItdWVod2t5RzZ1NmRkZzFjbjF5T0Q0RlBEWkxpLXdlbW5uczVWMU5aZlE?oc=5",
+      "id": "tecnologia|https://news.google.com/rss/articles/CBMic0FVX3lxTE1SRzhDeldQOFhWYW50UWlVYkRTeHBTNEdHdDVjU2RfZWxXOE9kdXVlcUdrekpsaWQ0V20wX0NiendqUndfU29fVlNSWnVFbTB2R2tEZ3ZOMkZVeXNFQlZ0UXlvZW1KekxDR3d6ck5UVGprQkk?oc=5",
       "section": "tecnologia",
       "category": "The Verge",
-      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy - The Verge",
-      "summary": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy The Verge",
+      "title": "Where is Windows 12? - The Verge",
+      "summary": "Where is Windows 12? The Verge",
       "image": "",
-      "publishedAt": "2026-11-08 20:22 UTC",
+      "publishedAt": "2026-11-05 17:00 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObVlMcDNJTVpaZ1FUcFNpZkpGbG5IaFNGYVNZc3ZtRWg4UjBHdHl5NUs3TFNMeFBqWE5iV0EzdFlwZ0pYdGMySjhVRENMVTNVSk9GZFpWTTJaVU9TT0VaTV9PZ21pWjdiNkMyVTJ2WElNVmJ6VlA3R2tzbmR5V1VjOTNjempjTXE5U1U3TXVXZnItdWVod2t5RzZ1NmRkZzFjbjF5T0Q0RlBEWkxpLXdlbW5uczVWMU5aZlE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SRzhDeldQOFhWYW50UWlVYkRTeHBTNEdHdDVjU2RfZWxXOE9kdXVlcUdrekpsaWQ0V20wX0NiendqUndfU29fVlNSWnVFbTB2R2tEZ3ZOMkZVeXNFQlZ0UXlvZW1KekxDR3d6ck5UVGprQkk?oc=5"
         }
       ]
     },
@@ -4342,24 +4360,6 @@
       ]
     },
     {
-      "id": "estilo|https://news.google.com/rss/articles/CBMifkFVX3lxTE9meU5qRVZEVl9reFh4Rk1RU2tZVFozaUJBRnZwNmthZXJNaGw3WlN2NHIyUURMQ1dYRTBHbVlTX09vSzhfU05ueVBqR0x3VnhWZ3dDblZNV0lYVE45YkQtQ0t3cEpRUWd5cUxxNkhkaVhCU2R2QnEwdGlrVDhzdw?oc=5",
-      "section": "estilo",
-      "category": "Vogue España",
-      "title": "Dakota Johnson y MGK: ¿de verdad son una pareja tan extraña? - Vogue España",
-      "summary": "Dakota Johnson y MGK: ¿de verdad son una pareja tan extraña? Vogue España",
-      "image": "",
-      "publishedAt": "2026-11-06 11:06 UTC",
-      "language": "es",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Vogue España",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9meU5qRVZEVl9reFh4Rk1RU2tZVFozaUJBRnZwNmthZXJNaGw3WlN2NHIyUURMQ1dYRTBHbVlTX09vSzhfU05ueVBqR0x3VnhWZ3dDblZNV0lYVE45YkQtQ0t3cEpRUWd5cUxxNkhkaVhCU2R2QnEwdGlrVDhzdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "estilo|https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCTEpvYk9QZlhDdjJWam1zNm9GLUFhbk4yYnFXaDhndGxodGhEM28wTWhCTzJLRDE0eEs4VS1ONWFCTmo2Wi1XZGxnZ3lma3gy?oc=5",
       "section": "estilo",
       "category": "Vogue España",
@@ -4374,6 +4374,24 @@
         {
           "name": "Vogue España",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCTEpvYk9QZlhDdjJWam1zNm9GLUFhbk4yYnFXaDhndGxodGhEM28wTWhCTzJLRDE0eEs4VS1ONWFCTmo2Wi1XZGxnZ3lma3gy?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "estilo|https://news.google.com/rss/articles/CBMifkFVX3lxTE9meU5qRVZEVl9reFh4Rk1RU2tZVFozaUJBRnZwNmthZXJNaGw3WlN2NHIyUURMQ1dYRTBHbVlTX09vSzhfU05ueVBqR0x3VnhWZ3dDblZNV0lYVE45YkQtQ0t3cEpRUWd5cUxxNkhkaVhCU2R2QnEwdGlrVDhzdw?oc=5",
+      "section": "estilo",
+      "category": "Vogue España",
+      "title": "Dakota Johnson y MGK: ¿de verdad son una pareja tan extraña? - Vogue España",
+      "summary": "Dakota Johnson y MGK: ¿de verdad son una pareja tan extraña? Vogue España",
+      "image": "",
+      "publishedAt": "2026-11-06 11:06 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Vogue España",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9meU5qRVZEVl9reFh4Rk1RU2tZVFozaUJBRnZwNmthZXJNaGw3WlN2NHIyUURMQ1dYRTBHbVlTX09vSzhfU05ueVBqR0x3VnhWZ3dDblZNV0lYVE45YkQtQ0t3cEpRUWd5cUxxNkhkaVhCU2R2QnEwdGlrVDhzdw?oc=5"
         }
       ]
     },
@@ -5080,26 +5098,6 @@
       "popHorizon": "entradas"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMif0FVX3lxTFBrWGdLVHNhaGttaldXUVhsSDFreGhlYkFWS1BOU0Y2dnNHSi03U3R4UzdkUXZnSWxpTHVEVm4tcHczajloRHQ3RUhtSDFxSG44YXl1TVRmUmpaOE5sNmswaGQ2cjJhTmJFTDlMcnFPYm9kTkhPUkZIZjh2aW5jR0U?oc=5",
-      "section": "eventos",
-      "category": "Guía del Ocio",
-      "title": "Krakatoa Live en Madrid: espectáculo audiovisual - Guía del Ocio",
-      "summary": "Krakatoa Live en Madrid: espectáculo audiovisual Guía del Ocio",
-      "image": "",
-      "publishedAt": "2026-11-08 05:18 UTC",
-      "language": "es",
-      "topic": "Planes y ocio",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Guía del Ocio",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrWGdLVHNhaGttaldXUVhsSDFreGhlYkFWS1BOU0Y2dnNHSi03U3R4UzdkUXZnSWxpTHVEVm4tcHczajloRHQ3RUhtSDFxSG44YXl1TVRmUmpaOE5sNmswaGQ2cjJhTmJFTDlMcnFPYm9kTkhPUkZIZjh2aW5jR0U?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "popHorizon": "ahora"
-    },
-    {
       "id": "eventos|https://news.google.com/rss/articles/CBMiekFVX3lxTE5wVC1sMzBiMFFYdzZxTnU0NHJxVFIxTmlXWVhOaExqNmQyTV9oM2NRSm1Zc1ZRMkEyZ3RzekRZYlpzczYzdmRYSldERkhQZHZGRHkzRFJYdHVyTmdWNFFhTWZHTXhsSlFaR0pyTXprajRQNHlWRzJaeGxB?oc=5",
       "section": "eventos",
       "category": "Guía del Ocio",
@@ -5154,6 +5152,26 @@
         {
           "name": "Guía del Ocio",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2MnFCakk4azloaThyY3VnaGVyWV9KWlI2QnlVcG5pSWpyZTdLbVdic01sd0VUeF9zQXo3WjR2WmloQTdqV2R0UzRpeHJUQVE4NTVKTlZOUFJLdUFwMEZHSldZRTUzenEybWdSM0ROUXdwQzlBeUJKQTA1cTFHUQ?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "popHorizon": "ahora"
+    },
+    {
+      "id": "eventos|https://news.google.com/rss/articles/CBMijgFBVV95cUxNYTFTakVjaTIyLVdFUkRXSi1ncVVZOUtqWXV0YUdhTGZLenJ4MW4yM1hZRHVuTkRrT1RxLXZjLXcydnltbnZ2Q2RsV0dmaWU3X19keXlNV0E3a2Q4VDhqNUdJUmdXSjRJa2I1dXdiUk1YSndDUWpITmQyLW9HR0dZU1hkN2R3SkZuVEFSSWJ3?oc=5",
+      "section": "eventos",
+      "category": "Guía del Ocio",
+      "title": "Concierto de órgano gratis en San Lorenzo de El Escorial | Madrid - Guía del Ocio",
+      "summary": "Concierto de órgano gratis en San Lorenzo de El Escorial | Madrid Guía del Ocio",
+      "image": "",
+      "publishedAt": "2025-08-27 11:55 UTC",
+      "language": "es",
+      "topic": "Planes y ocio",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Guía del Ocio",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYTFTakVjaTIyLVdFUkRXSi1ncVVZOUtqWXV0YUdhTGZLenJ4MW4yM1hZRHVuTkRrT1RxLXZjLXcydnltbnZ2Q2RsV0dmaWU3X19keXlNV0E3a2Q4VDhqNUdJUmdXSjRJa2I1dXdiUk1YSndDUWpITmQyLW9HR0dZU1hkN2R3SkZuVEFSSWJ3?oc=5"
         }
       ],
       "region": "Madrid",
@@ -6400,26 +6418,6 @@
       "popHorizon": "ahora"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zZnVhUndoeV9ySnE0Q3VTdk9xVUZzdFJ1NjEyNEdab0xMeHVTOVh2bU1tNTZaczQxZXBGd05sa3duUGZiM0pwcThzMVZEWlBLS3RRSUtpUFhnM09aRTV3dHB4RWEtQQ?oc=5",
-      "section": "eventos",
-      "category": "Teatro Fernán Gómez",
-      "title": "MOSCÚ NO EXISTE - Teatro Fernán Gómez",
-      "summary": "MOSCÚ NO EXISTE Teatro Fernán Gómez",
-      "image": "",
-      "publishedAt": "2026-10-30 22:13 UTC",
-      "language": "es",
-      "topic": "Teatro y musicales",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Teatro Fernán Gómez",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zZnVhUndoeV9ySnE0Q3VTdk9xVUZzdFJ1NjEyNEdab0xMeHVTOVh2bU1tNTZaczQxZXBGd05sa3duUGZiM0pwcThzMVZEWlBLS3RRSUtpUFhnM09aRTV3dHB4RWEtQQ?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "popHorizon": "ahora"
-    },
-    {
       "id": "eventos|https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rVXg0b2hMMks5VVcxcm9oTTlFNVhWa2NBTjVFMXpqMVU5OHpNWnJvS2lPRzVLN1p6bmpMUWZ1bkF1T1BLbmhLeWpkWmVtNW9RMEx4NVRmVG9ld2xFNDZsVEFB?oc=5",
       "section": "eventos",
       "category": "Teatro Fernán Gómez",
@@ -6454,6 +6452,26 @@
         {
           "name": "Teatro Fernán Gómez",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rRzZRZUx5VHF0Mml5LV9Zc3JuRFY4MUZRS1BZR1ZjWjZZTVQ0d3psMU5kQ1g5cnVzZ0cxNUVtNF92Z1ZudDhIYXY4UzRXVV9mWUQwYTEyTkNHNk8wZ0FkZEFzbkxua0d1cXltazBEOFFJVnM?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "popHorizon": "ahora"
+    },
+    {
+      "id": "eventos|https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZllMVG1WdUtXcTVjbFdPbjd0dTNNTjZSdjVxYWRhMWpkRTZaZ1pYa3FQUmExYWc4WTJIRm00WTgtMUVMVDhTTi1KTGZmdzctQWozc2FqbGlFenkxOWFJVzlhTkNqeEhKYTE2RFdNbU56eUVENm82TGJRdFlsTnFGSVNKTmtGeUp1MjZFWEdyT29mSG5CUnZMdjNXV0tjd3JielVOSkZ1dGZJZUI5eFJ0Q3Y3THF0LTFySjdDWms2MkR3cHNVRnVFYQ?oc=5",
+      "section": "eventos",
+      "category": "Teatro Fernán Gómez",
+      "title": "El Teatro Fernán Gómez presenta el estreno de La profanación de Don Juan (delirio de Buñuel, Dalí y Lorca) - Teatro Fernán Gómez",
+      "summary": "El Teatro Fernán Gómez presenta el estreno de La profanación de Don Juan (delirio de Buñuel, Dalí y Lorca) Teatro Fernán Gómez",
+      "image": "",
+      "publishedAt": "2026-10-23 07:00 UTC",
+      "language": "es",
+      "topic": "Teatro y musicales",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Teatro Fernán Gómez",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZllMVG1WdUtXcTVjbFdPbjd0dTNNTjZSdjVxYWRhMWpkRTZaZ1pYa3FQUmExYWc4WTJIRm00WTgtMUVMVDhTTi1KTGZmdzctQWozc2FqbGlFenkxOWFJVzlhTkNqeEhKYTE2RFdNbU56eUVENm82TGJRdFlsTnFGSVNKTmtGeUp1MjZFWEdyT29mSG5CUnZMdjNXV0tjd3JielVOSkZ1dGZJZUI5eFJ0Q3Y3THF0LTFySjdDWms2MkR3cHNVRnVFYQ?oc=5"
         }
       ],
       "region": "Madrid",
@@ -6740,26 +6758,6 @@
       "popHorizon": "entradas"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMirwFBVV95cUxNTEtsclpiVXp0aWhMWjMyTzg1T0FoVmpyYU0zR0poTWR5dUptUkxUUVFlRXc4YVY2M3JaNGtYUGpPSEhWdExEbGhOYWdnYnVMLS1rRzlvV2RIX0tHa2UzSE9rYXVkQlFxYWw0VlI1OWwyc3pVZXAxZWxIV2lxbWJUWDFjeU9XLWV4aXpaRmNDaThKc0NIVnRlYUQzNkR0Zzl3TzFvR19EeVJJdmgtd3dj?oc=5",
-      "section": "eventos",
-      "category": "Entradas.com",
-      "title": "Texas @ Palacio Vistalegre | MADRID - jue., 11/11/2027 - Entradas",
-      "summary": "Texas @ Palacio Vistalegre | MADRID - jue., 11/11/2027 Entradas",
-      "image": "",
-      "publishedAt": "2026-10-23 05:00 UTC",
-      "language": "es",
-      "topic": "Entradas a la venta",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Entradas.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTEtsclpiVXp0aWhMWjMyTzg1T0FoVmpyYU0zR0poTWR5dUptUkxUUVFlRXc4YVY2M3JaNGtYUGpPSEhWdExEbGhOYWdnYnVMLS1rRzlvV2RIX0tHa2UzSE9rYXVkQlFxYWw0VlI1OWwyc3pVZXAxZWxIV2lxbWJUWDFjeU9XLWV4aXpaRmNDaThKc0NIVnRlYUQzNkR0Zzl3TzFvR19EeVJJdmgtd3dj?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "popHorizon": "entradas"
-    },
-    {
       "id": "eventos|https://news.google.com/rss/articles/CBMiigFBVV95cUxPeE1HSXE2ZTI1M2hTQkNxOGIwWW0tMEVpX1FoWGNFQ2pibTc1ODYtb0V4eTBQVHBONHZwcFh3eDkwQU5fNEFaT0h3b3IyRV9RbllQOGVqcmhuRXptWkVtWlFEVGcwdkw2QUlCaEU2UUFhVHJBVFVHLXdHWUxDUG9ZUU4yd0tLNjFRQ2c?oc=5",
       "section": "eventos",
       "category": "Entradas.com",
@@ -6814,6 +6812,26 @@
         {
           "name": "Entradas.com",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Gci1UaWN4VWV5QmYzWVNPUE5tbE14Z19JUjhWam02cGEwdkxLdFEtOVNOd0lidDdfUzk2TW55eUltMDhQOHBrQVVsX0U4LVVvZmozRTRXbmhfZ3lNb0N3emRhakZIaU1CNEIzazI3XzBmREhs?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "popHorizon": "entradas"
+    },
+    {
+      "id": "eventos|https://news.google.com/rss/articles/CBMigAFBVV95cUxPVlhmQXplOTdfaGZCSGxEZ2hETFhCbUt3VTBVYWhmbi05VEEyTlpLLW1ZX2Y3OVE1eWY4VlVlcG5MSEZiNFlVUmt2R3c5OGc0Q2J1Smt1TjcxLWt4ZDNpTGZtTjhSRXF1eGFpWE5mbTRCemtlRVdoT005eGJrX05uNg?oc=5",
+      "section": "eventos",
+      "category": "Entradas.com",
+      "title": "CD Leganés - AD Ceuta FC @ Estadio Ontime Butarque | Leganés - Entradas",
+      "summary": "CD Leganés - AD Ceuta FC @ Estadio Ontime Butarque | Leganés Entradas",
+      "image": "",
+      "publishedAt": "2026-11-03 19:22 UTC",
+      "language": "es",
+      "topic": "Entradas a la venta",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Entradas.com",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVlhmQXplOTdfaGZCSGxEZ2hETFhCbUt3VTBVYWhmbi05VEEyTlpLLW1ZX2Y3OVE1eWY4VlVlcG5MSEZiNFlVUmt2R3c5OGc0Q2J1Smt1TjcxLWt4ZDNpTGZtTjhSRXF1eGFpWE5mbTRCemtlRVdoT005eGJrX05uNg?oc=5"
         }
       ],
       "region": "Madrid",
@@ -7360,20 +7378,20 @@
       ]
     },
     {
-      "id": "cultura|https://news.google.com/rss/articles/CBMia0FVX3lxTE0tS1B0c2ZGMDJYQXkyeFdyckx6dC1oUTFaS0laYll1UHpSYmVDTFY0WGxjb2hVNjdhbHRxeXV6WjhzcVNEeW5XamhlM3M4UHlUdDZTdmdHQ3Q0MkNab2ktSFc3QXI0YzBQSUFr?oc=5",
+      "id": "cultura|https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QendDMUktZm5Qa0ZUVTJBT283dk40THQ0UUxwaWNBbTJwYlRiaGp6STV1Z0E5RHhtVFhqSmI5aFMwVndpYko5U0JSVGZHLWRvZ2tMVHpR?oc=5",
       "section": "cultura",
       "category": "Museo del Prado",
       "title": "- Museo del Prado",
       "summary": "Museo del Prado",
       "image": "",
-      "publishedAt": "2026-11-08 23:02 UTC",
+      "publishedAt": "2026-11-08 22:52 UTC",
       "language": "es",
       "topic": "Cultura general",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Museo del Prado",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tS1B0c2ZGMDJYQXkyeFdyckx6dC1oUTFaS0laYll1UHpSYmVDTFY0WGxjb2hVNjdhbHRxeXV6WjhzcVNEeW5XamhlM3M4UHlUdDZTdmdHQ3Q0MkNab2ktSFc3QXI0YzBQSUFr?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QendDMUktZm5Qa0ZUVTJBT283dk40THQ0UUxwaWNBbTJwYlRiaGp6STV1Z0E5RHhtVFhqSmI5aFMwVndpYko5U0JSVGZHLWRvZ2tMVHpR?oc=5"
         }
       ],
       "region": "Madrid",
@@ -7722,7 +7740,7 @@
     {
       "id": "cultura|https://news.google.com/rss/articles/CBMilAFBVV95cUxPQlM1NlU2Z1VaQVNsLTMwRG83NExIVW9YTEdwZHVkT1F3QTJVVHkydHp1MGVlelJsZkpVT05oNTVrejRnTzBFY0IxTFdrZ2pjb0Z1OWxXLW03U1g4eVNLaVRPQU9LTnk5d3BDN2hlbEhSaHlrbXpSSExfdk9YQkdEOHF0dUlNTE5ZNlFPRFlUMG82TlBy?oc=5",
       "section": "cultura",
-      "category": "Agenda Madrid",
+      "category": "Teatro ES",
       "title": "Las mejores obras de la cartelera de teatro, danza y comedia de Madrid - Time Out Worldwide",
       "summary": "Las mejores obras de la cartelera de teatro, danza y comedia de Madrid Time Out Worldwide",
       "image": "",
@@ -7732,7 +7750,7 @@
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "Agenda Madrid",
+          "name": "Teatro ES",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQlM1NlU2Z1VaQVNsLTMwRG83NExIVW9YTEdwZHVkT1F3QTJVVHkydHp1MGVlelJsZkpVT05oNTVrejRnTzBFY0IxTFdrZ2pjb0Z1OWxXLW03U1g4eVNLaVRPQU9LTnk5d3BDN2hlbEhSaHlrbXpSSExfdk9YQkdEOHF0dUlNTE5ZNlFPRFlUMG82TlBy?oc=5"
         }
       ],
@@ -7918,26 +7936,6 @@
       ],
       "region": "España",
       "cultureView": "agenda"
-    },
-    {
-      "id": "cultura|https://news.google.com/rss/articles/CBMigwFBVV95cUxNODUtVndOc1BNR1ZkUFJwY2FVT3ZWdUFBUzczUzFlazA1Z1Zoc2o1cU1QYmxUU1JTbnFRX2hTdFlBLVVfSldSZ2ZDRHdyQmZzNXBrVkRSd1FzZzdxUzRtdlh3SFRjRXRuZXZuUjgxZWphRV85bHN3Ry1qN254ajdRdG5XRQ?oc=5",
-      "section": "cultura",
-      "category": "Teatro ES",
-      "title": "10 cosas para hacer esta semana en Barcelona: del 9 al 15 de noviembre - Time Out Worldwide",
-      "summary": "10 cosas para hacer esta semana en Barcelona: del 9 al 15 de noviembre Time Out Worldwide",
-      "image": "",
-      "publishedAt": "2026-11-05 23:00 UTC",
-      "language": "es",
-      "topic": "Teatro",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Teatro ES",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNODUtVndOc1BNR1ZkUFJwY2FVT3ZWdUFBUzczUzFlazA1Z1Zoc2o1cU1QYmxUU1JTbnFRX2hTdFlBLVVfSldSZ2ZDRHdyQmZzNXBrVkRSd1FzZzdxUzRtdlh3SFRjRXRuZXZuUjgxZWphRV85bHN3Ry1qN254ajdRdG5XRQ?oc=5"
-        }
-      ],
-      "region": "España",
-      "cultureView": "noticias"
     },
     {
       "id": "cultura|https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQ0lrZlpRMjlYczFsaTlvQjY2VFB3LU8zVDJHWHV4NTZvQXU0RU1DLTBES0xQVzVwTGZJNk9BMk1ROFpYcF9uRmc4dkh6aHBmNklZdjFBWHQ4WlpBeHdJc2VjRmwwcV83MEJEY2dEWVE3ckJvdXUzZ2lveXhqdHNtMUxoa3I5elJQWjRlUllkUTlxNXZSS3dMRXRqaVJmNVgyZlBYLVRXVXcxV0hXSVo5NXZRTzhUS0JKWnI3eDB0d2pXaFVndUFHSEZJUExzYzl6QnpmYXczaklMaGtZWmRqT0ZnMGtyRDd5Q1NqT2tpZ21UeG8?oc=5",
@@ -8223,8 +8221,8 @@
       "id": "cultura|https://news.google.com/rss/articles/CBMidkFVX3lxTE9SOEY0Y3pCWF90WmE4VktjTXJDUDBVcjZTenE4aWdOcHFlV2RCblVqYlpDMTZPN3BfUmxoX05ZenpNVTZmZ2FmRWdKWEpKS2xCY3FudDhycU5Hb1VGcWJYVmVMYjBjVklaTkFTWTd0ZHhLSHo5WFHSAXtBVV95cUxPYTNzblFRb3Q1bnlpXzNrZlh1aTJWM1hvQ29hdDFpbzVXQ3lTN0w5bTJnSUlIXzlJUWYyZVoxOGxKbkdiRDhsMjFxZ1cxdFE2YW81b1pFeHJsT0I2bnZ3aW5qdUxzYXlvUFAwaVpiVkR0WlhpSTNaVEc3Q28?oc=5",
       "section": "cultura",
       "category": "Jenesaispop",
-      "title": "Rosalía loa ‘Lux’ con Substack, playlist de 1.000 temas y boxset - jenesaispop.com",
-      "summary": "Rosalía loa ‘Lux’ con Substack, playlist de 1.000 temas y boxset jenesaispop.com",
+      "title": "Rosalía loa ‘Lux’ con Substack, playlist de 1.000 temas y boxset - Jenesaispop",
+      "summary": "Rosalía loa ‘Lux’ con Substack, playlist de 1.000 temas y boxset Jenesaispop",
       "image": "",
       "publishedAt": "2026-11-08 17:38 UTC",
       "language": "es",
@@ -8783,10 +8781,52 @@
   "breaking": {
     "espana": [
       {
-        "title": "La visita de León XIV en Argentina, en vivo | Frente a Milei, el Papa aboga por la necesidad de “escuchar” y por “el cuidado de la palabra”",
-        "publishedAt": "2026-11-09 00:30 UTC",
+        "title": "Así le hemos contado el primer día del Papa León XIV en Argentina",
+        "publishedAt": "2026-11-09 02:10 UTC",
         "source": "El País",
         "url": "https://elpais.com/america/2026-11-08/la-visita-de-leon-xiv-en-uruguay-en-vivo.html"
+      },
+      {
+        "title": "Trump confiesa que \"solo bromeaba\" cuando pidió al director de las luchas UFC ser su portavoz: \"Si él estuviese, no se meterían tanto con él\"",
+        "publishedAt": "2026-11-09 01:33 UTC",
+        "source": "El Mundo",
+        "url": "https://www.elmundo.es/internacional/2026/11/09/6af12214e4d4d88f658b457b.html"
+      },
+      {
+        "title": "El corazón del 'sorpasso' de Vox al PSOE en Torre Pacheco: \"Hay que poner todo en su sitio\"",
+        "publishedAt": "2026-11-09 01:23 UTC",
+        "source": "El Mundo",
+        "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/08/6af0bb62fc6c83752d8b4585.html"
+      },
+      {
+        "title": "Afianza, una compañía madrileña, conquista el skyline de la capital: clava su logo en la torre Emperador en una operación de vértigo a 225 metros de altura",
+        "publishedAt": "2026-11-09 01:21 UTC",
+        "source": "El Mundo",
+        "url": "https://www.elmundo.es/madrid/2026/11/09/6aecb8a5e85ecef1318b457d.html"
+      },
+      {
+        "title": "Fernando Savater: \"La pregunta no es cuándo me hice yo de derechas sino cuándo los socialistas se hicieron como Pedro Sánchez\"",
+        "publishedAt": "2026-11-09 01:19 UTC",
+        "source": "El Mundo",
+        "url": "https://www.elmundo.es/papel/2026/11/08/6ae88fecfc6c8371578b4579.html"
+      },
+      {
+        "title": "El jefe antinarco de Segovia que se 'vendió' a una red",
+        "publishedAt": "2026-11-09 01:19 UTC",
+        "source": "El Mundo",
+        "url": "https://www.elmundo.es/espana/2026/11/09/6af0684f21efa04e6a8b4575.html"
+      },
+      {
+        "title": "Localizan con vida al alcalde de Río Bravo (México) tras lograr escapar de sus secuestradores y haber caminado más de 80 kilómetros hasta Coahuila",
+        "publishedAt": "2026-11-09 01:14 UTC",
+        "source": "El Mundo",
+        "url": "https://www.elmundo.es/internacional/2026/11/09/6af11c96e9cf4a0b2d8b4597.html"
+      },
+      {
+        "title": "Nvidia investigará a su propio director ejecutivo por amorío con una supuesta espía china - EFE - Agencia de noticias",
+        "publishedAt": "2026-11-09 00:35 UTC",
+        "source": "Agencia EFE",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRko3dFNmeF9SeDV0LTFEUmVsWU5ZRzA2Y0dIR2x2eUhuYVBiUWRCUVd4NEpjMm1SZDVlUGVBU2x5UzdzQXlENFBkS3hwbEsxLWxqc3pjT0NNRHdVRXpYclRkN0lGeGdzSldZTDZVTTR3TFNDMEthLWFQLUNGZ1FGYThNUE9yeXI0aFlMeFNUamNSSVVi?oc=5"
       },
       {
         "title": "El Tribunal de Cuentas inicia la instrucción para recuperar el dinero de concursos amañados de Adif",
@@ -8811,51 +8851,57 @@
         "publishedAt": "2026-11-08 23:50 UTC",
         "source": "El Mundo",
         "url": "https://www.elmundo.es/economia/vivienda/2026/11/09/6aeeb5edfdddfffd198b45bf.html"
-      },
-      {
-        "title": "La guerra de los petroestados y los electroestados en la cumbre del clima de Antalya",
-        "publishedAt": "2026-11-08 23:50 UTC",
-        "source": "El Mundo",
-        "url": "https://www.elmundo.es/ciencia/2026/11/09/6af0703bfc6c83d8528b4577.html"
-      },
-      {
-        "title": "Primer gran debate de campaña: Albiol pide \"agrupar el voto\" para que Feijóo gobierne en solitario con una \"mayoría suficiente\" y el PSOE agita el miedo contra Vox",
-        "publishedAt": "2026-11-08 23:48 UTC",
-        "source": "El Mundo",
-        "url": "https://www.elmundo.es/cataluna/2026/11/09/6af1005b21efa03b188b456f.html"
-      },
-      {
-        "title": "Autohuelga contra las encuestas",
-        "publishedAt": "2026-11-08 23:27 UTC",
-        "source": "El Mundo",
-        "url": "https://www.elmundo.es/espana/2026/11/09/6af0a687e4d4d835568b4591.html"
-      },
-      {
-        "title": "Mercedes cierra en Interlagos su noveno título de constructores: las claves de su dominio en 2026",
-        "publishedAt": "2026-11-08 23:18 UTC",
-        "source": "El Mundo",
-        "url": "https://www.elmundo.es/deportes/formula-1/2026/11/09/6af0e1d121efa03a568b4588.html"
-      },
-      {
-        "title": "Afianza, una compañía madrileña, conquista el skyline de la capital: clava su logo en la torre Emperador en una operación de vértigo a 225 metros de altura",
-        "publishedAt": "2026-11-08 23:10 UTC",
-        "source": "El Mundo",
-        "url": "https://www.elmundo.es/madrid/2026/11/09/6aecb8a5e85ecef1318b457d.html"
-      },
-      {
-        "title": "Marcos Franz, actor de 'Merlí': \"Me creí que una sociedad secreta controlaba el mundo\"",
-        "publishedAt": "2026-11-08 23:09 UTC",
-        "source": "El Mundo",
-        "url": "https://www.elmundo.es/papel/2026/11/09/6aec9ecce9cf4ad16a8b456e.html"
-      },
-      {
-        "title": "Misoginia en el gimnasio: sorry, caballeros, pero no entrenamos al gimnasio en shorts para capturar vuestra atención",
-        "publishedAt": "2026-11-08 23:09 UTC",
-        "source": "El Mundo",
-        "url": "https://www.elmundo.es/yodona/actualidad/2026/11/09/6aeafeb6e9cf4a8d3f8b4577.html"
       }
     ],
     "mundo": [
+      {
+        "title": "Alcaraz downs Shelton in final to claim maiden Paris Masters title",
+        "publishedAt": "2026-11-09 02:17 UTC",
+        "source": "ABC Australia",
+        "url": "https://www.abc.net.au/news/2026-11-09/tennis-carlos-alcaraz-beats-ben-shelton-paris-masters-final/107364040"
+      },
+      {
+        "title": "Man in waiting room dies after car crashes into medical centre",
+        "publishedAt": "2026-11-09 02:12 UTC",
+        "source": "ABC Australia",
+        "url": "https://www.abc.net.au/news/2026-11-09/man-dies-after-car-crashes-into-medical-centre/107364182"
+      },
+      {
+        "title": "Coach Aloisi oversees stunning capitulation in Chinese Super League title race",
+        "publishedAt": "2026-11-09 02:12 UTC",
+        "source": "ABC Australia",
+        "url": "https://www.abc.net.au/news/2026-11-09/chinese-super-league-john-aloisi-oversees-stunning-capitulation/107364010"
+      },
+      {
+        "title": "New Spirit ferries not using autopilot near Geelong after steering faults",
+        "publishedAt": "2026-11-09 02:04 UTC",
+        "source": "ABC Australia",
+        "url": "https://www.abc.net.au/news/2026-11-09/autopilot-suspended-spirit-of-tasmania-ferries-steering-issues/107362396"
+      },
+      {
+        "title": "‘I never executed Jesse Baird’: Beau Lamarre-Condon reenacts shooting when giving evidence in NSW trial",
+        "publishedAt": "2026-11-09 01:44 UTC",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb"
+      },
+      {
+        "title": "Wagga Wagga family members of alleged DV murderer charged with being accessories after the fact",
+        "publishedAt": "2026-11-09 01:30 UTC",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/australia-news/2026/nov/09/danielle-madgwick-dv-murder-family-of-accused-charged-ntwnfb"
+      },
+      {
+        "title": "Arena 'electric' as 36ers debutant hits buzzer beater",
+        "publishedAt": "2026-11-09 01:21 UTC",
+        "source": "ABC Australia",
+        "url": "https://www.abc.net.au/news/2026-11-09/16yo-rj-brown-hits-buzzer-beater-in-debut-adelaide-36er-game/107363130"
+      },
+      {
+        "title": "Two survivors of fatal helicopter crash in Indonesia named",
+        "publishedAt": "2026-11-09 01:19 UTC",
+        "source": "ABC Australia",
+        "url": "https://www.abc.net.au/news/2026-11-09/survivors-of-indonesia-helicopter-crash-named/107362534"
+      },
       {
         "title": "Labuschagne axed from Aussie squad for New Zealand Tests",
         "publishedAt": "2026-11-09 00:51 UTC",
@@ -8869,72 +8915,24 @@
         "url": "https://www.theguardian.com/australia-news/2026/nov/09/man-charged-fatal-stabbing-hungrypanda-delivery-driver-jianming-feng-melbourne-ntwnfb"
       },
       {
+        "title": "Saudi Aramco building in Riyadh damaged in ‘attempted’ attack - Al Jazeera",
+        "publishedAt": "2026-11-09 00:36 UTC",
+        "source": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOam9zc1FkUTVXSWFQS0FvbG5pRlRaTjVyRDNrU0pubVYtU1Q2SUM3T0NuVWltenY4VUNXRGh6LW1fLWRxcFVKWEhyY2ZlODZHdEV5UkJiNkhBOHpYUUY2U3FLNnM3RHpkS3o3Tm9jNnEzUEg1VGdCdmlHV0trMDdEX3p5UWp6XzJFTEtyWlBTUFhocldQcXlJeTg1N3d6d0FSMGk4WVdwZW16Q3Q4dlZTdDVoSm_SAboBQVVfeXFMTnlpdEw5V3RCT3NRU2pOUUdmSExLODRyNVY5US1jTnkyWG9POFRpM3JGMVFEb0ZpZ2ZieFBWd1Brd0kyQll0dlBtenRZQjVoQ2J6UDBQSFlCVDhfNU5obnpHM0lLYkpRVHJvUmt6YkRzc3loMnpiSnUtczlrOHdFTm5rNWVmdlJGbWt2RXhnbUxyaDBoRkN2dXBmM3R1T2JTczhaUEpiV3hZbmpVV1ZSSjh3ZUNQRXFNOVJn?oc=5"
+      },
+      {
         "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
         "publishedAt": "2026-11-09 00:25 UTC",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation"
-      },
-      {
-        "title": "Oil falls on open as Trump says fresh Iran attacks 'unlikely' - Reuters",
-        "publishedAt": "2026-11-08 23:51 UTC",
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWnV4VENDNkFNVllVVEpoVTJLcC13SlhHREstWFZZQ252QTRiU3dKeW5EYWYxVUJjNnQzVzh1M1FsWjNGTmRKMVFEYjhxT3M2VmF4aVpERWwwczh6dV9OTG5NcFJCMFVZZ0toWEEyMnRRTnBZUm9iQVVzblIzcmJMOTR4V29sUDFVME1jcFQ5VVhoMHVUM0YzWHM2bmE1b3VCV0s0R2JmUUQ?oc=5"
-      },
-      {
-        "title": "‘This happened very quick’: Beau Lamarre-Condon reenacts shooting Jesse Baird during double murder trial",
-        "publishedAt": "2026-11-08 23:50 UTC",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb"
-      },
-      {
-        "title": "Trump says he was 'kidding' about offering Dana White press secretary job",
-        "publishedAt": "2026-11-08 23:49 UTC",
-        "source": "ABC Australia",
-        "url": "https://www.abc.net.au/news/2026-11-09/donald-trump-says-he-was-kidding-about-dana-white-job-offer/107362886"
-      },
-      {
-        "title": "Live: 'I never executed Jesse Baird': Beau Lamarre-Condon faces cross-examination",
-        "publishedAt": "2026-11-08 23:46 UTC",
-        "source": "ABC Australia",
-        "url": "https://www.abc.net.au/news/2026-11-09/beau-lamarre-condon-trial-live-blog-cross-examination/107362572"
-      },
-      {
-        "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-        "publishedAt": "2026-11-08 23:34 UTC",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Trump says 'only kidding' about naming UFC CEO as White House press secretary - Reuters",
-        "publishedAt": "2026-11-08 23:34 UTC",
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUHBjVXFsTFJMVmJ1dU5zSUlnVktsU3cwcnc1R29xd0dWYVhuSkxhQmt1NENoZHNUeEE3T2VGLV9oZnVScVpScnNIRlNMemJPSUxnaUhWTFFFSjFzLVY4NnZCSXRGUjBWWFFQQmZaQ1Y1Y0F6V2cxdDR5czdfcE9XWnY5UzF5NW02di10N2Iwa0RqdFBDLVJOeHhPcVZQTG1fbUNpNElwVndVZ1c3alJIVC1WLXRSdw?oc=5"
-      },
-      {
-        "title": "15yo boy stabbed multiple times outside Sydney high school",
-        "publishedAt": "2026-11-08 23:27 UTC",
-        "source": "ABC Australia",
-        "url": "https://www.abc.net.au/news/2026-11-09/teenage-boy-stabbed-outside-casula-high-school-in-sydney/107362694"
-      },
-      {
-        "title": "Live: Victoria's Big Build royal commission gets underway",
-        "publishedAt": "2026-11-08 23:17 UTC",
-        "source": "ABC Australia",
-        "url": "https://www.abc.net.au/news/2026-11-09/vic-election-blog-big-build-royal-commission/107357514"
-      },
-      {
-        "title": "Body found in search for Gold Coast boatie",
-        "publishedAt": "2026-11-08 23:04 UTC",
-        "source": "ABC Australia",
-        "url": "https://www.abc.net.au/news/2026-11-09/police-search-for-missing-boatie-on-gold-coast/107362434"
       }
     ],
     "cultura": [
       {
         "title": "- Museo del Prado",
-        "publishedAt": "2026-11-08 23:02 UTC",
+        "publishedAt": "2026-11-08 22:52 UTC",
         "source": "Museo del Prado",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tS1B0c2ZGMDJYQXkyeFdyckx6dC1oUTFaS0laYll1UHpSYmVDTFY0WGxjb2hVNjdhbHRxeXV6WjhzcVNEeW5XamhlM3M4UHlUdDZTdmdHQ3Q0MkNab2ktSFc3QXI0YzBQSUFr?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QendDMUktZm5Qa0ZUVTJBT283dk40THQ0UUxwaWNBbTJwYlRiaGp6STV1Z0E5RHhtVFhqSmI5aFMwVndpYko5U0JSVGZHLWRvZ2tMVHpR?oc=5"
       },
       {
         "title": "“Fountains of Youth: Live at the Town & Country Club, London” - MondoSonoro",
@@ -8961,7 +8959,7 @@
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9WWHk4TzZYd2sxUllRMlNXNmdhMXRIZXg0VDRXdmd3UGZXZE5vNXBHTlJaVnM1ODVGZnh6alFJMFlsR1NwWV9uTWdSQnRoSm0tQS1ITmM2dkJfYzJWRzlWNDJBTXlDUDVYNEVXVnZFYng3NkNvSUd5RS13?oc=5"
       },
       {
-        "title": "Rosalía loa ‘Lux’ con Substack, playlist de 1.000 temas y boxset - jenesaispop.com",
+        "title": "Rosalía loa ‘Lux’ con Substack, playlist de 1.000 temas y boxset - Jenesaispop",
         "publishedAt": "2026-11-08 17:38 UTC",
         "source": "Jenesaispop",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SOEY0Y3pCWF90WmE4VktjTXJDUDBVcjZTenE4aWdOcHFlV2RCblVqYlpDMTZPN3BfUmxoX05ZenpNVTZmZ2FmRWdKWEpKS2xCY3FudDhycU5Hb1VGcWJYVmVMYjBjVklaTkFTWTd0ZHhLSHo5WFHSAXtBVV95cUxPYTNzblFRb3Q1bnlpXzNrZlh1aTJWM1hvQ29hdDFpbzVXQ3lTN0w5bTJnSUlIXzlJUWYyZVoxOGxKbkdiRDhsMjFxZ1cxdFE2YW81b1pFeHJsT0I2bnZ3aW5qdUxzYXlvUFAwaVpiVkR0WlhpSTNaVEc3Q28?oc=5"
@@ -9004,6 +9002,12 @@
       }
     ],
     "television": [
+      {
+        "title": "Microdrama Makers From Turkey and Japan Bet on Emotional Hooks and Infuriating Villains at Taiwan Creative Content Fest",
+        "publishedAt": "2026-11-09 02:18 UTC",
+        "source": "Variety TV",
+        "url": "https://variety.com/2026/tv/markets-festivals/microdrama-makers-turkey-japan-bet-hooks-villains-1236942844/"
+      },
       {
         "title": "Trump on ’60 Minutes’ Reflects on Midterm Loss, Death and Forgiveness: ‘I Do Hate Some of My Enemies’",
         "publishedAt": "2026-11-09 01:07 UTC",
@@ -9069,12 +9073,6 @@
         "publishedAt": "2026-11-08 18:02 UTC",
         "source": "The Guardian Television",
         "url": "https://www.theguardian.com/tv-and-radio/2026/nov/08/saturday-night-live-druski-post-election-talarico"
-      },
-      {
-        "title": "Cineplex Boards Sanfic Title ‘La Residencia’ From ‘Algo Azul’ Director Mariel García Spooner",
-        "publishedAt": "2026-11-08 17:12 UTC",
-        "source": "Variety TV",
-        "url": "https://variety.com/2026/film/global/cineplex-la-residencia-mariel-garcia-spooner-algo-azul-1236941270/"
       }
     ],
     "tecnologia": [
@@ -9107,12 +9105,6 @@
         "publishedAt": "2026-11-08 20:30 UTC",
         "source": "TechCrunch EN",
         "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/"
-      },
-      {
-        "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy - The Verge",
-        "publishedAt": "2026-11-08 20:22 UTC",
-        "source": "The Verge",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObVlMcDNJTVpaZ1FUcFNpZkpGbG5IaFNGYVNZc3ZtRWg4UjBHdHl5NUs3TFNMeFBqWE5iV0EzdFlwZ0pYdGMySjhVRENMVTNVSk9GZFpWTTJaVU9TT0VaTV9PZ21pWjdiNkMyVTJ2WElNVmJ6VlA3R2tzbmR5V1VjOTNjempjTXE5U1U3TXVXZnItdWVod2t5RzZ1NmRkZzFjbjF5T0Q0RlBEWkxpLXdlbW5uczVWMU5aZlE?oc=5"
       },
       {
         "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
@@ -9149,9 +9141,21 @@
         "publishedAt": "2026-11-08 17:23 UTC",
         "source": "The Verge",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbjUtYjZ0U3JmQzZveW5xMkVUcVNzMFR2dVduYWdHOFNMVWZqTWVKa3U0U0YyNkpxM053MHdNcnhEdk9QanZ1UDZEMTdUOHBZZkFzX0h6WW1sd3ZtZkw1dTVneTVZc2JWU3ZlRnRtYkxqeG1CWFp2RURZR212aUlsM3BtalJUUzhNeC0yZ1hpSnFMbHo5bF9MR3hEcktwcjVsUlE?oc=5"
+      },
+      {
+        "title": "TechCrunch Mobility: The Cybertruck experiment is over",
+        "publishedAt": "2026-11-08 17:02 UTC",
+        "source": "TechCrunch EN",
+        "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/"
       }
     ],
     "estilo": [
+      {
+        "title": "Best Shorts For Men 2026: The 9 Pairs To Wear All Summer - Forbes",
+        "publishedAt": "2026-11-08 13:20 UTC",
+        "source": "Menswear International",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONnlmX3NNVkR0cktlay1tMVlWQWhyX1Q1MkRfcUdnRFRKNzBXOGJseVp6S1BoODZaSVBhZXp0QllfMnltdVJaekw5eVBhYXNLdVFWUUJwejF0YTBwaUYwOVNFcWtPd09DdmlQb1llbDJQWEVaVkFES24wMUh1eGZBRkIxS21yUWF4?oc=5"
+      },
       {
         "title": "Pedro Almodóvar, cineasta, 77 años: \"Soy una persona de izquierdas de toda la vida y con una conciencia social y de clase, pero muchas de mis películas no tienen un comentario político\" - Esquire",
         "publishedAt": "2026-11-08 12:09 UTC",
@@ -9219,15 +9223,21 @@
         "publishedAt": "2026-11-08 09:16 UTC",
         "source": "Agenda Ayuntamiento Madrid",
         "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQT1l0WTBrLTM3dnJVWDcwd3BJeEZyQmhoT0NYTndNV1NwWEtHaG1CTVlTbmN5ems0Rm1USWU5NGNKVENISk9pcHpBa0pTNko2SGZsd3RRUXE4VUM1UHNIX240S2VBbDBXWHE2OTRTTnpRNjJ6eC1yTTVSelV6ZmRmZXRxUWNmR0M1UWs3bml3UldMb21lU19idlBkNUVMTHJ0cXI3dWlpQnp5ZlV4b3U2UDdlYldma0VQQ21kTHVXd3Rfa2QweDBzaXRUWXoySVZjZzN0aUp2MDk0MnFaYmktYm5IZ21HVXJpZFVFa0w5eDd6cHVLNnJUVnBqVkducnM?oc=5"
-      },
-      {
-        "title": "Krakatoa Live en Madrid: espectáculo audiovisual - Guía del Ocio",
-        "publishedAt": "2026-11-08 05:18 UTC",
-        "source": "Guía del Ocio",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrWGdLVHNhaGttaldXUVhsSDFreGhlYkFWS1BOU0Y2dnNHSi03U3R4UzdkUXZnSWxpTHVEVm4tcHczajloRHQ3RUhtSDFxSG44YXl1TVRmUmpaOE5sNmswaGQ2cjJhTmJFTDlMcnFPYm9kTkhPUkZIZjh2aW5jR0U?oc=5"
       }
     ],
     "viral": [
+      {
+        "title": "¡Impactante VIDEO! Avioneta aterriza de emergencia en plena autopista y golpea una camioneta en movimiento - TV Azteca Chiapas",
+        "publishedAt": "2026-11-08 23:20 UTC",
+        "source": "Viral ES",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOTlVjMW1TMWFWNlIwTUtsRDI5WlFWb3Fld2Y1d09uM1lNU0hOcTJjZ0xzdFdRTEwtNC11WDBhU1hzeENUaWZ0M2wtR2lJekR0cTFhcXpzcVRHUHN3azBKOFBnZVAzMDRBWmhtRVpIQTlOeExSNzFGUWo4dHpEYnVERS01eUxBMGlXVUVKOGFJN3FYUnNsR1p1R29qcnhQeHM4MDNnUUE1X0xNNDgwQ1FVQ25xZWhpMHdTcGdqLWxXb3RhQWN3aFhOVl9qaTdWMnJXaTBrd3FpYVoyMnRKRDB4NHFELUpXeVpBV2hsOEtfa3c1Q1ZuQ3U4?oc=5"
+      },
+      {
+        "title": "¡Indignación en redes! Video de brut4l 4gr3si0n a una m3nor des4t4 ola de exig3ncias de justicia - TV Azteca Chiapas",
+        "publishedAt": "2026-11-08 23:07 UTC",
+        "source": "Viral ES",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRnhqWW1tckh2NHlzVkZ3TmRGaTRGN0Rxb1F5aDMtWmdtYmZjc0YzZ0FjWEU3YUZyYzJoTnpSU2h2TGl2R3FROGVwVnBQd1VzTGRZQm1KcS0xUnVpWFpRT3FZdTljRTk2X05XaHdiMEJxNE9aanYtOGxJRlVEN0pSNnpaQjBUMkdKVEwxV1Z1Uk94eE9FbVVqT244dXUtNHNkSjdLN1k0SmJlcE5tT1BWeV9ENlJLeUVRQThFTi1KWDZUN3d2bF9zNlpZc3pRVUJMa0dDT25KVmJvUHhkWGk1OE0wMmtuOVlPV1E?oc=5"
+      },
       {
         "title": "El momento viral de Florentino Pérez, Ayuso y Almeida: mucha complicidad y buen rollo antes del partido de NFL en el Bernabéu - 20Minutos",
         "publishedAt": "2026-11-08 19:36 UTC",
