@@ -1189,7 +1189,7 @@ try{
 // Prefer the freshest valid edition: GitHub Pages can lag behind the repository.
 const urls=[
  "./editions/latest.json?ts="+Date.now(),
- "https://raw.githubusercontent.com/ovhuerga-debug/the-daily/main/editions/latest.json?ts="+Date.now()
+ "https://raw.githubusercontent.com/ovhuerga-debug/the-daily/refs/heads/main/editions/latest.json?ts="+Date.now()
 ];
 const editions=await Promise.all(urls.map(async url=>{
  try{const response=await fetch(url,{cache:"no-store"});if(!response.ok)throw Error("HTTP "+response.status);const data=await response.json();return Array.isArray(data.stories)?data:null}catch(e){return null}
