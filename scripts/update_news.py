@@ -6,6 +6,8 @@ import html
 import json
 import os
 import re
+import unicodedata
+from concurrent.futures import ThreadPoolExecutor
 from urllib.parse import urlparse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -38,13 +40,7 @@ SPECIAL={
 ("Cultura general","es","Cultura ES",google_news("Madrid exposiciones museos cultura arte when:7d","es")),
 ("Cultura general","es","Cultura España",google_news("España exposiciones libros museos arte when:5d","es")),
 ("Cultura general","en","Culture EN","https://www.theguardian.com/culture/rss")],
-"viral":[
-("Tendencias","es","Viral ES",google_news("vídeo viral redes sociales tendencia internet when:3d","es")),
-("Tendencias","en","Viral EN",google_news("viral video internet social media trending when:3d","en")),
-("Tendencias","es","Viral medios ES",google_news("site:20minutos.es viral redes sociales when:5d","es")),
-("Tendencias","es","Viral actualidad ES",google_news("site:antena3.com/noticias/virales/ when:5d","es")),
-("Tendencias","en","Viral BBC",google_news("site:bbc.com/news viral social media video when:5d","en")),
-("Tendencias","en","Viral Guardian",google_news("site:theguardian.com viral video social media when:5d","en"))],
+
 "tecnologia":[
 ("Tecnología","es","Tecnología ES",google_news("tecnología inteligencia artificial móviles innovación when:2d","es")),
 ("Tecnología","en","Tech EN","https://www.theguardian.com/technology/rss"),
@@ -70,11 +66,6 @@ EXTRA_FEEDS={
 # Curated sources from the reader's preferred publications. Site-scoped Google News RSS
 # is used when no confirmed free publisher RSS is available.
 CURATED_SOURCES={
- "espana":[
- ("Agencia EFE","efe.com","es"),("La Vanguardia","lavanguardia.com","es"),
- ("La Razón","larazon.es","es"),
- ("20minutos","20minutos.es","es"),("El Español","elespanol.com","es"),
- ("Cinco Días","cincodias.elpais.com","es")],
  "mundo":[
  ("Reuters","reuters.com","en"),("AP News","apnews.com","en"),
  ("France 24","france24.com","en"),("Al Jazeera","aljazeera.com","en")],
@@ -101,8 +92,9 @@ CURATED_SOURCES={
  ("Teatros del Canal","teatroscanal.com","es","Teatro"),("Museo del Prado","museodelprado.es","es","Cultura general"),
  ("Time Out Madrid","timeout.es/madrid/es","es","Cultura general")],
  "viral":[
- ("20minutos","20minutos.es","es"),("Antena 3 Noticias","antena3.com/noticias","es"),
- ("BBC News","bbc.com/news","en"),("The Guardian","theguardian.com","en")]
+ ("20minutos","20minutos.es","es"),("Antena 3 Noticias","antena3.com","es"),
+ ("El HuffPost España","huffingtonpost.es","es"),("La Vanguardia","lavanguardia.com","es"),
+ ("El País","elpais.com","es"),("BBC News","bbc.com/news","en"),("The Guardian","theguardian.com","en")]
 }
 
 NS={"a":"http://www.w3.org/2005/Atom"}
@@ -181,7 +173,7 @@ def approved_aggregated_title(title):
  publisher=title.rsplit(" - ",1)[-1].strip().lower() if " - " in title else ""
  return bool(publisher and any(publisher==name or publisher.startswith(name+" ") for name in TRUSTED_PUBLISHERS))
 
-def fetch(section,source,url,language=None,topic=None):
+def fetch(section,source,url,language=None,topic=None,expected_domain=None,feed_topics=None):
  req=urllib.request.Request(url,headers={"User-Agent":"TheDailyReader/0.1 (RSS aggregation; contact via repository)","Accept":"application/rss+xml,application/atom+xml,application/xml,text/xml"})
  with urllib.request.urlopen(req,timeout=16) as response:
   xml=response.read(3_000_000)
@@ -197,6 +189,23 @@ def fetch(section,source,url,language=None,topic=None):
   link=child(item,["link"])
   if atom:
    link=next((e.attrib.get("href","") for e in item.findall("a:link",NS) if e.attrib.get("rel","alternate")=="alternate"),"") or next((e.attrib.get("href","") for e in item.findall("a:link",NS)),"")
+  story_topic=topic
+  if feed_topics:
+   categories=[clean(element.text).split(" / ",1)[0] for element in item.findall("category")]
+   story_topic=next((feed_topics[category] for category in categories if category in feed_topics),None)
+   if story_topic is None:continue
+  publisher_name=source
+  if expected_domain:
+   publisher=item.find("source")
+   publisher_url=publisher.get("url","") if publisher is not None else ""
+   host=(urlparse(publisher_url).hostname or "").removeprefix("www.")
+   expected_host=expected_domain.split("/")[0]
+   if host!=expected_host and not host.endswith("."+expected_host):
+    continue
+   publisher_name=clean(publisher.text or "") or source
+   suffix=" - "+publisher_name
+   if title.casefold().endswith(suffix.casefold()):
+    title=title[:-len(suffix)]
   if not title or not link.startswith(("https://","http://")):continue
   if "news.google.com/rss/search" in url and section not in ("viral","estilo") and "site%3A" not in url and not approved_aggregated_title(title):
    continue
@@ -206,7 +215,7 @@ def fetch(section,source,url,language=None,topic=None):
    "summary":(excerpt[:360].rstrip()+"…" if len(excerpt)>360 else excerpt) or "Lee la noticia completa en la fuente original.",
    "image":story_image(item),
    "publishedAt":published[:16].replace("T"," ")+" UTC" if published else "",
-   "_sort":published,"language":language,"topic":topic,"verification":"fuente identificada; no contrastada independientemente","sources":[{"name":source,"url":link}]})
+   "_sort":published,"language":language,"topic":story_topic,"verification":"fuente identificada; no contrastada independientemente","sources":[{"name":publisher_name,"url":link}]})
  return result
 CULTURE_MADRID_TERMS=("madrid","madrileñ","matadero","teatros del canal","teatro real","filmoteca española","cineteca","cines princesa","festival de otoño","reina sofía","thyssen","museo del prado","caixaforum madrid","condeduque","la riviera","movistar arena","ifema","alcobendas","alcorcón")
 CULTURE_SPAIN_TERMS=("españa","español","española","españoles","españolas","premios goya","academia de cine","cine español","festival de san sebastián","festival de málaga","semana de cine de valladolid","seminci","barcelona","valencia","sevilla","bilbao","zaragoza","galicia","andalucía","cataluña","canarias","málaga","san sebastián","valladolid","almodóvar","bayona","sorogoyen","carla simón","isabel coixet","penélope cruz","javier bardem","blanca suárez","úrsula corberó")
@@ -244,6 +253,8 @@ AGENDA_QUERIES=[
 # Madrid POP: editorial discovery only for events in the Community of Madrid.
 # These are news announcements, not assertions of ticket availability.
 MADRID_POP_QUERIES=[
+ ("Bares y noche","Madrid coctelería bar apertura DJ sesiones noche when:14d"),
+ ("Bares y noche","site:feverup.com Madrid (discoteca OR cócteles OR club OR jam OR fiesta) when:30d"),
  ("Conciertos","Madrid conciertos nueva fecha gira entradas preventa anunciados when:7d"),
  ("Conciertos","Madrid festival música cartel anunciado entradas venta when:14d"),
  ("Teatro y musicales","Madrid estreno teatro musical entradas nueva temporada when:10d"),
@@ -260,6 +271,12 @@ MADRID_POP_QUERIES=[
 ]
 # Specialist Madrid guides and cultural venues: source-specific Google News feeds.
 MADRID_POP_GUIDES=[
+ ("Madrid en Vivo","madridenvivo.com","Conciertos"),
+ ("Very Diferente","verydiferente.com","Planes y ocio"),
+ ("Turismo Madrid","esmadrid.com","Planes y ocio"),
+ ("Fever Madrid","feverup.com","Bares y noche"),
+ ("Sala Juglar","salajuglar.com","Bares y noche"),
+ ("Vida de Madrid","vidademadrid.com/es","Bares y noche"),
  ("Time Out Madrid","timeout.es/madrid","Planes y ocio"),
  ("Guía del Ocio","guiadelocio.es/madrid","Planes y ocio"),
  ("Madrid Secreto","madridsecreto.co","Planes y ocio"),
@@ -293,13 +310,190 @@ MADRID_POP_GUIDES=[
  ("Movistar Arena Agenda","movistararena.es","Planes futuros"),
 ]
 MADRID_POP_TERMS=("madrid","madrileñ","alcorcón","mostoles","móstoles","getafe","leganés","fuenlabrada","alcobendas","san sebastián de los reyes","san sebastian de los reyes","pozuelo","majadahonda","torrejón","torrejon","alcalá de henares","alcala de henares","aranjuez","chinchón","chinchon","collado villalba","las rozas","villaviciosa de odón","villaviciosa de odon","rivas vaciamadrid","navalcarnero")
-MADRID_POP_EVENT_TERMS=("concierto","festival","exposición","exposicion","museo","musical","teatro","estreno","entradas","preventa","gira","actuación","actuacion","espectáculo","espectaculo","recital","inaugura","programación","programacion","agenda","actuará","actuara","visita guiada","cine","ópera","opera","danza")
+MADRID_POP_EVENT_TERMS=("coctelería","cóctel","discoteca","vida nocturna","jam session","sesión dj","concierto","festival","exposición","exposicion","museo","musical","teatro","estreno","entradas","preventa","gira","actuación","actuacion","espectáculo","espectaculo","recital","inaugura","programación","programacion","agenda","actuará","actuara","visita guiada","cine","ópera","opera","danza")
 def madrid_pop_relevant(story):
  title=(story.get("title") or "").lower()
  summary=(story.get("summary") or "").lower()
  text=title+" "+summary
  # An explicit regional reference and event context are required.
  return any(t in text for t in MADRID_POP_TERMS) and any(t in text for t in MADRID_POP_EVENT_TERMS)
+
+# Publisher domains for discovery. Geographic labels describe coverage areas,
+# not the location of every article from an outlet.
+SPAIN_PUBLISHERS = {
+ "Nacional": (
+  ("EFE", "efe.com"), ("La Vanguardia", "lavanguardia.com"),
+  ("La Razón", "larazon.es"), ("20minutos", "20minutos.es"),
+  ("El Español", "elespanol.com"), ("elDiario.es", "eldiario.es"),
+  ("El Periódico", "elperiodico.com"), ("Público", "publico.es"),
+  ("infoLibre", "infolibre.es"), ("El Independiente", "elindependiente.com"),
+  ("Cinco Días", "cincodias.elpais.com"), ("Expansión", "expansion.com"),
+  ("elEconomista", "eleconomista.es"),
+ ),
+ "Andalucía": (("Diario de Sevilla", "diariodesevilla.es"), ("SUR", "diariosur.es"), ("Ideal", "ideal.es")),
+ "Aragón": (("Heraldo de Aragón", "heraldo.es"), ("El Periódico de Aragón", "elperiodicodearagon.com")),
+ "Asturias": (("La Nueva España", "lne.es"), ("El Comercio", "elcomercio.es")),
+ "Baleares": (("Última Hora", "ultimahora.es"), ("Diario de Mallorca", "diariodemallorca.es"), ("Ara Balears", "arabalears.cat")),
+ "Canarias": (("Canarias7", "canarias7.es"), ("El Día", "eldia.es")),
+ "Cantabria": (("El Diario Montañés", "eldiariomontanes.es"),),
+ "Castilla-La Mancha": (("La Tribuna de Toledo", "latribunadetoledo.es"), ("Lanza", "lanzadigital.com")),
+ "Castilla y León": (("El Norte de Castilla", "elnortedecastilla.es"), ("Diario de León", "diariodeleon.es")),
+ "Cataluña": (("Ara", "ara.cat"), ("El Punt Avui", "elpuntavui.cat"), ("Segre", "segre.com")),
+ "Comunidad Valenciana": (("Levante-EMV", "levante-emv.com"), ("Información", "informacion.es"), ("Las Provincias", "lasprovincias.es")),
+ "Extremadura": (("Hoy", "hoy.es"), ("El Periódico Extremadura", "elperiodicoextremadura.com")),
+ "Galicia": (("La Voz de Galicia", "lavozdegalicia.es"), ("Faro de Vigo", "farodevigo.es"), ("Nós Diario", "nosdiario.gal")),
+ "La Rioja": (("La Rioja", "larioja.com"),),
+ "Madrid": (("Madrid Actual", "madridactual.es"), ("Alcorcón Hoy", "alcorconhoy.com")),
+ "Murcia": (("La Verdad", "laverdad.es"), ("La Opinión de Murcia", "laopiniondemurcia.es")),
+ "Navarra": (("Diario de Navarra", "diariodenavarra.es"), ("Diario de Noticias", "noticiasdenavarra.com")),
+ "País Vasco": (("El Correo", "elcorreo.com"), ("Deia", "deia.eus"), ("Berria", "berria.eus")),
+ "Ceuta": (("El Faro de Ceuta", "elfarodeceuta.es"),),
+ "Melilla": (("Melilla Hoy", "melillahoy.es"),),
+}
+SPAIN_OUTLET_LANGUAGES = {"arabalears.cat": "ca", "ara.cat": "ca", "elpuntavui.cat": "ca",
+                         "nosdiario.gal": "gl", "berria.eus": "eu"}
+SPAIN_REFERENCE_SOURCES = (
+ ("BOE", "boe.es/diario_boe/"), ("INE", "ine.es/dyngs/Prensa/"),
+ ("AEMET", "aemet.es"), ("Banco de España", "bde.es"),
+ ("Maldita.es", "maldita.es"), ("Newtral", "newtral.es"),
+ ("EFE Verifica", "verifica.efe.com"),
+)
+SPAIN_STOP_WORDS = set("el la los las un una unos unas de del al a en por para con su sus y o e que se lo tras ante como sobre".split())
+SPAIN_IMPACT = re.compile(r"\b(elecciones|congreso|sentencia|supremo|decreto|presupuestos|empleo|inflacion|vivienda|pensiones|alerta|incendio|inundacion|huelga)\b")
+SPAIN_FOREIGN = re.compile(r"\b(washington|israel|gaza|libano|ucrania|rusia|trump|nvidia|estados unidos)\b")
+SPAIN_DOMESTIC = re.compile(r"\b(espana|espanol[aes]*|madrid|barcelona|moncloa|congreso|sanchez)\b")
+
+
+def spain_title(title, source_names=()):
+ if " - " in title:
+  head, suffix = title.rsplit(" - ", 1)
+  if suffix.casefold() in {name.casefold() for name in source_names}:
+   title = head
+ text = unicodedata.normalize("NFKD", title.casefold())
+ return re.findall(r"[a-z0-9]+", "".join(char for char in text if not unicodedata.combining(char)))
+
+
+def same_spain_story(left, right):
+ if left == right:
+  return True
+ if {word for word in left if word.isdigit()} != {word for word in right if word.isdigit()}:
+  return False
+ a, b = set(left) - SPAIN_STOP_WORDS, set(right) - SPAIN_STOP_WORDS
+ return len(a & b) >= 6 and len(a & b) / len(a | b) >= .8
+
+
+def discover_spain():
+ jobs = [(area, name, domain) for area, outlets in SPAIN_PUBLISHERS.items() for name, domain in outlets]
+ jobs.extend(("Referencia", name, domain) for name, domain in SPAIN_REFERENCE_SOURCES)
+
+ def discover(job):
+  area, name, domain = job
+  try:
+   candidates = fetch("espana", name, google_news("site:" + domain + " when:2d", "es"),
+                      SPAIN_OUTLET_LANGUAGES.get(domain, "es"),
+                      expected_domain=domain)
+  except Exception as error:
+   print("Spain source unavailable:", name, str(error)[:120])
+   return []
+  for story in candidates:
+   story["coverageArea"] = area
+  return candidates[:4]
+
+ with ThreadPoolExecutor(max_workers=8) as executor:
+  return [story for batch in executor.map(discover, jobs) for story in batch]
+
+
+def select_spain(stories, now):
+ def score(story):
+  stamp = story.get("publishedAt", "")
+  try:
+   age = (now - dt.datetime.strptime(stamp, "%Y-%m-%d %H:%M UTC").replace(tzinfo=dt.timezone.utc)).total_seconds() / 3600
+   recent = max(0, 1 - max(0, age) / 48)
+  except ValueError:
+   recent = 0
+  title = " ".join(spain_title(story["title"]))
+  area = story.get("coverageArea", "Nacional")
+  regional = area not in ("Nacional", "Referencia")
+  foreign = SPAIN_FOREIGN.search(title) and not SPAIN_DOMESTIC.search(title)
+  return (4 * recent + 2 * bool(SPAIN_IMPACT.search(title)) + bool(regional)
+          + .4 * bool(story.get("image")) - 5 * bool(foreign) - .5 * (story.get("language") == "en"))
+
+ groups = []
+ for story in sorted(stories, key=score, reverse=True):
+  names = [source["name"] for source in story["sources"]]
+  title = spain_title(story["title"], names)
+  if not title:
+   continue
+  match = next((item for tokens, item in groups if same_spain_story(tokens, title)), None)
+  if match is None:
+   item = dict(story)
+   item["sources"] = list(story["sources"])
+   groups.append((title, item))
+   continue
+  for source in story["sources"]:
+   names = {item["name"].casefold() for item in match["sources"]}
+   urls = {item["url"].split("?")[0] for item in match["sources"]}
+   if source["name"].casefold() not in names and source["url"].split("?")[0] not in urls:
+    match["sources"].append(source)
+
+ ranked = sorted((item for _, item in groups),
+                 key=lambda item: score(item) + min(2, len(item["sources"]) - 1) * .75,
+                 reverse=True)
+ # Rotate publishers when forming the front-page shortlist.
+ front, rest, publishers = [], [], set()
+ for item in ranked:
+  publisher = item["sources"][0]["name"]
+  if len(front) < 3 and publisher not in publishers:
+   front.append(item)
+   publishers.add(publisher)
+  else:
+   rest.append(item)
+ return front + rest
+
+
+MADRID_CITY_AGENDA="https://datos.madrid.es/egob/catalogo/206974-0-agenda-eventos-culturales-100.json"
+MADRID_CITY_TOPICS={
+ "Musica":"Conciertos","JazzSoulFunkySwingReagge":"Conciertos","Flamenco":"Conciertos",
+ "TeatroPerformance":"Teatro y musicales","DanzaBaile":"Teatro y musicales",
+ "CineActividadesAudiovisuales":"Cine y estrenos","Exposiciones":"Exposiciones",
+ "ExcursionesItinerariosVisitas":"Planes y ocio","ActividadesCalleArteUrbano":"Planes y ocio"
+}
+
+def madrid_city_plans(today):
+ req=urllib.request.Request(MADRID_CITY_AGENDA,headers={"Accept":"application/json","User-Agent":"TheDailyReader/0.1"})
+ with urllib.request.urlopen(req,timeout=16) as response:
+  events=json.loads(response.read(8_000_000))["@graph"]
+ end=(today+dt.timedelta(days=7)).isoformat()
+ start=today.isoformat()
+ counts={}
+ venues={}
+ ids=set()
+ stories=[]
+ for item in sorted(events,key=lambda event:event.get("dtstart") or ""):
+  topic=MADRID_CITY_TOPICS.get((item.get("@type") or "").rsplit("/",1)[-1])
+  date=(item.get("dtstart") or "")[:10]
+  venue=clean(item.get("event-location"))
+  title=clean(item.get("title"))
+  link=item.get("link") or ""
+  uid=item.get("id")
+  if not(topic and start<=date<=end and title and venue and uid and urlparse(link).hostname=="www.madrid.es"):continue
+  key=(title.casefold(),date,venue.casefold())
+  if key in ids or counts.get(topic,0)>=5 or venues.get(venue,0)>=2:continue
+  ids.add(key)
+  counts[topic]=counts.get(topic,0)+1
+  venues[venue]=venues.get(venue,0)+1
+  price="Gratis" if item.get("free")==1 else clean(item.get("price"))
+  timing=clean(item.get("time"))
+  description=clean(item.get("description"))
+  stories.append({
+   "id":"eventos|madrid-agenda|"+uid,"section":"eventos","category":"Agenda del Ayuntamiento de Madrid",
+   "title":title,"summary":description[:360] or "Consulta la ficha municipal para detalles y acceso.",
+   "image":"","publishedAt":"","language":"es","topic":topic,"region":"Madrid",
+   "eventDate":date,"eventVenue":venue,"eventTime":timing,"eventPrice":price,
+   "popHorizon":"ahora","sources":[{"name":"Programación oficial","url":link.replace("http:","https:",1)}]
+  })
+ return stories
+
 
 def main():
  now=dt.datetime.now(dt.timezone.utc)
@@ -314,6 +508,9 @@ def main():
     pool.extend(got)
     print(source,len(got))
    except Exception as e:print("Feed unavailable:",source,str(e)[:180])
+  if section=="espana":
+   allstories.extend(pool)
+   continue
   seen=set()
   selected=[]
   for story in sorted(pool,key=lambda x:x["_sort"],reverse=True):
@@ -324,6 +521,7 @@ def main():
    selected.append(story)
    if len(selected)>=LIMITS[section]:break
   allstories.extend(selected)
+ allstories.extend(discover_spain())
  for section,feeds in EXTRA_FEEDS.items():
   for source,language,url in feeds:
    try:
@@ -332,6 +530,14 @@ def main():
      story.pop("_sort",None)
      allstories.append(story)
    except Exception as e:print("Feed unavailable:",source,str(e)[:180])
+ try:
+  style_feed=fetch("estilo","GQ España","https://www.revistagq.com/feed/rss","es",
+   feed_topics={"Moda":"Moda","Cuidados":"Cuidado personal"})
+  for story in style_feed[:14]:
+   story.pop("_sort",None)
+   allstories.append(story)
+  print("GQ España RSS:",len(style_feed),"con foto:",sum(bool(story["image"]) for story in style_feed))
+ except Exception as e:print("GQ España RSS unavailable:",str(e)[:120])
  for section,feeds in SPECIAL.items():
   for topic,language,source,url in feeds:
    try:
@@ -370,16 +576,22 @@ def main():
    query="site:"+domain+" when:5d"
    if section=="cultura" and topic=="Cine" and language=="es":
     query+=" (España OR español OR Madrid OR Goya OR Málaga OR San Sebastián)"
-   if section=="viral":query+=" (viral OR vídeo OR video OR redes sociales OR TikTok)"
+   if section=="viral":
+    query="site:"+domain+" (viral OR meme OR curiosidad OR TikTok OR redes sociales) when:2d"
+    topic="Tendencias"
    try:
-    items=fetch(section,name,google_news(query,language),language,topic)
+    items=fetch(section,name,google_news(query,language),language,topic,
+     expected_domain=domain if section=="viral" else None)
    except Exception as e:
     print("Curated source unavailable:",name,str(e)[:120])
     continue
    count=0
    for story in items:
     if section=="cultura" and topic=="Cine" and language=="es" and not spanish_cinema_relevant(story):continue
-    if section=="viral" and not any(term in story["title"].lower() for term in ("viral","vídeo","video","tiktok","instagram","meme","redes sociales")):continue
+    if section=="viral":
+     if not story["_sort"] or now-dt.datetime.fromisoformat(story["_sort"])>dt.timedelta(days=2):continue
+     if not any(term in story["title"].lower() for term in ("viral","vídeo","video","tiktok","instagram","meme","redes sociales","tendencia","curios")):continue
+     story["viralMarket"]="España" if language=="es" else "Internacional"
     if section=="cultura":story["region"]=culture_region(story)
     story.pop("_sort",None)
     allstories.append(story)
@@ -403,6 +615,11 @@ def main():
    story["region"]=story.get("region") or culture_region(story)
    story["cultureView"]=story.get("cultureView") or culture_view(story)
    story.pop("agendaSource",None)
+ try:
+  municipal=madrid_city_plans(now.astimezone(__import__("zoneinfo").ZoneInfo("Europe/Madrid")).date())
+  allstories.extend(municipal)
+  print("Ayuntamiento de Madrid:",len(municipal),"planes con ficha")
+ except Exception as e:print("Agenda del Ayuntamiento no disponible:",str(e)[:120])
  # Discover Madrid-only cultural announcements and upcoming ticket releases.
  madrid_pop_seen=set()
  for topic,query in MADRID_POP_QUERIES:
@@ -425,7 +642,10 @@ def main():
  for guide,domain,topic in MADRID_POP_GUIDES:
   try:
    query=("site:"+domain+" (Madrid OR conciertos OR espectáculos OR 2027 OR agenda)" if guide in ("Movistar Arena Madrid","Movistar Arena Agenda","Ticketmaster España","Ticketmaster Agenda Madrid") else "site:"+domain+" (Madrid OR concierto OR exposición OR teatro OR entradas OR planes OR programación OR 2027) when:45d")
-   candidates=fetch("eventos",guide,google_news(query,"es"),"es",topic)
+   if topic=="Bares y noche":
+    query="site:"+domain+" Madrid (coctelería OR bar OR noche OR fiesta OR club OR jam OR DJ) when:21d"
+   candidates=fetch("eventos",guide,google_news(query,"es"),"es",topic,
+    expected_domain=domain if topic=="Bares y noche" else None)
    count=0
    for story in candidates:
     if count>=6:break
@@ -486,6 +706,7 @@ def main():
   ("La gaviota","2027-05-18","Teatro Español · hasta julio","Teatro y musicales","https://www.esmadrid.com/calendario-eventos-madrid"),
   ("Tanztheater Wuppertal Pina Bausch","2027-06-11","Teatro Real · varias funciones","Teatro y musicales","https://www.esmadrid.com/calendario-eventos-madrid"),
   ("PHotoESPAÑA 2027","2027-05-01","Varios espacios · mayo a septiembre; día exacto por confirmar","Exposiciones","https://www.esmadrid.com/calendario-eventos-madrid"),
+  ("La Patio Jam en Sala Juglar","2026-12-09","Sala Juglar · Lavapiés","Bares y noche","https://feverup.com/m/773773"),
  ]
  for name,date,venue,topic,link in OFFICIAL_FUTURE_EVENTS:
   if date<now.date().isoformat():continue
@@ -506,16 +727,24 @@ def main():
    story["popHorizon"]="futuro"
   else:
    story["popHorizon"]="ahora"
- # Fill missing photos using the original publisher's OG image, with a strict
- # request budget. Google News links are skipped because they are not article URLs.
- photo_budget=45
+ spain=select_spain([story for story in allstories if story["section"]=="espana"],now)
+ spain=spain[:36]
+ for story in spain:
+  story.pop("_sort",None)
+ allstories=spain+[story for story in allstories if story["section"]!="espana"]
+ # Give each section a share of the image request budget. Only direct publisher
+ # URLs can supply a reliable article image.
+ photo_groups={}
  for story in allstories:
-  if photo_budget<=0:break
-  if story.get("image"):continue
   source_url=story["sources"][0]["url"]
-  if "news.google.com/" in source_url:continue
-  photo_budget-=1
-  story["image"]=article_og_image(source_url)
+  if story.get("image") or urlparse(source_url).hostname=="news.google.com":continue
+  photo_groups.setdefault(story["section"],[]).append(story)
+ from itertools import islice, zip_longest
+ photo_candidates=islice((story for row in zip_longest(*photo_groups.values()) for story in row if story is not None),45)
+ with ThreadPoolExecutor(max_workers=6) as executor:
+  candidates=list(photo_candidates)
+  for story,image in zip(candidates,executor.map(article_og_image,(story["sources"][0]["url"] for story in candidates))):
+   story["image"]=image
  # Viral fallback: relevant, recent stories from established news feeds when
  # Google News discovery returns no items. Keep attribution and original links.
  if not any(story["section"]=="viral" for story in allstories):
@@ -526,9 +755,8 @@ def main():
      for item in fetch("viral",source,url,"es" if section=="espana" else "en","Tendencias"):
       title=item["title"].lower()
       if not any(word in title for word in ("viral","vídeo","video","tiktok","instagram","meme","redes sociales")):continue
-      if item.get("_sort"):
-       age=now-dt.datetime.fromisoformat(item["_sort"])
-       if age.total_seconds()>5*86400:continue
+      if not item.get("_sort") or now-dt.datetime.fromisoformat(item["_sort"])>dt.timedelta(days=2):continue
+      item["viralMarket"]="España" if section=="espana" else "Internacional"
       item.pop("_sort",None)
       allstories.append(item)
       if sum(x["section"]=="viral" for x in allstories)>=12:break

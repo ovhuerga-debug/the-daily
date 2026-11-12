@@ -11,6 +11,7 @@
 <meta name="apple-mobile-web-app-title" content="THE DAILY">
 <link rel="manifest" href="./manifest.webmanifest">
 <link rel="icon" type="image/svg+xml" href="./icon.svg">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@500;650;750;800&family=DM+Sans:wght@400;500;650;800&display=swap">
 <style>
 *{box-sizing:border-box}
 :root{font-family:Arial,Helvetica,sans-serif}
@@ -371,14 +372,11 @@ body.estilo .section{font-size:clamp(76px,12vw,150px);line-height:.85;letter-spa
 body.estilo #articles article h2{font-weight:500;letter-spacing:-.045em}
 body.estilo #articles article:first-child h2{font-size:clamp(44px,5.5vw,75px)}
 body.viral{--type-display:"Barlow Condensed",Impact,Arial,sans-serif;--type-head:"Barlow Condensed",Impact,Arial,sans-serif;--type-body:"DM Sans",Arial,sans-serif;--type-meta:"IBM Plex Mono",monospace}
-body.viral .section{font-size:clamp(72px,11vw,135px);font-weight:900;line-height:.84;letter-spacing:-.035em}
-body.viral #articles article h2{font-weight:900;font-size:clamp(33px,4vw,53px);line-height:.97;letter-spacing:-.01em}
-body.viral #articles article:first-child h2{font-size:clamp(48px,6vw,78px)}
 @media(max-width:700px){
- body.television .section,body.viral .section{font-size:clamp(58px,15vw,90px);line-height:.9}
+ body.television .section{font-size:clamp(58px,15vw,90px);line-height:.9}
  body.estilo .section{font-size:clamp(72px,19vw,105px);line-height:.87}
- body.television #articles article h2,body.viral #articles article h2{font-size:clamp(31px,8vw,40px)}
- body.television #articles article:first-child h2,body.viral #articles article:first-child h2{font-size:clamp(42px,11vw,59px)}
+ body.television #articles article h2{font-size:clamp(31px,8vw,40px)}
+ body.television #articles article:first-child h2{font-size:clamp(42px,11vw,59px)}
  body.estilo #articles article:first-child h2{font-size:clamp(38px,10vw,52px)}
  .section{overflow-wrap:anywhere}
 }
@@ -419,7 +417,7 @@ body.eventos footer{background:#ffe44c;border-top:3px solid #111}
 
 
 /* MADRID POP v2 — art-directed newspaper grid */
-body.eventos{background-color:#fff7d6;background-image:radial-gradient(#17171716 1px,transparent 1px);background-size:15px 15px}
+body.eventos{background-color:#fff7d6}
 body.eventos header{background:#ffe642}
 body.eventos main{max-width:1320px}
 body.eventos main:before{content:"MADRID ★ POP ★ CULTURA";background:#ff3e71;color:#fff;font-size:clamp(20px,4vw,44px);letter-spacing:.04em;transform:rotate(-.6deg);box-shadow:8px 8px 0 #111;padding:14px 10px}
@@ -432,7 +430,7 @@ body.eventos #articles article:nth-child(5n+2){background:#ffc9e5}
 body.eventos #articles article:nth-child(5n+3){background:#a6eae4}
 body.eventos #articles article:nth-child(5n+4){background:#fff}
 body.eventos #articles article:nth-child(5n){background:#d9c5ff}
-body.eventos #articles article .article-image{background:repeating-radial-gradient(circle at 40% 40%,#171717 0 1px,transparent 1px 9px),#ffd94e}
+body.eventos #articles article .article-image{background:#ffe8c0}
 body.eventos #articles article .article-image img{filter:saturate(1.18);mix-blend-mode:multiply}
 body.eventos #articles article:first-child .article-image{aspect-ratio:16/8}
 body.eventos #articles article:not(:first-child) .article-image{aspect-ratio:4/3}
@@ -448,7 +446,7 @@ body.eventos .subnav button.selected{background:#ff3e71;color:#fff}
 @media(max-width:950px){body.eventos #articles article{grid-column:span 6}body.eventos #articles article:first-child{grid-column:span 12}}
 @media(max-width:650px){body.eventos main{padding:18px 15px 55px}body.eventos main:before{font-size:20px;box-shadow:4px 4px 0 #111}body.eventos .section{font-size:clamp(60px,17vw,94px);text-shadow:4px 4px 0 #f6d322}body.eventos #articles{grid-template-columns:1fr;gap:17px;padding:8px 5px 25px}body.eventos #articles article,body.eventos #articles article:first-child{grid-column:1;box-shadow:4px 4px 0 #111}body.eventos #articles article:first-child h2{font-size:37px}body.eventos .intro{font-size:15px}}
 
-.breaking-panel{grid-column:1/-1;background:#fff;border:2px solid #1b1b1b;padding:18px 22px;margin:8px 0 24px}.breaking-head{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap;border-bottom:2px solid #111;padding-bottom:12px}.breaking-head strong{font-size:22px}.breaking-head small{color:#555}.breaking-live{font-weight:900;color:#c60027;letter-spacing:.08em}.breaking-list{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px 20px;padding-left:24px}.breaking-list li{padding:6px 4px}.breaking-list a{color:inherit;text-decoration:none;font-weight:800}.breaking-list a:hover{text-decoration:underline}.breaking-list small{display:block;font-size:11px;font-weight:500;color:#666;margin-top:5px}.breaking-empty{font-size:14px}@media(max-width:800px){.breaking-list{grid-template-columns:1fr}}.breaking-translate{display:inline-block;font-size:12px!important;font-weight:800!important;color:#1768a8!important;margin-top:5px}.breaking-x-accounts{border-top:1px solid #ddd;margin-top:16px;padding-top:13px;display:flex;flex-wrap:wrap;align-items:center;gap:8px}.breaking-x-accounts span{font-weight:800;font-size:12px}.breaking-x-accounts a{display:inline-block;background:#161616;color:white!important;padding:7px 10px;font-size:12px;text-decoration:none;font-weight:700}.breaking-x-accounts a:hover{background:#bd1844}body.eventos .pop-social-radar{background:#b6f4ec;border:4px solid #151515;box-shadow:8px 8px #ff3c8b;padding:20px;margin:8px 0 30px;grid-column:1/-1}.pop-social-heading{display:flex;align-items:center;gap:18px}.pop-social-heading>span{font-size:62px;font-weight:900}.pop-social-heading strong{font:clamp(26px,4vw,48px) Impact,"Arial Black",sans-serif}.pop-social-heading p,.pop-social-note{font-size:13px;margin:6px 0}.pop-social-links{display:flex;flex-wrap:wrap;gap:9px;margin:18px 0}.pop-social-links a{display:inline-block;background:#111;color:#fff!important;padding:11px 14px;font-weight:800;text-decoration:none;border:2px solid #111}.pop-social-links a:hover{background:#ff3c8b}.pop-social-note{font-weight:700}body.eventos .pop-event-art{min-height:210px;padding:22px;background:radial-gradient(circle,#141414 1px,transparent 2px) 0 0/15px 15px,#ffdb3f;display:flex;flex-direction:column;justify-content:center;position:relative;overflow:hidden;border-bottom:3px solid #111}.pop-event-art strong{font:clamp(28px,3.1vw,55px)/1 Impact,"Arial Black",sans-serif;max-width:85%;z-index:1;text-transform:uppercase;letter-spacing:.02em}.pop-event-art .pop-art-kicker{font-weight:900;background:#ff3e71;color:white;padding:5px 10px;align-self:flex-start;z-index:1;margin-bottom:12px}.pop-event-art .pop-art-year{font:900 48px Impact,sans-serif;align-self:flex-end;color:#ff3e71;text-shadow:3px 3px #111}.pop-event-art .pop-art-star{position:absolute;font-size:230px;color:#fff;right:-30px;top:-70px;transform:rotate(20deg)}body.eventos #articles article:nth-child(3n) .pop-event-art{background-color:#92e7f1}body.eventos #articles article:nth-child(4n) .pop-event-art{background-color:#ffb6d7}body.eventos .pop-date{display:inline-block;background:#111;color:#fff;font-weight:900;font-size:14px;letter-spacing:.02em;padding:9px 12px;margin:12px 0 4px;transform:rotate(-1deg)}
+.breaking-panel{grid-column:1/-1;background:#fff;border:2px solid #1b1b1b;padding:18px 22px;margin:8px 0 24px}.breaking-head{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap;border-bottom:2px solid #111;padding-bottom:12px}.breaking-head strong{font-size:22px}.breaking-head small{color:#555}.breaking-live{font-weight:900;color:#c60027;letter-spacing:.08em}.breaking-list{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px 20px;padding-left:24px}.breaking-list li{padding:6px 4px}.breaking-list a{color:inherit;text-decoration:none;font-weight:800}.breaking-list a:hover{text-decoration:underline}.breaking-list small{display:block;font-size:11px;font-weight:500;color:#666;margin-top:5px}.breaking-empty{font-size:14px}@media(max-width:800px){.breaking-list{grid-template-columns:1fr}}.breaking-translate{display:inline-block;font-size:12px!important;font-weight:800!important;color:#1768a8!important;margin-top:5px}.breaking-x-accounts{border-top:1px solid #ddd;margin-top:16px;padding-top:13px;display:flex;flex-wrap:wrap;align-items:center;gap:8px}.breaking-x-accounts span{font-weight:800;font-size:12px}.breaking-x-accounts a{display:inline-block;background:#161616;color:white!important;padding:7px 10px;font-size:12px;text-decoration:none;font-weight:700}.breaking-x-accounts a:hover{background:#bd1844}body.eventos .pop-social-radar{background:#b6f4ec;border:4px solid #151515;box-shadow:8px 8px #ff3c8b;padding:20px;margin:8px 0 30px;grid-column:1/-1}.pop-social-heading{display:flex;align-items:center;gap:18px}.pop-social-heading>span{font-size:62px;font-weight:900}.pop-social-heading strong{font:clamp(26px,4vw,48px) Impact,"Arial Black",sans-serif}.pop-social-heading p,.pop-social-note{font-size:13px;margin:6px 0}.pop-social-links{display:flex;flex-wrap:wrap;gap:9px;margin:18px 0}.pop-social-links a{display:inline-block;background:#111;color:#fff!important;padding:11px 14px;font-weight:800;text-decoration:none;border:2px solid #111}.pop-social-links a:hover{background:#ff3c8b}.pop-social-note{font-weight:700}body.eventos .pop-event-art{min-height:210px;padding:22px;background:#ffe8c0;display:flex;flex-direction:column;justify-content:center;position:relative;overflow:hidden;border-bottom:3px solid #111}.pop-event-art strong{font:clamp(28px,3.1vw,55px)/1 Impact,"Arial Black",sans-serif;max-width:85%;z-index:1;text-transform:uppercase;letter-spacing:.02em}.pop-event-art .pop-art-kicker{font-weight:900;background:#ff3e71;color:white;padding:5px 10px;align-self:flex-start;z-index:1;margin-bottom:12px}.pop-event-art .pop-art-year{font:900 48px Impact,sans-serif;align-self:flex-end;color:#ff3e71;text-shadow:3px 3px #111}.pop-event-art .pop-art-star{position:absolute;font-size:230px;color:#fff;right:-30px;top:-70px;transform:rotate(20deg)}body.eventos #articles article:nth-child(3n) .pop-event-art{background-color:#92e7f1}body.eventos #articles article:nth-child(4n) .pop-event-art{background-color:#ffb6d7}body.eventos .pop-date{display:inline-block;background:#111;color:#fff;font-weight:900;font-size:14px;letter-spacing:.02em;padding:9px 12px;margin:12px 0 4px;transform:rotate(-1deg)}
 
 /* Contraste accesible para titulares de Última hora en todas las secciones */
 .breaking-panel,.breaking-panel .breaking-head,.breaking-panel .breaking-list,.breaking-panel .breaking-list li{color:#151515!important}
@@ -457,32 +455,207 @@ body.eventos .subnav button.selected{background:#ff3e71;color:#fff}
 .breaking-panel .breaking-head small,.breaking-panel .breaking-list li>a:first-child small{color:#555!important;opacity:1!important}
 .breaking-panel .breaking-live{color:#c60027!important}
 .breaking-panel .breaking-x-accounts span{color:#151515!important}
-.tv-x-feature{background:#f2f8ff;border:2px solid #111;padding:18px;margin-bottom:18px;color:#111!important}.tv-x-feature strong{font-size:20px;color:#111!important}.tv-x-feature p{color:#333!important;margin:6px 0 14px}.tv-x-links{display:flex;gap:10px;flex-wrap:wrap}.tv-x-links a{background:#101010!important;color:#fff!important;padding:12px 16px;font-weight:800;text-decoration:none;border-radius:4px}.tv-x-links a:hover{background:#ba0e36!important}.tv-x-embeds{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin-top:16px}.tv-x-embed{background:white;border:1px solid #bbb;min-width:0;min-height:460px;padding:8px}.tv-x-embed h3{color:#111!important;font-size:15px;margin:6px 4px 10px}.tv-x-embed .twitter-timeline{color:#1664a2!important}@media(max-width:900px){.tv-x-embeds{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:580px){.tv-x-embeds{grid-template-columns:1fr}}</style>
+.tv-x-feature{background:#f2f8ff;border:2px solid #111;padding:18px;margin-bottom:18px;color:#111!important}.tv-x-feature strong{font-size:20px;color:#111!important}.tv-x-feature p{color:#333!important;margin:6px 0 14px}.tv-x-links{display:flex;gap:10px;flex-wrap:wrap}.tv-x-links a{background:#101010!important;color:#fff!important;padding:12px 16px;font-weight:800;text-decoration:none;border-radius:4px}.tv-x-links a:hover{background:#ba0e36!important}.tv-x-embeds{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin-top:16px}.tv-x-embed{background:white;border:1px solid #bbb;min-width:0;min-height:460px;padding:8px}.tv-x-embed h3{color:#111!important;font-size:15px;margin:6px 4px 10px}.tv-x-embed .twitter-timeline{color:#1664a2!important}@media(max-width:900px){.tv-x-embeds{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:580px){.tv-x-embeds{grid-template-columns:1fr}}
+/* Portada y controles de la edición */
+[hidden]{display:none!important}
+#tabs button{white-space:nowrap;min-height:44px}
+#tabs button:focus-visible,.front-section a:focus-visible,.front-section button:focus-visible,summary:focus-visible{outline:2px solid currentColor;outline-offset:3px}
+body.portada{--accent:#a33428}
+body.portada main{padding-top:24px}
+body.portada .section{font-size:clamp(39px,7vw,76px);margin:0 0 22px}
+body.portada .section:before{display:none}
+.front-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+.front-section{background:#fffdf9;border:1px solid #ded8cd;border-top:3px solid #14283b;padding:16px;min-width:0}
+.front-heading{display:flex;align-items:baseline;justify-content:space-between;flex-wrap:wrap;gap:6px 12px}
+.front-heading h2{font:700 23px/1.1 Georgia,serif;margin:0}
+.front-heading button{border:0;background:none;color:#8b2d24;padding:6px 0;font:700 12px/1.3 var(--type-body,Arial);cursor:pointer;text-align:left}
+.front-heading button:hover,.front-story a:hover{text-decoration:underline}
+.front-list{padding:0;margin:9px 0 0;list-style:none}
+.front-story{display:flex;align-items:center;justify-content:space-between;gap:12px;min-height:64px;border-top:1px solid #e6dfd5;padding:9px 0}
+.front-story h3{font:700 17px/1.25 Georgia,serif;margin:0;overflow-wrap:anywhere}
+.front-story a{color:inherit;text-decoration:none}
+.front-story small{display:block;margin-top:4px;color:#5e5851;font-size:11px}
+.front-thumb{width:76px;height:53px;flex:none;object-fit:cover;border-radius:4px}
+.front-essential{grid-column:1/-1;background:#14283b;color:#fff;border-color:#14283b}
+.front-essential .front-story{border-color:#ffffff38}
+.front-essential .front-story small{color:#d9e3ed}
+.front-essential .front-list{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:0 16px}
+.front-new{font-weight:800;color:#8b2d24;margin-inline-start:6px}
+.front-essential .front-new{color:#ffcc9d}
+@media(max-width:680px){.front-essential .front-list{grid-template-columns:1fr}}
+.front-empty{margin:16px 0 0;font-size:13px;color:#5e5851}
+.filter-drawer{margin:0 0 14px}
+.filter-drawer summary{display:list-item;width:fit-content;max-width:100%;padding:8px 12px;cursor:pointer;border:1px solid currentColor;border-radius:5px;font-size:13px;font-weight:700}
+.filter-drawer[open] summary{margin-bottom:10px}
+.filter-drawer .tools{margin-bottom:0}
+.breaking-panel{padding:0 12px;margin:0;border:1px solid #d9d2c9}
+.breaking-panel summary{cursor:pointer;padding:9px 0;font-size:12px;font-weight:700}
+.breaking-panel .breaking-head{border-top:1px solid #ddd;border-bottom:0;padding:8px 0 0}
+.breaking-panel .breaking-head small{font-size:11px}
+.breaking-panel .breaking-list{font-size:13px;gap:4px 18px;margin:7px 0}
+.breaking-panel .breaking-list li{padding:3px 0}
+.breaking-panel .breaking-x-accounts{margin:8px 0;padding-top:7px;gap:4px 6px}
+.breaking-panel .breaking-x-accounts a,.pop-social-radar .pop-social-links a{font-size:11px;padding:4px 7px;line-height:1.35}
+body.eventos .pop-social-radar{margin:0;padding:0 12px;border-width:1px;box-shadow:none}
+.pop-social-radar summary{cursor:pointer;padding:9px 0;font-size:12px;font-weight:800}
+.pop-social-radar .pop-social-links{margin:6px 0;gap:5px}
+.pop-social-radar .pop-social-note{margin:7px 0;font-size:11px}
+@media(max-width:680px){
+ .front-grid{grid-template-columns:1fr;gap:12px}
+ .front-section{padding:13px}
+ .front-thumb{width:66px;height:48px}
+ body.portada main{padding-top:14px}
+ body.portada .section{margin-bottom:14px}
+}
+/* Identidad compartida de la revista */
+body{--ink:#251b37;--paper:#fdf8ee;--desk:#6335bb;--wash:#eee2ff;--bright:#c8acff}
+body.espana,[data-desk="espana"]{--desk:#9f302e;--wash:#ffe1d7;--bright:#ff9d82}
+body.mundo,[data-desk="mundo"]{--desk:#124b99;--wash:#dfeeff;--bright:#a7d6ff}
+body.cultura,[data-desk="cultura"]{--desk:#653396;--wash:#eee1ff;--bright:#d1b3ff}
+body.television,[data-desk="television"]{--desk:#9d2358;--wash:#ffe2f0;--bright:#ffabd4}
+body.tecnologia,[data-desk="tecnologia"]{--desk:#00645b;--wash:#d9f5ed;--bright:#8ce0ca}
+body.estilo,[data-desk="estilo"]{--desk:#76500e;--wash:#fff0c6;--bright:#ffd76b}
+body.eventos,[data-desk="eventos"]{--desk:#852c25;--wash:#ffe8c0;--bright:#ffba67}
+body.viral,[data-desk="viral"]{--desk:#466216;--wash:#eef6d3;--bright:#cce680}
+
+body:is(.portada,.espana,.mundo,.cultura,.television,.tecnologia,.estilo,.eventos,.viral){
+ --accent:var(--desk);
+ --type-body:"DM Sans",Arial,sans-serif;
+ --type-head:"Bricolage Grotesque","Trebuchet MS",Arial,sans-serif;
+ --type-display:var(--type-head);
+ background:var(--paper);color:var(--ink);
+}
+body[class] header{
+ background:linear-gradient(112deg,var(--bright),var(--wash) 48%,#fff3d5);
+ border:0;color:var(--ink);padding:20px 14px 15px;
+}
+body[class] .brand{
+ font:800 clamp(43px,9vw,77px)/.93 var(--type-display);
+ letter-spacing:-.085em;color:var(--ink);text-shadow:none;
+}
+body[class] .brand span{color:var(--desk)}
+body[class] .edition{color:#453650;margin:10px 0 0;font-weight:650;letter-spacing:0}
+body[class] #tabs{
+ display:flex;flex-wrap:nowrap;justify-content:safe center;overflow-x:auto;
+ scrollbar-width:none;background:#fffdf9;border:0;border-bottom:1px solid #e9dfd2;
+ padding:6px 12px;gap:5px;position:sticky;top:0;z-index:20;
+}
+body[class] #tabs button{
+ flex:0 0 auto;min-height:44px;color:var(--desk);background:var(--wash);
+ border:0;border-radius:99px;padding:0 13px;font:800 12px/1 var(--type-body);
+}
+body[class] #tabs button.active{background:var(--desk);color:#fff}
+body[class] #tabs button:hover:not(.active){background:var(--bright)}
+body[class] main{max-width:1140px;padding:22px clamp(14px,4vw,32px) 50px}
+body[class] main:before,body[class] .section:before{display:none}
+body[class] .section{
+ color:var(--desk);font-size:clamp(38px,7.5vw,68px);line-height:.98;
+ font-weight:800;font-style:normal;text-shadow:none;margin:4px 0 12px;letter-spacing:-.065em;
+}
+body[class] .intro{background:none;border:0;color:#4e4354;padding:0;margin:0 0 12px;font:500 14px/1.45 var(--type-body)}
+body[class] #filters summary{border:0;background:var(--wash);color:var(--desk);border-radius:99px;padding:9px 14px}
+body[class] #filters .tools{background:white;border:1px solid var(--bright);border-radius:12px;box-shadow:none}
+body[class] #filters .subnav button{color:var(--desk);border:1px solid var(--bright);background:white;box-shadow:none;border-radius:99px}
+body[class] #filters .subnav button.selected{background:var(--desk);color:white}
+body[class] #articles article{
+ background:#fffdf9;color:var(--ink);border:1px solid #e8ded0;
+ border-radius:17px;box-shadow:0 3px 0 var(--wash);overflow:hidden;
+}
+body[class] #articles article h2{color:var(--ink);letter-spacing:-.035em}
+body[class] #articles article :is(p,.meta){color:#51485a}
+body[class] #articles article .tag{background:var(--wash);color:var(--desk);border:0;border-radius:99px}
+body[class] #articles article .source-button{background:var(--desk);color:white;border:0;border-radius:99px}
+body[class] #articles article .save{color:var(--desk);background:#fff;border:1px solid var(--bright);border-radius:99px}
+body[class] #articles article .source-meta,
+body[class] #articles article .source-meta a{color:var(--desk)}
+body[class] #articles :is(.breaking-panel,.pop-social-radar){background:var(--wash);color:var(--ink);border:0;border-radius:10px}
+body[class] footer{background:#fffaf2;color:#5c4964}
+.front-grid{gap:15px}
+.front-section{background:#fffdf9;color:var(--ink);border:1px solid var(--bright);border-radius:17px;overflow:hidden;padding:0}
+.front-heading{background:var(--wash);padding:10px 14px;min-height:53px;align-items:center;flex-wrap:nowrap}
+.front-heading h2{font:800 clamp(20px,3vw,30px)/1 var(--type-display);color:var(--desk);letter-spacing:-.04em}
+.front-heading button{color:var(--desk);font-size:11px;padding:8px 0;min-height:36px;flex:none}
+.front-list{margin:0;padding:0 14px}
+.front-story{border-color:#eee5da;min-height:66px}
+.front-story:first-child{border-top:0}
+.front-story h3{font:750 clamp(15px,2vw,19px)/1.22 var(--type-head)}
+.front-thumb{border-radius:9px;width:70px;height:50px}
+.front-empty{padding:0 14px 14px}
+.front-essential{--desk:#4c2382;--wash:#dbbfff;--bright:#c4a0f9;background:#f5ebff}
+.front-essential .front-heading{background:linear-gradient(105deg,#d6b8ff,#ffd2e1 68%,#ffe3a4)}
+.front-essential .front-story{border-color:#dec9f2}
+.front-essential .front-story small{color:#5e436e}
+.front-essential .front-new{color:#783b71}
+@media(max-width:680px){
+ body[class] #tabs{justify-content:flex-start}
+ .front-essential .front-story:first-child{border-top:0}
+ .front-heading button{font-size:11px}
+}
+
+body.mi-edicion{background:var(--paper);color:var(--ink);--type-head:"Bricolage Grotesque","Trebuchet MS",Arial,sans-serif;--type-display:var(--type-head);--type-body:"DM Sans",Arial,sans-serif}
+.personal-grid{align-items:start}
+.personal-grid .front-section:last-child{grid-column:1/-1}
+.personal-controls{display:flex;flex-wrap:wrap;align-items:center;gap:6px;padding:10px 14px 4px}
+.personal-pill{font:700 13px/1 var(--type-body);min-height:40px;padding:7px 11px;border:1px solid var(--bright);border-radius:99px;background:#fff;color:var(--desk);cursor:pointer}
+.personal-pill[aria-pressed="true"]{background:var(--desk);color:white}
+.personal-agenda{font-size:13px;color:var(--ink);gap:8px 13px}
+.personal-agenda a{color:var(--desk);font-weight:700}
+#tv-radar{margin-bottom:14px}
+#tv-radar summary{display:list-item;cursor:pointer;color:var(--desk);font:800 23px/1.2 var(--type-display)}
+.personal-note{font-size:12px;padding:0 14px;color:#51485a}
+.personal-grid .front-section:first-child{grid-column:1/-1}
+.personal-grid .front-heading{flex-wrap:wrap}
+body.espana #articles article,body.espana #articles article:first-child{padding-inline:clamp(16px,3vw,24px)}
+/* Las imágenes del medio se muestran también en las tarjetas compactas. */
+body[class] #articles article.with-image .article-image{display:block;aspect-ratio:16/10;max-height:320px}
+body.estilo #articles article.with-image .article-image{aspect-ratio:4/3;background:var(--wash);border-radius:12px}
+.personal-story-actions{display:flex;align-items:center;gap:6px;flex:none}
+.personal-story-actions .personal-pill{padding:7px 9px}
+@media(max-width:520px){.personal-story-actions{flex-direction:column;align-items:flex-end}.personal-story-actions .front-thumb{width:58px;height:43px}}
+#articles .nightlife{grid-column:1/-1;align-self:stretch}
+#articles .nightlife-links{display:flex;flex-wrap:wrap;gap:6px 15px;list-style:none;margin:0;padding:12px 14px}
+#articles .nightlife-links a{color:var(--desk);font-weight:700;font-size:13px}
+#articles .city-agenda{grid-column:1/-1}
+.city-agenda .front-heading{white-space:normal}
+.city-agenda .front-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));column-gap:22px}
+.city-agenda .front-story{border-top:1px solid #eee5da}
+.city-guides summary{cursor:pointer;font-size:13px;font-weight:800;color:var(--desk);padding:11px 14px}
+@media(max-width:650px){.city-agenda .front-list{grid-template-columns:1fr}}
+body.viral .section{font-size:clamp(32px,5vw,48px);line-height:1.08;text-transform:none}
+body.viral #articles article h2,body.viral #articles article:first-child h2{
+ font-size:clamp(19px,2.4vw,28px);line-height:1.22;font-weight:750;letter-spacing:-.025em
+}
+</style>
 </head>
-<body class="espana">
+<body class="portada">
 <header>
-<div class="brand">THE DAILY</div>
-<div class="subtitle">TU MUNDO EN PERSPECTIVA</div>
+<div class="brand">THE <span>DAILY</span></div>
 <div class="edition" id="edition">Edición de demostración</div>
 </header>
-<nav id="tabs"></nav>
+<nav id="tabs" aria-label="Secciones de THE DAILY"></nav>
 <main>
 <h1 class="section" id="section"></h1>
 <div class="intro" id="intro"></div>
+<details id="filters" class="filter-drawer">
+<summary>Filtros y búsqueda</summary>
 <div id="categories" class="subnav"></div>
 <div id="languages" class="subnav"></div>
 <div class="tools">
-<input id="search" placeholder="Buscar noticias...">
-<select id="filter">
+<input id="search" type="search" aria-label="Buscar noticias" placeholder="Buscar noticias...">
+<select id="filter" aria-label="Mostrar todas las noticias o las guardadas">
 <option value="all">Todas</option>
 <option value="saved">Guardadas</option>
 </select>
 </div>
+</details>
 <div id="notice" class="notice">
 Esta es una versión de demostración. Las noticias de ejemplo
 no son titulares actuales. Las ediciones reales se mostrarán
 cuando conectemos las fuentes y el sistema de publicación.
 </div>
+<div id="front" class="front-grid" hidden></div>
+<div id="personal" class="front-grid personal-grid" hidden></div>
+<div id="tv-radar" hidden></div>
 <div id="articles"></div>
 </main>
 <footer>THE DAILY · Información con contexto y fuentes</footer>
@@ -509,7 +682,9 @@ const demo=[
 {section:"television",category:"Formatos",title:"Los nuevos formatos que viajan por el mundo",summary:"La sección seguirá lanzamientos de concursos, realities y dating shows, sus mecánicas, adaptaciones internacionales y tendencias de producción.",sources:[{name:"C21Media",url:"https://www.c21media.net/"},{name:"Realscreen",url:"https://realscreen.com/"}]}
 ];
 
-let active=new URLSearchParams(location.search).get("section")==="eventos"?"eventos":"espana";
+const tabs=[{id:"portada",name:"Portada"},{id:"mi-edicion",name:"Mi edición"},...sections];
+const requestedSection=new URLSearchParams(location.search).get("section");
+let active=tabs.some(tab=>tab.id===requestedSection)?requestedSection:"portada";
 let popHorizon="all";
 let breakingBySection={};
 let categoryFilter="all";let regionFilter="all";let cultureMode="noticias";
@@ -527,35 +702,337 @@ const storyId=n=>n.id||n.section+"|"+n.title;
 function validUrl(u){
 try{let x=new URL(u);return ["https:","http:"].includes(x.protocol)?x.href:null}catch(e){return null}
 }
+const newStoryIds=new Set();
+
+function markNewStories(){
+ const ids=stories.map(storyId);
+ try{
+  const raw=localStorage.getItem("dailyLastVisitStories");
+  if(raw){
+   const previous=new Set(JSON.parse(raw));
+   for(const id of ids)if(!previous.has(id))newStoryIds.add(id);
+  }
+  localStorage.setItem("dailyLastVisitStories",JSON.stringify(ids));
+ }catch(error){}
+}
+
+function editorialTitle(story){
+ const title=story.title.replace(/ - [^-]+$/,suffix=>(story.sources||[]).some(source=>
+  source.name?.toLocaleLowerCase("es")===suffix.slice(3).trim().toLocaleLowerCase("es"))?"":suffix);
+ return title.normalize("NFD").replace(/\p{Diacritic}/gu,"").toLocaleLowerCase("es").replace(/[^\p{L}\p{N}]+/gu," ").trim();
+}
+
+function geographicPriority(story){
+ const area=story.region||story.coverageArea||story.viralMarket||"";
+ const title=editorialTitle(story);
+ if(area==="Madrid"||/\b(madrid|madrilen[oa]s?|alcorcon)\b/.test(title))return 0;
+ if(area==="España"||story.section==="espana"||/\b(espana|spain|espanol[ae]s?|spanish)\b/.test(title))return 1;
+ if(area==="Europa"||/\b(europa|europe|union europea|european union|francia|france|alemania|germany|italia|italy|portugal|reino unido|uk|belgica|belgium|ucrania|ukraine|polonia|poland|bruselas|brussels)\b/.test(title))return 2;
+ return 3;
+}
+function geographicOrder(a,b){return geographicPriority(a)-geographicPriority(b);}
+
+function sectionPriority(story,today){
+ const title=editorialTitle(story);
+ if(story.section==="television"){
+  return Number(/\b(audiencias?|estren\w*|formatos?|renewed|ratings?|premier\w*|adaptacion)\b/.test(title));
+ }
+ if(story.section==="eventos"){
+  const days=story.eventDate?(Date.parse(story.eventDate)-Date.parse(today))/86400000:Infinity;
+  if(days>=0&&days<=7)return 3;
+  if(story.popHorizon==="entradas"&&!/\bagotad\w*\b/.test(title))return 2;
+  if(story.popHorizon==="ahora")return 1;
+ }
+ return 0;
+}
+
+function uniqueHeadlines(items,limit=3){
+ const selected=[];
+ const titles=new Set();
+ for(const story of items){
+  const title=editorialTitle(story);
+  if(!title||titles.has(title))continue;
+  titles.add(title);
+  selected.push(story);
+  if(selected.length===limit)break;
+ }
+ return selected;
+}
+
+function storyPhoto(story){
+ const url=validUrl(story.image);
+ return url?.startsWith("https://media.revistagq.com/photos/")?url.replace("/master/pass/","/w_640/"):url;
+}
+function storyThumbnail(story){
+ const image=storyPhoto(story);
+ return image?`<img class="front-thumb" src="${escapeHTML(image)}" alt="" width="76" height="53" loading="lazy" referrerpolicy="no-referrer">`:"";
+}
+function renderFrontStory(story){
+ const sources=(story.sources||[]).filter(item=>validUrl(item.url));
+ const source=sources[0];
+ const title=escapeHTML(story.title);
+ const alternatives=sources.slice(1).map(item=>`<a href="${escapeHTML(validUrl(item.url))}" target="_blank" rel="noopener noreferrer">${escapeHTML(item.name)}</a>`).join(" · ");
+ return `<li class="front-story"><div>
+  <h3>${source?`<a href="${escapeHTML(validUrl(source.url))}" target="_blank" rel="noopener noreferrer">${title}</a>`:title}</h3>
+  <small>${escapeHTML(source?.name||"")}${alternatives?` · ${alternatives}`:""}${newStoryIds.has(storyId(story))?'<span class="front-new">Nuevo</span>':""}</small>
+ </div>${storyThumbnail(story)}</li>`;
+}
+
+function renderFront(){
+ const today=new Intl.DateTimeFormat("sv-SE",{timeZone:"Europe/Madrid"}).format(new Date());
+ const shortlists=sections.map(section=>{
+  const candidates=stories.filter(story=>story.section===section.id);
+  candidates.sort((a,b)=>geographicOrder(a,b)||sectionPriority(b,today)-sectionPriority(a,today));
+  return uniqueHeadlines(candidates);
+ });
+ const candidates=sections.map((section,index)=>shortlists[index][0])
+  .filter(story=>story&&["espana","mundo","cultura","television","tecnologia"].includes(story.section))
+  .sort((a,b)=>{
+   const importance=story=>Math.min(2,(story.sources?.length||1)-1)*3+
+    2*Number(/\b(elecciones|gobierno|sentencia|alerta|incendio|inundacion|empleo|presupuestos|war|election|court)\b/.test(editorialTitle(story)));
+   return spainFirst(a,b)||geographicOrder(a,b)||importance(b)-importance(a)||(b.publishedAt||"").localeCompare(a.publishedAt||"");
+  });
+ const essential=live?uniqueHeadlines(candidates):[];
+ const lead=essential.length?`<section class="front-section front-essential" aria-labelledby="front-essential">
+  <div class="front-heading"><h2 id="front-essential">Imprescindibles</h2></div>
+  <ul class="front-list">${essential.map(renderFrontStory).join("")}</ul>
+ </section>`:"";
+ $("front").innerHTML=lead+sections.map((section,index)=>{
+  const headlines=shortlists[index];
+  return `<section class="front-section" data-desk="${section.id}" aria-labelledby="front-${section.id}">
+   <div class="front-heading">
+    <h2 id="front-${section.id}">${section.name}</h2>
+    <button type="button" data-tab="${section.id}" aria-label="Ver sección completa: ${section.name}">Ver sección completa →</button>
+   </div>
+   ${headlines.length?`<ul class="front-list">${headlines.map(renderFrontStory).join("")}</ul>`:'<p class="front-empty">Sin titulares en esta edición.</p>'}
+  </section>`;
+ }).join("");
+}
+
+function keepTabVisible(){
+ const nav=$("tabs");
+ const current=nav.querySelector('[aria-current="page"]');
+ const navBox=nav.getBoundingClientRect();
+ const tabBox=current.getBoundingClientRect();
+ if(tabBox.left<navBox.left || tabBox.right>navBox.right){
+  nav.scrollLeft+=tabBox.left-navBox.left-(navBox.width-tabBox.width)/2;
+ }
+}
+
+const personalTopics=[
+ ["espana","España","espana",null],
+ ["formatos","Formatos y realities","television",/\b(formato|formatos|format|formats|reality|unscripted|game show|dating show|concurso)\b/i],
+ ["audiencias","Audiencias","television",/\b(audiencia|audiencias|ratings|viewership|cuota de pantalla|espectadores)\b/i],
+ ["musica","Música en directo","",/\b(conciertos?|festivales?|festival|giras?|tour)\b/i],
+ ["escena","Teatro y musicales","",/\b(teatro|musicales?|theatre|theater)\b/i],
+ ["arte","Arte y exposiciones","",/\b(exposicion|exposiciones|exhibition|museos?|museums?)\b/i],
+ ["tecnologia","Tecnología","tecnologia",null]
+];
+let followedTopics=new Set(["espana"]);
+try{
+ const stored=JSON.parse(localStorage.getItem("dailyFollowedTopics"));
+ if(Array.isArray(stored))followedTopics=new Set(stored);
+}catch{}
+const radarCategories=[
+ ["formatos","Formatos",personalTopics.find(([id])=>id==="formatos")[3]],
+ ["adaptaciones","Adaptaciones",/\b(adaptacion|adaptaciones|adaptation|adaptations|reboot|remake|revival|version local)\b/i],
+ ["audiencias","Audiencias",personalTopics.find(([id])=>id==="audiencias")[3]]
+];
+let radarCategory="todos";
+
+function weekendRange(now=new Date()){
+ const madridDay=new Intl.DateTimeFormat("sv-SE",{timeZone:"Europe/Madrid"}).format(now);
+ const friday=new Date(madridDay+"T12:00:00Z");
+ const weekday=friday.getUTCDay();
+ friday.setUTCDate(friday.getUTCDate()+(weekday===0?-2:5-weekday));
+ const sunday=new Date(friday);
+ sunday.setUTCDate(sunday.getUTCDate()+2);
+ return [friday.toISOString().slice(0,10),sunday.toISOString().slice(0,10)];
+}
+
+function matchingTopics(story){
+ const text=editorialTitle(story)+" "+(story.topic||"");
+ return personalTopics.filter(([, ,section,pattern])=>
+  (!section||story.section===section)&&(!pattern||pattern.test(text)));
+}
+
+function personalStory(story,details,official=false){
+ const source=(story.sources||[]).find(item=>validUrl(item.url)&&(!official||item.name==="Programación oficial"));
+ const title=escapeHTML(story.title);
+ const id=storyId(story);
+ const isSaved=saved.includes(id);
+ return `<li class="front-story"><div>
+  <h3>${source?`<a href="${escapeHTML(validUrl(source.url))}" target="_blank" rel="noopener noreferrer">${title}</a>`:title}</h3>
+  <small>${escapeHTML([...details,source?.name].filter(Boolean).join(" · "))}</small>
+ </div><div class="personal-story-actions">${storyThumbnail(story)}<button class="personal-pill" type="button" data-personal-save="${escapeHTML(id)}" aria-label="${isSaved?"Quitar de guardados":"Guardar"}: ${title}" aria-pressed="${isSaved}">${isSaved?"★":"☆"}</button></div></li>`;
+}
+
+function spainFirst(a,b){
+ return Number(b.section==="espana")-Number(a.section==="espana");
+}
+
+function personalList(items,empty){
+ return items.length?`<ul class="front-list">${items.join("")}</ul>`:`<p class="front-empty">${empty}</p>`;
+}
+function renderRadar(){
+ if(active!=="television")return;
+
+ const radar=stories.filter(story=>story.section==="television").map(story=>{
+  const title=editorialTitle(story);
+  return {story,categories:radarCategories.filter(([, ,pattern])=>pattern.test(title))};
+ }).filter(({categories})=>categories.some(([id])=>radarCategory==="todos"||id===radarCategory))
+  .sort((a,b)=>(b.story.publishedAt||"").localeCompare(a.story.publishedAt||""));
+ const open=$("tv-radar").querySelector("details")?.open ?? true;
+ $("tv-radar").innerHTML=`  <details class="front-section" data-desk="television" ${open?"open":""}>
+   <summary class="front-heading">Radar TV</summary>
+   <div class="personal-controls">${[["todos","Todo"],...radarCategories].map(([id,label])=>`<button class="personal-pill" type="button" data-radar="${id}" aria-pressed="${radarCategory===id}">${label}</button>`).join("")}</div>
+   ${personalList(radar.slice(0,12).map(({story,categories})=>personalStory(story,[...categories.map(([,label])=>label),story.country,story.network,story.platform,story.mechanics])),"Sin titulares para esta selección.")}
+  </details>
+`;
+}
+
+function renderPersonal(){
+ const followed=stories.filter(story=>matchingTopics(story).some(([id])=>followedTopics.has(id)))
+  .sort((a,b)=>(b.publishedAt||"").localeCompare(a.publishedAt||""));
+ const spanish=uniqueHeadlines(followed.filter(story=>story.section==="espana"));
+ const other=followed.filter(story=>story.section!=="espana");
+ const newest=(a,b)=>geographicOrder(a,b)||(b.publishedAt||"").localeCompare(a.publishedAt||"");
+ const isMadrid=story=>story.section==="eventos" || (story.section==="cultura"&&story.region==="Madrid");
+ const discoveries=[
+  ["moda","Moda masculina","estilo",story=>story.section==="estilo"&&story.topic==="Moda"],
+  ["tendencias","Tendencias","viral",story=>story.section==="viral"|| (story.section==="estilo"&&story.topic==="Estilo de vida")],
+  ["madrid","Curiosidades de Madrid","eventos",story=>isMadrid(story)&&/\b(curiosidad\w*|historia|historias|secretos?|leyendas?|insolito|desconocid\w*|anecdotas?|patrimonio|sabias que)\b/.test(editorialTitle(story))],
+  ["conciertos","Conciertos","eventos",story=>story.section==="eventos"&&story.topic==="Conciertos"],
+  ["entradas","Entradas a la venta","eventos",story=>story.section==="eventos"&&story.popHorizon==="entradas"&&!/\b(agotad\w*|sold out|proximamente|saldran a la venta)\b/.test(editorialTitle(story))]
+ ].map(([id,label,section,match])=>{
+  const picks=uniqueHeadlines(stories.filter(match).sort(newest),4);
+  const sectionName=sections.find(item=>item.id===section).name;
+  return `<section class="front-section" data-desk="${section}" aria-labelledby="personal-${id}">
+   <div class="front-heading"><h2 id="personal-${id}">${label}</h2><button type="button" data-tab="${section}">Ver ${sectionName} →</button></div>
+   ${id==="entradas"&&picks.length?'<p class="personal-note">Consulta disponibilidad y precio en la ficha enlazada.</p>':""}
+   ${personalList(picks.map(story=>personalStory(story,[story.eventDate,story.eventVenue,story.eventPrice])),"Sin novedades de este tipo en la edición.")}
+  </section>`;
+ }).join("");
+ const [friday,sunday]=weekendRange();
+ const plans=stories.filter(story=>story.section==="eventos" && story.eventDate>=friday &&
+  story.eventDate<=sunday && story.eventVenue &&
+  (story.sources||[]).some(source=>source.name==="Programación oficial"&&validUrl(source.url)))
+  .sort((a,b)=>a.eventDate.localeCompare(b.eventDate));
+ const localDate=date=>new Date(date+"T12:00:00Z").toLocaleDateString("es-ES",{
+  day:"numeric",month:"short",timeZone:"Europe/Madrid"
+ });
+ $("personal").innerHTML=`
+  <section class="front-section" aria-labelledby="follow-title">
+   <div class="front-heading"><h2 id="follow-title">Mis temas</h2></div>
+   <div class="personal-controls">${personalTopics.map(([id,label])=>`<button class="personal-pill" type="button" data-follow="${id}" aria-pressed="${followedTopics.has(id)}">${label}</button>`).join("")}</div>
+   ${personalList(uniqueHeadlines([...spanish,...other],12).map(story=>personalStory(story,matchingTopics(story).filter(([id])=>followedTopics.has(id)).map(([,label])=>label))),followedTopics.size?"Sin noticias de tus temas en esta edición.":"Elige los temas que quieres seguir en este dispositivo.")}
+  </section>
+  ${discoveries}
+  <section class="front-section" data-desk="eventos" aria-labelledby="weekend-title">
+   <div class="front-heading"><h2 id="weekend-title">Fin de semana</h2><button type="button" data-tab="eventos">Ver Madrid POP →</button></div>
+   <div class="personal-controls personal-agenda">
+    <span>${localDate(friday)} – ${localDate(sunday)}</span>
+    <a href="https://www.esmadrid.com/calendario-eventos-madrid" target="_blank" rel="noopener noreferrer">Agenda Madrid ↗</a>
+    <a href="https://www.ayto-alcorcon.es/es/servicios/cultura" target="_blank" rel="noopener noreferrer">Agenda Alcorcón ↗</a>
+   </div>
+   ${personalList(plans.slice(0,5).map(story=>personalStory(story,[localDate(story.eventDate),story.eventVenue,story.eventPrice],true)),"Esta edición no trae planes fechados para ese fin de semana.")}
+  </section>`;
+}
+
+function renderCityAgenda(){
+ const today=new Intl.DateTimeFormat("sv-SE",{timeZone:"Europe/Madrid"}).format(new Date());
+ const end=new Date(today+"T12:00:00Z");
+ end.setUTCDate(end.getUTCDate()+7);
+ const until=end.toISOString().slice(0,10);
+ const upcoming=stories.filter(story=>story.section==="eventos"&&story.eventDate>=today&&story.eventDate<=until&&
+  (story.sources||[]).some(source=>source.name==="Programación oficial"&&validUrl(source.url)))
+  .sort((a,b)=>a.eventDate.localeCompare(b.eventDate));
+ const firstByTopic=new Map();
+ for(const story of upcoming)if(!firstByTopic.has(story.topic))firstByTopic.set(story.topic,story);
+ const selection=[...firstByTopic.values(),...upcoming.filter(story=>firstByTopic.get(story.topic)!==story)].slice(0,8);
+ const shortDate=date=>new Date(date+"T12:00:00Z").toLocaleDateString("es-ES",{weekday:"short",day:"numeric",month:"short",timeZone:"Europe/Madrid"});
+ const guides=[
+  ["Agenda del Ayuntamiento","https://www.esmadrid.com/que-hacer-semana-madrid"],
+  ["Madrid en Vivo","https://madridenvivo.com/"],
+  ["Time Out Madrid","https://www.timeout.es/madrid/es"],
+  ["Madrid Secreto","https://madridsecreto.co/"],
+  ["Very Diferente","https://verydiferente.com/"],
+  ["VisitMadrid","https://www.visitmadrid.es/"],
+  ["Guía del Ocio","https://guiadelocio.es/madrid/"],
+  ["Click and Plan","https://clickandplan.es/madrid"]
+ ];
+ return `<section class="front-section city-agenda" data-desk="eventos" aria-labelledby="city-agenda-title">
+  <div class="front-heading"><h2 id="city-agenda-title">Planes para los próximos días</h2></div>
+  ${personalList(selection.map(story=>personalStory(story,[shortDate(story.eventDate),story.eventTime,story.eventVenue,story.eventPrice],true)),"Consulta las agendas para ver próximos planes.")}
+  <details class="city-guides"><summary>Más guías de Madrid</summary>
+   <ul class="nightlife-links">${guides.map(([label,url])=>`<li><a href="${url}" target="_blank" rel="noopener noreferrer">${label} ↗</a></li>`).join("")}</ul>
+  </details>
+ </section>`;
+}
 function render(){
+const isFront=active==="portada";
+const isPersonal=active==="mi-edicion";
+const section=tabs.find(tab=>tab.id===active);
+document.body.className=active;
+for(const button of $("tabs").querySelectorAll("button")){
+ const selected=button.dataset.tab===active;
+ button.classList.toggle("active",selected);
+ if(selected)button.setAttribute("aria-current","page");
+ else button.removeAttribute("aria-current");
+}
+$("section").textContent=section.name;
+$("edition").textContent=editionName;
+$("notice").style.display=live?"none":"block";
+$("intro").hidden=isFront||isPersonal;
+$("filters").hidden=isFront||isPersonal;
+$("front").hidden=!isFront;
+$("personal").hidden=!isPersonal;
+$("articles").hidden=isFront||isPersonal;
+$("tv-radar").hidden=active!=="television";
+if(isPersonal){renderPersonal();return;}
+renderRadar();
+if(isFront){
+ $("articles").replaceChildren();
+ renderFront();
+ return;
+}
+const breakingOpen=$("articles").querySelector(".breaking-panel")?.open;
+const socialOpen=$("articles").querySelector(".pop-social-radar")?.open;
 const categorized=active==="cultura";
 const pop=active==="eventos";
 const bilingual=!pop;
-const regionChoices=[["all","🌍 Todas las zonas"],["Madrid","📍 Madrid"],["España","🇪🇸 España"],["Internacional","🌐 Internacional"]];
+const languages=[["all",active==="espana"?"Todos los idiomas":"Ambos idiomas"],["es","En español"],["en","In English"]];
+if(active==="espana")languages.push(["cooficial","Lenguas cooficiales"]);
+const regionChoices=[["all","🌍 Todas las zonas"],["Madrid","📍 Madrid"],["España","🇪🇸 España"],["Europa","Europa"],["Internacional","🌐 Resto del mundo"]];
 const categories=["all","Música","Cine","Teatro","Cultura general"];
 $("categories").style.display=categorized||pop?"flex":"none";
-$("categories").innerHTML=pop?`<div class="culture-filter-label">Cuándo quieres hacer el plan</div><div class="culture-filter-row">${[["all","★ Todo"],["ahora","📍 Ahora en Madrid"],["futuro","✨ Próximamente"],["entradas","🎟️ A la venta"]].map(([id,label])=>`<button data-pop-horizon="${id}" class="${popHorizon===id?"selected":""}">${label}</button>`).join("")}</div><div class="culture-filter-label">Explora Madrid POP</div><div class="culture-filter-row">${[["all","Todo"],["Conciertos","🎵 Conciertos"],["Teatro y musicales","🎭 Teatro"],["Exposiciones","🎨 Exposiciones"],["Cine y estrenos","🎬 Cine"],["Entradas a la venta","🎟️ Entradas"],["Planes futuros","✨ Próximamente"]].map(([id,label])=>`<button data-category="${id}" class="${categoryFilter===id?"selected":""}">${label}</button>`).join("")}</div>`:categorized?`<div class="culture-mode"><button data-culture-mode="noticias" class="${cultureMode==="noticias"?"selected":""}">Actualidad cultural</button><button data-culture-mode="agenda" class="${cultureMode==="agenda"?"selected":""}">Agenda · Qué hacer</button></div><div class="culture-filter-label">Temas</div><div class="culture-filter-row">${categories.map(c=>`<button data-category="${c}" class="${categoryFilter===c?"selected":""}">${c==="all"?"Todas":c}</button>`).join("")}</div><div class="culture-filter-label">Ubicación · primero Madrid, después España</div><div class="culture-filter-row">${regionChoices.map(([id,name])=>`<button data-region="${id}" class="${regionFilter===id?"selected":""}">${name}</button>`).join("")}</div>`:"";
+$("categories").innerHTML=pop?`<div class="culture-filter-label">Cuándo quieres hacer el plan</div><div class="culture-filter-row">${[["all","★ Todo"],["ahora","📍 Ahora en Madrid"],["futuro","✨ Próximamente"],["entradas","🎟️ A la venta"]].map(([id,label])=>`<button data-pop-horizon="${id}" class="${popHorizon===id?"selected":""}">${label}</button>`).join("")}</div><div class="culture-filter-label">Explora Madrid POP</div><div class="culture-filter-row">${[["all","Todo"],["Conciertos","🎵 Conciertos"],["Bares y noche","Bares y noche"],["Planes y ocio","Planes y ocio"],["Teatro y musicales","🎭 Teatro"],["Exposiciones","🎨 Exposiciones"],["Cine y estrenos","🎬 Cine"],["Entradas a la venta","🎟️ Entradas"],["Planes futuros","✨ Próximamente"]].map(([id,label])=>`<button data-category="${id}" class="${categoryFilter===id?"selected":""}">${label}</button>`).join("")}</div>`:categorized?`<div class="culture-mode"><button data-culture-mode="noticias" class="${cultureMode==="noticias"?"selected":""}">Actualidad cultural</button><button data-culture-mode="agenda" class="${cultureMode==="agenda"?"selected":""}">Agenda · Qué hacer</button></div><div class="culture-filter-label">Temas</div><div class="culture-filter-row">${categories.map(c=>`<button data-category="${c}" class="${categoryFilter===c?"selected":""}">${c==="all"?"Todas":c}</button>`).join("")}</div><div class="culture-filter-label">Ubicación</div><div class="culture-filter-row">${regionChoices.map(([id,name])=>`<button data-region="${id}" class="${regionFilter===id?"selected":""}">${name}</button>`).join("")}</div>`:"";
 $("languages").style.display=bilingual?"flex":"none";
-$("languages").innerHTML=bilingual?[["all","Ambos idiomas"],["es","En español"],["en","In English"]].map(([id,name])=>`<button data-lang="${id}" class="${languageFilter===id?"selected":""}">${name}</button>`).join(""):"";
-let s=sections.find(x=>x.id===active);
-document.body.className=active;
-$("tabs").innerHTML=sections.map(x=>`<button class="${x.id===active?"active":""}" data-tab="${x.id}">${x.name}</button>`).join("");
-if(active==="eventos" && !$("tabs").dataset.popShown){$("tabs").dataset.popShown="1";requestAnimationFrame(()=>document.querySelector('[data-tab="eventos"]')?.scrollIntoView({block:"nearest",inline:"center"}));}
-$("section").textContent=s.name;
-$("intro").textContent=s.desc+(s.target?" Objetivo editorial: "+s.target+" noticias.":"");
-$("edition").textContent=editionName;
-$("notice").style.display=live?"none":"block";
+$("languages").innerHTML=bilingual?languages.map(([id,name])=>`<button data-lang="${id}" class="${languageFilter===id?"selected":""}">${name}</button>`).join(""):"";
+$("intro").textContent=section.desc+(section.target?" Objetivo editorial: "+section.target+" noticias.":"");
 let q=$("search").value.toLocaleLowerCase("es");
 let items=stories.filter(n=>n.section===active)
 .filter(n=>(n.title+" "+n.summary+" "+(n.translationEs||"")+" "+n.category).toLocaleLowerCase("es").includes(q))
 .filter(n=>!categorized||(n.cultureView||"noticias")===cultureMode)
 .filter(n=>!pop||popHorizon==="all"||(n.popHorizon||"ahora")===popHorizon)
 .filter(n=>!(categorized||pop)||categoryFilter==="all"||n.topic===categoryFilter)
-.filter(n=>!categorized||regionFilter==="all"||(n.region||"Internacional")===regionFilter)
-.filter(n=>!bilingual||languageFilter==="all"||(n.language||"es")===languageFilter)
+.filter(n=>!categorized||regionFilter==="all"||["Madrid","España","Europa","Internacional"][geographicPriority(n)]===regionFilter)
+.filter(n=>!bilingual||languageFilter==="all"||(languageFilter==="cooficial"?["ca","gl","eu"].includes(n.language):(n.language||"es")===languageFilter))
 .filter(n=>$("filter").value!=="saved"||saved.includes(storyId(n)));
-if(categorized)items.sort((a,b)=>({Madrid:0,"España":1,Internacional:2}[a.region||"Internacional"]??2)-({Madrid:0,"España":1,Internacional:2}[b.region||"Internacional"]??2)||(b.publishedAt||"").localeCompare(a.publishedAt||""));
-if(items.length)items=[...items].sort((a,b)=>pop?(Number(Boolean(b.eventDate))-Number(Boolean(a.eventDate))||((a.eventDate||"9999").localeCompare(b.eventDate||"9999"))):Number(Boolean(b.image))-Number(Boolean(a.image)));
+items.sort((a,b)=>geographicOrder(a,b)||(pop?
+ Number(Boolean(b.eventDate))-Number(Boolean(a.eventDate))||((a.eventDate||"9999").localeCompare(b.eventDate||"9999")):
+ categorized?(b.publishedAt||"").localeCompare(a.publishedAt||""):0));
+
+const cityAgenda=pop&&categoryFilter==="all"&&popHorizon==="all"?renderCityAgenda():"";
+const nightlife=pop?`<section class="front-section nightlife" data-desk="eventos" aria-labelledby="nightlife-title">
+ <div class="front-heading"><h2 id="nightlife-title">Bares y noche</h2>
+ <button type="button" data-category="Bares y noche">Ver novedades →</button></div>
+ <ul class="nightlife-links">
+  <li><a href="https://feverup.com/es/madrid/vida-nocturna-clubs" target="_blank" rel="noopener noreferrer">Fiestas y clubes · Fever ↗</a></li>
+  <li><a href="https://salajuglar.com/" target="_blank" rel="noopener noreferrer">Música en directo · Sala Juglar ↗</a></li>
+  <li><a href="https://www.esmadrid.com/noche/shift-public-house" target="_blank" rel="noopener noreferrer">Coctelería · Shift Public House ↗</a></li>
+  <li><a href="https://www.esmadrid.com/noche/tempo-audiophile-club" target="_blank" rel="noopener noreferrer">Sesiones · Tempo Audiophile Club ↗</a></li>
+ </ul></section>`:"";
 const xMediaAccounts={
  espana:[["RTVE","rtvenoticias"],["El País","el_pais"],["El Mundo","elmundoes"],["Europa Press","europapress"]],
  mundo:[["BBC News","BBCWorld"],["The Guardian","guardian"],["DW","dw_espanol"],["Reuters","Reuters"]],
@@ -566,26 +1043,26 @@ const xMediaAccounts={
  eventos:[["Movistar Arena","MovistarArenaEs"],["Ticketmaster España","TicketmasterES"],["Madrid Cultura","MadridCultura"],["Time Out Madrid","TimeOutMadrid"]],
  viral:[["RTVE","rtvenoticias"],["BBC News","BBCWorld"],["Reuters","Reuters"],["The Guardian","guardian"]]
 };
-const xMediaLinks=(xMediaAccounts[active]||[]).map(([name,handle])=>`<a href="https://x.com/${encodeURIComponent(handle)}" target="_blank" rel="noopener noreferrer" title="Consultar perfil público en X">${escapeHTML(name)} ↗</a>`).join("");
+const xMediaLinks=(active==="television"?[]:xMediaAccounts[active]||[]).map(([name,handle])=>`<a href="https://x.com/${encodeURIComponent(handle)}" target="_blank" rel="noopener noreferrer" title="Consultar perfil público en X">${escapeHTML(name)} ↗</a>`).join("");
 const recentHeadlines=(breakingBySection[active]||[]).slice(0,12);
 const isInternational=active==="mundo";
 const translateLink=(value)=>"https://translate.google.com/?sl=auto&tl=es&text="+encodeURIComponent(value.slice(0,1300))+"&op=translate";
 
-const breakingPanel=`<section class="breaking-panel"><div class="breaking-head"><span class="breaking-live">● ÚLTIMA HORA</span><strong>12 titulares recientes</strong><small>Revisión programada cada 15 min · fuentes periodísticas RSS, no publicaciones de X</small></div>${recentHeadlines.length?`<ol class="breaking-list">${recentHeadlines.map(n=>`<li><a href="${escapeHTML(validUrl(n.url)||"#")}" target="_blank" rel="noopener noreferrer"><span>${escapeHTML(n.title)}</span><small>${escapeHTML(n.source)} · ${escapeHTML(n.publishedAt)}</small></a>${isInternational?`<a class="breaking-translate" href="${escapeHTML(translateLink(n.title))}" target="_blank" rel="noopener noreferrer">🌐 Leer titular en español</a>`:""}</li>`).join("")}</ol>`:`<p class="breaking-empty">Todavía no hay titulares recientes verificados para esta sección. Se cargarán en la próxima actualización.</p>` }${active==="television"?"":`<div class="breaking-x-accounts"><span>𝕏 Consultar medios en X:</span>${xMediaLinks}</div>`}</section>`;
-const socialRadar=pop?`<section class="pop-social-radar"><div class="pop-social-heading"><span>𝕏</span><div><strong>EN X SE ANUNCIA…</strong><p>Radar de publicaciones oficiales · enlaces a búsquedas en X, no tuits verificados ni un feed en directo.</p></div></div><div class="pop-social-links">${[["Movistar Arena","\"Movistar Arena\" Madrid conciertos"],["Ticketmaster","\"Ticketmaster España\" Madrid entradas"],["Teatros y musicales","Madrid estreno teatro musical entradas"],["Museos y exposiciones","Madrid museo exposición inauguración"],["Festivales","Madrid festival 2027 cartel entradas"]].map(([label,query])=>`<a href="https://x.com/search?q=${encodeURIComponent(query)}&f=live" target="_blank" rel="noopener noreferrer">𝕏 ${escapeHTML(label)} ↗</a>`).join("")}</div><p class="pop-social-note">Antes de comprar entradas, confirma fecha y disponibilidad en la web del organizador.</p></section>`:"";
-$("articles").innerHTML=breakingPanel+socialRadar+(items.length?items.map(n=>{
+const breakingPanel=`<details class="breaking-panel"${breakingOpen?" open":""}><summary>Última hora${recentHeadlines.length?` · ${recentHeadlines.length} titulares`:""}</summary><div class="breaking-head"><small>Fuentes periodísticas RSS · revisión programada cada 15 min</small></div>${recentHeadlines.length?`<ol class="breaking-list">${recentHeadlines.map(n=>`<li><a href="${escapeHTML(validUrl(n.url)||"#")}" target="_blank" rel="noopener noreferrer"><span>${escapeHTML(n.title)}</span><small>${escapeHTML(n.source)} · ${escapeHTML(n.publishedAt)}</small></a>${isInternational?`<a class="breaking-translate" href="${escapeHTML(translateLink(n.title))}" target="_blank" rel="noopener noreferrer">🌐 Leer titular en español</a>`:""}</li>`).join("")}</ol>`:`<p class="breaking-empty">Todavía no hay titulares recientes verificados para esta sección. Se cargarán en la próxima actualización.</p>` }${xMediaLinks?`<div class="breaking-x-accounts"><span>Medios en X</span>${xMediaLinks}</div>`:""}</details>`;
+const socialRadar=pop?`<details class="pop-social-radar"${socialOpen?" open":""}><summary>Agenda de Madrid en X</summary><div class="pop-social-links">${[["Movistar Arena","\"Movistar Arena\" Madrid conciertos"],["Ticketmaster","\"Ticketmaster España\" Madrid entradas"],["Teatros y musicales","Madrid estreno teatro musical entradas"],["Museos y exposiciones","Madrid museo exposición inauguración"],["Festivales","Madrid festival 2027 cartel entradas"]].map(([label,query])=>`<a href="https://x.com/search?q=${encodeURIComponent(query)}&f=live" target="_blank" rel="noopener noreferrer">𝕏 ${escapeHTML(label)} ↗</a>`).join("")}</div><p class="pop-social-note">Antes de comprar entradas, confirma fecha y disponibilidad en la web del organizador.</p></details>`:"";
+$("articles").innerHTML=cityAgenda+breakingPanel+nightlife+socialRadar+(items.length?items.map(n=>{
 let id=storyId(n);
 if(translationCache[id]&&!n.translationEs)n.translationEs=translationCache[id];
 let links=(n.sources||[]).map(x=>{
 let url=validUrl(x.url);
 return url?`<a href="${escapeHTML(url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(x.name||"Fuente")}</a>`:"";
 }).filter(Boolean).join(" · ");
-return `<article class="${n.image&&validUrl(n.image)?"with-image":"text-only"}">
-${n.image&&validUrl(n.image)?`<div class="article-image"><img src="${escapeHTML(validUrl(n.image))}" alt="" loading="lazy" referrerpolicy="no-referrer"></div>`:pop&&n.eventDate?`<div class="pop-event-art"><span class="pop-art-star">★</span><span class="pop-art-kicker">${escapeHTML(n.topic||"MADRID POP")}</span><strong>${escapeHTML(n.title)}</strong><span class="pop-art-year">${escapeHTML(n.eventDate.slice(0,4))}</span></div>`:""}
-${pop&&n.eventDate?`<div class="pop-date">📅 ${escapeHTML(new Date(n.eventDate+"T12:00:00").toLocaleDateString("es-ES",{day:"numeric",month:"long",year:"numeric"}))} · ${escapeHTML(n.eventVenue||"Madrid")}</div>`:""}
-<div class="tag">${escapeHTML(n.topic||n.category||"Actualidad")} ${n.language==="en"?" · EN":n.language==="es"?" · ES":""}</div>
+return `<article class="${storyPhoto(n)?"with-image":"text-only"}">
+${storyPhoto(n)?`<div class="article-image"><img src="${escapeHTML(storyPhoto(n))}" alt="" loading="lazy" referrerpolicy="no-referrer"></div>`:pop&&n.eventDate?`<div class="pop-event-art"><span class="pop-art-star">★</span><span class="pop-art-kicker">${escapeHTML(n.topic||"MADRID POP")}</span><strong>${escapeHTML(n.title)}</strong><span class="pop-art-year">${escapeHTML(n.eventDate.slice(0,4))}</span></div>`:""}
+${pop&&n.eventDate?`<div class="pop-date">📅 ${escapeHTML(new Date(n.eventDate+"T12:00:00").toLocaleDateString("es-ES",{day:"numeric",month:"long",year:"numeric"}))} · ${escapeHTML(n.eventVenue||"Madrid")}${n.eventTime?" · "+escapeHTML(n.eventTime):""}${n.eventPrice?" · "+escapeHTML(n.eventPrice):""}</div>`:""}
+<div class="tag">${escapeHTML(n.topic||n.category||"Actualidad")} ${["es","en","ca","gl","eu"].includes(n.language)?" · "+n.language.toUpperCase():""}</div>
 <h2>${escapeHTML(n.title)}</h2>
-<div class="meta">${escapeHTML(n.region||"")} ${n.publishedAt?" · "+escapeHTML(n.publishedAt):""}</div>
+<div class="meta">${escapeHTML(n.region||(n.coverageArea==="Nacional"?"":n.coverageArea)||"")} ${n.publishedAt?" · "+escapeHTML(n.publishedAt):""}</div>
 <p>${escapeHTML(n.summary)}</p>
 ${n.language==="en"?`<div class="translation"><div class="translation-label">Traducción al español</div><p>${n.translationEs?escapeHTML(n.translationEs):`<button class="translate-button" data-translate="${escapeHTML(id)}">Traducir gratis al español</button><div class="translation-result" data-result="${escapeHTML(id)}"></div>`}</p></div>`:""}
 ${n.summaryStatus==="excerpt"?'<div class="summary-note">Extracto disponible: faltan datos para elaborar un resumen más extenso.</div>':""}
@@ -596,16 +1073,80 @@ ${n.section==="viral"&&n.videoUrl&&validUrl(n.videoUrl)?`<a class="video-link" t
 </div></article>`;
 }).join(""):`<div class="empty">No hay noticias para esta selección.</div>`);
 }
-$("tabs").addEventListener("click",e=>{
-let b=e.target.closest("[data-tab]");
-if(b){active=b.dataset.tab;categoryFilter="all";regionFilter="all";cultureMode="noticias";languageFilter="all";$("search").value="";render()}
-});
+$("tabs").innerHTML=tabs.map(tab=>`<button type="button" data-tab="${tab.id}" data-desk="${tab.id}">${tab.name}</button>`).join("");
+
+function switchSection(event){
+ const button=event.target.closest("[data-tab]");
+ if(!button || button.dataset.tab===active)return;
+ const fromFront=$("front").contains(button)||$("personal").contains(button);
+ active=button.dataset.tab;
+ categoryFilter="all";
+ regionFilter="all";
+ cultureMode="noticias";
+ languageFilter="all";
+ $("search").value="";
+ $("filters").open=false;
+ $("articles").replaceChildren();
+ render();
+ if(fromFront)$("tabs").querySelector('[aria-current="page"]').focus({preventScroll:true});
+ keepTabVisible();
+ window.scrollTo({top:0,left:0,behavior:"instant"});
+}
+
+$("tabs").addEventListener("click",switchSection);
+$("front").addEventListener("click",switchSection);
+function handlePersonalControls(event){
+ const panel=event.currentTarget;
+ const button=event.target.closest("button");
+ if(!button)return;
+ if(button.dataset.tab){switchSection(event);return;}
+ const {follow,radar,personalSave}=button.dataset;
+ if(follow){
+  if(followedTopics.has(follow))followedTopics.delete(follow);
+  else followedTopics.add(follow);
+  try{localStorage.setItem("dailyFollowedTopics",JSON.stringify([...followedTopics]))}catch{}
+ }else if(radar){
+  radarCategory=radar;
+ }else if(personalSave){
+  saved=saved.includes(personalSave)?saved.filter(id=>id!==personalSave):[...saved,personalSave];
+  try{localStorage.setItem("dailySaved",JSON.stringify(saved))}catch{}
+ }else{return;}
+ if(panel.id==="tv-radar")renderRadar();
+ else renderPersonal();
+ const attribute=follow?"data-follow":radar?"data-radar":"data-personal-save";
+ panel.querySelector(`[${attribute}="${CSS.escape(follow||radar||personalSave)}"]`)?.focus({preventScroll:true});
+}
+$("personal").addEventListener("click",handlePersonalControls);
+$("tv-radar").addEventListener("click",handlePersonalControls);
+document.addEventListener("error",event=>{
+ const target=event.target;
+ if(!(target instanceof HTMLImageElement))return;
+ if(target.matches(".front-thumb"))target.remove();
+ else if(target.closest(".article-image"))target.closest(".article-image").remove();
+},true);
 $("categories").addEventListener("click",e=>{let b=e.target.closest("[data-category]");if(b){categoryFilter=b.dataset.category;render()}});
 $("categories").addEventListener("click",e=>{let b=e.target.closest("[data-pop-horizon]");if(b){popHorizon=b.dataset.popHorizon;render()}});
 $("categories").addEventListener("click",e=>{let mode=e.target.closest("[data-culture-mode]");if(mode){cultureMode=mode.dataset.cultureMode;render()}});
 $("categories").addEventListener("click",e=>{let b=e.target.closest("[data-region]");if(b){regionFilter=b.dataset.region;render()}});
 $("languages").addEventListener("click",e=>{let b=e.target.closest("[data-lang]");if(b){languageFilter=b.dataset.lang;render()}});
 $("articles").addEventListener("click",async e=>{
+const citySave=e.target.closest(".city-agenda [data-personal-save]");
+if(citySave){
+ const id=citySave.dataset.personalSave;
+ saved=saved.includes(id)?saved.filter(item=>item!==id):[...saved,id];
+ try{localStorage.setItem("dailySaved",JSON.stringify(saved))}catch{}
+ render();
+ $("articles").querySelector(`.city-agenda [data-personal-save="${CSS.escape(id)}"]`)?.focus({preventScroll:true});
+ return;
+}
+const night=e.target.closest(".nightlife [data-category]");
+if(night){
+ categoryFilter="Bares y noche";
+ popHorizon="all";
+ render();
+ $("articles").querySelector(".nightlife button")?.focus({preventScroll:true});
+ return;
+}
 let translate=e.target.closest("[data-translate]");
 if(translate){
  const id=translate.dataset.translate;
@@ -661,9 +1202,12 @@ breakingBySection=data.breaking||{};
 stories=data.stories.filter(n=>sections.some(s=>s.id===n.section)&&n.title&&n.summary);
 editionName=(data.edition||"Última edición")+" · "+stories.filter(n=>n.section==="estilo").length+" noticias de Estilo";
 live=true;
+markNewStories();
 }catch(e){live=false}
 render();
 }
+render();
+keepTabVisible();
 loadEdition();
 </script>
 
