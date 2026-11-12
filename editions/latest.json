@@ -1,16 +1,52 @@
 {
-  "edition": "THE DAILY · Mañana · 12/11/2026 02:54",
-  "generatedAt": "2026-11-12T01:54:37.706393+00:00",
+  "edition": "THE DAILY · Mañana · 12/11/2026 03:54",
+  "generatedAt": "2026-11-12T02:54:44.429172+00:00",
   "mode": "rss-excerpts",
   "stories": [
+    {
+      "id": "espana|https://www.elmundo.es/economia/empresas/2026/11/12/6af51bd1e4d4d815458b45b0.html",
+      "section": "espana",
+      "category": "El Mundo",
+      "title": "Nvidia se prepara para destituir a Jensen Huang tras conocerse una nueva infidelidad con una vicepresidenta de la empresa",
+      "summary": "The New York Times revela una relación Kimberly Powell, responsable de Salud, y las acciones se desploman otro 8% antes de la apertura del mercado Leer",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/12/17944481845582.jpg",
+      "publishedAt": "2026-11-12 02:12 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "El Mundo",
+          "url": "https://www.elmundo.es/economia/empresas/2026/11/12/6af51bd1e4d4d815458b45b0.html"
+        }
+      ]
+    },
+    {
+      "id": "espana|https://www.elmundo.es/internacional/2026/11/12/6af50b5de9cf4a725a8b4571.html",
+      "section": "espana",
+      "category": "El Mundo",
+      "title": "El \"León de la esperanza\" regresa a su patria",
+      "summary": "Prevost vuelve a Perú convertido en León XIV y en una de las pocas voces en el planeta que se eleva por encima de los extremos y populismos de moda Leer",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/12/17944439549461.jpg",
+      "publishedAt": "2026-11-12 02:05 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "El Mundo",
+          "url": "https://www.elmundo.es/internacional/2026/11/12/6af50b5de9cf4a725a8b4571.html"
+        }
+      ]
+    },
     {
       "id": "espana|https://elpais.com/us/2026-11-11/se-derrumba-un-edificio-en-brooklyn-y-deja-personas-atrapadas-entre-los-escombros.html",
       "section": "espana",
       "category": "El País",
-      "title": "Al menos dos muertos y varios heridos tras derrumbarse un edificio en un barrio residencial en Brooklyn",
-      "summary": "Al menos cuatro obreros de la construcción fueron trasladados al hospital, uno de ellos en estado crítico, mientras los bomberos buscan sobrevivientes",
+      "title": "Al menos dos muertos y varios heridos tras derrumbarse un edificio residencial en Brooklyn",
+      "summary": "Se desconoce cuántas personas hay bajo los escombros y los bomberos advierten de que la operación de rescate será “prolongada”",
       "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261112/1236738_002431_video_1800.mp4",
-      "publishedAt": "2026-11-12 01:45 UTC",
+      "publishedAt": "2026-11-12 01:55 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
@@ -18,6 +54,24 @@
         {
           "name": "El País",
           "url": "https://elpais.com/us/2026-11-11/se-derrumba-un-edificio-en-brooklyn-y-deja-personas-atrapadas-entre-los-escombros.html"
+        }
+      ]
+    },
+    {
+      "id": "espana|https://www.elmundo.es/internacional/2026/11/12/6af50876fc6c83c8418b4577.html",
+      "section": "espana",
+      "category": "El Mundo",
+      "title": "Al menos un muerto y diez heridos tras derrumbarse un edificio de tres plantas en Nueva York",
+      "summary": "Hasta el momento, las autoridades no han precisado las posibles causas del siniestro Leer",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/12/17944433488927.jpg",
+      "publishedAt": "2026-11-12 00:29 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "El Mundo",
+          "url": "https://www.elmundo.es/internacional/2026/11/12/6af50876fc6c83c8418b4577.html"
         }
       ]
     },
@@ -310,74 +364,92 @@
       ]
     },
     {
-      "id": "espana|https://www.elmundo.es/elecciones/elecciones-generales/2026/11/11/6af4c94d21efa05b5e8b4581.html",
-      "section": "espana",
-      "category": "El Mundo",
-      "title": "El señalamiento del Sindicato de Inquilinas y las cargas policiales vuelven el foco de la huelga contra el Gobierno",
-      "summary": "En las concentraciones en distintos puntos del país se escucharon cánticos como \"¡Gobierno progresista, cómplice rentista!\" o \"¿Dónde está el Gobierno progresista?\" Leer",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/11/17944286645704.jpg",
-      "publishedAt": "2026-11-11 22:01 UTC",
-      "language": "es",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "El Mundo",
-          "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/11/6af4c94d21efa05b5e8b4581.html"
-        }
-      ]
-    },
-    {
-      "id": "espana|https://www.elmundo.es/madrid/2026/11/11/6af4d709fdddff47028b457d.html",
-      "section": "espana",
-      "category": "El Mundo",
-      "title": "La Policía detona una maleta sospechosa en Plaza de España y blinda la Dirección de la Guardia Civil en Madrid tras dos llamadas alertando de avisos de bomba",
-      "summary": "Hubo varias amenazas de explosivos en otros puntos de la región, como Guadarrama, donde también se llevó a cabo una detonación \"controlada y preventiva\" Leer",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/11/17944314660624.png",
-      "publishedAt": "2026-11-11 22:01 UTC",
-      "language": "es",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "El Mundo",
-          "url": "https://www.elmundo.es/madrid/2026/11/11/6af4d709fdddff47028b457d.html"
-        }
-      ]
-    },
-    {
-      "id": "espana|https://www.elmundo.es/espana/2026/11/11/6af4c9ab21efa010368b4595.html",
-      "section": "espana",
-      "category": "El Mundo",
-      "title": "La preocupación de los jóvenes que desborda las calles: \"La izquierda no funciona, y lo que queremos es que espabile\"",
-      "summary": "Salen a la calle por la vivienda y un futuro inalcanzable, afirman rechazar los discursos impuestos y exigen soluciones inmediatas y contundentes Leer",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/11/17944307826915.jpg",
-      "publishedAt": "2026-11-11 21:55 UTC",
-      "language": "es",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "El Mundo",
-          "url": "https://www.elmundo.es/espana/2026/11/11/6af4c9ab21efa010368b4595.html"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.abc.net.au/news/2026-11-12/tas-last-boags-red-carton-sold-at-auction/107376544",
+      "id": "mundo|https://www.abc.net.au/news/2026-11-12/man-dies-boy-critical-after-fishing-accident-mid-north-coast/107377842",
       "section": "mundo",
       "category": "ABC Australia",
-      "title": "'I had to have it': Boag's worker wins auction for last Tasmanian brew",
-      "summary": "The final Tasmanian-brewed Boag's Red case is sold at auction for $1,300 to a brewery electrician who says it's going straight on display in his lounge room.",
-      "image": "https://live-production.wcms.abc-cdn.net.au/a5535e0f6330aad72b214f155e136ce6?impolicy=wcms_crop_resize&cropH=927&cropW=1648&xPos=4&yPos=0&width=862&height=485",
-      "publishedAt": "2026-11-12 01:42 UTC",
+      "title": "Man dies and toddler critical after being pulled from water",
+      "summary": "A man has died and a toddler is in a critical condition after being pulled from the water at Fishermans Reach on the NSW Mid North Coast.",
+      "image": "https://live-production.wcms.abc-cdn.net.au/a41131d339b70762af922652ebfb2ef9?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
+      "publishedAt": "2026-11-12 02:50 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "ABC Australia",
-          "url": "https://www.abc.net.au/news/2026-11-12/tas-last-boags-red-carton-sold-at-auction/107376544"
+          "url": "https://www.abc.net.au/news/2026-11-12/man-dies-boy-critical-after-fishing-accident-mid-north-coast/107377842"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://www.theguardian.com/australia-news/2026/nov/12/beau-lamarre-condon-jesse-baird-phone-murder-trial-ntwnfb",
+      "section": "mundo",
+      "category": "The Guardian World",
+      "title": "Beau Lamarre-Condon admits throwing Jesse Baird’s phone off a bridge after alleged murders, trial hears",
+      "summary": "Court hears former police officer agrees he was trying to destroy evidence that might incriminate him Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has admitted he threw Jesse Baird’s phone off a bridge to destroy evidence after allegedly murdering him, a court has heard. The former police officer is accused of fatally shoo…",
+      "image": "https://i.guim.co.uk/img/media/69a781da23f48b2cde91996a93de7520bc4ee220/516_503_2306_1845/master/2306.jpg?width=140&quality=85&auto=format&fit=max&s=44c734af5ce7f77b7461e525a37c0f06",
+      "publishedAt": "2026-11-12 02:46 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/12/beau-lamarre-condon-jesse-baird-phone-murder-trial-ntwnfb"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://www.abc.net.au/news/2026-11-12/train-passengers-stranded-for-hours-without-aircon-food-gundiah/107376462",
+      "section": "mundo",
+      "category": "ABC Australia",
+      "title": "Train passengers stranded for hours with no aircon, no food and full toilets",
+      "summary": "Buses have been called in to get passengers home as track repair work continues.",
+      "image": "https://live-production.wcms.abc-cdn.net.au/e598f43042e0c477419db4144ff921c6?impolicy=wcms_crop_resize&cropH=864&cropW=1536&xPos=0&yPos=723&width=862&height=485",
+      "publishedAt": "2026-11-12 02:39 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "ABC Australia",
+          "url": "https://www.abc.net.au/news/2026-11-12/train-passengers-stranded-for-hours-without-aircon-food-gundiah/107376462"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://www.abc.net.au/news/2026-11-12/paul-lindemann-williamstown-lib-candidate-racist-posts-dumped/107376622",
+      "section": "mundo",
+      "category": "ABC Australia",
+      "title": "Indigenous leaders welcome dumping of Liberal candidate for racist posts",
+      "summary": "Paul Lindemann was removed yesterday as Liberal candidate for Williamstown after social media posts about Aboriginal people were uncovered, but he will remain on the ballot sheet because nominations closed on Monday.",
+      "image": "https://live-production.wcms.abc-cdn.net.au/44e61cbfa41c762220a809967029729b?impolicy=wcms_crop_resize&cropH=648&cropW=1152&xPos=0&yPos=108&width=862&height=485",
+      "publishedAt": "2026-11-12 02:38 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "ABC Australia",
+          "url": "https://www.abc.net.au/news/2026-11-12/paul-lindemann-williamstown-lib-candidate-racist-posts-dumped/107376622"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://www.abc.net.au/news/2026-11-12/roger-cook-scolds-labor-mps-who-blocked-jags-krishnan-from-media/107377778",
+      "section": "mundo",
+      "category": "ABC Australia",
+      "title": "Roger Cook chides Labor MPs after fracas at parliament door",
+      "summary": "WA Premier Roger Cook reminds MPs of their responsibilities after a group of Labor members tried to shield their colleague Jags Krishnan from media questioning as he entered parliament yesterday.",
+      "image": "https://live-production.wcms.abc-cdn.net.au/312e5d5732f773fd59ba02c59310efef?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
+      "publishedAt": "2026-11-12 02:33 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "ABC Australia",
+          "url": "https://www.abc.net.au/news/2026-11-12/roger-cook-scolds-labor-mps-who-blocked-jags-krishnan-from-media/107377778"
         }
       ]
     },
@@ -388,7 +460,7 @@
       "title": "New York building collapse kills one person and injures 12",
       "summary": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8114/live/d10cd710-de22-11f1-a006-f3a783cdc303.jpg",
-      "publishedAt": "2026-11-12 01:34 UTC",
+      "publishedAt": "2026-11-12 02:33 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
@@ -396,6 +468,150 @@
         {
           "name": "BBC World",
           "url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://www.theguardian.com/australia-news/2026/nov/12/missing-teenager-walhalla-found-alive-australian-bush",
+      "section": "mundo",
+      "category": "The Guardian World",
+      "title": "Australian teen who went missing in bushland wearing only shorts and boots found alive after six days",
+      "summary": "William, 17, was reported missing after straying from his camp near Walhalla in Victoria’s Gippsland region Get our breaking news email , free app or daily news podcast A teenage boy has been found alive after disappearing in dense bushland wearing only shorts and work boots nearly a week ago. Police AirWing found William, 17, whose surname has not been shar…",
+      "image": "https://i.guim.co.uk/img/media/63af96b5092d80db06ac583687c513b25d141988/0_11_1440_1151/master/1440.jpg?width=140&quality=85&auto=format&fit=max&s=b1b299bf30238b6f8edc25357362d698",
+      "publishedAt": "2026-11-12 02:30 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/12/missing-teenager-walhalla-found-alive-australian-bush"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://www.abc.net.au/news/2026-11-12/nsw-train-fall-incident-milsons-point/107377826",
+      "section": "mundo",
+      "category": "ABC Australia",
+      "title": "Teen critical after falling off train on Sydney Harbour Bridge",
+      "summary": "A teenage boy has been rushed to hospital after falling from a train and onto the tracks on the Sydney Harbour Bridge.",
+      "image": "https://live-production.wcms.abc-cdn.net.au/b60c381453f5c58216dee5845e98e487?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+      "publishedAt": "2026-11-12 02:20 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "ABC Australia",
+          "url": "https://www.abc.net.au/news/2026-11-12/nsw-train-fall-incident-milsons-point/107377826"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "section": "mundo",
+      "category": "BBC World",
+      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg",
+      "publishedAt": "2026-11-12 02:09 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://www.abc.net.au/news/2026-11-12/the-true-cost-of-ivf-financially-emotionally/107339748",
+      "section": "mundo",
+      "category": "ABC Australia",
+      "title": "Natalie spent more than $200k on IVF and didn't get her baby",
+      "summary": "The decision to end IVF is an individual one but these women say it can be tough to finally say you’ve had enough.",
+      "image": "https://live-production.wcms.abc-cdn.net.au/a96ef41fb9d8630965c46f4effa4b067?impolicy=wcms_crop_resize&cropH=1263&cropW=2245&xPos=0&yPos=242&width=862&height=485",
+      "publishedAt": "2026-11-12 02:02 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "ABC Australia",
+          "url": "https://www.abc.net.au/news/2026-11-12/the-true-cost-of-ivf-financially-emotionally/107339748"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://www.abc.net.au/news/2026-11-12/act-police-review-shocking-tasering-of-disabled-aboriginal-woman/107376920",
+      "section": "mundo",
+      "category": "ABC Australia",
+      "title": "Police reviewing 'shocking' tasering of woman at Canberra bus stop",
+      "summary": "ACT police say they are reviewing a case where officers tasered an Aboriginal woman with an intellectual impairment at a Canberra bus stop.",
+      "image": "https://live-production.wcms.abc-cdn.net.au/f60b03e178058cff724c32fd5f1b629f?impolicy=wcms_crop_resize&cropH=370&cropW=658&xPos=61&yPos=142&width=862&height=485",
+      "publishedAt": "2026-11-12 01:56 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "ABC Australia",
+          "url": "https://www.abc.net.au/news/2026-11-12/act-police-review-shocking-tasering-of-disabled-aboriginal-woman/107376920"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://www.abc.net.au/news/2026-11-12/marrickville-golf-club-albanese-membership-worth-thousand/107377472",
+      "section": "mundo",
+      "category": "ABC Australia",
+      "title": "Marrickville Golf Club says Anthony Albanese's membership worth $1,100",
+      "summary": "The honorary membership given to Prime Minister Anthony Albanese conferred full playing rights, putting its value well over the $5 for two years claimed by Mr Albanese, but it was not used.",
+      "image": "https://live-production.wcms.abc-cdn.net.au/24e7fa1d28061dfb71b20d8c9980b9e8?impolicy=wcms_crop_resize&cropH=503&cropW=894&xPos=0&yPos=34&width=862&height=485",
+      "publishedAt": "2026-11-12 01:55 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "ABC Australia",
+          "url": "https://www.abc.net.au/news/2026-11-12/marrickville-golf-club-albanese-membership-worth-thousand/107377472"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://www.abc.net.au/news/2026-11-12/aflw-darcy-vescio-legacy-ahead-of-100th-game-carlton/107377710",
+      "section": "mundo",
+      "category": "ABC Australia",
+      "title": "How Blues star has created unimpeachable legacy ahead of historic feat",
+      "summary": "As Darcy Vescio prepares to become Carlton's first-ever AFLW 100-game player, they have forged a legacy that is secure both on and off the field.",
+      "image": "https://live-production.wcms.abc-cdn.net.au/155cf096e4e493c6a222f25e10345b10?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=90&width=862&height=485",
+      "publishedAt": "2026-11-12 01:54 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "ABC Australia",
+          "url": "https://www.abc.net.au/news/2026-11-12/aflw-darcy-vescio-legacy-ahead-of-100th-game-carlton/107377710"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://www.abc.net.au/news/2026-11-12/tas-last-boags-red-carton-sold-at-auction/107376544",
+      "section": "mundo",
+      "category": "ABC Australia",
+      "title": "'I had to have it': Boag's worker wins auction for last Tasmanian brew",
+      "summary": "The final Tasmanian-brewed Boag's Red case is sold at auction for $1,300 to a brewery electrician who says it's going straight on display in his lounge room.",
+      "image": "https://live-production.wcms.abc-cdn.net.au/c576f172149c8077b179df66ea8a5511?impolicy=wcms_crop_resize&cropH=931&cropW=1655&xPos=0&yPos=0&width=862&height=485",
+      "publishedAt": "2026-11-12 01:42 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "ABC Australia",
+          "url": "https://www.abc.net.au/news/2026-11-12/tas-last-boags-red-carton-sold-at-auction/107376544"
         }
       ]
     },
@@ -421,7 +637,7 @@
       "id": "mundo|https://www.abc.net.au/news/2026-11-12/nsw-crime-boss-safety-threats-forced-afp-officers-out-of-turkiye/107373570",
       "section": "mundo",
       "category": "ABC Australia",
-      "title": "Crime boss safety threats forced AFP officers out of Türkiye",
+      "title": "AFP officers forced to flee Türkiye over crime boss threats",
       "summary": "Revelations that two AFP officers had to go into hiding from their overseas posts have emerged four years after they targeted a high-profile Australian crime figure.",
       "image": "https://live-production.wcms.abc-cdn.net.au/a336755949af228f05a349ddcafd708f?impolicy=wcms_crop_resize&cropH=1358&cropW=2414&xPos=0&yPos=0&width=862&height=485",
       "publishedAt": "2026-11-12 01:26 UTC",
@@ -475,7 +691,7 @@
       "id": "mundo|https://www.abc.net.au/news/2026-11-12/jobs-moving-overseas-to-gcc-tech-centres-in-india-asia/107374082",
       "section": "mundo",
       "category": "ABC Australia",
-      "title": "Qantas the latest in list of companies to outsource jobs to India",
+      "title": "How India is marketing its skilled workforce to Australian businesses",
       "summary": "India has positioned itself as a global hub of skilled, cheap labour, and Australian companies are cashing in and moving more jobs to its shores.",
       "image": "https://live-production.wcms.abc-cdn.net.au/161481da55f1c45b529c50645785de42?impolicy=wcms_crop_resize&cropH=2916&cropW=5184&xPos=0&yPos=270&width=862&height=485",
       "publishedAt": "2026-11-12 01:09 UTC",
@@ -511,9 +727,9 @@
       "id": "mundo|https://www.abc.net.au/news/2026-11-12/missing-teenager-william-found-gippsland-bush/107372518",
       "section": "mundo",
       "category": "ABC Australia",
-      "title": "Breaking: Police find teenager alive six days after disappearance in Victorian bush",
+      "title": "Joyful mum says teen found after six days missing in bush is 'grounded for life'",
       "summary": "The 17-year-old has been reunited with his family after going missing during a camping trip last week. His mother joked that he was \"grounded for life\".",
-      "image": "https://live-production.wcms.abc-cdn.net.au/ac63b1d3aee58cd8504938f4852bb60a?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
+      "image": "https://live-production.wcms.abc-cdn.net.au/06a48acab03e5054c7676b493736dd71?impolicy=wcms_crop_resize&cropH=384&cropW=683&xPos=0&yPos=22&width=862&height=485",
       "publishedAt": "2026-11-12 01:04 UTC",
       "language": "en",
       "topic": null,
@@ -540,24 +756,6 @@
         {
           "name": "The Guardian World",
           "url": "https://www.theguardian.com/business/2026/nov/12/australian-states-could-sue-tobacco-companies-for-billions-smoking-healthcare-costs"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "section": "mundo",
-      "category": "BBC World",
-      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-      "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a54/live/d643ec30-de33-11f1-b8ec-f53576d91bbb.jpg",
-      "publishedAt": "2026-11-12 01:00 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -612,24 +810,6 @@
         {
           "name": "BBC World",
           "url": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.theguardian.com/australia-news/2026/nov/12/beau-lamarre-condon-jesse-baird-phone-murder-trial-ntwnfb",
-      "section": "mundo",
-      "category": "The Guardian World",
-      "title": "Beau Lamarre-Condon admits throwing Jesse Baird’s phone off a bridge after alleged murders, trial hears",
-      "summary": "Court hears former police officer agrees he was trying to destroy evidence that might incriminate him Beau Lamarre-Condon has admitted he threw Jesse Baird’s phone off a bridge to destroy evidence after allegedly murdering him, a court has heard. The former police officer is accused of fatally shooting Baird and his new partner, Luke Davies, with his police…",
-      "image": "https://i.guim.co.uk/img/media/69a781da23f48b2cde91996a93de7520bc4ee220/516_503_2306_1845/master/2306.jpg?width=140&quality=85&auto=format&fit=max&s=44c734af5ce7f77b7461e525a37c0f06",
-      "publishedAt": "2026-11-12 00:24 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/nov/12/beau-lamarre-condon-jesse-baird-phone-murder-trial-ntwnfb"
         }
       ]
     },
@@ -709,8 +889,8 @@
       "id": "mundo|https://www.abc.net.au/news/2026-11-12/floreat-murders-inquest-questions-police-triple-zero-response/107376180",
       "section": "mundo",
       "category": "ABC Australia",
-      "title": "Questions over police response to Triple Zero calls before Floreat murders",
-      "summary": "The coroner in the Floreat murder-suicide inquest questions why a desperate call to Triple Zero stating someone had been shot in a family violence situation was not marked as requiring a priority one response.",
+      "title": "Shooting murder Triple Zero call not given top priority, inquest told",
+      "summary": "The coroner in the Floreat murder-suicide inquest asks why a desperate call from Mark Bombara's daughter saying someone had been shot in a family violence situation was initially marked as a priority two job.",
       "image": "https://live-production.wcms.abc-cdn.net.au/43bf7832c9f8ff52b8ecfacdebae5f2a?impolicy=wcms_crop_resize&cropH=2592&cropW=4608&xPos=0&yPos=366&width=862&height=485",
       "publishedAt": "2026-11-11 23:42 UTC",
       "language": "en",
@@ -724,182 +904,38 @@
       ]
     },
     {
-      "id": "mundo|https://www.abc.net.au/news/2026-11-12/qld-womans-turtle-obsession-leads-to-guinness-world-record/107369632",
-      "section": "mundo",
-      "category": "ABC Australia",
-      "title": "A 50-year obsession leads to largest turtle collection record",
-      "summary": "Tania Murphy has the largest collection of tortoise and turtle-related items in the world and has a Guinness World Record certificate to prove it.",
-      "image": "https://live-production.wcms.abc-cdn.net.au/1e8937f0a3acc24a10301d173f3de95f?impolicy=wcms_crop_resize&cropH=2620&cropW=4657&xPos=1094&yPos=806&width=862&height=485",
-      "publishedAt": "2026-11-11 23:32 UTC",
+      "id": "television|https://variety.com/2026/tv/people-news/anthony-clark-dead-yes-dear-1236945796/",
+      "section": "television",
+      "category": "Variety TV",
+      "title": "Anthony Clark, ‘Yes, Dear’ Star and Comedian, Dies at 62",
+      "summary": "Anthony Clark, an actor and comedian best known for starring in six seasons of “Yes, Dear,” died Tuesday. He was 62. Clark’s death was announced by his “Yes, Dear” co-star Mike O’Malley, who shared the news on Wednesday in a statement posted to X. “Anthony Clark died yesterday. He was a hilarious guy,” wrote O’Malley. […]",
+      "image": "https://variety.com/wp-content/uploads/2026/11/GettyImages-111316484.jpg",
+      "publishedAt": "2026-11-12 02:16 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "ABC Australia",
-          "url": "https://www.abc.net.au/news/2026-11-12/qld-womans-turtle-obsession-leads-to-guinness-world-record/107369632"
+          "name": "Variety TV",
+          "url": "https://variety.com/2026/tv/people-news/anthony-clark-dead-yes-dear-1236945796/"
         }
       ]
     },
     {
-      "id": "mundo|https://www.theguardian.com/australia-news/2026/nov/12/vce-exams-hack-year-12-papers-vcaa-victorian-curriculum-and-assessment-authority",
-      "section": "mundo",
-      "category": "The Guardian World",
-      "title": "Hacker claims to have sold VCE exam papers to hundreds of students after government website hack",
-      "summary": "With year 12 exams under way, VCAA says there is no evidence any have leaked and hacker is attempting to exploit ‘anxious students’ Get our breaking news email , free app or daily news podcast The Victorian Curriculum and Assessment Authority’s website has been hacked during the state’s exam period, with the culprit launching a tirade of expletives and claim…",
-      "image": "https://i.guim.co.uk/img/media/bbb7d6d0dadf745c4c9b46547748dd8e8da1456b/608_0_3039_2433/master/3039.jpg?width=140&quality=85&auto=format&fit=max&s=da99e8722fb1b404dd766b0a7da5c430",
-      "publishedAt": "2026-11-11 23:28 UTC",
+      "id": "television|https://variety.com/2026/tv/news/randall-england-dead-general-hospital-1236945782/",
+      "section": "television",
+      "category": "Variety TV",
+      "title": "Randall England, ‘General Hospital’ Star, Dies at 75",
+      "summary": "Randall England, an actor, model, writer and producer who appeared in TV shows including “General Hospital,” died Sept. 25 in Los Angeles, his family has announced. He was 75. England began his career in 1978 with an uncredited role in the TV movie “Ruby and Oswalk” before landing an episode of the TV series “This […]",
+      "image": "https://variety.com/wp-content/uploads/2026/11/Untitled-Design.png",
+      "publishedAt": "2026-11-12 02:00 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/nov/12/vce-exams-hack-year-12-papers-vcaa-victorian-curriculum-and-assessment-authority"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.abc.net.au/news/2026-11-12/shepparton-shoplifters-retail-crime-victoria-police-patrols/107373834",
-      "section": "mundo",
-      "category": "ABC Australia",
-      "title": "Police uncover organised thefts during country shoplifting blitz",
-      "summary": "Police say there is evidence of organisation behind retail theft in Shepparton, where an operation targeting repeat offenders has led to more than 200 arrests.",
-      "image": "https://live-production.wcms.abc-cdn.net.au/40153a831ff534f5976242ccea74b5a1?impolicy=wcms_crop_resize&cropH=1832&cropW=3256&xPos=0&yPos=0&width=862&height=485",
-      "publishedAt": "2026-11-11 23:19 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "ABC Australia",
-          "url": "https://www.abc.net.au/news/2026-11-12/shepparton-shoplifters-retail-crime-victoria-police-patrols/107373834"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.abc.net.au/news/2026-11-12/uk-confronts-banter-culture-after-david-walliams-russell-brand/107376026",
-      "section": "mundo",
-      "category": "ABC Australia",
-      "title": "Weinstein's ex-assistant on what Walliams's court bid says about power",
-      "summary": "Britain's culture secretary describes the reported allegations against David Walliams as \"the latest in a long line of reported abuses of power\" in the entertainment industry.",
-      "image": "https://live-production.wcms.abc-cdn.net.au/9cce2e9c141a801f23fc5532c0691834?impolicy=wcms_crop_resize&cropH=1640&cropW=2916&xPos=0&yPos=218&width=862&height=485",
-      "publishedAt": "2026-11-11 23:13 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "ABC Australia",
-          "url": "https://www.abc.net.au/news/2026-11-12/uk-confronts-banter-culture-after-david-walliams-russell-brand/107376026"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.abc.net.au/news/2026-11-12/building-broker-questions-consumer-protection/107374702",
-      "section": "mundo",
-      "category": "ABC Australia",
-      "title": "What to ask a building broker before you sign up",
-      "summary": "Building brokers can help inexperienced home builders navigate the process, but there are important questions to consider, Consumer Protection warns.",
-      "image": "https://live-production.wcms.abc-cdn.net.au/a37d53543461d48b08851dd0f2b3755e?impolicy=wcms_crop_resize&cropH=2812&cropW=5000&xPos=0&yPos=261&width=862&height=485",
-      "publishedAt": "2026-11-11 23:05 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "ABC Australia",
-          "url": "https://www.abc.net.au/news/2026-11-12/building-broker-questions-consumer-protection/107374702"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.abc.net.au/news/2026-11-12/cardinal-mario-grech-broome-visit-christopher-saunders/107374284",
-      "section": "mundo",
-      "category": "ABC Australia",
-      "title": "No clarity on rapist bishop's future as senior cardinal visits Broome",
-      "summary": "Cardinal Mario Grech did not mention Christopher Saunders by name, or provide any clarity on the disgraced bishop's future within the Catholic Church during a special mass in Broome.",
-      "image": "https://live-production.wcms.abc-cdn.net.au/7f4a3471fadb93e6aaf26955a27ec70c?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
-      "publishedAt": "2026-11-11 23:03 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "ABC Australia",
-          "url": "https://www.abc.net.au/news/2026-11-12/cardinal-mario-grech-broome-visit-christopher-saunders/107374284"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil",
-      "section": "mundo",
-      "category": "The Guardian World",
-      "title": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies",
-      "summary": "Remains believed to have belonged to Africans or Afro-Brazilians repatriated after being flown back by diplomats Two skulls, including that of a man believed to have taken part in Brazil’s greatest slave revolt but whose remains were taken to the United States and used in racist eugenics studies at Harvard University, were repatriated on Wednesday. The remai…",
-      "image": "https://i.guim.co.uk/img/media/5f0e172be373c018a12f48404e6f254c91d549ca/422_0_4220_3376/master/4220.jpg?width=140&quality=85&auto=format&fit=max&s=5b44c95a84ceeb5a96ac084004cb4724",
-      "publishedAt": "2026-11-11 22:50 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.abc.net.au/news/2026-11-12/victoria-election-blog/107374690",
-      "section": "mundo",
-      "category": "ABC Australia",
-      "title": "Live: Vic Liberals apologise after dumping candidate over anti-Aboriginal comments",
-      "summary": "The Victorian Liberals are today dealing with the fallout of being forced to dump Williamstown candidate Paul Lindemann over offensive social media posts. Follow live.",
-      "image": "https://live-production.wcms.abc-cdn.net.au/8382e6f0d01371e98abd36d6cf3384d3?impolicy=wcms_crop_resize&cropH=1750&cropW=3111&xPos=0&yPos=362&width=862&height=485",
-      "publishedAt": "2026-11-11 22:49 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "ABC Australia",
-          "url": "https://www.abc.net.au/news/2026-11-12/victoria-election-blog/107374690"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.abc.net.au/news/2026-11-12/ai-impact-on-regional-queensland/107357772",
-      "section": "mundo",
-      "category": "ABC Australia",
-      "title": "Superhuman AI bots will not steal this man's job",
-      "summary": "Luke Gnocco remains pretty relaxed about artificial intelligence because, as he points out, \"electronics and water usually don't work\".",
-      "image": "https://live-production.wcms.abc-cdn.net.au/fa2c8f071451ae202cb1ba9b3570aa4d?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
-      "publishedAt": "2026-11-11 22:33 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "ABC Australia",
-          "url": "https://www.abc.net.au/news/2026-11-12/ai-impact-on-regional-queensland/107357772"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "section": "mundo",
-      "category": "BBC World",
-      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-      "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f2/live/d0df2010-de11-11f1-a701-fddedf244c16.jpg",
-      "publishedAt": "2026-11-11 22:07 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
+          "name": "Variety TV",
+          "url": "https://variety.com/2026/tv/news/randall-england-dead-general-hospital-1236945782/"
         }
       ]
     },
@@ -1098,42 +1134,6 @@
         {
           "name": "Variety TV",
           "url": "https://variety.com/2026/tv/news/adults-renewed-season-3-fx-1236945319/"
-        }
-      ]
-    },
-    {
-      "id": "television|https://variety.com/lists/varietys-business-managers-elite-report-2026/",
-      "section": "television",
-      "category": "Variety TV",
-      "title": "Variety‘s Business Managers Elite Report: Top Guns Build Relationships and Expertise With a Personal Touch",
-      "summary": "If there were a way to buy more hours in the day, business managers would be the first in line. The demands of the job have grown exponentially over the past decade as clients at all income levels rely on trusted advisers to guide them through the inevitable ups and downs of a career in […]",
-      "image": "https://variety.com/wp-content/uploads/2026/11/Variety-Business-Managers.jpg",
-      "publishedAt": "2026-11-11 18:15 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Variety TV",
-          "url": "https://variety.com/lists/varietys-business-managers-elite-report-2026/"
-        }
-      ]
-    },
-    {
-      "id": "television|https://variety.com/2026/tv/news/greys-anatomy-texas-spinoff-cast-karla-souza-1236945106/",
-      "section": "television",
-      "category": "Variety TV",
-      "title": "‘Grey’s Anatomy’ Texas Spinoff Casts ‘How to Get Away With Murder’ Alum Karla Souza in Lead Role",
-      "summary": "The “Grey’s Anatomy” spinoff set in West Texas has cast Karla Souza in a lead role, Variety has learned. The spinoff was originally announced at ABC in May. It was intended to launch during the 2026-2027 broadcast season, but was recently delayed to the 2027-2028 season after it did not receive a California TV tax […]",
-      "image": "https://variety.com/wp-content/uploads/2026/11/Karla-Souza-Headshot22-e1794409817680.jpeg",
-      "publishedAt": "2026-11-11 18:00 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Variety TV",
-          "url": "https://variety.com/2026/tv/news/greys-anatomy-texas-spinoff-cast-karla-souza-1236945106/"
         }
       ]
     },
@@ -1444,20 +1444,38 @@
       ]
     },
     {
-      "id": "mundo|https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBYlVTV2F1d01fbzVDTEZueVNPSEt6Y0o1c0duWFVtMzZYeWMzdFc2RHdpVzkwYlRlU283UjhraW41OWRIdlNSdi1zWGRaaUZQdFN5RDJHeTNRang10gFiQVVfeXFMT2s3QlIzWWtmek04SW5Yd3FtZHBmMXdMa3gyTWozMFM3UFQ5UmV2Wk5DR0VJTmdrcmlRR1dTbUVOY0dqZUdROG94cUptRnhHT0F3alB5SzJGRXBaMUhzSkhtNXc?oc=5",
+      "id": "espana|https://news.google.com/rss/articles/CBMihwFBVV95cUxOcTRveVk4X29zbU5TQmVDVk5DeUFuWlVYN2xxUE94aFBxMmdTYmN4Tlk2dzRYNlVvcHhzSHc4X0c1MFBnNUpDQTVkRHNDQUYtcVp4VG1HeDYwX0VJUGFOQlNWTGNab1pRLUc0Nm1oQnpSSlNEVkdKUnR5eGlfeVZub2xjVXdHTTQ?oc=5",
+      "section": "espana",
+      "category": "English coverage",
+      "title": "Millions join Spain’s first general strike in 14 years in protest at housing costs - The Guardian",
+      "summary": "Millions join Spain’s first general strike in 14 years in protest at housing costs The Guardian",
+      "image": "",
+      "publishedAt": "2026-11-11 13:54 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "English coverage",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcTRveVk4X29zbU5TQmVDVk5DeUFuWlVYN2xxUE94aFBxMmdTYmN4Tlk2dzRYNlVvcHhzSHc4X0c1MFBnNUpDQTVkRHNDQUYtcVp4VG1HeDYwX0VJUGFOQlNWTGNab1pRLUc0Nm1oQnpSSlNEVkdKUnR5eGlfeVZub2xjVXdHTTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wc0xEWWd6VXZ6d0JuMG1lZVprcjJ6aEw1X2FaWDlQakZtSUEySWVrbERBT1FlTE1rU3ZTeEpmZC1UNVA5eEtuVW5JRlI1UnZUY3ppbFZLYlcta0Qz0gFiQVVfeXFMTXFZcXJaLV9oY0NqdlI0aC1UV2JPTUUzSUpTMjMzbzlBN2VkN2UwNWxqOUNfVFA0N3F2OHZvMDM1X0g4WWRueHZxQ2R1MXZMUzNRQWxYaGdSSFFMeld2cTgtWWc?oc=5",
       "section": "mundo",
       "category": "Noticias internacionales",
-      "title": "\"El capitalismo ya trataba mal a las personas; lo que ha cambiado ahora es que esa lógica se ha adoptado (…) en discursos sobre liderazgo\": Renata Salecl - BBC",
-      "summary": "\"El capitalismo ya trataba mal a las personas; lo que ha cambiado ahora es que esa lógica se ha adoptado (…) en discursos sobre liderazgo\": Renata Salecl BBC",
+      "title": "En imágenes: graves disturbios en Barcelona y decenas de detenidos en la primera huelga general en España en 14 años - BBC",
+      "summary": "En imágenes: graves disturbios en Barcelona y decenas de detenidos en la primera huelga general en España en 14 años BBC",
       "image": "",
-      "publishedAt": "2026-11-11 15:01 UTC",
+      "publishedAt": "2026-11-11 23:42 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Noticias internacionales",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBYlVTV2F1d01fbzVDTEZueVNPSEt6Y0o1c0duWFVtMzZYeWMzdFc2RHdpVzkwYlRlU283UjhraW41OWRIdlNSdi1zWGRaaUZQdFN5RDJHeTNRang10gFiQVVfeXFMT2s3QlIzWWtmek04SW5Yd3FtZHBmMXdMa3gyTWozMFM3UFQ5UmV2Wk5DR0VJTmdrcmlRR1dTbUVOY0dqZUdROG94cUptRnhHT0F3alB5SzJGRXBaMUhzSkhtNXc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wc0xEWWd6VXZ6d0JuMG1lZVprcjJ6aEw1X2FaWDlQakZtSUEySWVrbERBT1FlTE1rU3ZTeEpmZC1UNVA5eEtuVW5JRlI1UnZUY3ppbFZLYlcta0Qz0gFiQVVfeXFMTXFZcXJaLV9oY0NqdlI0aC1UV2JPTUUzSUpTMjMzbzlBN2VkN2UwNWxqOUNfVFA0N3F2OHZvMDM1X0g4WWRueHZxQ2R1MXZMUzNRQWxYaGdSSFFMeld2cTgtWWc?oc=5"
         }
       ]
     },
@@ -1480,20 +1498,20 @@
       ]
     },
     {
-      "id": "mundo|https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTTHRaUHkyMlFWRzNFdTRxSDZMdWlYX2pISkxJTTNoZTRfanBCX09PUjQ0OG0zMGpuMjFJY0xrZUlHd0QyOVNNTXoyN1IwOTRJbEhTRmdqazJMMmdW0gFiQVVfeXFMUHZXMWhUSWZ2ZWlrcVdwYzVQMFVOd0MtRDk5Rk9XWEcyNzBsSGhsZlNkcl9IZFhJdFp4UW1jSGpSUklvREVZTUI0SU11RUc1NzhfeXRfSG5RTHNRakZFZUZ4Znc?oc=5",
+      "id": "mundo|https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBYlVTV2F1d01fbzVDTEZueVNPSEt6Y0o1c0duWFVtMzZYeWMzdFc2RHdpVzkwYlRlU283UjhraW41OWRIdlNSdi1zWGRaaUZQdFN5RDJHeTNRang10gFiQVVfeXFMT2s3QlIzWWtmek04SW5Yd3FtZHBmMXdMa3gyTWozMFM3UFQ5UmV2Wk5DR0VJTmdrcmlRR1dTbUVOY0dqZUdROG94cUptRnhHT0F3alB5SzJGRXBaMUhzSkhtNXc?oc=5",
       "section": "mundo",
       "category": "Noticias internacionales",
-      "title": "\"Es insostenible\": El Hierro, la isla de 12.000 habitantes en España a la que han llegado 8.000 migrantes en barca en las últimas 5 semanas - BBC",
-      "summary": "\"Es insostenible\": El Hierro, la isla de 12.000 habitantes en España a la que han llegado 8.000 migrantes en barca en las últimas 5 semanas BBC",
+      "title": "\"El capitalismo ya trataba mal a las personas; lo que ha cambiado ahora es que esa lógica se ha adoptado (…) en discursos sobre liderazgo\": Renata Salecl - BBC",
+      "summary": "\"El capitalismo ya trataba mal a las personas; lo que ha cambiado ahora es que esa lógica se ha adoptado (…) en discursos sobre liderazgo\": Renata Salecl BBC",
       "image": "",
-      "publishedAt": "2026-11-10 04:16 UTC",
+      "publishedAt": "2026-11-11 15:01 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Noticias internacionales",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTTHRaUHkyMlFWRzNFdTRxSDZMdWlYX2pISkxJTTNoZTRfanBCX09PUjQ0OG0zMGpuMjFJY0xrZUlHd0QyOVNNTXoyN1IwOTRJbEhTRmdqazJMMmdW0gFiQVVfeXFMUHZXMWhUSWZ2ZWlrcVdwYzVQMFVOd0MtRDk5Rk9XWEcyNzBsSGhsZlNkcl9IZFhJdFp4UW1jSGpSUklvREVZTUI0SU11RUc1NzhfeXRfSG5RTHNRakZFZUZ4Znc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBYlVTV2F1d01fbzVDTEZueVNPSEt6Y0o1c0duWFVtMzZYeWMzdFc2RHdpVzkwYlRlU283UjhraW41OWRIdlNSdi1zWGRaaUZQdFN5RDJHeTNRang10gFiQVVfeXFMT2s3QlIzWWtmek04SW5Yd3FtZHBmMXdMa3gyTWozMFM3UFQ5UmV2Wk5DR0VJTmdrcmlRR1dTbUVOY0dqZUdROG94cUptRnhHT0F3alB5SzJGRXBaMUhzSkhtNXc?oc=5"
         }
       ]
     },
@@ -1516,20 +1534,20 @@
       ]
     },
     {
-      "id": "mundo|https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oU3lDMHMzRDFwcF9ySTVsdHBGa1puTm5Tck9BaTVCcVJSaVRiRTBKckhWZXlSbVNtU1gwZWdFZWFjM0lvS2gwTlBJUlQxbGhNeFBKM19IUUY?oc=5",
+      "id": "mundo|https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTTHRaUHkyMlFWRzNFdTRxSDZMdWlYX2pISkxJTTNoZTRfanBCX09PUjQ0OG0zMGpuMjFJY0xrZUlHd0QyOVNNTXoyN1IwOTRJbEhTRmdqazJMMmdW0gFiQVVfeXFMUHZXMWhUSWZ2ZWlrcVdwYzVQMFVOd0MtRDk5Rk9XWEcyNzBsSGhsZlNkcl9IZFhJdFp4UW1jSGpSUklvREVZTUI0SU11RUc1NzhfeXRfSG5RTHNRakZFZUZ4Znc?oc=5",
       "section": "mundo",
       "category": "Noticias internacionales",
-      "title": "El ataque aéreo que ordenó Bukele en Haití y que asegura destruyó el cuartel de una temida banda - BBC",
-      "summary": "El ataque aéreo que ordenó Bukele en Haití y que asegura destruyó el cuartel de una temida banda BBC",
+      "title": "\"Es insostenible\": El Hierro, la isla de 12.000 habitantes en España a la que han llegado 8.000 migrantes en barca en las últimas 5 semanas - BBC",
+      "summary": "\"Es insostenible\": El Hierro, la isla de 12.000 habitantes en España a la que han llegado 8.000 migrantes en barca en las últimas 5 semanas BBC",
       "image": "",
-      "publishedAt": "2026-11-11 18:01 UTC",
+      "publishedAt": "2026-11-10 04:16 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Noticias internacionales",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oU3lDMHMzRDFwcF9ySTVsdHBGa1puTm5Tck9BaTVCcVJSaVRiRTBKckhWZXlSbVNtU1gwZWdFZWFjM0lvS2gwTlBJUlQxbGhNeFBKM19IUUY?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTTHRaUHkyMlFWRzNFdTRxSDZMdWlYX2pISkxJTTNoZTRfanBCX09PUjQ0OG0zMGpuMjFJY0xrZUlHd0QyOVNNTXoyN1IwOTRJbEhTRmdqazJMMmdW0gFiQVVfeXFMUHZXMWhUSWZ2ZWlrcVdwYzVQMFVOd0MtRDk5Rk9XWEcyNzBsSGhsZlNkcl9IZFhJdFp4UW1jSGpSUklvREVZTUI0SU11RUc1NzhfeXRfSG5RTHNRakZFZUZ4Znc?oc=5"
         }
       ]
     },
@@ -1552,24 +1570,6 @@
       ]
     },
     {
-      "id": "mundo|https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EYkZvSDlwM3pRaFpTTG1WbWtybkpyTndUckpIalZ0QW9uek8xQS1KNFk5Uk1oVEFWbWxRVHJwQlRja09kT2xaMEFXYTY3Q2UtSGVuYkJveUdJN2Zn0gFiQVVfeXFMUFdKZ2s5RnJ0NjlCTEJBZVF5aHRxVG0wZVlCM2s2S21hTGJvM3ZZZmd0QXlWTVlNeXJIOUhKTXlTU2pPQ0o0MXd6aUVReTVJSnNlVGNCakRyMVM1NlBiUlcyOUE?oc=5",
-      "section": "mundo",
-      "category": "Noticias internacionales",
-      "title": "Bukele asegura que fuerzas de El Salvador destruyeron el cuartel de la banda 400 Mawozo en un ataque aéreo en Haití - BBC",
-      "summary": "Bukele asegura que fuerzas de El Salvador destruyeron el cuartel de la banda 400 Mawozo en un ataque aéreo en Haití BBC",
-      "image": "",
-      "publishedAt": "2026-11-11 01:09 UTC",
-      "language": "es",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Noticias internacionales",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EYkZvSDlwM3pRaFpTTG1WbWtybkpyTndUckpIalZ0QW9uek8xQS1KNFk5Uk1oVEFWbWxRVHJwQlRja09kT2xaMEFXYTY3Q2UtSGVuYkJveUdJN2Zn0gFiQVVfeXFMUFdKZ2s5RnJ0NjlCTEJBZVF5aHRxVG0wZVlCM2s2S21hTGJvM3ZZZmd0QXlWTVlNeXJIOUhKTXlTU2pPQ0o0MXd6aUVReTVJSnNlVGNCakRyMVM1NlBiUlcyOUE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "mundo|https://news.google.com/rss/articles/CBMihgFBVV95cUxQNXl6VWpQTWdGMGoxWDg3TndCa29jWHgwb2VTUTV5WEVXR19NWjJScUxyQWFCOFdIX0pnWmpZaTR5cDNGX1U4Tlk1Y0RQWkQybHU1QkV3S08wZ0JwelMzaEU4NU9EaFpzakdWVno5SXdFTGU3aWtfT3dlaWktWGtIMWFHdURWUdIBhgFBVV95cUxOU1VIZmpSUmFwdmdGN1cxRWlFNU1EZjRRMVFJdWdYdExqM3FqUjdjOGtIQWlzWjZXQkEzV0tZdUNiU1ZYMzBrV2NrZVU2aEtjNXBTX2VpcVRJSmFKa1FTQXB4bGZhWkUxZ2taNVVBYU8xMmhSQjVmZERlVmJZc2REOUtZMmNBZw?oc=5",
       "section": "mundo",
       "category": "Noticias internacionales",
@@ -1588,6 +1588,24 @@
       ]
     },
     {
+      "id": "mundo|https://news.google.com/rss/articles/CBMifEFVX3lxTE4xdmdialpCTEVxbXdwT205aUoxYnVwMVV5OURvUWlKS0JxZVcwSWZmZzJTaXVuWTByaFhtRnhNQk8tc205RHcxa1pWcHJSYThuTzVtZmdGSnNqaWpTWHpCRy1LTENGc1Qtb1NHaEVUcEVTb29WeDA5dlZHdnLSAXxBVV95cUxQOUw4czBybkJ3TzBLYzdIZlpQT2Qycm9TSjMyQkJSS0ROMzJDSGtKa21wZlZycTdUMV9BMFVFeVFFX3VhMm1RM3ZNVjFMVzVxTVVWODBoZmw1Q2FELU1VdzdhQUc5NFdJVHJ6Q25iU2NxLUFIZm5hTVZKMWlx?oc=5",
+      "section": "mundo",
+      "category": "Noticias internacionales",
+      "title": "Sari Multala, ministra de Clima de Finlandia: \"La energía nuclear es segura, vamos a demostrar al mundo entero que hay solución para los residuos\" - El Mundo",
+      "summary": "Sari Multala, ministra de Clima de Finlandia: \"La energía nuclear es segura, vamos a demostrar al mundo entero que hay solución para los residuos\" El Mundo",
+      "image": "",
+      "publishedAt": "2026-11-11 07:57 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Noticias internacionales",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xdmdialpCTEVxbXdwT205aUoxYnVwMVV5OURvUWlKS0JxZVcwSWZmZzJTaXVuWTByaFhtRnhNQk8tc205RHcxa1pWcHJSYThuTzVtZmdGSnNqaWpTWHpCRy1LTENGc1Qtb1NHaEVUcEVTb29WeDA5dlZHdnLSAXxBVV95cUxQOUw4czBybkJ3TzBLYzdIZlpQT2Qycm9TSjMyQkJSS0ROMzJDSGtKa21wZlZycTdUMV9BMFVFeVFFX3VhMm1RM3ZNVjFMVzVxTVVWODBoZmw1Q2FELU1VdzdhQUc5NFdJVHJ6Q25iU2NxLUFIZm5hTVZKMWlx?oc=5"
+        }
+      ]
+    },
+    {
       "id": "mundo|https://news.google.com/rss/articles/CBMifEFVX3lxTFBhN1ZsRF9vNEY1S1JTWUl2UkpsREd2U1RiUHVBMi1BbUR4QUJpbmt1Z3lrU3RrWEc1NDVWX3Z4VGdEaUw1c3hnbzZ0cE5wQjlzYnU4V0hkYXI2LTJQTFNVOXktSnI3d0xRcjdoelEwU0h4YUdTSlk0WEk3Y0TSAXxBVV95cUxNaUxsbXpZZHI2bnI0SnJsMjMxUlhrVjFMck5MYVBnVXJFWGlsQ0VpSXJVQVc2UUlFWDBrU3p5OHNWVGZWTnFvSm5jY1ltWWdKVU93TUZxX0d3c3BHam5yZXYxZzBTSElDeFNkaHhMeWF0LW9fUFJtQl9uOVlG?oc=5",
       "section": "mundo",
       "category": "Noticias internacionales",
@@ -1602,6 +1620,24 @@
         {
           "name": "Noticias internacionales",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhN1ZsRF9vNEY1S1JTWUl2UkpsREd2U1RiUHVBMi1BbUR4QUJpbmt1Z3lrU3RrWEc1NDVWX3Z4VGdEaUw1c3hnbzZ0cE5wQjlzYnU4V0hkYXI2LTJQTFNVOXktSnI3d0xRcjdoelEwU0h4YUdTSlk0WEk3Y0TSAXxBVV95cUxNaUxsbXpZZHI2bnI0SnJsMjMxUlhrVjFMck5MYVBnVXJFWGlsQ0VpSXJVQVc2UUlFWDBrU3p5OHNWVGZWTnFvSm5jY1ltWWdKVU93TUZxX0d3c3BHam5yZXYxZzBTSElDeFNkaHhMeWF0LW9fUFJtQl9uOVlG?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://news.google.com/rss/articles/CBMiekFVX3lxTE9OUERxRzVPeFRQZjBJSW1KTjBwdUhnSElkN2Z4ZURScldjS2p1NkRZRVJYcEk0Z0YtOEN6WWFka2RHd3A0Tkd4a3BlQUtaVWxuUXVKYXc1R0Z3ZXZVSG9hVk9Zb2ppNTM1enBXbnBzM056elc5WHl1cjdn0gF6QVVfeXFMTWUwX0ZrSjFEUkRQbnM3eE9oZnFndG5BOVl2UFBfZ3hpdEtsYWZleWJ1emtJYVZ1MVRQNVM5OEV4VDZqRXBkQVBXNXFXOW1udzh3Z3hpWmRROHJ2alFRYVcxZjYtZFRUeldWdk1zQUxmQ1RJaFNnTWJwSmc?oc=5",
+      "section": "mundo",
+      "category": "Noticias internacionales",
+      "title": "Más de 100 policías desplegados para cazar al 'Ruso', el ex legionario huido tras matar a un agente en Oviedo - El Mundo",
+      "summary": "Más de 100 policías desplegados para cazar al 'Ruso', el ex legionario huido tras matar a un agente en Oviedo El Mundo",
+      "image": "",
+      "publishedAt": "2026-11-10 20:30 UTC",
+      "language": "es",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Noticias internacionales",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OUERxRzVPeFRQZjBJSW1KTjBwdUhnSElkN2Z4ZURScldjS2p1NkRZRVJYcEk0Z0YtOEN6WWFka2RHd3A0Tkd4a3BlQUtaVWxuUXVKYXc1R0Z3ZXZVSG9hVk9Zb2ppNTM1enBXbnBzM056elc5WHl1cjdn0gF6QVVfeXFMTWUwX0ZrSjFEUkRQbnM3eE9oZnFndG5BOVl2UFBfZ3hpdEtsYWZleWJ1emtJYVZ1MVRQNVM5OEV4VDZqRXBkQVBXNXFXOW1udzh3Z3hpWmRROHJ2alFRYVcxZjYtZFRUeldWdk1zQUxmQ1RJaFNnTWJwSmc?oc=5"
         }
       ]
     },
@@ -1696,6 +1732,24 @@
       ]
     },
     {
+      "id": "viral|https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMkJqRW1hNUJ5NTgwM3NLLTRLMDdoeWltSUFneldraDlDa2RNWlRCNHBrXzFJVHdScjE4UThRREtMM0tBTnpBQ0xSUjFTMGg3WGhrNU16aGFRVnZJelBBdUNWWUtqLTUtUThVSUFueXN6VkpYdTFVVW44UEsxQUc1T2kxRkVSaDQ4cWh4YV95V19UTTYyQ2NVX29jQzVPZlJwc2VHZVVvSDZuTGFSYi1hR3hkT0U0WnNPTmpORm9pNjBPQm9uYjNVWHdleS1SWHk0NDZB?oc=5",
+      "section": "viral",
+      "category": "Viral ES",
+      "title": "VIDEO: ¡Bullying extremo! Niño de 12 años es amenazado con cuchillo mientras lo graban - Azteca Ciudad Juárez",
+      "summary": "VIDEO: ¡Bullying extremo! Niño de 12 años es amenazado con cuchillo mientras lo graban Azteca Ciudad Juárez",
+      "image": "",
+      "publishedAt": "2026-11-12 02:01 UTC",
+      "language": "es",
+      "topic": "Tendencias",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Viral ES",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMkJqRW1hNUJ5NTgwM3NLLTRLMDdoeWltSUFneldraDlDa2RNWlRCNHBrXzFJVHdScjE4UThRREtMM0tBTnpBQ0xSUjFTMGg3WGhrNU16aGFRVnZJelBBdUNWWUtqLTUtUThVSUFueXN6VkpYdTFVVW44UEsxQUc1T2kxRkVSaDQ4cWh4YV95V19UTTYyQ2NVX29jQzVPZlJwc2VHZVVvSDZuTGFSYi1hR3hkT0U0WnNPTmpORm9pNjBPQm9uYjNVWHdleS1SWHk0NDZB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "viral|https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYjBObW9MWW1pWkxXbVRJRlZSZjJveVd6MGkwUzRGM0VHbVl5SEl1eWhrTmtvQTAycThyMEhUVEpOVTNoQTR1R0xJa2FrdE9hMkJBdmtvX2E3ZGtyOEppVFV0ZUFwUzdLeGtDMktjcV9SN0o0dW5pVEcwRlEwby14U2piWjVYTXJKSEItal83ZERkVTNtemVHY0pKT0JDQkpFTzJWUm5GRjFwZ2ljUEpZenJTSWU0WjBtT20zSEFGSmNfTFRPWTBOZkN1bHJzRXBO?oc=5",
       "section": "viral",
       "category": "Viral ES",
@@ -1786,6 +1840,24 @@
       ]
     },
     {
+      "id": "viral|https://news.google.com/rss/articles/CBMizgFBVV95cUxNOUhUZEMxSkpUM19OWko0MHkyeGVjbzlHQnotU1hJb1RlRWlZdDVvSFFtMzhaeEhKRXYtdHNRTmoxa0YtWHdFSGZTSVJqczJIODhRZ0o0Vmd5X3NkRi1rcmJsUGJIb0tPaEZENzJnQ1JVMGZHWC1kSVE5eUFIaGZrLXdzREgtRFVPUmp6T2JnbUhjMVhSdUoxMDRsNHRobk5KM3ZVRURDNHdoek9LR0k0bVZYRThnWnVZMmY3NC0ycEhwNE5WZVB6bHhmTERMdw?oc=5",
+      "section": "viral",
+      "category": "Viral ES",
+      "title": "VIDEO: Cámaras captan el momento en que roban una bicicleta afuera de una vidriería - https://www.aztecamichoacan.com/",
+      "summary": "VIDEO: Cámaras captan el momento en que roban una bicicleta afuera de una vidriería https://www.aztecamichoacan.com/",
+      "image": "",
+      "publishedAt": "2026-11-11 22:29 UTC",
+      "language": "es",
+      "topic": "Tendencias",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Viral ES",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOUhUZEMxSkpUM19OWko0MHkyeGVjbzlHQnotU1hJb1RlRWlZdDVvSFFtMzhaeEhKRXYtdHNRTmoxa0YtWHdFSGZTSVJqczJIODhRZ0o0Vmd5X3NkRi1rcmJsUGJIb0tPaEZENzJnQ1JVMGZHWC1kSVE5eUFIaGZrLXdzREgtRFVPUmp6T2JnbUhjMVhSdUoxMDRsNHRobk5KM3ZVRURDNHdoek9LR0k0bVZYRThnWnVZMmY3NC0ycEhwNE5WZVB6bHhmTERMdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "viral|https://news.google.com/rss/articles/CBMi6AFBVV95cUxONEg5RVRxTmd2MFNrQlRKX2FNdm84dGptRnFMZWtkMG5nY0FMZG8zbHpJWmx0MU02bEVmS2gyTHZzRjh4S1cyVzdRa2FDcXFQRERUZVBWRjhWVUhOUFZ1ai1ZdjljZm5HRF9LVXpTTXZ4ejFKUmM5R0RvQWJHQk9US1dSQVZmZjV3Ni04V1lHaWdnQ2tpQWNidU5OYlk1b3VKU1oxeVVVVU5ZbkxRX1d2ZFY2R2YtN0VVNE9IcnJoVXlYSnpDdlhmSjlQaGdvMFdOaXpXTjI1b2ptam5LRnJ2QXJGbEdjdFFf?oc=5",
       "section": "viral",
       "category": "Viral ES",
@@ -1818,24 +1890,6 @@
         {
           "name": "Viral ES",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNGhoTW5VbHItVnZONlo4YUpQM2dDTHBkRDdodnpvaWE4Wl9kcTRNWW1ra3ZiV2RnTC1xMFpxOEZtSVBOWENfYjkzd0tEVUdRMkVsVUFScDFHSmYxek00eU4yaEIwUVVzdEoxZXBRaHpoZHNsSlV3ekVYc2FWcGMtOWpzS2stcjE5WWRGRkhsT3dSZjl1UVA3RF84allkQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "viral|https://news.google.com/rss/articles/CBMisgFBVV95cUxQYkVyWk1Ha3JpdThfbjFMYlkyTUE2R2w0Zng1XzJKZ1FPMFJnNHlCTUNFbHl4bnNQSUNfX3ZPTFNJa1BQNUs1cHZDNWU5S3VEb1g0VnJyc2JRSWZxSTB3eFRKQWdBN0tlTkR2N0Rxc1ltbFB6MFRITFhxLThlM2hXV3hRUHB3aEk2ME5sNUY1bVBjVXRNQkg2X1JUbTRQZG1ONlJnQ29Ja3I5WkpLZmpQXzh3?oc=5",
-      "section": "viral",
-      "category": "Viral ES",
-      "title": "VIDEO SENSIBLE: Hombre en situación de calle se come una r4t4 mu3rta - TV Azteca Jalisco",
-      "summary": "VIDEO SENSIBLE: Hombre en situación de calle se come una r4t4 mu3rta TV Azteca Jalisco",
-      "image": "",
-      "publishedAt": "2026-11-11 14:26 UTC",
-      "language": "es",
-      "topic": "Tendencias",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Viral ES",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYkVyWk1Ha3JpdThfbjFMYlkyTUE2R2w0Zng1XzJKZ1FPMFJnNHlCTUNFbHl4bnNQSUNfX3ZPTFNJa1BQNUs1cHZDNWU5S3VEb1g0VnJyc2JRSWZxSTB3eFRKQWdBN0tlTkR2N0Rxc1ltbFB6MFRITFhxLThlM2hXV3hRUHB3aEk2ME5sNUY1bVBjVXRNQkg2X1JUbTRQZG1ONlJnQ29Ja3I5WkpLZmpQXzh3?oc=5"
         }
       ]
     },
@@ -1890,24 +1944,6 @@
         {
           "name": "Viral ES",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPelBfdUFqY1V4R0kxaXV3ZE54MG1RanJrVFdDOVRmRW9SeUQwN1diNzlzV1p5SFpNWUhhbnBqWC13STNTamNHeEE5MGQ2TlEyMlJrdXdaTjczdEQzam1qRGg5YV9fa25TSDlvaWloR2xlV0Y3SFd0WjUxZkZXMDlhTzZpWXU0TmVlWEJWTzF6cXlteTBYSTl3dDVTaUZYX1Z2NmtDS25aelRLZnllYjFpZ1NNdXpKWTZaQTJiQ3o0NXUybDQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "viral|https://news.google.com/rss/articles/CBMi7gFBVV95cUxOOHY5S2lKem82LTZ3bVZ1S2lvN1lGVUJMc3BjUVN4RWJEdGJFY0ZjYndqdVpFclRlOVFfVjBkVUVfSjNvQjlfbmVRaWRDWWtkVUVUaWpENGg0YzhTLVBfc3B1YTMwMmxIVU92M0hVbXpycVhuYlpqUFBDc1NLT0tMazl1NzJQTU5yQVc5OFNBR2dzaXpfUTRWTFdZWFFYZVVtN3RpdDV3blg1R0ZoekY1WEtzdVp4dGNYOGlBME50YXdzRXZuQ29mZ3J1Wml4YkZISDY5dm4xMmd1N3l0VmlDSDRkNHl4c2RpaS1jYmdR?oc=5",
-      "section": "viral",
-      "category": "Viral ES",
-      "title": "El presidente salvadoreño incluyó un video del ataque en su publicación. El enlace, en comentarios👇 - Facebook",
-      "summary": "El presidente salvadoreño incluyó un video del ataque en su publicación. El enlace, en comentarios👇 Facebook",
-      "image": "",
-      "publishedAt": "2026-11-11 01:04 UTC",
-      "language": "es",
-      "topic": "Tendencias",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Viral ES",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOOHY5S2lKem82LTZ3bVZ1S2lvN1lGVUJMc3BjUVN4RWJEdGJFY0ZjYndqdVpFclRlOVFfVjBkVUVfSjNvQjlfbmVRaWRDWWtkVUVUaWpENGg0YzhTLVBfc3B1YTMwMmxIVU92M0hVbXpycVhuYlpqUFBDc1NLT0tMazl1NzJQTU5yQVc5OFNBR2dzaXpfUTRWTFdZWFFYZVVtN3RpdDV3blg1R0ZoekY1WEtzdVp4dGNYOGlBME50YXdzRXZuQ29mZ3J1Wml4YkZISDY5dm4xMmd1N3l0VmlDSDRkNHl4c2RpaS1jYmdR?oc=5"
         }
       ]
     },
@@ -3154,6 +3190,24 @@
       ]
     },
     {
+      "id": "estilo|https://news.google.com/rss/articles/CBMibEFVX3lxTE5TTTVGODN2d1A1VkJ3d3dUXzZWX3FTWEZNeXMzRlhMeHlTMWtJemF4ZV9NVUNRRDdZa3J6Z0pCUV9zTVRkWkZBZngxLUZuVTJRSlJUcGxJbkpMQUxzYzdyUzZpZDY3ZkpXN1ZqSw?oc=5",
+      "section": "estilo",
+      "category": "GQ EN",
+      "title": "The Early Black Friday Deals Are Finally Rolling Out - GQ",
+      "summary": "The Early Black Friday Deals Are Finally Rolling Out GQ",
+      "image": "",
+      "publishedAt": "2026-11-11 19:56 UTC",
+      "language": "en",
+      "topic": "Moda",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "GQ EN",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TTTVGODN2d1A1VkJ3d3dUXzZWX3FTWEZNeXMzRlhMeHlTMWtJemF4ZV9NVUNRRDdZa3J6Z0pCUV9zTVRkWkZBZngxLUZuVTJRSlJUcGxJbkpMQUxzYzdyUzZpZDY3ZkpXN1ZqSw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "estilo|https://news.google.com/rss/articles/CBMia0FVX3lxTFBmSEo5UkZ3Ym1NNWVTS2dIcXZDU291U3RIY1NWRGN2MG1TT0ZGRXhrOE9VQVNkb2tTMzdqQ0dvQUpoTWhRRG1qZ1pmTXlva3E4N05rcEdPOXY2QkYyQUEtSE93dDFMak81QzA4?oc=5",
       "section": "estilo",
       "category": "GQ EN",
@@ -3280,20 +3334,20 @@
       ]
     },
     {
-      "id": "estilo|https://news.google.com/rss/articles/CBMiSkFVX3lxTE1KRmxfSUZUYlVlWHVXZ1RjRlBsVjBHYThHQ0h4Qk5MeEgyb3RVb3I3bF9yTmk4eXpfWHVISEtqMWdUT0Z5U2lmYW9n?oc=5",
+      "id": "estilo|https://news.google.com/rss/articles/CBMilAFBVV95cUxNQWd2aUpRZDJyVHVULUdRckM3NktUQUo3cHdVR3RPT05aY25pNEhmd1pZemdxaEh6d2xLeXQ4ZllnWng5VFAzT2w0Njl1SlhCSVE0d29JcVB3NnZOUkVLMHkwN2ZoWGk1UTVNVWVzVmFIZTM1VU1VZzZTX1JhUjhDTGk4RDRieWNBVDZtSFh3OTF5aEVh?oc=5",
       "section": "estilo",
-      "category": "GQ EN",
-      "title": "Shopping News, In-Depth Articles, Pictures & Videos - GQ",
-      "summary": "Shopping News, In-Depth Articles, Pictures & Videos GQ",
+      "category": "Esquire EN",
+      "title": "The White House to Rep. Robert Garcia: “Please Stop Picking On the President!” - Esquire",
+      "summary": "The White House to Rep. Robert Garcia: “Please Stop Picking On the President!” Esquire",
       "image": "",
-      "publishedAt": "2026-06-27 12:53 UTC",
+      "publishedAt": "2026-11-11 22:21 UTC",
       "language": "en",
-      "topic": "Moda",
+      "topic": "Estilo de vida",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "GQ EN",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1KRmxfSUZUYlVlWHVXZ1RjRlBsVjBHYThHQ0h4Qk5MeEgyb3RVb3I3bF9yTmk4eXpfWHVISEtqMWdUT0Z5U2lmYW9n?oc=5"
+          "name": "Esquire EN",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQWd2aUpRZDJyVHVULUdRckM3NktUQUo3cHdVR3RPT05aY25pNEhmd1pZemdxaEh6d2xLeXQ4ZllnWng5VFAzT2w0Njl1SlhCSVE0d29JcVB3NnZOUkVLMHkwN2ZoWGk1UTVNVWVzVmFIZTM1VU1VZzZTX1JhUjhDTGk4RDRieWNBVDZtSFh3OTF5aEVh?oc=5"
         }
       ]
     },
@@ -3420,24 +3474,6 @@
         {
           "name": "Esquire EN",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSDlRV2VKVnhyY29FUlRzc21oV0NreWxkbVdqa3NWMUpXSW1IMGpuWjVzSFhXczdaZGtoRzl5bTRhd25WdFY3U2JibzBvd04zOF96WVRNdHE4bE1KTExRQk5zRHFpbm9ndkFZOEpSLVJMNjU0bFVsRTBtSldBQWx6UVNzOEgyMkdIZmZ1azczRWRWNzBRbEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "estilo|https://news.google.com/rss/articles/CBMifkFVX3lxTE9Ebmc5UXItVWl6ZU1sZk9naC1TUlhaMmNoaTVwdzgzNnFNU24ybzNIcDRzenBWdm10dzdaRnRuQ3NuSXd3WFZPTTFrOXNSY0RzU3RRZC1BZndWUXZnRjJJbkNJc240d3lDRksxTnF1aTNldXZQOFFUeThRcGNaQQ?oc=5",
-      "section": "estilo",
-      "category": "Esquire EN",
-      "title": "The 12 Best Amber Colognes to Buy Right Now - Esquire",
-      "summary": "The 12 Best Amber Colognes to Buy Right Now Esquire",
-      "image": "",
-      "publishedAt": "2026-11-10 19:20 UTC",
-      "language": "en",
-      "topic": "Estilo de vida",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Esquire EN",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Ebmc5UXItVWl6ZU1sZk9naC1TUlhaMmNoaTVwdzgzNnFNU24ybzNIcDRzenBWdm10dzdaRnRuQ3NuSXd3WFZPTTFrOXNSY0RzU3RRZC1BZndWUXZnRjJJbkNJc240d3lDRksxTnF1aTNldXZQOFFUeThRcGNaQQ?oc=5"
         }
       ]
     },
@@ -3766,20 +3802,38 @@
       ]
     },
     {
-      "id": "espana|https://news.google.com/rss/articles/CBMikAFBVV95cUxPUzJXQmtVRjRWa0ZaNGMwYkhNQjZoTVJhU1paeG4yNE1HQWJobUE2Qk1yQXlEcE9lY2lPd0NzdUJGVzNmSmROd2gzLWltcnVfQWpiNUZBUlVLSVBXZFl4S2RNYlhLeWlmVTZhcUduVzBxeXNkZ2JLclRUS05wUmNNV0tLU0F6NmdwOUp3OWNvMzTSAaQBQVVfeXFMT2NNRFhGRWZDVVV2YVdtdG8tTy1sV2hndDVERm9LRkRYQ2Z5RWYwc1IzUEJUN2RsREk0Q18zVm45YmlEcGg4Q3Zna09LQlJoMnVqamxJRjBKd0hxNHpKTzZ1VGxUZ1JMc2dQZFhqa1dlM1AzQjhVUjB0blJORTMxNTY3WFY1aXpabzQ5V3hWYVNraVNHRVFodVYwOFlrM0M2NXVVelE?oc=5",
+      "id": "espana|https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMEJYYXJWZDI2NTlUdFNnWE9zTjNTTHdvR29DQlBQbXdGX3FpOWtCazZkTGZtRnNYZnd2THVVSnhIczdBdmJKUTl2M1dzck4xeGxUdWxGVHhkeWNIZ2NTRUtRcnFDX0RGUnY3Y2Y0bGJNeUlVN1VSNnBCTDN5TDJ6OG5MWVdBN0V3aHNvTlVfOHFCdGtxemdQLWF5SmlhZVJCamdtNUdQQ3lZYmROT095Qm55anVPdmdSNGJpSDhCamtTM2JOai0yeVptbFI2N2Y5UUJ1eVdXOFNIdDBIb1FidFFR0gH2AUFVX3lxTE1IYnFiV0x6ODlGUkhKZk5ZSmU4VVBSVUdCTDQteWh2ajNybDlZTWpzYzJiQkE0dlZXTG1xcnBmN1BCbXUzUkNMc3ZkaFg4WE9sSTluVVZtQ3ZWNUdlcVY1UllTRXRESzlCMnZBZXRmb3ZOQ1lDeV9aQmFqUlVUZWRaTnNzb1NIdlF2R1k0V0plU2s1VlJ0d043OXVlQ3U1aWV0SHBQRGtVTFVqZ0lQU291dHdIU3BabFNqME50Y1BFSVhPUVFhc2ZSRTYzU2c2OHNQOGJlbTlkVTNfUEREZ2E3MWNiQ1lrZ1FiLVNrYkZ3YXV4MTlqZw?oc=5",
       "section": "espana",
       "category": "Cinco Días",
-      "title": "El Ibex recupera los 20.000 puntos de la mano de la mejora de las tecnológicas - Cinco Días",
-      "summary": "El Ibex recupera los 20.000 puntos de la mano de la mejora de las tecnológicas Cinco Días",
+      "title": "Tomás Pascual: “Estamos abiertos a alianzas estratégicas manteniendo nuestra unidad empresarial” - Cinco Días",
+      "summary": "Tomás Pascual: “Estamos abiertos a alianzas estratégicas manteniendo nuestra unidad empresarial” Cinco Días",
       "image": "",
-      "publishedAt": "2026-11-11 05:30 UTC",
+      "publishedAt": "2026-11-10 04:15 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Cinco Días",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUzJXQmtVRjRWa0ZaNGMwYkhNQjZoTVJhU1paeG4yNE1HQWJobUE2Qk1yQXlEcE9lY2lPd0NzdUJGVzNmSmROd2gzLWltcnVfQWpiNUZBUlVLSVBXZFl4S2RNYlhLeWlmVTZhcUduVzBxeXNkZ2JLclRUS05wUmNNV0tLU0F6NmdwOUp3OWNvMzTSAaQBQVVfeXFMT2NNRFhGRWZDVVV2YVdtdG8tTy1sV2hndDVERm9LRkRYQ2Z5RWYwc1IzUEJUN2RsREk0Q18zVm45YmlEcGg4Q3Zna09LQlJoMnVqamxJRjBKd0hxNHpKTzZ1VGxUZ1JMc2dQZFhqa1dlM1AzQjhVUjB0blJORTMxNTY3WFY1aXpabzQ5V3hWYVNraVNHRVFodVYwOFlrM0M2NXVVelE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMEJYYXJWZDI2NTlUdFNnWE9zTjNTTHdvR29DQlBQbXdGX3FpOWtCazZkTGZtRnNYZnd2THVVSnhIczdBdmJKUTl2M1dzck4xeGxUdWxGVHhkeWNIZ2NTRUtRcnFDX0RGUnY3Y2Y0bGJNeUlVN1VSNnBCTDN5TDJ6OG5MWVdBN0V3aHNvTlVfOHFCdGtxemdQLWF5SmlhZVJCamdtNUdQQ3lZYmROT095Qm55anVPdmdSNGJpSDhCamtTM2JOai0yeVptbFI2N2Y5UUJ1eVdXOFNIdDBIb1FidFFR0gH2AUFVX3lxTE1IYnFiV0x6ODlGUkhKZk5ZSmU4VVBSVUdCTDQteWh2ajNybDlZTWpzYzJiQkE0dlZXTG1xcnBmN1BCbXUzUkNMc3ZkaFg4WE9sSTluVVZtQ3ZWNUdlcVY1UllTRXRESzlCMnZBZXRmb3ZOQ1lDeV9aQmFqUlVUZWRaTnNzb1NIdlF2R1k0V0plU2s1VlJ0d043OXVlQ3U1aWV0SHBQRGtVTFVqZ0lQU291dHdIU3BabFNqME50Y1BFSVhPUVFhc2ZSRTYzU2c2OHNQOGJlbTlkVTNfUEREZ2E3MWNiQ1lrZ1FiLVNrYkZ3YXV4MTlqZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "mundo|https://news.google.com/rss/articles/CBMiugFBVV95cUxQSEdmMVduSHJxWEd1UWVkOUtrcF91S3VfSnI0MzlnTjh6NFdHOFNpSTBXU1JpdFk3NHdORlNsck91bFEyNUNLMHdoT1hFZmlqTGdaUDU2c2ZkeXE0Zl82cURaQXZxTS1IMmxqS3FNUEVNU1FRU1NQU01EQkxzNkN0YUhWek1qRm9ZYkNUS1FrWUIyTmFaUFFkTERqZER3UUx6cEN3VVdWNG56R19zSFkzRWphVUl1Z3I1eHc?oc=5",
+      "section": "mundo",
+      "category": "Reuters",
+      "title": "Saudi Arabia says debris from intercepted missiles falls in Mecca region - Reuters",
+      "summary": "Saudi Arabia says debris from intercepted missiles falls in Mecca region Reuters",
+      "image": "",
+      "publishedAt": "2026-11-12 00:21 UTC",
+      "language": "en",
+      "topic": null,
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSEdmMVduSHJxWEd1UWVkOUtrcF91S3VfSnI0MzlnTjh6NFdHOFNpSTBXU1JpdFk3NHdORlNsck91bFEyNUNLMHdoT1hFZmlqTGdaUDU2c2ZkeXE0Zl82cURaQXZxTS1IMmxqS3FNUEVNU1FRU1NQU01EQkxzNkN0YUhWek1qRm9ZYkNUS1FrWUIyTmFaUFFkTERqZER3UUx6cEN3VVdWNG56R19zSFkzRWphVUl1Z3I1eHc?oc=5"
         }
       ]
     },
@@ -3787,10 +3841,10 @@
       "id": "mundo|https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcVJVTG1XNEk2Rm4xZFpXdXh2czIzSnZpdXMzaEpWN1RsZFJpRy1TeFNXZHBzei0tRGNSZ2JSd2ZtTnN1N3A2Q0IzTHNrelNxS2NOWVNSbjhWTlNfc012cHRHc3g0U2gzOXJ4MjRKWjNuWm9NaGt2S2ZhbHp6dmtjenFGTWstWllrYmdLcG8tOXR4b0FCcHR1Zjd2RU52REVFM2E2YmZkX0N0QQ?oc=5",
       "section": "mundo",
       "category": "Reuters",
-      "title": "VIEW Nvidia is preparing to oust CEO Jensen Huang, WSJ reports - Reuters",
-      "summary": "VIEW Nvidia is preparing to oust CEO Jensen Huang, WSJ reports Reuters",
+      "title": "Instant View: Nvidia board meets to decide CEO Huang's future, source says - Reuters",
+      "summary": "Instant View: Nvidia board meets to decide CEO Huang's future, source says Reuters",
       "image": "",
-      "publishedAt": "2026-11-11 23:39 UTC",
+      "publishedAt": "2026-11-11 23:19 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
@@ -3802,20 +3856,20 @@
       ]
     },
     {
-      "id": "mundo|https://news.google.com/rss/articles/CBMiogFBVV95cUxPTlA5REZDN0pJYkxyUXM4YjE1Q1BLN0tKNENxM3NsV3RKblNhbWpsdEFUUVRieUtNckY4S3YwdkFUdjhvZVk4Nm1Ga1JNUmZkRzMtaEhHazhHNmZDX3Z1WUNzZnJmdEpLeVRmcngzdEMwM2N3b1I1ckQ1Q2N2a2NRNWtfa0ZTTkhYaXlqc1NqbklwWUxIdktqdzZvS0M2cGhSYkE?oc=5",
+      "id": "mundo|https://news.google.com/rss/articles/CBMioAFBVV95cUxQVVhWcG5USS14S1FTbUdWOGtpYjRXSWdoUlJ4Ym95VXFGdnQtdVgyY3pMcjFScHpQc0c3a202TWJVcHp6YjFobDFfRl9Ga01PSGdaTEhZREZXRmtKUFBQY1JWQ0NmTHM2aVZnUVdNS3lPZG5RbDVVdHZFZnBkNmlwNU1Sc21GV1RvY0dwVHlyekd0UFg5aUZlNU1nYkJQZE1Y?oc=5",
       "section": "mundo",
-      "category": "Reuters",
-      "title": "Nvidia board meets to decide CEO Huang's future, source says - Reuters",
-      "summary": "Nvidia board meets to decide CEO Huang's future, source says Reuters",
+      "category": "AP News",
+      "title": "Mississippi elects Democrat Scott Colom as state's first Black US senator since Reconstruction - AP News",
+      "summary": "Mississippi elects Democrat Scott Colom as state's first Black US senator since Reconstruction AP News",
       "image": "",
-      "publishedAt": "2026-11-11 22:34 UTC",
+      "publishedAt": "2026-11-12 01:30 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTlA5REZDN0pJYkxyUXM4YjE1Q1BLN0tKNENxM3NsV3RKblNhbWpsdEFUUVRieUtNckY4S3YwdkFUdjhvZVk4Nm1Ga1JNUmZkRzMtaEhHazhHNmZDX3Z1WUNzZnJmdEpLeVRmcngzdEMwM2N3b1I1ckQ1Q2N2a2NRNWtfa0ZTTkhYaXlqc1NqbklwWUxIdktqdzZvS0M2cGhSYkE?oc=5"
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVVhWcG5USS14S1FTbUdWOGtpYjRXSWdoUlJ4Ym95VXFGdnQtdVgyY3pMcjFScHpQc0c3a202TWJVcHp6YjFobDFfRl9Ga01PSGdaTEhZREZXRmtKUFBQY1JWQ0NmTHM2aVZnUVdNS3lPZG5RbDVVdHZFZnBkNmlwNU1Sc21GV1RvY0dwVHlyekd0UFg5aUZlNU1nYkJQZE1Y?oc=5"
         }
       ]
     },
@@ -3834,24 +3888,6 @@
         {
           "name": "AP News",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMlZId0RsMUdSc3RNcWhhS3NHaFNVUXJBMGtVWVJhZHZ5WWIxOHk2MnJKUHRLNlV5aGEyYmZ6TEhKQmYxaE9JWGh5dVdfOGg2LWxUUEVuV3JoYjNGb0c4M0lmZDdGRS1yTG9ydmNfdHlsNDllQWJySlVZcDh2b3A4Y0t3NWZ6S0I0aFQtazUwRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "mundo|https://news.google.com/rss/articles/CBMiswFBVV95cUxNQzV6eGhta1EwczFLWGx6NDg0eDZieUUtTUd6bXlIc3NRSlhmZnNEOWRBSHV4X0RvQktrMmZDNnZVRU5LTklpY1Z5WVhBTnh0SFRUTFdMQm5ucEtOem15d2l4WktkX3VCamgwWWtTSy1LaUxOODJvUGlnVzFVSG5saTZldTNNcDN6UkNhSG8xaG5wdXVKR0JJZlRTaWNZOEFXZEpwZG9uU0plcDFNcldQTjk1bw?oc=5",
-      "section": "mundo",
-      "category": "AP News",
-      "title": "British comedian and children’s author David Walliams accused of sexual misconduct - AP News",
-      "summary": "British comedian and children’s author David Walliams accused of sexual misconduct AP News",
-      "image": "",
-      "publishedAt": "2026-11-10 21:59 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQzV6eGhta1EwczFLWGx6NDg0eDZieUUtTUd6bXlIc3NRSlhmZnNEOWRBSHV4X0RvQktrMmZDNnZVRU5LTklpY1Z5WVhBTnh0SFRUTFdMQm5ucEtOem15d2l4WktkX3VCamgwWWtTSy1LaUxOODJvUGlnVzFVSG5saTZldTNNcDN6UkNhSG8xaG5wdXVKR0JJZlRTaWNZOEFXZEpwZG9uU0plcDFNcldQTjk1bw?oc=5"
         }
       ]
     },
@@ -3910,20 +3946,20 @@
       ]
     },
     {
-      "id": "mundo|https://news.google.com/rss/articles/CBMirgFBVV95cUxOaS1pY1F6YUNNLTF1QnlRRi1xLUxiN1V0c2JsTGVubEZSUF90ZUQyM0RDUFl1VUZjaTd2cUpILTFqb1o2eDl6YTVSRGJTaWlzZFJSQkVrMjFPOEh1bkUyWC1kRjUwdlJMaGx5T1FsdnZUd3lWSnpKTkFDYkxJNlY5T1NmeldSQTJwWTZ1bkpsNTlUNFJjVUcwdkgzTGUzdUdtel9lZGVKcXpqZmVuY0HSAbMBQVVfeXFMTUcyS21XbDhZRG8ydzFtX29JSjlCNjNpTEVKSnBQb2dCUVlDV0N0d3Q2aUxhaW5jM2ZqdzVzWUw2ZlVCREdYTTZJOXdSMHJHdFo0SVJZWlB5U01PRm1TcEJDcjk1dHRacjJXNGR0ZXk1RDg0R0RKal9tWlVJeTE1N3JhQzJQSURwUWhDMnNBazRTNnYxTHgwSGs3RVJtLWYwWXRiTW1Sbmg0VDZsVmttZzRqWVU?oc=5",
+      "id": "mundo|https://news.google.com/rss/articles/CBMioAFBVV95cUxPc0N2VzlrRlVUQTVqUm85WjNDdGxIaTVoaHg0TFl3SlZfUjRjTTVjb1d0czhLQW5lZVdDcVMta0lYUWZldEhzVE96LUlRcDZnOVQ5QTViWDRxcjdyVVJsTHVQeHplN0x5NWNFYldhbUNDZlZRMG1lbmc1WnVwZGNUZ3JzWlYtNFdTZEJhbXVrM3ZQNEVkWW9pYkl0MGFjdzhh0gGmAUFVX3lxTFAzck0tbUxVdlA1eHlobUE3LTZPaUxrTDRkMzd5RzRFUmJ0emJ2ZWRsdjdOd0JLTUp4U0ZHbURPOVQyOHY1YWNkZmk2V1NucVdweXFnNlBzRVljWk43ckRQd2NCalhiOXRQQWlLYW9lRGxGS2NiMk1zRTNZS3lEc0Q2UUc3TkJraTFCeGtodklYZmJjTGdadHBzZ1hxb2gwWldzR3lYSmc?oc=5",
       "section": "mundo",
       "category": "Al Jazeera",
-      "title": "How are Pakistan’s imports from India growing again despite tensions? - Al Jazeera",
-      "summary": "How are Pakistan’s imports from India growing again despite tensions? Al Jazeera",
+      "title": "Former Iraqi lawmaker Ahmed al-Alwani found dead in Beirut - Al Jazeera",
+      "summary": "Former Iraqi lawmaker Ahmed al-Alwani found dead in Beirut Al Jazeera",
       "image": "",
-      "publishedAt": "2026-11-11 08:36 UTC",
+      "publishedAt": "2026-11-11 05:32 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaS1pY1F6YUNNLTF1QnlRRi1xLUxiN1V0c2JsTGVubEZSUF90ZUQyM0RDUFl1VUZjaTd2cUpILTFqb1o2eDl6YTVSRGJTaWlzZFJSQkVrMjFPOEh1bkUyWC1kRjUwdlJMaGx5T1FsdnZUd3lWSnpKTkFDYkxJNlY5T1NmeldSQTJwWTZ1bkpsNTlUNFJjVUcwdkgzTGUzdUdtel9lZGVKcXpqZmVuY0HSAbMBQVVfeXFMTUcyS21XbDhZRG8ydzFtX29JSjlCNjNpTEVKSnBQb2dCUVlDV0N0d3Q2aUxhaW5jM2ZqdzVzWUw2ZlVCREdYTTZJOXdSMHJHdFo0SVJZWlB5U01PRm1TcEJDcjk1dHRacjJXNGR0ZXk1RDg0R0RKal9tWlVJeTE1N3JhQzJQSURwUWhDMnNBazRTNnYxTHgwSGs3RVJtLWYwWXRiTW1Sbmg0VDZsVmttZzRqWVU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc0N2VzlrRlVUQTVqUm85WjNDdGxIaTVoaHg0TFl3SlZfUjRjTTVjb1d0czhLQW5lZVdDcVMta0lYUWZldEhzVE96LUlRcDZnOVQ5QTViWDRxcjdyVVJsTHVQeHplN0x5NWNFYldhbUNDZlZRMG1lbmc1WnVwZGNUZ3JzWlYtNFdTZEJhbXVrM3ZQNEVkWW9pYkl0MGFjdzhh0gGmAUFVX3lxTFAzck0tbUxVdlA1eHlobUE3LTZPaUxrTDRkMzd5RzRFUmJ0emJ2ZWRsdjdOd0JLTUp4U0ZHbURPOVQyOHY1YWNkZmk2V1NucVdweXFnNlBzRVljWk43ckRQd2NCalhiOXRQQWlLYW9lRGxGS2NiMk1zRTNZS3lEc0Q2UUc3TkJraTFCeGtodklYZmJjTGdadHBzZ1hxb2gwWldzR3lYSmc?oc=5"
         }
       ]
     },
@@ -3946,20 +3982,20 @@
       ]
     },
     {
-      "id": "television|https://news.google.com/rss/articles/CBMilwFBVV95cUxQRExpcEVXclZXQ1Zwc096aTE3dFhaX1M4UldQNjhBWHNKTHBCQ0w0Z1BCRnctbHlaR1hLbE5vMXJVVVZlVWh2R0x0TXpWaTdZQ3VJRlQ2aGQtOEItTmROQlhsMGx0eE40NThTWWViTHlYMTBTcXViTEZfREs1cl9vTHZMUy0zZksyeHVET3VfLTRNd3VZVVNV?oc=5",
+      "id": "television|https://news.google.com/rss/articles/CBMirwFBVV95cUxOczNQOFdZeEYyQjR5YXJEVTFWNjN2cHBHRlgwbjEwLW1aNHQ2S1p3SjV3Zmx1UXl6cW9qRnFDelZnYVRCNlMwWklzZ0xhVVBSeHR2V0lUTzdfTXlkTExGX2N6MFRLdGF0TWFXb2RtZERGRjFmTU1VSHdvQktJZW9aN3dHbTZCY1dCRnVnM1RDSzg5NzhIai10QWR6UlU2MGtIWlNXaVF5N2tsYTc0V2Iw?oc=5",
       "section": "television",
       "category": "FormulaTV",
-      "title": "Feyenoord vs FC Porto: dónde ver, 24 de noviembre - FormulaTV",
-      "summary": "Feyenoord vs FC Porto: dónde ver, 24 de noviembre FormulaTV",
+      "title": "Inter Bogotá vs Santa Fe: dónde ver, 13 de noviembre - FormulaTV",
+      "summary": "Inter Bogotá vs Santa Fe: dónde ver, 13 de noviembre FormulaTV",
       "image": "",
-      "publishedAt": "2026-11-11 18:19 UTC",
+      "publishedAt": "2026-11-11 18:09 UTC",
       "language": "es",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "FormulaTV",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRExpcEVXclZXQ1Zwc096aTE3dFhaX1M4UldQNjhBWHNKTHBCQ0w0Z1BCRnctbHlaR1hLbE5vMXJVVVZlVWh2R0x0TXpWaTdZQ3VJRlQ2aGQtOEItTmROQlhsMGx0eE40NThTWWViTHlYMTBTcXViTEZfREs1cl9vTHZMUy0zZksyeHVET3VfLTRNd3VZVVNV?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOczNQOFdZeEYyQjR5YXJEVTFWNjN2cHBHRlgwbjEwLW1aNHQ2S1p3SjV3Zmx1UXl6cW9qRnFDelZnYVRCNlMwWklzZ0xhVVBSeHR2V0lUTzdfTXlkTExGX2N6MFRLdGF0TWFXb2RtZERGRjFmTU1VSHdvQktJZW9aN3dHbTZCY1dCRnVnM1RDSzg5NzhIai10QWR6UlU2MGtIWlNXaVF5N2tsYTc0V2Iw?oc=5"
         }
       ]
     },
@@ -4126,20 +4162,20 @@
       ]
     },
     {
-      "id": "television|https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMjJyczN2OTJZTWxiVHNmd1dKUmJnQlhfTFJWUGUwa21UUlphZTdOM3RxWUVhMWpvUk84cUhFaXNYRDlzdTRxS1lSeTJ2cGhjUlNhcTBMTFVtcUIwV3lNNVBSaklVX3NxUloza3BvVFZmbk1SQzNBeWhVald5UGxYY00yaTduWEVVSHdhX1dabTBwWjJCVXdOWkNXdmRENGczRE03eEV0a0pGUQ?oc=5",
+      "id": "television|https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMmhuV0JZU3JuS1UxR0JHOHpIenFhT18tTmk4a1B1bUl6Yl9HTnJxdlc0ZFBQTDhlQVlpTkpZTHlOSE5lc1lmcS1oNGhuelhLME45dHV2M3VHNlBIazg1NlVxZGZoRXdqT3RfYmhjRlZJcU90S0hONXhHM200UkFOWkhQTzh4RE5KT25ydklZOGp5TG1WZ0IwczQ4RmRBU013SXB0S25wSWc?oc=5",
       "section": "television",
       "category": "The Hollywood Reporter",
-      "title": "‘NAZA’ Tops 1.5 Million Admissions Worldwide - The Hollywood Reporter",
-      "summary": "‘NAZA’ Tops 1.5 Million Admissions Worldwide The Hollywood Reporter",
+      "title": "CAA Wants to Create an AI-Generated Celebrity Advertising Machine - The Hollywood Reporter",
+      "summary": "CAA Wants to Create an AI-Generated Celebrity Advertising Machine The Hollywood Reporter",
       "image": "",
-      "publishedAt": "2026-11-11 11:12 UTC",
+      "publishedAt": "2026-11-09 21:13 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMjJyczN2OTJZTWxiVHNmd1dKUmJnQlhfTFJWUGUwa21UUlphZTdOM3RxWUVhMWpvUk84cUhFaXNYRDlzdTRxS1lSeTJ2cGhjUlNhcTBMTFVtcUIwV3lNNVBSaklVX3NxUloza3BvVFZmbk1SQzNBeWhVald5UGxYY00yaTduWEVVSHdhX1dabTBwWjJCVXdOWkNXdmRENGczRE03eEV0a0pGUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMmhuV0JZU3JuS1UxR0JHOHpIenFhT18tTmk4a1B1bUl6Yl9HTnJxdlc0ZFBQTDhlQVlpTkpZTHlOSE5lc1lmcS1oNGhuelhLME45dHV2M3VHNlBIazg1NlVxZGZoRXdqT3RfYmhjRlZJcU90S0hONXhHM200UkFOWkhQTzh4RE5KT25ydklZOGp5TG1WZ0IwczQ4RmRBU013SXB0S25wSWc?oc=5"
         }
       ]
     },
@@ -4378,20 +4414,20 @@
       ]
     },
     {
-      "id": "tecnologia|https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3b3lFR3FsVWJIVm14ZHJ2Mk4ybXR5SlhndUdRQmN5cjEtcW03NG5pdnFRSDV0WExCVmtsOVVlNVQ3TmtEaExPOEJ1UlVYYmRsWkwxYTdWWF95alBnNHpnZUotNGtvNUk?oc=5",
+      "id": "tecnologia|https://news.google.com/rss/articles/CBMirgFBVV95cUxOcjc0QUZNb0FYTVFPN2d1Vld4eTZPWk52NHNKN1Jiblc5MW9ZNkV2Tm0xWU8zR0VtazQ1NV9LQlk2QnJPelVvaXp2QWJDVUxicmowX2Z5TWVhdjE0RlhnanNaSm9ITndEMFpJUjlCUXpVdHljRFY4N2VuRm44cmwxRU1aMnNrTElDeVN3ZGR4YXVBeWNWX29sSzFfYjRlVDNrTEFaU1llSkljU0VQRnc?oc=5",
       "section": "tecnologia",
       "category": "The Verge",
-      "title": "Nvidia is reportedly preparing to fire Jensen Huang - The Verge",
-      "summary": "Nvidia is reportedly preparing to fire Jensen Huang The Verge",
+      "title": "Anthropic has its own AI-powered office suite now - The Verge",
+      "summary": "Anthropic has its own AI-powered office suite now The Verge",
       "image": "",
-      "publishedAt": "2026-11-11 22:44 UTC",
+      "publishedAt": "2026-11-10 17:30 UTC",
       "language": "en",
       "topic": null,
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3b3lFR3FsVWJIVm14ZHJ2Mk4ybXR5SlhndUdRQmN5cjEtcW03NG5pdnFRSDV0WExCVmtsOVVlNVQ3TmtEaExPOEJ1UlVYYmRsWkwxYTdWWF95alBnNHpnZUotNGtvNUk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcjc0QUZNb0FYTVFPN2d1Vld4eTZPWk52NHNKN1Jiblc5MW9ZNkV2Tm0xWU8zR0VtazQ1NV9LQlk2QnJPelVvaXp2QWJDVUxicmowX2Z5TWVhdjE0RlhnanNaSm9ITndEMFpJUjlCUXpVdHljRFY4N2VuRm44cmwxRU1aMnNrTElDeVN3ZGR4YXVBeWNWX29sSzFfYjRlVDNrTEFaU1llSkljU0VQRnc?oc=5"
         }
       ]
     },
@@ -4518,24 +4554,6 @@
         {
           "name": "GQ",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ySi1IU19DMlBtSEFobVFXdldYWW1TYnBYZG51Z3Ftc0xhLWVNb1VESU8xNE1LaUR2bWlmMFd4b2RTUFo5N0xZNzFUelJZaVU5X3RpREw4bFdnUks3QjZaelZNdHBPNk1ySWk5a0F1V29SMDhQOHdfTHpYQm5EQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "estilo|https://news.google.com/rss/articles/CBMibEFVX3lxTE5TTTVGODN2d1A1VkJ3d3dUXzZWX3FTWEZNeXMzRlhMeHlTMWtJemF4ZV9NVUNRRDdZa3J6Z0pCUV9zTVRkWkZBZngxLUZuVTJRSlJUcGxJbkpMQUxzYzdyUzZpZDY3ZkpXN1ZqSw?oc=5",
-      "section": "estilo",
-      "category": "GQ",
-      "title": "The Early Black Friday Deals Are Finally Rolling Out - GQ",
-      "summary": "The Early Black Friday Deals Are Finally Rolling Out GQ",
-      "image": "",
-      "publishedAt": "2026-11-11 19:56 UTC",
-      "language": "en",
-      "topic": null,
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "GQ",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TTTVGODN2d1A1VkJ3d3dUXzZWX3FTWEZNeXMzRlhMeHlTMWtJemF4ZV9NVUNRRDdZa3J6Z0pCUV9zTVRkWkZBZngxLUZuVTJRSlJUcGxJbkpMQUxzYzdyUzZpZDY3ZkpXN1ZqSw?oc=5"
         }
       ]
     },
@@ -6308,6 +6326,26 @@
       "popHorizon": "ahora"
     },
     {
+      "id": "eventos|https://news.google.com/rss/articles/CBMi1AFBVV95cUxNLXRkNWxTclhvVkpLdXpDbERNTE1YZ18ydGlxVHJDR0tzcnJmSjdRU3hYamdzdy1hRVRrS2NKS3lDMFRjU1ZPaGJyZ3JhektyRUJvRXlxNjNQOFJhMXR3bllObWZCcEYzSVZHY3o2WGVyRWZFTGZuZGNYb2RINmc4d0o2Rmh0d1ozcDRtd2xXT3ZpV1V0VFdBOXNIb25rQUZ4dHJNX0FMSjItY1JXS2JPNkVWUFRaVTh1SzdhTWtzMkFDY2NuYWxVaUJCXzNtVUNNZUxGWA?oc=5",
+      "section": "eventos",
+      "category": "Teatro Fernán Gómez",
+      "title": "El teatro Fernán Gómez. Centro Cultural de la Villa acoge el estreno absoluto de Un señor… cualquiera, de Mercedes Pinto - Teatro Fernán Gómez",
+      "summary": "El teatro Fernán Gómez. Centro Cultural de la Villa acoge el estreno absoluto de Un señor… cualquiera, de Mercedes Pinto Teatro Fernán Gómez",
+      "image": "",
+      "publishedAt": "2026-10-04 07:00 UTC",
+      "language": "es",
+      "topic": "Teatro y musicales",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Teatro Fernán Gómez",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNLXRkNWxTclhvVkpLdXpDbERNTE1YZ18ydGlxVHJDR0tzcnJmSjdRU3hYamdzdy1hRVRrS2NKS3lDMFRjU1ZPaGJyZ3JhektyRUJvRXlxNjNQOFJhMXR3bllObWZCcEYzSVZHY3o2WGVyRWZFTGZuZGNYb2RINmc4d0o2Rmh0d1ozcDRtd2xXT3ZpV1V0VFdBOXNIb25rQUZ4dHJNX0FMSjItY1JXS2JPNkVWUFRaVTh1SzdhTWtzMkFDY2NuYWxVaUJCXzNtVUNNZUxGWA?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "popHorizon": "ahora"
+    },
+    {
       "id": "eventos|https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zZnVhUndoeV9ySnE0Q3VTdk9xVUZzdFJ1NjEyNEdab0xMeHVTOVh2bU1tNTZaczQxZXBGd05sa3duUGZiM0pwcThzMVZEWlBLS3RRSUtpUFhnM09aRTV3dHB4RWEtQQ?oc=5",
       "section": "eventos",
       "category": "Teatro Fernán Gómez",
@@ -6408,26 +6446,6 @@
       "popHorizon": "ahora"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMinwFBVV95cUxQd3hqa2VxREs1OVo1ZVY3VkJHczdKM1pBc2laWUJaeG56M1g1V1o1MmQ1bTRrb19mU3FZQUJjSVBmVDdSb3FWNW8ybFVKUURhcXg0UXR5eEM5Vjk1ckxVVDlNUEdFblJnWjM0OUhQMTdMaXpvalpBRFpnUk9GbVVGaEd2Vzh5QTRRSmw3MVo3U1l5R2x1d05WaUxhbVQ5QVk?oc=5",
-      "section": "eventos",
-      "category": "Teatro Fernán Gómez",
-      "title": "Madrid se adentra en su pasado barroco con la exposición Teatro de grandeza - Teatro Fernán Gómez",
-      "summary": "Madrid se adentra en su pasado barroco con la exposición Teatro de grandeza Teatro Fernán Gómez",
-      "image": "",
-      "publishedAt": "2026-10-20 07:00 UTC",
-      "language": "es",
-      "topic": "Teatro y musicales",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Teatro Fernán Gómez",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd3hqa2VxREs1OVo1ZVY3VkJHczdKM1pBc2laWUJaeG56M1g1V1o1MmQ1bTRrb19mU3FZQUJjSVBmVDdSb3FWNW8ybFVKUURhcXg0UXR5eEM5Vjk1ckxVVDlNUEdFblJnWjM0OUhQMTdMaXpvalpBRFpnUk9GbVVGaEd2Vzh5QTRRSmw3MVo3U1l5R2x1d05WaUxhbVQ5QVk?oc=5"
-        }
-      ],
-      "region": "Madrid",
-      "popHorizon": "ahora"
-    },
-    {
       "id": "eventos|https://news.google.com/rss/articles/CBMixAFBVV95cUxQLVB4NDU1bVNpcmhMeWJnaWxkTU02Qm1YcDJ0ekV0Tzk2UHk0REdBQWpiRUdzZlpqSGRFSjFLbHdPbnVGMkF0aGx1YzdxdkVkSW5POTF5QW5adXVqM0xxcDJJRF95RUFiVFpyNDJUdVFUak5mZWN4UmMxTndvS3FNdFMySVJNbmFMb1lQeWN6Q0R4cGgxQ3c4c3Zwalp5OE1BZDRhTi1GT2pCNERtSDNHU2Z4RXc3NGRZQnAtMkNOQlJCbDlp?oc=5",
       "section": "eventos",
       "category": "CentroCentro",
@@ -6468,20 +6486,20 @@
       "popHorizon": "ahora"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMigAFBVV95cUxNZGdTMXJaaGh5U1NrOUF6UlVRa1JySGxiNFVzNzcxSTg0UUtlcV82QVRDM0JJSFozaDlhNGs1cFVvbWptZ2FnNDZ0Zl9CYlZpVVY4cXk1MC1OamgtREtRUV9vOFpHRjBuWWotMG5yY2MxbS1BX1NHM09BNlZyOWowZg?oc=5",
+      "id": "eventos|https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1qRl9HQ0htLVEzMnlOOWdDUGpveDBYZGNIaWxwWVlZYzVNdElVQ3N0SHA3NVFQNFRKeWY2ZmlkUFY1V0U?oc=5",
       "section": "eventos",
       "category": "Museo Thyssen",
-      "title": "Festival Cine por Mujeres Madrid: Rebecca Horn - The Secret Life of Things - Museo Nacional Thyssen-Bornemisza",
-      "summary": "Festival Cine por Mujeres Madrid: Rebecca Horn - The Secret Life of Things Museo Nacional Thyssen-Bornemisza",
+      "title": "Museo Nacional Thyssen-Bornemisza Madrid - Museo Nacional Thyssen-Bornemisza",
+      "summary": "Museo Nacional Thyssen-Bornemisza Madrid Museo Nacional Thyssen-Bornemisza",
       "image": "",
-      "publishedAt": "2026-11-06 08:00 UTC",
+      "publishedAt": "2013-12-14 04:01 UTC",
       "language": "es",
       "topic": "Exposiciones",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Museo Thyssen",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZGdTMXJaaGh5U1NrOUF6UlVRa1JySGxiNFVzNzcxSTg0UUtlcV82QVRDM0JJSFozaDlhNGs1cFVvbWptZ2FnNDZ0Zl9CYlZpVVY4cXk1MC1OamgtREtRUV9vOFpHRjBuWWotMG5yY2MxbS1BX1NHM09BNlZyOWowZg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1qRl9HQ0htLVEzMnlOOWdDUGpveDBYZGNIaWxwWVlZYzVNdElVQ3N0SHA3NVFQNFRKeWY2ZmlkUFY1V0U?oc=5"
         }
       ],
       "region": "Madrid",
@@ -6568,20 +6586,20 @@
       "popHorizon": "ahora"
     },
     {
-      "id": "eventos|https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1qRl9HQ0htLVEzMnlOOWdDUGpveDBYZGNIaWxwWVlZYzVNdElVQ3N0SHA3NVFQNFRKeWY2ZmlkUFY1V0U?oc=5",
+      "id": "eventos|https://news.google.com/rss/articles/CBMiggFBVV95cUxQbmJrVkpoZHpKWHNVbno1SFB5Ml95OGVzVmt2dlNzcjZPVFdWZHF3alhrTE5tVHN1ckNGTFJTWTZlWC1QUjYtdUZVT1hBVG1HbDhGcG5uTWFCZkFjOGJrQjU2d21EMFlsVzdZUUlBaVFkNzJfRTVRTC1SX1pveTloWHln?oc=5",
       "section": "eventos",
       "category": "Museo Thyssen",
-      "title": "Museo Nacional Thyssen-Bornemisza Madrid - Museo Nacional Thyssen-Bornemisza",
-      "summary": "Museo Nacional Thyssen-Bornemisza Madrid Museo Nacional Thyssen-Bornemisza",
+      "title": "Madrid Otra Mirada. La vida en el hogar y el camino hacia el diseño democrático - Museo Nacional Thyssen-Bornemisza",
+      "summary": "Madrid Otra Mirada. La vida en el hogar y el camino hacia el diseño democrático Museo Nacional Thyssen-Bornemisza",
       "image": "",
-      "publishedAt": "2013-12-14 04:01 UTC",
+      "publishedAt": "2026-10-18 07:00 UTC",
       "language": "es",
       "topic": "Exposiciones",
       "verification": "fuente identificada; no contrastada independientemente",
       "sources": [
         {
           "name": "Museo Thyssen",
-          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1qRl9HQ0htLVEzMnlOOWdDUGpveDBYZGNIaWxwWVlZYzVNdElVQ3N0SHA3NVFQNFRKeWY2ZmlkUFY1V0U?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbmJrVkpoZHpKWHNVbno1SFB5Ml95OGVzVmt2dlNzcjZPVFdWZHF3alhrTE5tVHN1ckNGTFJTWTZlWC1QUjYtdUZVT1hBVG1HbDhGcG5uTWFCZkFjOGJrQjU2d21EMFlsVzdZUUlBaVFkNzJfRTVRTC1SX1pveTloWHln?oc=5"
         }
       ],
       "region": "Madrid",
@@ -7568,6 +7586,26 @@
       "cultureView": "agenda"
     },
     {
+      "id": "cultura|https://news.google.com/rss/articles/CBMib0FVX3lxTE45LTBUTkpIZ1FVUEtmb3F4eFZDLVZvSVRyWHdtUTJNWjg0b24xbkZHQUU5UVZRZmdoakpWOF8zNTNJV3VBb1NnMlVhVU0xazZUMVQ1OU9talVwMU50NWtrdmVtNm1rcVVadUdjclFRRQ?oc=5",
+      "section": "cultura",
+      "category": "Música ES",
+      "title": "¿Quién toca hoy en Madrid? Los mejores conciertos de noviembre - Time Out Worldwide",
+      "summary": "¿Quién toca hoy en Madrid? Los mejores conciertos de noviembre Time Out Worldwide",
+      "image": "",
+      "publishedAt": "2026-11-08 23:00 UTC",
+      "language": "es",
+      "topic": "Música",
+      "verification": "fuente identificada; no contrastada independientemente",
+      "sources": [
+        {
+          "name": "Música ES",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45LTBUTkpIZ1FVUEtmb3F4eFZDLVZvSVRyWHdtUTJNWjg0b24xbkZHQUU5UVZRZmdoakpWOF8zNTNJV3VBb1NnMlVhVU0xazZUMVQ1OU9talVwMU50NWtrdmVtNm1rcVVadUdjclFRRQ?oc=5"
+        }
+      ],
+      "region": "Madrid",
+      "cultureView": "agenda"
+    },
+    {
       "id": "cultura|https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdm5PVlI2QmM4V3g2ZkduR3p1czVQTjcxNWpwSE9SUTZnQ1NnU2dUMV9URnlpVGhZeVJ6d3BMZU5HQ2ZSQUZtX0ZNVTBJcjBNTGFSNmxmUkl2eGdReERlYVlRZmRNMWl2VFI5eXJzMDZqYnJzM1RqYkFQdHpVd3lHWTVOWVRqU3BX?oc=5",
       "section": "cultura",
       "category": "Música ES",
@@ -7862,26 +7900,6 @@
         {
           "name": "Cinemanía",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaVpUb01GOURjcjV3YmdaWGZtNXN0V0dpeFB3YVAxX1BSc3dQcU1KUGJFRUY0NVp2YWh4WDVWaS11SDFmVGVNOVYxOS14WDJFazY3MnVXZ0hOVnlVNHJLX25TOEJvZXNyclZ1NFFTdDV3RVF2dy1CaXBBMERNLWE5ZDlJN0g5TEhGcGZvVEZmaG8tUW03N3B1V2VobnVxWTlBQjdzZTJ5WnBER2VvYjRnTGVjdkcyUFpyT01sYjB2eEZUa0w0bHkxc3RXZmVzcGRpM2c?oc=5"
-        }
-      ],
-      "region": "España",
-      "cultureView": "noticias"
-    },
-    {
-      "id": "cultura|https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWVR1MGI0bG9uUHNBNU5QSnF6alVfX2FmdzJiVlItbk1QRm5FTnFEeXhKN0JjZndWV0hOTHlRUlE1UFFKbVctWkY3MVQxaUpQRmIycEM3bW5xVGhidXJNWlI0ZnlFTDNjRWhmV21ZMlhfZTktNDlZLVhfMy1JX0ZXVWd0QnRiVnl3MVVWcmdwaEpBblBZZGlQT0tpMWxfdDJteTlrNmw4N3JDbmMzVzdjSzF0YlF1X2YtRUFDcFlBa1dyckJ3dVhKcdIBzgFBVV95cUxOdXpsZWNmOXVmaUZSVElKWlI2Nl9wc2V1RXdkQUFsQWZsUV94TXlPaHg3TkpXMGNUMXlGQkNWb3ltRnJ4ZmZHbEs3dGRPZTVwOFZEZHpRV2wwaGt5eXp6b2xzQUFTaHNpMlFnaTgxSWxLVkpmbThpZ3lPYXlrMXd1TlI4YlZodU0wVlNrUEk3X3VaM0V0bUR6YVoxZXN6Q01QWWpnWDdqSG4tbWRQalkwZ2k4SzQ0Vk52cDJmZ2dfUHRLX2JUMGhySHk2YnR5QQ?oc=5",
-      "section": "cultura",
-      "category": "Espinof",
-      "title": "Dani Martínez: \"Las voces de los actores de doblaje en España han sido referentes en nuestras vidas y nos han marcado\" - Espinof",
-      "summary": "Dani Martínez: \"Las voces de los actores de doblaje en España han sido referentes en nuestras vidas y nos han marcado\" Espinof",
-      "image": "",
-      "publishedAt": "2026-11-10 07:01 UTC",
-      "language": "es",
-      "topic": "Cine",
-      "verification": "fuente identificada; no contrastada independientemente",
-      "sources": [
-        {
-          "name": "Espinof",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWVR1MGI0bG9uUHNBNU5QSnF6alVfX2FmdzJiVlItbk1QRm5FTnFEeXhKN0JjZndWV0hOTHlRUlE1UFFKbVctWkY3MVQxaUpQRmIycEM3bW5xVGhidXJNWlI0ZnlFTDNjRWhmV21ZMlhfZTktNDlZLVhfMy1JX0ZXVWd0QnRiVnl3MVVWcmdwaEpBblBZZGlQT0tpMWxfdDJteTlrNmw4N3JDbmMzVzdjSzF0YlF1X2YtRUFDcFlBa1dyckJ3dVhKcdIBzgFBVV95cUxOdXpsZWNmOXVmaUZSVElKWlI2Nl9wc2V1RXdkQUFsQWZsUV94TXlPaHg3TkpXMGNUMXlGQkNWb3ltRnJ4ZmZHbEs3dGRPZTVwOFZEZHpRV2wwaGt5eXp6b2xzQUFTaHNpMlFnaTgxSWxLVkpmbThpZ3lPYXlrMXd1TlI4YlZodU0wVlNrUEk3X3VaM0V0bUR6YVoxZXN6Q01QWWpnWDdqSG4tbWRQalkwZ2k4SzQ0Vk52cDJmZ2dfUHRLX2JUMGhySHk2YnR5QQ?oc=5"
         }
       ],
       "region": "España",
@@ -8651,10 +8669,28 @@
   "breaking": {
     "espana": [
       {
-        "title": "Al menos dos muertos y varios heridos tras derrumbarse un edificio en un barrio residencial en Brooklyn",
-        "publishedAt": "2026-11-12 01:45 UTC",
+        "title": "Nvidia se prepara para destituir a Jensen Huang tras conocerse una nueva infidelidad con una vicepresidenta de la empresa",
+        "publishedAt": "2026-11-12 02:12 UTC",
+        "source": "El Mundo",
+        "url": "https://www.elmundo.es/economia/empresas/2026/11/12/6af51bd1e4d4d815458b45b0.html"
+      },
+      {
+        "title": "El \"León de la esperanza\" regresa a su patria",
+        "publishedAt": "2026-11-12 02:05 UTC",
+        "source": "El Mundo",
+        "url": "https://www.elmundo.es/internacional/2026/11/12/6af50b5de9cf4a725a8b4571.html"
+      },
+      {
+        "title": "Al menos dos muertos y varios heridos tras derrumbarse un edificio residencial en Brooklyn",
+        "publishedAt": "2026-11-12 01:55 UTC",
         "source": "El País",
         "url": "https://elpais.com/us/2026-11-11/se-derrumba-un-edificio-en-brooklyn-y-deja-personas-atrapadas-entre-los-escombros.html"
+      },
+      {
+        "title": "Al menos un muerto y diez heridos tras derrumbarse un edificio de tres plantas en Nueva York",
+        "publishedAt": "2026-11-12 00:29 UTC",
+        "source": "El Mundo",
+        "url": "https://www.elmundo.es/internacional/2026/11/12/6af50876fc6c83c8418b4577.html"
       },
       {
         "title": "La inmigración divide al trumpismo tras la derrota en las urnas: el presidente insinúa una amnistía y el mundo MAGA fuerza una rectificación",
@@ -8703,98 +8739,80 @@
         "publishedAt": "2026-11-11 22:53 UTC",
         "source": "El Mundo",
         "url": "https://www.elmundo.es/salud/2026/11/11/6af44516fdddffdf418b457d.html"
-      },
-      {
-        "title": "La Prehistoria no fue como nos la contaron: las abuelas y los cotillas salvaron a la humanidad",
-        "publishedAt": "2026-11-11 22:53 UTC",
-        "source": "El Mundo",
-        "url": "https://www.elmundo.es/papel/historias/2026/11/11/6aeccce1e85ece12188b45af.html"
-      },
-      {
-        "title": "Nico Williams: \"El problema de la vivienda me toca muy de cerca. Mis padres, a veces, no podían pagar el alquiler. Hay que arreglarlo\"",
-        "publishedAt": "2026-11-11 22:52 UTC",
-        "source": "El Mundo",
-        "url": "https://www.elmundo.es/deportes/futbol/uefa-nations-league/2026/11/11/6af496c7fc6c83ec1e8b4583.html"
-      },
-      {
-        "title": "Antonio de la Torre: \"Yo no voto contra nadie. Voto lo que considero mejor y me tomo una caña con el que piensa otra cosa\"",
-        "publishedAt": "2026-11-11 22:52 UTC",
-        "source": "El Mundo",
-        "url": "https://www.elmundo.es/cultura/2026/11/11/6ae88d6de4d4d8021a8b4579.html"
       }
     ],
     "mundo": [
       {
-        "title": "'I had to have it': Boag's worker wins auction for last Tasmanian brew",
-        "publishedAt": "2026-11-12 01:42 UTC",
+        "title": "Man dies and toddler critical after being pulled from water",
+        "publishedAt": "2026-11-12 02:50 UTC",
         "source": "ABC Australia",
-        "url": "https://www.abc.net.au/news/2026-11-12/tas-last-boags-red-carton-sold-at-auction/107376544"
+        "url": "https://www.abc.net.au/news/2026-11-12/man-dies-boy-critical-after-fishing-accident-mid-north-coast/107377842"
+      },
+      {
+        "title": "Beau Lamarre-Condon admits throwing Jesse Baird’s phone off a bridge after alleged murders, trial hears",
+        "publishedAt": "2026-11-12 02:46 UTC",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/australia-news/2026/nov/12/beau-lamarre-condon-jesse-baird-phone-murder-trial-ntwnfb"
+      },
+      {
+        "title": "Train passengers stranded for hours with no aircon, no food and full toilets",
+        "publishedAt": "2026-11-12 02:39 UTC",
+        "source": "ABC Australia",
+        "url": "https://www.abc.net.au/news/2026-11-12/train-passengers-stranded-for-hours-without-aircon-food-gundiah/107376462"
+      },
+      {
+        "title": "Indigenous leaders welcome dumping of Liberal candidate for racist posts",
+        "publishedAt": "2026-11-12 02:38 UTC",
+        "source": "ABC Australia",
+        "url": "https://www.abc.net.au/news/2026-11-12/paul-lindemann-williamstown-lib-candidate-racist-posts-dumped/107376622"
+      },
+      {
+        "title": "Roger Cook chides Labor MPs after fracas at parliament door",
+        "publishedAt": "2026-11-12 02:33 UTC",
+        "source": "ABC Australia",
+        "url": "https://www.abc.net.au/news/2026-11-12/roger-cook-scolds-labor-mps-who-blocked-jags-krishnan-from-media/107377778"
       },
       {
         "title": "New York building collapse kills one person and injures 12",
-        "publishedAt": "2026-11-12 01:34 UTC",
+        "publishedAt": "2026-11-12 02:33 UTC",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Human torso found in sofa in Sydney bushland prompts homicide investigation",
-        "publishedAt": "2026-11-12 01:27 UTC",
+        "title": "Australian teen who went missing in bushland wearing only shorts and boots found alive after six days",
+        "publishedAt": "2026-11-12 02:30 UTC",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/australia-news/2026/nov/12/human-torso-found-sydneys-lower-north-shore-ntwnfb"
+        "url": "https://www.theguardian.com/australia-news/2026/nov/12/missing-teenager-walhalla-found-alive-australian-bush"
       },
       {
-        "title": "Crime boss safety threats forced AFP officers out of Türkiye",
-        "publishedAt": "2026-11-12 01:26 UTC",
+        "title": "Teen critical after falling off train on Sydney Harbour Bridge",
+        "publishedAt": "2026-11-12 02:20 UTC",
         "source": "ABC Australia",
-        "url": "https://www.abc.net.au/news/2026-11-12/nsw-crime-boss-safety-threats-forced-afp-officers-out-of-turkiye/107373570"
-      },
-      {
-        "title": "What is in Usman Khawaja's book Sabr and what did he actually say about Sandpapergate?",
-        "publishedAt": "2026-11-12 01:15 UTC",
-        "source": "ABC Australia",
-        "url": "https://www.abc.net.au/news/2026-11-12/usman-khawaja-and-sandpaper-whats-in-the-book/107376576"
-      },
-      {
-        "title": "Disability funding changes labelled 'a win for every dodgy provider'",
-        "publishedAt": "2026-11-12 01:10 UTC",
-        "source": "ABC Australia",
-        "url": "https://www.abc.net.au/news/2026-11-12/disability-advocates-lose-funding-amid-ndis-cuts/107376400"
-      },
-      {
-        "title": "Qantas the latest in list of companies to outsource jobs to India",
-        "publishedAt": "2026-11-12 01:09 UTC",
-        "source": "ABC Australia",
-        "url": "https://www.abc.net.au/news/2026-11-12/jobs-moving-overseas-to-gcc-tech-centres-in-india-asia/107374082"
-      },
-      {
-        "title": "Queensland schools dropping senior drama subjects as enrolments fall",
-        "publishedAt": "2026-11-12 01:08 UTC",
-        "source": "ABC Australia",
-        "url": "https://www.abc.net.au/news/2026-11-12/schools-drop-senior-drama-subjects-as-students-chase-high-scores/107373436"
-      },
-      {
-        "title": "Breaking: Police find teenager alive six days after disappearance in Victorian bush",
-        "publishedAt": "2026-11-12 01:04 UTC",
-        "source": "ABC Australia",
-        "url": "https://www.abc.net.au/news/2026-11-12/missing-teenager-william-found-gippsland-bush/107372518"
-      },
-      {
-        "title": "Australian states could sue tobacco companies for billions in healthcare costs under proposal",
-        "publishedAt": "2026-11-12 01:02 UTC",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/nov/12/australian-states-could-sue-tobacco-companies-for-billions-smoking-healthcare-costs"
+        "url": "https://www.abc.net.au/news/2026-11-12/nsw-train-fall-incident-milsons-point/107377826"
       },
       {
         "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-        "publishedAt": "2026-11-12 01:00 UTC",
+        "publishedAt": "2026-11-12 02:09 UTC",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Princess Catherine says nature played important role in cancer recovery",
-        "publishedAt": "2026-11-12 00:57 UTC",
+        "title": "Natalie spent more than $200k on IVF and didn't get her baby",
+        "publishedAt": "2026-11-12 02:02 UTC",
         "source": "ABC Australia",
-        "url": "https://www.abc.net.au/news/2026-11-12/princess-of-wales-talks-about-recovery-from-cancer/107376352"
+        "url": "https://www.abc.net.au/news/2026-11-12/the-true-cost-of-ivf-financially-emotionally/107339748"
+      },
+      {
+        "title": "Police reviewing 'shocking' tasering of woman at Canberra bus stop",
+        "publishedAt": "2026-11-12 01:56 UTC",
+        "source": "ABC Australia",
+        "url": "https://www.abc.net.au/news/2026-11-12/act-police-review-shocking-tasering-of-disabled-aboriginal-woman/107376920"
+      },
+      {
+        "title": "Marrickville Golf Club says Anthony Albanese's membership worth $1,100",
+        "publishedAt": "2026-11-12 01:55 UTC",
+        "source": "ABC Australia",
+        "url": "https://www.abc.net.au/news/2026-11-12/marrickville-golf-club-albanese-membership-worth-thousand/107377472"
       }
     ],
     "cultura": [
@@ -8873,6 +8891,18 @@
     ],
     "television": [
       {
+        "title": "Anthony Clark, ‘Yes, Dear’ Star and Comedian, Dies at 62",
+        "publishedAt": "2026-11-12 02:16 UTC",
+        "source": "Variety TV",
+        "url": "https://variety.com/2026/tv/people-news/anthony-clark-dead-yes-dear-1236945796/"
+      },
+      {
+        "title": "Randall England, ‘General Hospital’ Star, Dies at 75",
+        "publishedAt": "2026-11-12 02:00 UTC",
+        "source": "Variety TV",
+        "url": "https://variety.com/2026/tv/news/randall-england-dead-general-hospital-1236945782/"
+      },
+      {
         "title": "'La isla de las tentaciones 11' adelanta su reencuentro meses después con dos cambios de parejas y un \"Oscar\" al peor actor",
         "publishedAt": "2026-11-12 01:12 UTC",
         "source": "Vertele",
@@ -8931,18 +8961,6 @@
         "publishedAt": "2026-11-11 19:18 UTC",
         "source": "Variety TV",
         "url": "https://variety.com/2026/biz/news/kroq-klein-ally-show-los-angeles-radio-ratings-morning-1236944888/"
-      },
-      {
-        "title": "‘Adults’ Renewed for Season 3 at FX",
-        "publishedAt": "2026-11-11 19:04 UTC",
-        "source": "Variety TV",
-        "url": "https://variety.com/2026/tv/news/adults-renewed-season-3-fx-1236945319/"
-      },
-      {
-        "title": "Feyenoord vs FC Porto: dónde ver, 24 de noviembre - FormulaTV",
-        "publishedAt": "2026-11-11 18:19 UTC",
-        "source": "FormulaTV",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRExpcEVXclZXQ1Zwc096aTE3dFhaX1M4UldQNjhBWHNKTHBCQ0w0Z1BCRnctbHlaR1hLbE5vMXJVVVZlVWh2R0x0TXpWaTdZQ3VJRlQ2aGQtOEItTmROQlhsMGx0eE40NThTWWViTHlYMTBTcXViTEZfREs1cl9vTHZMUy0zZksyeHVET3VfLTRNd3VZVVNV?oc=5"
       }
     ],
     "tecnologia": [
@@ -8963,12 +8981,6 @@
         "publishedAt": "2026-11-11 23:17 UTC",
         "source": "TechCrunch EN",
         "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/"
-      },
-      {
-        "title": "Nvidia is reportedly preparing to fire Jensen Huang - The Verge",
-        "publishedAt": "2026-11-11 22:44 UTC",
-        "source": "The Verge",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3b3lFR3FsVWJIVm14ZHJ2Mk4ybXR5SlhndUdRQmN5cjEtcW03NG5pdnFRSDV0WExCVmtsOVVlNVQ3TmtEaExPOEJ1UlVYYmRsWkwxYTdWWF95alBnNHpnZUotNGtvNUk?oc=5"
       },
       {
         "title": "Apple on Fatal Vehicle Crash Near Apple Park: 'Our Hearts Are Broken' - MacRumors",
@@ -9017,9 +9029,21 @@
         "publishedAt": "2026-11-11 19:22 UTC",
         "source": "TechCrunch EN",
         "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/"
+      },
+      {
+        "title": "Jeff Bezos tiene una teoría sobre por qué la gente odia a los ricos: \"El éxito no es sinónimo de maldad\" - Xataka",
+        "publishedAt": "2026-11-11 18:31 UTC",
+        "source": "Xataka",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWm4tTWMzTDN3OEs1SzhrUThuVi1OckJ4SGhsQ2lEUWdXU2ljMUpUcW1GeFltanp3NEpBOGJ3clozMHo3ckppYnR0dmo3bjd5bERJUzZ3YURCbXg2cVR6ZndRTXlibjB3V0RsaUczWHpSZHZIS0R2TzFyTFVBdkdqelRnTXVBb0dsU01rWHVLVjBFeEhVeTdkVl9TWXRDcjFvUEtYeTdTMXhqWmwtVlJ5RXF1aUXSAboBQVVfeXFMTWlMRERKTzI4M1M4OVJUQmVHRkRTYnZlQmJFOWNseVlwMWZaMkg5Z3hWc3hXTnc0aTlERW5EZ2F5bmVBdGR6dDJveXJvQ3h0NmpkWjZFaVFJVkxzV1BWUzZJdEd3eG5IQ1Byb014TnJjOHNTV1Q4UUMteGhxT1pxUkFINVE3VTdYOGhSVVA2TTA1ZlNWS0FQNHg4UnA4UHZXanVCQ2luQ1B3c1hTSXE3T2ZXMFdNb0FMNDVB?oc=5"
       }
     ],
     "estilo": [
+      {
+        "title": "The White House to Rep. Robert Garcia: “Please Stop Picking On the President!” - Esquire",
+        "publishedAt": "2026-11-11 22:21 UTC",
+        "source": "Esquire EN",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQWd2aUpRZDJyVHVULUdRckM3NktUQUo3cHdVR3RPT05aY25pNEhmd1pZemdxaEh6d2xLeXQ4ZllnWng5VFAzT2w0Njl1SlhCSVE0d29JcVB3NnZOUkVLMHkwN2ZoWGk1UTVNVWVzVmFIZTM1VU1VZzZTX1JhUjhDTGk4RDRieWNBVDZtSFh3OTF5aEVh?oc=5"
+      },
       {
         "title": "The Most Promising Black Friday Deals We’re Already Eyeing - Esquire",
         "publishedAt": "2026-11-11 21:15 UTC",
@@ -9029,7 +9053,7 @@
       {
         "title": "The Early Black Friday Deals Are Finally Rolling Out - GQ",
         "publishedAt": "2026-11-11 19:56 UTC",
-        "source": "GQ",
+        "source": "GQ EN",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TTTVGODN2d1A1VkJ3d3dUXzZWX3FTWEZNeXMzRlhMeHlTMWtJemF4ZV9NVUNRRDdZa3J6Z0pCUV9zTVRkWkZBZngxLUZuVTJRSlJUcGxJbkpMQUxzYzdyUzZpZDY3ZkpXN1ZqSw?oc=5"
       },
       {
@@ -9085,12 +9109,6 @@
         "publishedAt": "2026-11-11 12:33 UTC",
         "source": "Esquire España",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSzRkcnNnSjRVdDVYSnd3OEdIOFFnUFBmb0lYYnk0amtHczMtWmRocFUyekdxaFlTQUpKUEY3cE1DMFVCWjlvYm9nNjlDalNzNWhzZGZkamRDUEdqWlZ2SE1lUjRhaC1ZRTZzZmtRYWRSd3dQMlFfaWt3dXQ5SFpjZ1diMHRGWDFtNFdMdWJrWEFZMFhET0JMVVdiUUV6LTg?oc=5"
-      },
-      {
-        "title": "How to Build a Winter Coat Collection Worthy of David Beckham (Regardless of Your Budget) - Esquire",
-        "publishedAt": "2026-11-11 11:03 UTC",
-        "source": "Esquire EN",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOW5RSVRHZVZYd094SzFzOEFlMzI3VWx0aUtuX2Z3RUZxc0lHMnBvVmZTQmxiZGs1YmNlNEw1NnZ2SkRfaGtfZWEzanREZ2xFTVhRczZNNGhwNVZuZEZQbXl1ZmxobWpzNXFZV3RoN29GcXZkRF8xN0tvbzJDcld6VGVTNA?oc=5"
       }
     ],
     "eventos": [
@@ -9133,6 +9151,12 @@
     ],
     "viral": [
       {
+        "title": "VIDEO: ¡Bullying extremo! Niño de 12 años es amenazado con cuchillo mientras lo graban - Azteca Ciudad Juárez",
+        "publishedAt": "2026-11-12 02:01 UTC",
+        "source": "Viral ES",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMkJqRW1hNUJ5NTgwM3NLLTRLMDdoeWltSUFneldraDlDa2RNWlRCNHBrXzFJVHdScjE4UThRREtMM0tBTnpBQ0xSUjFTMGg3WGhrNU16aGFRVnZJelBBdUNWWUtqLTUtUThVSUFueXN6VkpYdTFVVW44UEsxQUc1T2kxRkVSaDQ4cWh4YV95V19UTTYyQ2NVX29jQzVPZlJwc2VHZVVvSDZuTGFSYi1hR3hkT0U0WnNPTmpORm9pNjBPQm9uYjNVWHdleS1SWHk0NDZB?oc=5"
+      },
+      {
         "title": "Christian Nodal comparte un video de su infancia y sorprende con su voz - Panorama Web",
         "publishedAt": "2026-11-12 01:20 UTC",
         "source": "Viral ES",
@@ -9169,6 +9193,12 @@
         "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZHM3OXZ2Ym4tRk10VGo5YmpGTEZOUmR0cktzTFQxTGJIOWUwa05Ua1gxZWQxdHNySTdfMURTUzJYaXBRQ0lmUVkwOVJqX0I5c2tWZzhVT2htWkg2NmlabkR5RnBCOUpxLWRMZDNyZGczOTFYU0VfQnN6NGhlUFNscnNuMXRPOUpuT3pPWVpwck5sNkIxdlB5RXZPOVpEb0VVVFc5ZnBUNks5OC1URHhzelg4dXZrVVl5b1F5SG9wcTVCcnNBaVd0eWlkRmxCd3BrU0V1RVFDS2dkOVZ6aElnZVFwYmZnRHRPcW1tMg?oc=5"
       },
       {
+        "title": "VIDEO: Cámaras captan el momento en que roban una bicicleta afuera de una vidriería - https://www.aztecamichoacan.com/",
+        "publishedAt": "2026-11-11 22:29 UTC",
+        "source": "Viral ES",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOUhUZEMxSkpUM19OWko0MHkyeGVjbzlHQnotU1hJb1RlRWlZdDVvSFFtMzhaeEhKRXYtdHNRTmoxa0YtWHdFSGZTSVJqczJIODhRZ0o0Vmd5X3NkRi1rcmJsUGJIb0tPaEZENzJnQ1JVMGZHWC1kSVE5eUFIaGZrLXdzREgtRFVPUmp6T2JnbUhjMVhSdUoxMDRsNHRobk5KM3ZVRURDNHdoek9LR0k0bVZYRThnWnVZMmY3NC0ycEhwNE5WZVB6bHhmTERMdw?oc=5"
+      },
+      {
         "title": "VIDEO: Exhiben a operador de transporte público por presuntamente distraerse con el celular al conducir - www.aztecamichoacan.com",
         "publishedAt": "2026-11-11 21:12 UTC",
         "source": "Viral ES",
@@ -9191,18 +9221,6 @@
         "publishedAt": "2026-11-11 17:36 UTC",
         "source": "Antena 3 Noticias",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQzRtR3hINkJkY2JwRFl0UE5BNTJ2Ulk5X0JEXzYyMHZabFlTUUJkd1FmbndaMWt6NUZWUWNmWlhOSlNZWVg1SGk5SEJfNDI1NC1hcW1NVmdYR2J1N2tiVjNCR2FUc3BsVnlza3VLem9lbENTRW1BTGdSUXdKWE9LZ1k1VWIzZWJlUUZWVTZ1T01pU0tjSGRjN0ZGOHZHZGNVYWdneVRkR0NmVmZEYU5RUG1CY19oY1BZaS1FUFBwMm9RdGdaTllBOU1jQkxlUVRfMm9XamxrY3VmRVFLMmfSAd4BQVVfeXFMUC00YlBicDRKM3lWZFQxbWsxSTFTek8xZFZ6WjB2ek5lQkEzWk8xcW82ZndDUEhDaHIzRmd5ZzV6QXk0VENzV2tGQVFUWF9xZjE3ODBrUzRNb0NMNm5rRGdMS3BhYVpsM3FGRHViNG0xSHNOQWdKazlaMl9QMXUtRExNMDBZU3lST0Z1THFtV0M5NFVNNnNXd0xhSTNqOGl4R3JYTUhlcDRsWnBSelI5elU1MkFUeng1QlVnRUx0YWhIUFF1ckhEalFGN0tsMUJBNGV5ejZER0I2QlY2WGZ3?oc=5"
-      },
-      {
-        "title": "$20,000 ‘Stand With Lauren’ fundraiser for Ole Miss student faces backlash after monkey noises video: ‘A fundraiser for a racist?’ - Indiatimes",
-        "publishedAt": "2026-11-11 16:17 UTC",
-        "source": "Viral EN",
-        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQZkF6bnI4ejNNR0pYcFREdVl1X3RGcmJGQURacDNyNWthMHFPTE5PeVRZZU1ySkJTZHpLOHJzNi16WVhiVmVFMlNjN2YxTVpRb04tTDZlclpaLVQ3VXVHSXZSRmsxS1VUeVpLZ2VTWTEzcXJ6enc4TVN1Z3BTNFdhSDBaNnptbEY3ZUl0dTNuOWpwZTdfb2xjZFduNDlIWHRiZGN5bHVadFJZcm9ja1UxNWJfX1ZrSXBrX0I3SFBBZnlxUkJlMWFQWmZHSnlCcVRfYlBsaHZ3d1hiRm91N3dFZjBmV0xCZzBSQzlYcFVqUWNFQWc0VlZsSTZRc001X0g1R3RWRV9vVFI1amRvaUgzczR0Z9IBmAJBVV95cUxOREc2NkVXSkJmTFlGOThib1hzd2MtTDM3ZllkZWVmTXMxZDM1bkZGS3oxZXVUbGtRSWNjOGtxaDA4MGxwQl9jWXhjUnE3b1lIeDVaQXJESU1zWHFsSFQ0RGlBakhnb1c5cjBocHY1TDEtNUhBc3R3bFF6bnc1VTJuTjJhXzIyakpVZ200UmR6SFp3eE9iT0ZtUkM5TXdaNURDVURXRG9UOHRiQnZUa3pHVDR5MEZCNzlzT0RaWFROU05tSmVMZndwTjRwS3RyUTVRWG54ckstWFZUb0ZaTEtyN0RXMVFNMU1zODl5WnRSTWlJTGRudjZ1WnJhRXdHeFBBcDdOSXZUaEVFUTNRaEZaUF9TN25tVUNw?oc=5"
-      },
-      {
-        "title": "#VIDEO: Captan extraño OVNI con forma de medusa cerca de una base militar. - https://www.aztecamichoacan.com/",
-        "publishedAt": "2026-11-11 15:51 UTC",
-        "source": "Viral ES",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNGhoTW5VbHItVnZONlo4YUpQM2dDTHBkRDdodnpvaWE4Wl9kcTRNWW1ra3ZiV2RnTC1xMFpxOEZtSVBOWENfYjkzd0tEVUdRMkVsVUFScDFHSmYxek00eU4yaEIwUVVzdEoxZXBRaHpoZHNsSlV3ekVYc2FWcGMtOWpzS2stcjE5WWRGRkhsT3dSZjl1UVA3RF84allkQQ?oc=5"
       }
     ]
   }
