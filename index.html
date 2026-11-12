@@ -705,7 +705,7 @@ function changeTab(event){
   $("articles").querySelectorAll("details[open]").forEach(panel=>{panel.open=false});
   render();
   revealActiveTab();
-  if(event.currentTarget!==nav)$("section").focus({preventScroll:true});
+  if(event.currentTarget!==$("tabs"))$("section").focus({preventScroll:true});
   window.scrollTo({top:0,left:0,behavior:"instant"});
 }
 $("tabs").addEventListener("click",changeTab);
