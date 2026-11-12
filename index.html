@@ -457,33 +457,74 @@ body.eventos .subnav button.selected{background:#ff3e71;color:#fff}
 .breaking-panel .breaking-head small,.breaking-panel .breaking-list li>a:first-child small{color:#555!important;opacity:1!important}
 .breaking-panel .breaking-live{color:#c60027!important}
 .breaking-panel .breaking-x-accounts span{color:#151515!important}
-.tv-x-feature{background:#f2f8ff;border:2px solid #111;padding:18px;margin-bottom:18px;color:#111!important}.tv-x-feature strong{font-size:20px;color:#111!important}.tv-x-feature p{color:#333!important;margin:6px 0 14px}.tv-x-links{display:flex;gap:10px;flex-wrap:wrap}.tv-x-links a{background:#101010!important;color:#fff!important;padding:12px 16px;font-weight:800;text-decoration:none;border-radius:4px}.tv-x-links a:hover{background:#ba0e36!important}.tv-x-embeds{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin-top:16px}.tv-x-embed{background:white;border:1px solid #bbb;min-width:0;min-height:460px;padding:8px}.tv-x-embed h3{color:#111!important;font-size:15px;margin:6px 4px 10px}.tv-x-embed .twitter-timeline{color:#1664a2!important}@media(max-width:900px){.tv-x-embeds{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:580px){.tv-x-embeds{grid-template-columns:1fr}}</style>
+.tv-x-feature{background:#f2f8ff;border:2px solid #111;padding:18px;margin-bottom:18px;color:#111!important}.tv-x-feature strong{font-size:20px;color:#111!important}.tv-x-feature p{color:#333!important;margin:6px 0 14px}.tv-x-links{display:flex;gap:10px;flex-wrap:wrap}.tv-x-links a{background:#101010!important;color:#fff!important;padding:12px 16px;font-weight:800;text-decoration:none;border-radius:4px}.tv-x-links a:hover{background:#ba0e36!important}.tv-x-embeds{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin-top:16px}.tv-x-embed{background:white;border:1px solid #bbb;min-width:0;min-height:460px;padding:8px}.tv-x-embed h3{color:#111!important;font-size:15px;margin:6px 4px 10px}.tv-x-embed .twitter-timeline{color:#1664a2!important}@media(max-width:900px){.tv-x-embeds{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:580px){.tv-x-embeds{grid-template-columns:1fr}}
+/* Portada y controles de lectura */
+[hidden]{display:none!important}
+body.portada{--accent:#983a31;background:#f6f4ef}
+body.mundo nav button.active,body.television nav button.active{color:#16212b}
+nav{flex-wrap:nowrap;justify-content:safe center;overflow-x:auto}
+nav button{flex:0 0 auto;white-space:nowrap}
+#filters{margin:0 0 14px}
+#filters summary,.compact-panel summary{cursor:pointer;width:fit-content;padding:8px 12px;font-size:13px;font-weight:700}
+#filters summary{border:1px solid currentColor;border-radius:24px}
+#filters .tools{margin:8px 0}
+#front-page{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:28px 24px;margin-top:20px}
+.front-section{min-width:0;background:#fffdf9;border:1px solid #ded9d0;border-radius:9px;padding:16px 18px 12px}
+.front-section header{display:flex;justify-content:space-between;align-items:center;gap:10px;text-align:left;padding:0 0 8px;background:none;border-bottom:2px solid #232c31}
+.front-section h2{margin:0;font-size:clamp(23px,4vw,30px);letter-spacing:-.04em}
+.front-section button{padding:8px 0;border:0;background:none;color:var(--accent);font:inherit;font-size:12px;font-weight:700;cursor:pointer;text-align:right}
+.front-section ul{padding:0;margin:0;list-style:none}
+.front-section li+li{border-top:1px solid #e5e0d8}
+.front-story{display:flex;gap:11px;align-items:center;padding:10px 0;color:inherit;text-decoration:none}
+a.front-story:hover .front-title,a.front-story:focus-visible .front-title{text-decoration:underline}
+.front-story img{width:76px;height:55px;flex:none;object-fit:cover;border-radius:4px;background:#efebe5}
+.front-title{display:block;font:700 18px/1.17 Georgia,serif;overflow-wrap:anywhere}
+.front-source{display:block;font-size:11px;color:#5e5a55;margin-top:4px}
+.compact-panel{grid-column:1/-1;background:#fffdf9;color:#242424;border:1px solid #dcd6cc;border-radius:7px;margin:0}
+.compact-panel[open]{padding-bottom:8px}
+.compact-panel .breaking-list{display:grid;gap:4px 16px;margin:0 12px 6px;padding-left:21px;font-size:12px}
+.compact-panel .breaking-list li{padding:3px 0}
+.compact-panel .breaking-list small{margin-top:2px}
+.compact-panel .breaking-empty,.compact-panel .social-note{margin:0 12px 7px;font-size:12px;color:#555}
+.compact-panel .breaking-x-accounts,.compact-panel .pop-social-links{margin:0 12px 7px;padding:0;border:0;gap:5px}
+.compact-panel .breaking-x-accounts a,.compact-panel .pop-social-links a{padding:4px 7px;font-size:11px;border-radius:4px}
+@media(max-width:700px){
+ #front-page{grid-template-columns:1fr;gap:16px;margin-top:14px}
+ .front-section{padding:12px 13px 7px}
+ .front-title{font-size:17px}
+ .front-story img{width:68px;height:50px}
+}
+</style>
 </head>
-<body class="espana">
+<body class="portada">
 <header>
 <div class="brand">THE DAILY</div>
 <div class="subtitle">TU MUNDO EN PERSPECTIVA</div>
 <div class="edition" id="edition">Edición de demostración</div>
 </header>
-<nav id="tabs"></nav>
+<nav id="tabs" aria-label="Secciones"></nav>
 <main>
-<h1 class="section" id="section"></h1>
+<h1 class="section" id="section" tabindex="-1"></h1>
 <div class="intro" id="intro"></div>
+<details id="filters">
+<summary>Filtros y búsqueda</summary>
 <div id="categories" class="subnav"></div>
 <div id="languages" class="subnav"></div>
 <div class="tools">
-<input id="search" placeholder="Buscar noticias...">
-<select id="filter">
+<input id="search" type="search" aria-label="Buscar noticias" placeholder="Buscar noticias...">
+<select id="filter" aria-label="Filtrar noticias guardadas">
 <option value="all">Todas</option>
 <option value="saved">Guardadas</option>
 </select>
 </div>
+</details>
 <div id="notice" class="notice">
 Esta es una versión de demostración. Las noticias de ejemplo
 no son titulares actuales. Las ediciones reales se mostrarán
 cuando conectemos las fuentes y el sistema de publicación.
 </div>
-<div id="articles"></div>
+<div id="front-page" hidden></div>
+<div id="articles" hidden></div>
 </main>
 <footer>THE DAILY · Información con contexto y fuentes</footer>
 <script>
@@ -509,7 +550,7 @@ const demo=[
 {section:"television",category:"Formatos",title:"Los nuevos formatos que viajan por el mundo",summary:"La sección seguirá lanzamientos de concursos, realities y dating shows, sus mecánicas, adaptaciones internacionales y tendencias de producción.",sources:[{name:"C21Media",url:"https://www.c21media.net/"},{name:"Realscreen",url:"https://realscreen.com/"}]}
 ];
 
-let active=new URLSearchParams(location.search).get("section")==="eventos"?"eventos":"espana";
+let active=new URLSearchParams(location.search).get("section")==="eventos"?"eventos":"portada";
 let popHorizon="all";
 let breakingBySection={};
 let categoryFilter="all";let regionFilter="all";let cultureMode="noticias";
@@ -527,7 +568,50 @@ const storyId=n=>n.id||n.section+"|"+n.title;
 function validUrl(u){
 try{let x=new URL(u);return ["https:","http:"].includes(x.protocol)?x.href:null}catch(e){return null}
 }
+const tabs=[{id:"portada",name:"Portada"},...sections];
+$("tabs").innerHTML=tabs.map(tab=>`<button type="button" data-tab="${tab.id}">${tab.name}</button>`).join("");
+
+function renderFrontPage(){
+  $("front-page").innerHTML=sections.map(section=>{
+    const headlines=stories.filter(story=>story.section===section.id &&
+      (section.id!=="cultura" || (story.cultureView||"noticias")==="noticias")).slice(0,3);
+    return `<section class="front-section" aria-labelledby="front-${section.id}">
+      <header>
+        <h2 id="front-${section.id}">${section.name}</h2>
+        <button type="button" data-tab="${section.id}" aria-label="Ver sección completa de ${section.name}">Ver sección completa →</button>
+      </header>
+      ${headlines.length?`<ul>${headlines.map(story=>{
+        const source=story.sources?.find(source=>validUrl(source.url));
+        const image=validUrl(story.image);
+        const content=`${image?`<img src="${escapeHTML(image)}" alt="" width="76" height="55" loading="lazy" referrerpolicy="no-referrer">`:""}
+          <span><span class="front-title">${escapeHTML(story.title)}</span>
+          ${source?.name?`<span class="front-source">${escapeHTML(source.name)}</span>`:""}</span>`;
+        return `<li>${source?`<a class="front-story" href="${escapeHTML(validUrl(source.url))}" target="_blank" rel="noopener noreferrer">${content}</a>`:`<div class="front-story">${content}</div>`}</li>`;
+      }).join("")}</ul>`:'<p class="front-source">Sin titulares en esta edición.</p>'}
+    </section>`;
+  }).join("");
+}
+
 function render(){
+const front=active==="portada";
+const section=tabs.find(tab=>tab.id===active);
+document.body.className=active;
+for(const button of $("tabs").querySelectorAll("[data-tab]")){
+  const selected=button.dataset.tab===active;
+  button.classList.toggle("active",selected);
+  if(selected)button.setAttribute("aria-current","page");
+  else button.removeAttribute("aria-current");
+}
+$("section").textContent=section.name;
+$("intro").hidden=front;
+$("filters").hidden=front;
+$("filters").querySelector("summary").textContent=$("filter").value==="saved"?"Filtros · Guardadas":"Filtros y búsqueda";
+$("front-page").hidden=!front;
+$("articles").hidden=front;
+$("edition").textContent=editionName;
+$("notice").style.display=live?"none":"block";
+if(front){renderFrontPage();return}
+
 const categorized=active==="cultura";
 const pop=active==="eventos";
 const bilingual=!pop;
@@ -537,14 +621,7 @@ $("categories").style.display=categorized||pop?"flex":"none";
 $("categories").innerHTML=pop?`<div class="culture-filter-label">Cuándo quieres hacer el plan</div><div class="culture-filter-row">${[["all","★ Todo"],["ahora","📍 Ahora en Madrid"],["futuro","✨ Próximamente"],["entradas","🎟️ A la venta"]].map(([id,label])=>`<button data-pop-horizon="${id}" class="${popHorizon===id?"selected":""}">${label}</button>`).join("")}</div><div class="culture-filter-label">Explora Madrid POP</div><div class="culture-filter-row">${[["all","Todo"],["Conciertos","🎵 Conciertos"],["Teatro y musicales","🎭 Teatro"],["Exposiciones","🎨 Exposiciones"],["Cine y estrenos","🎬 Cine"],["Entradas a la venta","🎟️ Entradas"],["Planes futuros","✨ Próximamente"]].map(([id,label])=>`<button data-category="${id}" class="${categoryFilter===id?"selected":""}">${label}</button>`).join("")}</div>`:categorized?`<div class="culture-mode"><button data-culture-mode="noticias" class="${cultureMode==="noticias"?"selected":""}">Actualidad cultural</button><button data-culture-mode="agenda" class="${cultureMode==="agenda"?"selected":""}">Agenda · Qué hacer</button></div><div class="culture-filter-label">Temas</div><div class="culture-filter-row">${categories.map(c=>`<button data-category="${c}" class="${categoryFilter===c?"selected":""}">${c==="all"?"Todas":c}</button>`).join("")}</div><div class="culture-filter-label">Ubicación · primero Madrid, después España</div><div class="culture-filter-row">${regionChoices.map(([id,name])=>`<button data-region="${id}" class="${regionFilter===id?"selected":""}">${name}</button>`).join("")}</div>`:"";
 $("languages").style.display=bilingual?"flex":"none";
 $("languages").innerHTML=bilingual?[["all","Ambos idiomas"],["es","En español"],["en","In English"]].map(([id,name])=>`<button data-lang="${id}" class="${languageFilter===id?"selected":""}">${name}</button>`).join(""):"";
-let s=sections.find(x=>x.id===active);
-document.body.className=active;
-$("tabs").innerHTML=sections.map(x=>`<button class="${x.id===active?"active":""}" data-tab="${x.id}">${x.name}</button>`).join("");
-if(active==="eventos" && !$("tabs").dataset.popShown){$("tabs").dataset.popShown="1";requestAnimationFrame(()=>document.querySelector('[data-tab="eventos"]')?.scrollIntoView({block:"nearest",inline:"center"}));}
-$("section").textContent=s.name;
-$("intro").textContent=s.desc+(s.target?" Objetivo editorial: "+s.target+" noticias.":"");
-$("edition").textContent=editionName;
-$("notice").style.display=live?"none":"block";
+$("intro").textContent=section.desc+(section.target?" Objetivo editorial: "+section.target+" noticias.":"");
 let q=$("search").value.toLocaleLowerCase("es");
 let items=stories.filter(n=>n.section===active)
 .filter(n=>(n.title+" "+n.summary+" "+(n.translationEs||"")+" "+n.category).toLocaleLowerCase("es").includes(q))
@@ -571,8 +648,18 @@ const recentHeadlines=(breakingBySection[active]||[]).slice(0,12);
 const isInternational=active==="mundo";
 const translateLink=(value)=>"https://translate.google.com/?sl=auto&tl=es&text="+encodeURIComponent(value.slice(0,1300))+"&op=translate";
 
-const breakingPanel=`<section class="breaking-panel"><div class="breaking-head"><span class="breaking-live">● ÚLTIMA HORA</span><strong>12 titulares recientes</strong><small>Revisión programada cada 15 min · fuentes periodísticas RSS, no publicaciones de X</small></div>${recentHeadlines.length?`<ol class="breaking-list">${recentHeadlines.map(n=>`<li><a href="${escapeHTML(validUrl(n.url)||"#")}" target="_blank" rel="noopener noreferrer"><span>${escapeHTML(n.title)}</span><small>${escapeHTML(n.source)} · ${escapeHTML(n.publishedAt)}</small></a>${isInternational?`<a class="breaking-translate" href="${escapeHTML(translateLink(n.title))}" target="_blank" rel="noopener noreferrer">🌐 Leer titular en español</a>`:""}</li>`).join("")}</ol>`:`<p class="breaking-empty">Todavía no hay titulares recientes verificados para esta sección. Se cargarán en la próxima actualización.</p>` }${active==="television"?"":`<div class="breaking-x-accounts"><span>𝕏 Consultar medios en X:</span>${xMediaLinks}</div>`}</section>`;
-const socialRadar=pop?`<section class="pop-social-radar"><div class="pop-social-heading"><span>𝕏</span><div><strong>EN X SE ANUNCIA…</strong><p>Radar de publicaciones oficiales · enlaces a búsquedas en X, no tuits verificados ni un feed en directo.</p></div></div><div class="pop-social-links">${[["Movistar Arena","\"Movistar Arena\" Madrid conciertos"],["Ticketmaster","\"Ticketmaster España\" Madrid entradas"],["Teatros y musicales","Madrid estreno teatro musical entradas"],["Museos y exposiciones","Madrid museo exposición inauguración"],["Festivales","Madrid festival 2027 cartel entradas"]].map(([label,query])=>`<a href="https://x.com/search?q=${encodeURIComponent(query)}&f=live" target="_blank" rel="noopener noreferrer">𝕏 ${escapeHTML(label)} ↗</a>`).join("")}</div><p class="pop-social-note">Antes de comprar entradas, confirma fecha y disponibilidad en la web del organizador.</p></section>`:"";
+const expandedPanels=new Set([...$("articles").querySelectorAll("details[open]")].map(panel=>panel.id));
+const breakingPanel=`<details id="breaking" class="compact-panel"${expandedPanels.has("breaking")?" open":""}>
+<summary>Última hora${recentHeadlines.length?` · ${recentHeadlines.length} titulares`:""}</summary>
+<p class="social-note">Titulares de fuentes periodísticas RSS · revisión cada 15 min.</p>
+${recentHeadlines.length?`<ol class="breaking-list">${recentHeadlines.map(n=>`<li><a href="${escapeHTML(validUrl(n.url)||"#")}" target="_blank" rel="noopener noreferrer"><span>${escapeHTML(n.title)}</span><small>${escapeHTML(n.source)} · ${escapeHTML(n.publishedAt)}</small></a>${isInternational?`<a class="breaking-translate" href="${escapeHTML(translateLink(n.title))}" target="_blank" rel="noopener noreferrer">🌐 Leer titular en español</a>`:""}</li>`).join("")}</ol>`:`<p class="breaking-empty">Todavía no hay titulares recientes verificados para esta sección. Se cargarán en la próxima actualización.</p>` }
+</details>`;
+const socialRadar=`<details id="social-radar" class="compact-panel"${expandedPanels.has("social-radar")?" open":""}>
+<summary>𝕏 · ${pop?"En X se anuncia…":"Medios en X"}</summary>
+<div class="breaking-x-accounts">${xMediaLinks}</div>
+${pop?`<div class="pop-social-links">${[["Movistar Arena","\"Movistar Arena\" Madrid conciertos"],["Ticketmaster","\"Ticketmaster España\" Madrid entradas"],["Teatros y musicales","Madrid estreno teatro musical entradas"],["Museos y exposiciones","Madrid museo exposición inauguración"],["Festivales","Madrid festival 2027 cartel entradas"]].map(([label,query])=>`<a href="https://x.com/search?q=${encodeURIComponent(query)}&f=live" target="_blank" rel="noopener noreferrer">𝕏 ${escapeHTML(label)} ↗</a>`).join("")}</div>
+<p class="social-note">Búsquedas en X. Confirma fecha y entradas en la web del organizador.</p>`:""}
+</details>`;
 $("articles").innerHTML=breakingPanel+socialRadar+(items.length?items.map(n=>{
 let id=storyId(n);
 if(translationCache[id]&&!n.translationEs)n.translationEs=translationCache[id];
@@ -596,10 +683,36 @@ ${n.section==="viral"&&n.videoUrl&&validUrl(n.videoUrl)?`<a class="video-link" t
 </div></article>`;
 }).join(""):`<div class="empty">No hay noticias para esta selección.</div>`);
 }
-$("tabs").addEventListener("click",e=>{
-let b=e.target.closest("[data-tab]");
-if(b){active=b.dataset.tab;categoryFilter="all";regionFilter="all";cultureMode="noticias";languageFilter="all";$("search").value="";render()}
-});
+function revealActiveTab(){
+  const nav=$("tabs");
+  const selected=nav.querySelector('[aria-current="page"]');
+  const navBounds=nav.getBoundingClientRect();
+  const tabBounds=selected.getBoundingClientRect();
+  if(tabBounds.left<navBounds.left || tabBounds.right>navBounds.right){
+    nav.scrollLeft+=tabBounds.left-navBounds.left-(nav.clientWidth-tabBounds.width)/2;
+  }
+}
+function changeTab(event){
+  const button=event.target.closest("[data-tab]");
+  if(!button || button.dataset.tab===active)return;
+  active=button.dataset.tab;
+  categoryFilter="all";
+  regionFilter="all";
+  cultureMode="noticias";
+  languageFilter="all";
+  $("search").value="";
+  $("filters").open=false;
+  $("articles").querySelectorAll("details[open]").forEach(panel=>{panel.open=false});
+  render();
+  revealActiveTab();
+  if(event.currentTarget!==$("tabs"))$("section").focus({preventScroll:true});
+  window.scrollTo({top:0,left:0,behavior:"instant"});
+}
+$("tabs").addEventListener("click",changeTab);
+$("front-page").addEventListener("click",changeTab);
+$("front-page").addEventListener("error",event=>{
+  if(event.target instanceof HTMLImageElement)event.target.remove();
+},true);
 $("categories").addEventListener("click",e=>{let b=e.target.closest("[data-category]");if(b){categoryFilter=b.dataset.category;render()}});
 $("categories").addEventListener("click",e=>{let b=e.target.closest("[data-pop-horizon]");if(b){popHorizon=b.dataset.popHorizon;render()}});
 $("categories").addEventListener("click",e=>{let mode=e.target.closest("[data-culture-mode]");if(mode){cultureMode=mode.dataset.cultureMode;render()}});
@@ -664,6 +777,8 @@ live=true;
 }catch(e){live=false}
 render();
 }
+render();
+revealActiveTab();
 loadEdition();
 </script>
 
